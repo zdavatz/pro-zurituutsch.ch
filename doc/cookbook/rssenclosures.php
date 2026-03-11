@@ -310,12 +310,13 @@ function HandleRss($pagename) {
 # entityencode() and $EntitiesTable are used to convert non-ASCII characters 
 # and named entities into numeric entities, since the RSS and RDF
 # specifications don't have a good way of incorporating them by default.
-#function entityencode($s) {
-#  global $EntitiesTable;
-#  $s = str_replace(array_keys($EntitiesTable),array_values($EntitiesTable),$s);
-#  return preg_replace('/([\\x80-\\xff])/e',"'&#'.ord('\$1').';'",$s); 
-#}
 function entityencode($s) {
+  global $EntitiesTable;
+  $s = str_replace(array_keys($EntitiesTable),array_values($EntitiesTable),$s);
+  // Convert any non-UTF-8 bytes to valid UTF-8, then strip invalid XML characters
+  $s = mb_convert_encoding($s, 'UTF-8', 'UTF-8');
+  // Remove control characters that are invalid in XML (keep tab, newline, carriage return)
+  $s = preg_replace('/[^\x09\x0A\x0D\x20-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}]/u', '', $s);
   return $s;
 }
 

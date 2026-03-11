@@ -23,10 +23,18 @@ Live URL: https://pro-zurituutsch.ch
 
 - `doc/local/config.php` — main site configuration (skin, auth, uploads, plugins, language)
 - `doc/local/ordermail.php` — custom book order handler (POST form → email via PEAR Mail)
-- `doc/pub/skins/pro-zurituutsch/gila.tmpl` — XHTML 1.1 page template
+- `doc/pub/skins/pro-zurituutsch/gila.tmpl` — XHTML 1.1 page template (includes Google Analytics)
 - `doc/pub/skins/pro-zurituutsch/gila.css` — site stylesheet
 - `doc/pub/skins/pro-zurituutsch/skin.php` — skin logic (PHP)
+- `doc/cookbook/rssenclosures.php` — RSS/podcast feed plugin with MP3 enclosures
 - `pmwiki-2.2.84/pmwiki.php` — PmWiki engine entry point
+
+## Podcast
+
+- RSS feed: `/PodCast/IndexPage?action=rss` — 152 episodes with MP3 enclosures
+- Episode list is defined by the WikiTrail on the `PodCast/IndexPage` wiki page
+- `$RssMaxItems = 200` in config.php (must be >= number of episodes)
+- Audio files in `doc/uploads/PodCast/`
 
 ## Tech Stack
 

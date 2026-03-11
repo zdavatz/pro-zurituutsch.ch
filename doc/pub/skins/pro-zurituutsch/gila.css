@@ -19,8 +19,8 @@
 #------------------------------------------------------------------------------
 */
 body {
-  color: white;
-  background-color: rgb(0,0,137);
+  color: #333;
+  background-color: #f5f5f5;
   font-family: verdana, helvetica, arial, sans-serif;
   font-size: 10pt;
   margin: 0px;
@@ -58,8 +58,8 @@ dt {
 }
 
 pre {
-  border: 2px dotted rgb(150,150,150); 
-  background: rgb(0,0,173);
+  border: 2px dotted rgb(150,150,150);
+  background: #f0f0f0;
   padding: 10px;
 }
 
@@ -196,8 +196,8 @@ fieldset {
 */
 #header {
   color: inherit;
-  /*background-color: rgb(184,38,25);*/
-  background-color: rgb(0,0,100);
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
   /*border-bottom-style: solid;
   border-bottom-width: 3px;
   border-color: rgb(0,0,0); */
@@ -214,13 +214,12 @@ fieldset {
 }
 
 .headerTitle a {
-  /*color: rgb(0,0,0);*/
-  color: rgb(255,255,255);
+  color: #5b9bd5;
   background-color: transparent;
   text-decoration: none;
 
   /* For MSIE */
-  font-size: 100%;  
+  font-size: 100%;
   font-weight: bold;
   /*font-style: italic;*/
 }
@@ -231,13 +230,13 @@ fieldset {
 }
 
 .headerTitle span {
-  color: rgb(255,255,255);
+  color: #666;
   background-color: transparent;
   font-weight: normal;
 }
 
 .headerTitle #tag {
-  color: rgb(255,255,255);
+  color: #666;
   font-family: Verdana, Helvetica, Arial, sans-serif;
   font-size: small;
   padding: 0.25em 4mm 0.25em 4mm;
@@ -268,7 +267,7 @@ fieldset {
 }
 
 #headerSearch label {
-	color: rgb(255, 255, 255);
+	color: #333;
   font-weight: bold;
 }
 
@@ -306,7 +305,7 @@ fieldset {
   /*padding: 0 0 1.25ex 0.75ex;*/
   padding-left: 8px;
   padding-right: 8px;
-  background: rgb(0,50,140);
+  background: #e8e8e8;
 }
 
 /*
@@ -316,26 +315,22 @@ fieldset {
 */
 
 .wikileft a {
-	color: white;
-  /*color: rgb(166,140,83);*/
+	color: #333;
   background-color: transparent;
   text-decoration: none;
 }
 
 .wikileft a:hover {
-	color: silver;
-  /*color: rgb(64,64,64);*/
+	color: #5b9bd5;
   background-color: transparent;
   text-decoration: none;
 }
 
 .wikileft h1,
-.wikileft .sidehead { 
-	color: white;
-  /*color: rgb(64,64,64);*/
-  /*background-color: rgb(230,223,207);*/
-  background-color: rgb(0,0,200);
-  font-size: 110%; 
+.wikileft .sidehead {
+	color: #333;
+  background-color: #ddd;
+  font-size: 110%;
   font-weight: bold;
   margin: 2px;
   padding-left: 8px;
@@ -395,12 +390,11 @@ fieldset {
 #------------------------------------------------------------------------------
 */
 #wikibody {
-  color: white;
-  background-color: rgb(0,0,137);
+  color: #333;
+  background-color: #ffffff;
   line-height: 1.5em;
   margin: 0 0 0 12.5em;
-  padding: 0 0 0.25em 0;  
- /* border-left: 1px solid rgb(216,210,195);*/
+  padding: 0 0 0.25em 0;
 }
 
 #wikibody #wikipage {
@@ -431,8 +425,7 @@ fieldset {
 }
 
 #wikibody h1 {
-	color: white;
-  /*color: rgb(166,140,83);*/
+	color: #333;
   background-color: transparent;
   font-family: arial, verdana, helvetica, sans-serif;
   font-weight: bold;
@@ -442,8 +435,7 @@ fieldset {
 }
 
 #wikibody h2 {
-	color: white;
-  /*color: rgb(166,140,83);*/
+	color: #333;
   background-color: transparent;
   font-family: arial, verdana, helvetica, sans-serif;
   font-weight: bold;
@@ -454,8 +446,7 @@ fieldset {
 }
 
 #wikibody h3 {
-	color: white;
-  /*color: rgb(166,140,83);*/
+	color: #333;
   background-color: transparent;
   font-family: arial, verdana, helvetica, sans-serif;
   font-weight: bold;
@@ -466,8 +457,7 @@ fieldset {
 }
 
 #wikibody a {
-	color: white;
-  /*color: rgb(168,140,83);*/
+	color: #5b9bd5;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -502,9 +492,8 @@ fieldset {
 #------------------------------------------------------------------------------
 */
 #wikifoot {
-  color: white;
-  /*background-color: rgb(230,223,207);*/
-  background-color: rgb(0,0,100);
+  color: #666;
+  background-color: #e8e8e8;
   font-size: 92%;
   text-align: center;
   margin: 0;

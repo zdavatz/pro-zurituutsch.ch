@@ -40,10 +40,11 @@ Live URL: https://pro-zurituutsch.ch
 
 No build system, CI/CD, or Docker. This is a standard PHP/Apache application:
 
-- Deploy by copying files to web server
+- Deploy via `git clone` on the live server (Git LFS required for audio files)
 - Configuration via `doc/local/config.php`
 - Content editing happens through the PmWiki web interface
 - `.htaccess` files protect `local/` and `cookbook/` directories from direct access
+- MP3 audio files (282 files, ~3.4 GB) are tracked with **Git LFS**
 
 ## Conventions
 
@@ -52,3 +53,4 @@ No build system, CI/CD, or Docker. This is a standard PHP/Apache application:
 - External links get a visual indicator icon
 - All user-facing text is in German
 - Email communications (order confirmations) are in German
+- Color scheme: light gray/white theme (body `#f5f5f5`, content `#ffffff`, accents `#5b9bd5` light blue) — matching the Jimdo reference site

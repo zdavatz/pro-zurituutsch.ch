@@ -164,7 +164,7 @@ $EnableDiag = 1;
 
 $EnableRssEnclosures = 1;
 $RssEmailAddress = "fwyss@pro-zurituutsch.ch";
-$RssMaxItems = 10;
+$RssMaxItems = 200;
 $RssFeedTitle = 'PodCast';
 
 if ($action == 'rss' || $action == 'rdf')

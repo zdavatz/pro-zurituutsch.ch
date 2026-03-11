@@ -85,7 +85,7 @@ if ($action=='rdf') {
   ### RSS 1.0 (RDF) definitions
   SDV($RssTimeFmt,'%Y-%m-%dT%H:%MZ');	# time format
   SDV($RssItemsRDFListFmt,"<rdf:li rdf:resource=\"\$PageUrl\" />\n");
-  SDV($RssChannelFmt,array('<?xml version="1.0" encoding="ISO-8859-1"?'.'>
+  SDV($RssChannelFmt,array('<?xml version="1.0" encoding="UTF-8"?'.'>
     <rdf:RDF  xmlns="http://purl.org/rss/1.0/"
         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -117,7 +117,7 @@ if ($action=='rdf') {
 
 ### RSS 2.0 definitions
 SDV($RssTimeFmt,'%a, %d %b %Y %H:%M:%S GMT');
-SDV($RssChannelFmt,'<?xml version="1.0" encoding="ISO-8859-1"?'.'>
+SDV($RssChannelFmt,'<?xml version="1.0" encoding="UTF-8"?'.'>
   <rss version="2.0">
     <channel>
       <!-- feed title here -->

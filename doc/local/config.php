@@ -163,7 +163,7 @@ $EnableDiag = 1;
                      '$GUIButtonDirUrlFmt/table.gif"$[Table]"');
 
 $EnableRssEnclosures = 1;
-$RssEmailAddress = "fwyss@pro-zurituutsch.ch";
+$RssEmailAddress = "bwyss.zurituutsch@gmail.com";
 $RssMaxItems = 200;
 $RssFeedTitle = 'PodCast';
 

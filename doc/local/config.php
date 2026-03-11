@@ -49,8 +49,16 @@ $PageLogoUrl = '$PubDirUrl/skins/pro-zurituutsch/logo.jpg';
 ##  spaces before each sequence of capital letters
 # $SpaceWikiWords = 1;			   # turns on WikiWord spacing
 
-## Define usernames and passwords.
-$AuthUser['fwyss'] = crypt('zu6897');
+## Define usernames and passwords (loaded from external secrets file).
+## On the live server, deploy secrets to /etc/pmwiki-secrets.php
+$secrets_file = '/etc/pmwiki-secrets.php';
+if (file_exists($secrets_file)) {
+  include_once($secrets_file);
+} else {
+  // Fallback for local development: look in doc/local/
+  $local_secrets = dirname(__FILE__) . '/pmwiki-secrets.php';
+  if (file_exists($local_secrets)) include_once($local_secrets);
+}
 ## Enable authentication based on username.
 # include_once('scripts/authuser.php');
 
@@ -63,8 +71,7 @@ $EnableUpload = 1;
 $UploadMaxSize = 100000000;
 $DefaultPasswords['upload'] = 'id:*'; 
 
-##Passwords
-$DefaultPasswords['admin'] = crypt('zu6897');
+##Passwords (set in secrets file)
 $DefaultPasswords['edit'] = 'id:*';
 
 # include_once("$FarmD/scripts/authuser.php");

@@ -51,13 +51,9 @@ $PageLogoUrl = '$PubDirUrl/skins/pro-zurituutsch/logo.jpg';
 
 ## Define usernames and passwords (loaded from external secrets file).
 ## On the live server, deploy secrets to /etc/pmwiki-secrets.php
-$secrets_file = '/etc/pmwiki-secrets.php';
+$secrets_file = dirname(__FILE__) . '/../../etc/pmwiki-secrets.php';
 if (file_exists($secrets_file)) {
   include_once($secrets_file);
-} else {
-  // Fallback for local development: look in doc/local/
-  $local_secrets = dirname(__FILE__) . '/pmwiki-secrets.php';
-  if (file_exists($local_secrets)) include_once($local_secrets);
 }
 ## Enable authentication based on username.
 # include_once('scripts/authuser.php');

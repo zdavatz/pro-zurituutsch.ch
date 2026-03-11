@@ -31,10 +31,11 @@ Live URL: https://pro-zurituutsch.ch
 
 ## Podcast
 
-- RSS feed: `/PodCast/IndexPage?action=rss` — 229 episodes with MP3 enclosures
-- Episode list is defined by the WikiTrail on the `PodCast/IndexPage` wiki page
-- `$RssMaxItems = 250` in config.php (must be >= number of episodes)
+- RSS feed: `/PodCast/IndexPage?action=rss` — ~154 episodes with MP3 enclosures
+- WikiTrail on `PodCast/IndexPage` has 229 entries, but only ~154 have wiki pages (the RSS plugin skips missing pages)
+- `$RssMaxItems = 250` in config.php (must be >= number of trail entries with wiki pages)
 - Audio files in `doc/uploads/PodCast/`
+- `check_trail.py` — script to analyze which trail entries have wiki pages and/or MP3 files
 
 ## Tech Stack
 

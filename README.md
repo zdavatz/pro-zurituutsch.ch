@@ -11,7 +11,7 @@ This repository contains the full website installation including:
 - **PmWiki 2.2.84** — the wiki engine (`pmwiki-2.2.84/`)
 - **Live site** — configuration, wiki pages, uploads, and custom skin (`doc/`)
 - **Custom skin** — "pro-zurituutsch" theme based on Beeblebrox Gila (`doc/pub/skins/pro-zurituutsch/`)
-- **Podcast audio** — 152 Zurich German text recordings (`doc/uploads/PodCast/`), distributed via RSS feed
+- **Podcast audio** — 229 Zurich German text recordings (`doc/uploads/PodCast/`), distributed via RSS feed
 
 ## Requirements
 
@@ -27,7 +27,7 @@ This repository contains the full website installation including:
 
 ## Podcast / RSS
 
-The site serves a podcast feed at `/PodCast/IndexPage?action=rss` with 152 episodes of Zurich German text recordings. The feed is compatible with Spotify for Creators and other podcast platforms. Audio files are stored in `doc/uploads/PodCast/`.
+The site serves a podcast feed at `/PodCast/IndexPage?action=rss` with 229 episodes of Zurich German text recordings. The feed is compatible with Spotify for Creators and other podcast platforms. Audio files are stored in `doc/uploads/PodCast/`.
 
 ## License
 

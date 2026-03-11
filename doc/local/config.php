@@ -164,7 +164,7 @@ $EnableDiag = 1;
 
 $EnableRssEnclosures = 1;
 $RssEmailAddress = "bwyss.zurituutsch@gmail.com";
-$RssMaxItems = 200;
+$RssMaxItems = 250;
 $RssFeedTitle = 'PodCast';
 
 if ($action == 'rss' || $action == 'rdf')

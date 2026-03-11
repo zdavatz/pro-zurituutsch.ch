@@ -31,9 +31,9 @@ Live URL: https://pro-zurituutsch.ch
 
 ## Podcast
 
-- RSS feed: `/PodCast/IndexPage?action=rss` — 152 episodes with MP3 enclosures
+- RSS feed: `/PodCast/IndexPage?action=rss` — 229 episodes with MP3 enclosures
 - Episode list is defined by the WikiTrail on the `PodCast/IndexPage` wiki page
-- `$RssMaxItems = 200` in config.php (must be >= number of episodes)
+- `$RssMaxItems = 250` in config.php (must be >= number of episodes)
 - Audio files in `doc/uploads/PodCast/`
 
 ## Tech Stack

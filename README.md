@@ -23,7 +23,8 @@ This repository contains the full website installation including:
 
 1. Clone the repository: `git clone` (Git LFS will automatically fetch audio files)
 2. Point the Apache document root to the `doc/` directory
-3. Adjust `doc/local/config.php` for your environment
+3. Create `etc/pmwiki-secrets.php` with credentials (gitignored; see `doc/local/config.php` for expected variables)
+4. Adjust `doc/local/config.php` for your environment
 
 ## Podcast / RSS
 

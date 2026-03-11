@@ -21,7 +21,8 @@ Live URL: https://pro-zurituutsch.ch
 
 ## Key Files
 
-- `doc/local/config.php` — main site configuration (skin, auth, uploads, plugins, language)
+- `doc/local/config.php` — main site configuration (skin, auth, uploads, plugins, language); loads credentials from `etc/pmwiki-secrets.php`
+- `etc/pmwiki-secrets.php` — credentials file (gitignored, must be created manually on each environment)
 - `doc/local/ordermail.php` — custom book order handler (POST form → email via PEAR Mail)
 - `doc/pub/skins/pro-zurituutsch/gila.tmpl` — XHTML 1.1 page template (includes Google Analytics)
 - `doc/pub/skins/pro-zurituutsch/gila.css` — site stylesheet
@@ -50,6 +51,7 @@ Live URL: https://pro-zurituutsch.ch
 No build system, CI/CD, or Docker. This is a standard PHP/Apache application:
 
 - Deploy via `git clone` on the live server (Git LFS required for audio files)
+- After cloning, create `etc/pmwiki-secrets.php` with `$PmWikiSecret`, `$AuthUser`, and `$DefaultPasswords` (see template in git history)
 - Configuration via `doc/local/config.php`
 - Content editing happens through the PmWiki web interface
 - `.htaccess` files protect `local/` and `cookbook/` directories from direct access

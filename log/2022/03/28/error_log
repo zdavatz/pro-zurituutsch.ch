@@ -1,0 +1,7 @@
+[Mon Mar 28 01:29:56 2022] [error] [client 82.64.199.87] File does not exist: /var/www/pro-zurituutsch.ch/doc/license.txt
+[Mon Mar 28 01:31:01 2022] [error] [client 174.0.62.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/license.txt
+[Mon Mar 28 16:06:37 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/ckeditor
+[Mon Mar 28 17:55:20 2022] [error] [client 188.61.138.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Mon Mar 28 17:57:06 2022] [error] [client 188.61.138.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Mon Mar 28 18:56:41 2022] [error] [client 171.244.17.110] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Mar 28 21:37:37 2022] [error] [client 216.108.237.77] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor

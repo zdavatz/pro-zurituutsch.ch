@@ -1,0 +1,14 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1165992840
+host=83.79.24.35
+name=PodCast.Scheupfig
+rev=1
+targets=
+text=Attach:Scheupfig
+time=1165992840
+author:1165992840=fwyss
+diff:1165992840:1165992840:=1d0%0a%3c Attach:Scheupfig%0a\ No newline at end of file%0a
+host:1165992840=83.79.24.35

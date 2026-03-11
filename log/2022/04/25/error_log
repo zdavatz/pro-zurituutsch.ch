@@ -1,0 +1,16 @@
+[Mon Apr 25 01:29:32 2022] [error] [client 45.9.20.103] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Mon Apr 25 03:17:38 2022] [error] [client 162.213.251.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Apr 25 07:53:32 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Mon Apr 25 10:37:21 2022] [error] [client 185.83.144.103] script '/var/www/pro-zurituutsch.ch/doc/php.php' not found or unable to stat
+[Mon Apr 25 10:46:36 2022] [error] [client 193.189.100.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json, referer: www.pro-zurituutsch.ch/wp-json/wp/v2/posts
+[Mon Apr 25 10:46:37 2022] [error] [client 93.174.89.132] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json, referer: www.pro-zurituutsch.ch/wp-json/wp/v2/posts
+[Mon Apr 25 10:46:38 2022] [error] [client 23.128.248.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json, referer: www.pro-zurituutsch.ch/wp-json/wp/v2/posts
+[Mon Apr 25 12:03:10 2022] [error] [client 49.228.244.99] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json
+[Mon Apr 25 12:03:11 2022] [error] [client 49.228.244.99] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json
+[Mon Apr 25 12:03:12 2022] [error] [client 49.228.244.99] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json
+[Mon Apr 25 13:26:35 2022] [error] [client 31.202.101.40] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Mon Apr 25 13:26:35 2022] [error] [client 31.202.101.40] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Apr 25 14:16:38 2022] [error] [client 31.31.49.74] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Mon Apr 25 16:57:16 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Mon Apr 25 18:06:52 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets
+[Mon Apr 25 21:45:43 2022] [error] [client 20.205.20.201] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor

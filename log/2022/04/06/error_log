@@ -1,0 +1,19 @@
+[Wed Apr 06 00:25:59 2022] [error] [client 5.188.62.140] File does not exist: /var/www/pro-zurituutsch.ch/doc/phpmyadmin
+[Wed Apr 06 00:51:53 2022] [error] [client 212.83.186.254] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch
+[Wed Apr 06 00:51:53 2022] [error] [client 212.83.186.254] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress, referer: http://pro-zurituutsch.ch
+[Wed Apr 06 00:51:54 2022] [error] [client 212.83.186.254] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: http://pro-zurituutsch.ch
+[Wed Apr 06 00:51:54 2022] [error] [client 212.83.186.254] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp, referer: http://pro-zurituutsch.ch
+[Wed Apr 06 05:35:19 2022] [error] [client 192.71.42.108] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Wed Apr 06 05:35:19 2022] [error] [client 192.71.44.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Wed Apr 06 07:39:08 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/file-uploader
+[Wed Apr 06 08:44:28 2022] [error] [client 31.210.20.88] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: binance.com
+[Wed Apr 06 08:45:05 2022] [error] [client 31.210.20.88] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: binance.com
+[Wed Apr 06 08:45:16 2022] [error] [client 31.210.20.88] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: binance.com
+[Wed Apr 06 08:45:27 2022] [error] [client 31.210.20.88] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/, referer: binance.com
+[Wed Apr 06 10:33:26 2022] [error] [client 84.181.17.166] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Wed Apr 06 10:36:46 2022] [error] [client 84.181.17.166] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Wed Apr 06 10:37:12 2022] [error] [client 84.181.17.166] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Wed Apr 06 10:41:15 2022] [error] [client 84.181.17.166] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Wed Apr 06 10:41:15 2022] [error] [client 84.181.17.166] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Wed Apr 06 10:41:15 2022] [error] [client 84.181.17.166] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Wed Apr 06 19:34:29 2022] [error] [client 138.201.192.14] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml

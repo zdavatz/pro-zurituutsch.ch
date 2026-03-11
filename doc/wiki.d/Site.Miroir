@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1233334469
+host=85.3.97.172
+name=Site.Miroir
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Miroir.mp3%0a%0a!!Miroir%0a%0aFrawe vo hut sind ous de Chlàider vo vor houndert Jaare–n ouseggwachse. Daas zàigt im Spiëgel ’s ENSEMBLE MIROIR  vo Nelly Bütikofer (Régy), Annette Labusch (Gsang) ound Stefi Spinas (Klaviër) im Théater Stok, ound bringt vergangeni Liëder als vergangeni Liëder ouf p’Buni mit em ganze Charme vo dère versounkene Wàlt. Eub ’s Poublikoum de–r Aaforderig ggwachse séig, Irony z’erchàne uber Liëder, wo sàlber scho iroonisch sind, wirt dànk jédes fur sych entschàide muëse.%0a
+time=1237148023
+author:1237148023=fwyss
+diff:1237148023:1233334708:=
+host:1237148023=85.3.97.172
+author:1233334708=fwyss
+diff:1233334708:1233334630:=1,5c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Miroir.mp3%0a%3c %0a%3c !!Miroir%0a%3c %0a%3c Frawe vo hut sind ous de Chlàider vo vor houndert Jaare–n ouseggwachse. Daas zàigt im Spiëgel ’s ENSEMBLE MIROIR  vo Nelly Bütikofer (Régy), Annette Labusch (Gsang) ound Stefi Spinas (Klaviër) im Théater Stok, ound bringt vergangeni Liëder als vergangeni Liëder ouf p’Buni mit em ganze Charme vo dère versounkene Wàlt. Eub ’s Poublikoum de–r Aaforderig ggwachse séig, Irony z’erchàne uber Liëder, wo sàlber scho iroonisch sind, wirt dànk jédes fur sych entschàide muëse.%0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Miroir.mp3%0a\ No newline at end of file%0a
+host:1233334708=81.62.28.137
+author:1233334630=fwyss
+diff:1233334630:1233334469:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Miroir.mp3%0a\ No newline at end of file%0a---%0a> Attach:Miroir.mp3%0a\ No newline at end of file%0a
+host:1233334630=81.62.28.137
+author:1233334469=fwyss
+diff:1233334469:1233334469:=1d0%0a%3c Attach:Miroir.mp3%0a\ No newline at end of file%0a
+host:1233334469=81.62.28.137

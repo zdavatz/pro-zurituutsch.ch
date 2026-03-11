@@ -1,0 +1,15 @@
+[Mon Oct 24 03:20:57 2022] [error] [client 20.163.72.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/core
+[Mon Oct 24 03:20:58 2022] [error] [client 20.163.72.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/app
+[Mon Oct 24 03:20:58 2022] [error] [client 20.163.72.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/public
+[Mon Oct 24 03:20:58 2022] [error] [client 20.163.72.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Mon Oct 24 03:20:59 2022] [error] [client 20.163.72.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/laravel
+[Mon Oct 24 03:21:00 2022] [error] [client 20.163.72.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/database
+[Mon Oct 24 03:21:00 2022] [error] [client 20.163.72.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/api
+[Mon Oct 24 03:21:01 2022] [error] [client 20.163.72.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/dev
+[Mon Oct 24 03:59:59 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Mon Oct 24 04:00:06 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Mon Oct 24 04:00:10 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Mon Oct 24 04:00:14 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Mon Oct 24 04:00:37 2022] [error] [client 85.25.177.139] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Mon Oct 24 04:45:44 2022] [error] [client 85.25.177.139] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Mon Oct 24 13:22:43 2022] [error] [client 46.161.27.156] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

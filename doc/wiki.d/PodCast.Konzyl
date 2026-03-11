@@ -1,0 +1,20 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1166088572
+host=83.77.254.251
+name=PodCast.Konzyl
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Puzzle.mp3
+time=1166125640
+author:1166125640=fwyss
+diff:1166125640:1166088602:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Puzzle.mp3%0a\ No newline at end of file%0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Konzyl.mp3%0a\ No newline at end of file%0a
+host:1166125640=83.77.254.251
+author:1166088602=fwyss
+diff:1166088602:1166088572:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Konzyl.mp3%0a\ No newline at end of file%0a---%0a> Attach:Konzyl.mp3%0a\ No newline at end of file%0a
+host:1166088602=84.72.152.159
+author:1166088572=fwyss
+diff:1166088572:1166088572:=1d0%0a%3c Attach:Konzyl.mp3%0a\ No newline at end of file%0a
+host:1166088572=84.72.152.159

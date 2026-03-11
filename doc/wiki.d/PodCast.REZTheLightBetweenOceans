@@ -1,0 +1,27 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+charset=ISO-8859-1
+csum=
+ctime=1474214686
+host=85.2.156.190
+name=PodCast.REZTheLightBetweenOceans
+rev=5
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:rezOceanLight.mp3%0a%0a!!!M.L.STEDMAN: The Light between Oceans, PINGUIN RANDOM HOUSE, U.K., 2012%0aDaas Salomoonische Ourtàil wirt wider ouhfggrollt ouf eme mounzige Luuchttourminseli, eme wéschtlichschte Voorposchte vo–n Awstraalje, wo nach em éérschte Wàltchriëg oum schiër e ganzi Gànerazjon vo jounge Mane trouhret. En Ingénjeuhr ous eme Londoner broken home ound psuchisch vo de Somme–Schlacht trawmatisierte Véteran Tom wirt vo–n ere jounge nayve Awstraaljerin Isabel gghuraate ound er nimmt si mit ouf daas karge Inseli, wo–n èr de Luuchttourm pynli pflichtbéwousst waartet.. Sy erlydet dréi Tootgébourte, èr findt en toote Schiffbruchige mit eme Sàugling. Sy erchànnt im Chindli e Geuttlichi Widergouëtmahchig ound neuhtiget de Tom, dèè Found z'vertousche, In ere–n abwàchsligsryche spanende Gschicht chounnt's zou me Kampf oum 's Màiteli zwusche de Làbesrétteri ound de lybliche Mouëtter. Deby wèrded g'Gfuul vo de verschidene Bétàiligte–n i–n ouhsfuërliche Schilderige vo–n irem Réde–n ound Touë daargstéllt. Nach Jaarzàànte psouëcht dië Tochter Tom ound Isabel, wo sych zrouggzoge hànd. %0a%0aHutzoutaag stéllt 's Ggricht i de Schwyz 's Wool vom Chind uber en Ràchtsaasprouch ouf 's Chind. Me cha–n i dèm Roman vermisse, das en yvernàmlichi Leuhsig, wo lyblichi ound làbesréttendi Mouëtter jé iri liëbe Zouëwàndige nach Uberykoumft em Chind zouëchoo leund, mit kàm Wort erwèènt wirt. Dèè Roman cha–n i–ch ale empféle, wo sych mit de Fraag béschàftiged, wië me chlyni Chind mèug ounderbringe.%0a%0a%0a%0a%0a
+time=1474224794
+author:1474224794=
+diff:1474224794:1474223067:=6c6%0a%3c Hutzoutaag stéllt 's Ggricht i de Schwyz 's Wool vom Chind uber en Ràchtsaasprouch ouf 's Chind. Me cha–n i dèm Roman vermisse, das en yvernàmlichi Leuhsig, wo lyblichi ound làbesréttendi Mouëtter jé iri liëbe Zouëwàndige nach Uberykoumft em Chind zouëchoo leund, mit kàm Wort erwèènt wirt. Dèè Roman cha–n i–ch ale empféle, wo sych mit de Fraag béschàftiged, wië me chlyni Chind mèug ounderbringe.%0a---%0a> Hutzoutaag stéllt 's Ggricht i de Schwyz 's Wool vom Chind uber en Ràchtsaasprouch ouf 's Chind. Me cha–n i dèm Roman vermisse, das en yvernàmlichi Leuhsig, wo lyblichi ound làbesréttendi Mouëtter jé iri liëbe Zouëwàndige nach Uberykoumft em Chind zouëchoo leund, mit kàm Wort erwèènt wirt.%0a
+host:1474224794=85.2.156.190
+author:1474223067=
+diff:1474223067:1474215020:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:rezOceanLight.mp3%0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:rezOceanLight%0a
+host:1474223067=85.2.156.190
+author:1474215020=
+diff:1474215020:1474214910:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:rezOceanLight%0a%3c %0a---%0a> Attach:rezOceanLight%0a> %0a6a7%0a> %0a
+host:1474215020=85.2.156.190
+author:1474214910=
+diff:1474214910:1474214686:=1,12c1%0a%3c Attach:rezOceanLight%0a%3c %0a%3c !!!M.L.STEDMAN: The Light between Oceans, PINGUIN RANDOM HOUSE, U.K., 2012%0a%3c Daas Salomoonische Ourtàil wirt wider ouhfggrollt ouf eme mounzige Luuchttourminseli, eme wéschtlichschte Voorposchte vo–n Awstraalje, wo nach em éérschte Wàltchriëg oum schiër e ganzi Gànerazjon vo jounge Mane trouhret. En Ingénjeuhr ous eme Londoner broken home ound psuchisch vo de Somme–Schlacht trawmatisierte Véteran Tom wirt vo–n ere jounge nayve Awstraaljerin Isabel gghuraate ound er nimmt si mit ouf daas karge Inseli, wo–n èr de Luuchttourm pynli pflichtbéwousst waartet.. Sy erlydet dréi Tootgébourte, èr findt en toote Schiffbruchige mit eme Sàugling. Sy erchànnt im Chindli e Geuttlichi Widergouëtmahchig ound neuhtiget de Tom, dèè Found z'vertousche, In ere–n abwàchsligsryche spanende Gschicht chounnt's zou me Kampf oum 's Màiteli zwusche de Làbesrétteri ound de lybliche Mouëtter. Deby wèrded g'Gfuul vo de verschidene Bétàiligte–n i–n ouhsfuërliche Schilderige vo–n irem Réde–n ound Touë daargstéllt. Nach Jaarzàànte psouëcht dië Tochter Tom ound Isabel, wo sych zrouggzoge hànd. %0a%3c %0a%3c Hutzoutaag stéllt 's Ggricht i de Schwyz 's Wool vom Chind uber en Ràchtsaasprouch ouf 's Chind. Me cha–n i dèm Roman vermisse, das en yvernàmlichi Leuhsig, wo lyblichi ound làbesréttendi Mouëtter jé iri liëbe Zouëwàndige nach Uberykoumft em Chind zouëchoo leund, mit kàm Wort erwèènt wirt.%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c    %0a\ No newline at end of file%0a---%0a> Attach:rezOceanLight%0a\ No newline at end of file%0a
+host:1474214910=85.2.156.190
+author:1474214686=
+diff:1474214686:1474214686:=1d0%0a%3c Attach:rezOceanLight%0a\ No newline at end of file%0a
+host:1474214686=85.2.156.190

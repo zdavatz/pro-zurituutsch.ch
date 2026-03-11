@@ -1,0 +1,46 @@
+[Tue Sep 13 00:46:36 2022] [error] [client 51.15.183.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Tue Sep 13 06:27:23 2022] [error] [client 20.38.39.58] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Tue Sep 13 06:27:23 2022] [error] [client 20.38.39.58] File does not exist: /var/www/pro-zurituutsch.ch/doc/media
+[Tue Sep 13 07:02:27 2022] [error] [client 93.158.90.71] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Tue Sep 13 07:02:27 2022] [error] [client 93.158.90.72] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Tue Sep 13 14:00:33 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/about.php' not found or unable to stat
+[Tue Sep 13 14:00:33 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/upload.php' not found or unable to stat
+[Tue Sep 13 14:00:34 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/c.php' not found or unable to stat
+[Tue Sep 13 14:00:47 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp.php' not found or unable to stat
+[Tue Sep 13 14:00:47 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/fw.php' not found or unable to stat
+[Tue Sep 13 14:00:47 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/alfa.php' not found or unable to stat
+[Tue Sep 13 14:00:48 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/mini.php' not found or unable to stat
+[Tue Sep 13 14:00:48 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/x.php' not found or unable to stat
+[Tue Sep 13 14:00:48 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wso.php' not found or unable to stat
+[Tue Sep 13 14:00:48 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/admin.php' not found or unable to stat
+[Tue Sep 13 14:00:48 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp-22.php' not found or unable to stat
+[Tue Sep 13 14:00:49 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/marijuana.php' not found or unable to stat
+[Tue Sep 13 14:00:49 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/good.php' not found or unable to stat
+[Tue Sep 13 14:00:49 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/up.php' not found or unable to stat
+[Tue Sep 13 14:00:49 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/doc.php' not found or unable to stat
+[Tue Sep 13 14:00:49 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp.php' not found or unable to stat
+[Tue Sep 13 14:00:50 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/radio.php' not found or unable to stat
+[Tue Sep 13 14:00:50 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Tue Sep 13 14:00:50 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp_wrong_datlib.php' not found or unable to stat
+[Tue Sep 13 14:00:50 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/autoload_classmap.php' not found or unable to stat
+[Tue Sep 13 14:00:51 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp.php' not found or unable to stat
+[Tue Sep 13 14:00:51 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wikindex.php' not found or unable to stat
+[Tue Sep 13 14:00:51 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp-2019.php' not found or unable to stat
+[Tue Sep 13 14:00:51 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 14:00:52 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 14:00:52 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Sep 13 14:00:52 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 14:00:52 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp-info.php' not found or unable to stat
+[Tue Sep 13 14:00:52 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/utchiha.php' not found or unable to stat
+[Tue Sep 13 14:00:52 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 14:00:53 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 14:00:53 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/uploads/xleet.php' not found or unable to stat
+[Tue Sep 13 14:00:53 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 14:00:53 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 14:00:54 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 14:00:54 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Sep 13 19:02:30 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/public
+[Tue Sep 13 19:02:32 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Tue Sep 13 19:40:26 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Sep 13 21:12:52 2022] [error] [client 67.222.142.146] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Tue Sep 13 23:03:28 2022] [error] [client 176.124.216.189] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch

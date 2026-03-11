@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+author=
+csum=
+ctime=1375209785
+host=188.62.172.77
+name=PodCast.RURAkt3TIl1
+rev=1
+targets=
+text=Attach:RaffynisAkt3Tail1
+time=1375209785
+author:1375209785=
+diff:1375209785:1375209785:=1d0%0a%3c Attach:RaffynisAkt3Tail1%0a\ No newline at end of file%0a
+host:1375209785=188.62.172.77

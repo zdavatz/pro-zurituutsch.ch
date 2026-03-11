@@ -1,0 +1,10 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+host=89.83.120.7
+name=PmWikiFr.Menu
+rev=13
+targets=PmWikiFr.PmWikiFeatures,PmWikiFr.Download,PmWikiFr.IndexDocumentation,PmWikiFr.IndexDocAdmin,PmWikiFr.IndexCompléments,PmWikiFr.ReleaseNotes,PmWikiFr.EtatDeLaTraduction
+text=*[[Fonctionnalités->PmWikiFeatures]]%0a*[[Download|+]]%0a*[[Documentation->index documentation]]%0a*[[Doc administration->index doc admin]]%0a*[[Doc compléments->index compléments]]%0a*[[ReleaseNotes|+]]%0a*[[Etat.de.la.traduction -> EtatDeLaTraduction]]%0a
+time=1144870242

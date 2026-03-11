@@ -1,0 +1,5 @@
+[Thu Feb 03 07:02:38 2022] [error] [client 106.11.154.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/main
+[Thu Feb 03 09:58:58 2022] [error] [client 194.230.148.180] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Thu Feb 03 10:02:36 2022] [error] [client 194.230.148.180] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Thu Feb 03 13:58:10 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/elfinder
+[Thu Feb 03 21:54:36 2022] [error] [client 154.54.249.202] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/PodCast/

@@ -1,0 +1,11 @@
+[Thu Apr 21 07:07:38 2022] [error] [client 178.197.197.191] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-120x120-precomposed.png
+[Thu Apr 21 07:07:38 2022] [error] [client 178.197.197.191] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-120x120.png
+[Thu Apr 21 07:07:39 2022] [error] [client 178.197.197.191] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Thu Apr 21 07:07:39 2022] [error] [client 178.197.197.191] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Thu Apr 21 08:56:52 2022] [error] [client 88.214.43.118] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat
+[Thu Apr 21 10:26:17 2022] [error] [client 45.9.20.103] script '/var/www/pro-zurituutsch.ch/doc/radio.php' not found or unable to stat
+[Thu Apr 21 13:14:32 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Thu Apr 21 21:11:39 2022] [error] [client 92.204.219.117] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Thu Apr 21 21:39:17 2022] [error] [client 192.71.103.173] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Thu Apr 21 21:39:17 2022] [error] [client 192.71.224.240] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Thu Apr 21 22:14:08 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast

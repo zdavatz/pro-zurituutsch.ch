@@ -1,0 +1,4 @@
+[Thu Mar 03 05:31:51 2022] [error] [client 185.49.20.77] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Thu Mar 03 08:31:42 2022] [error] [client 120.24.108.217] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Thu Mar 03 13:20:37 2022] [error] [client 162.241.225.84] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Thu Mar 03 19:10:40 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/readme.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/readme.php

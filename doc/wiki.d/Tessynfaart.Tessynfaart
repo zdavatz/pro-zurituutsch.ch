@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1216925323
+host=83.76.70.237
+name=Tessynfaart.Tessynfaart
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Tessynfaart.mp3
+time=1218482154
+author:1218482154=fwyss
+diff:1218482154:1216927387:=
+host:1218482154=83.76.70.237
+author:1216927387=fwyss
+diff:1216927387:1216925323:=
+host:1216927387=83.77.70.105
+author:1216925323=fwyss
+diff:1216925323:1216925323:=1d0%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Tessynfaart.mp3%0a\ No newline at end of file%0a
+host:1216925323=83.77.70.105

@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1199819892
+host=85.0.160.55
+name=PodCast.Limerick911
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick9–11.mp3%0a%0a'''Limerick 9'''%0a%0a%0aEn gruënroote Wèèler i Moumpf%0a%0aFrèuhgt si–ch eub t’Éévi vom Schloumpf%0a%0aFur syni Partéi%0a%0aEn gouëte Schick séi%0a%0aNeud euppe fur g’Gàgner en Troumpf.%0a%0a%0a'''Limerick 10'''%0a%0a%0aEn éltere Gschàftshèrr vo Brougg%0a%0aDèè laat ouf em Schylift neud lougg.%0a%0aDroum gghéit er in Schnéé%0a%0aOund ’s Bài touèet em wéé%0a%0aMe bringt en im Réttigsbob zrougg.%0a%0a%0a'''Limerick 11'''%0a%0a%0aDèè Bischoff vo Chouhr isch do ch viff !%0a%0aJétz stoutzt er t’Hulffspfààrer mit Schliff.%0a%0aWànn Gleuïbigi geund,%0a%0aWill s’ daas neud versteund:%0a%0aDe Pfaarmangel chounnt soo in Griff%0a%0a%0a
+time=1199821426
+author:1199821426=fwyss
+diff:1199821426:1199820920:=3,5c3,5%0a%3c '''Limerick 9'''%0a%3c %0a%3c %0a---%0a> Limerick 9%0a> %0a> %0a17,19c17,19%0a%3c '''Limerick 10'''%0a%3c %0a%3c %0a---%0a> 	Limerick 10%0a> %0a> %0a31,33c31,33%0a%3c '''Limerick 11'''%0a%3c %0a%3c %0a---%0a> Limerick 11%0a> %0a> %0a
+host:1199821426=85.0.160.55
+author:1199820920=fwyss
+diff:1199820920:1199820127:=1,44c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick9–11.mp3%0a%3c %0a%3c Limerick 9%0a%3c %0a%3c %0a%3c En gruënroote Wèèler i Moumpf%0a%3c %0a%3c Frèuhgt si–ch eub t’Éévi vom Schloumpf%0a%3c %0a%3c Fur syni Partéi%0a%3c %0a%3c En gouëte Schick séi%0a%3c %0a%3c Neud euppe fur g’Gàgner en Troumpf.%0a%3c %0a%3c %0a%3c 	Limerick 10%0a%3c %0a%3c %0a%3c En éltere Gschàftshèrr vo Brougg%0a%3c %0a%3c Dèè laat ouf em Schylift neud lougg.%0a%3c %0a%3c Droum gghéit er in Schnéé%0a%3c %0a%3c Ound ’s Bài touèet em wéé%0a%3c %0a%3c Me bringt en im Réttigsbob zrougg.%0a%3c %0a%3c %0a%3c Limerick 11%0a%3c %0a%3c %0a%3c Dèè Bischoff vo Chouhr isch do ch viff !%0a%3c %0a%3c Jétz stoutzt er t’Hulffspfààrer mit Schliff.%0a%3c %0a%3c Wànn Gleuïbigi geund,%0a%3c %0a%3c Will s’ daas neud versteund:%0a%3c %0a%3c De Pfaarmangel chounnt soo in Griff%0a%3c %0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick9–11.mp3%0a\ No newline at end of file%0a
+host:1199820920=85.0.160.55
+author:1199820127=fwyss
+diff:1199820127:1199819892:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick9–11.mp3%0a\ No newline at end of file%0a---%0a> Attach:Limerick9–11.mp3%0a\ No newline at end of file%0a
+host:1199820127=85.0.160.55
+author:1199819892=fwyss
+diff:1199819892:1199819892:=1d0%0a%3c Attach:Limerick9–11.mp3%0a\ No newline at end of file%0a
+host:1199819892=85.0.160.55

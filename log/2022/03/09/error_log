@@ -1,0 +1,3 @@
+[Wed Mar 09 14:56:27 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/plugins
+[Wed Mar 09 15:28:41 2022] [error] [client 206.189.85.88] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Mar 09 22:02:02 2022] [error] [client 40.87.124.178] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor

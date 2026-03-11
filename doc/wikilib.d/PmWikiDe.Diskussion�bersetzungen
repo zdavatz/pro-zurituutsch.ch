@@ -1,0 +1,11 @@
+version=pmwiki-2.1.beta38 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.9a1) Gecko/20060308 Camino/1.2+ (camino.undo.it)
+author=Schlaefer
+csum=
+host=84.185.155.44
+name=PmWikiDe.DiskussionÜbersetzungen
+rev=81
+targets=PmWikiDe.ListeAllerSeiten,PmWikiDe.StandDerÜbersetzung,PmWikiDe.ZuLöschen,PmWikiDe.Terminologie,PmWikiDe.EditQuickReference
+text=(:title Hinweise zur deutschen Übersetzung:)%0a%0a>>font-style=italic bgcolor=#d4ffd5 padding=5px border="1px solid green" text-align=center%3c%3c%0aDie Diskussion über Fragen der Übersetzung wird hauptsächlich weitergeführt auf der deutschen Mailingliste ''Pmwiki-users-de''. %0a>>%3c%3c%0a%0a!!Übersichtsseiten%0a* [[Liste aller Seiten]]%0a* [[Stand der Übersetzung | Stand der Übersetzung]]%0a* [[ZuLöschen|Seiten die gelöscht werden sollten]]%0a%0a%0a!!Terminologie%0aDie Diskussion zur Übersetzung zeigt oft ganz unterschiedliche Einstellungen über den Gebrauch bestimmter Wörter, englischer sowie deutscher als auch eingedeutschter. Eine Übersicht zu vorteilhaften Ausdrücken finden sich auf der Seite [[Terminologie | Terminologie]].%0a%0a!!Seitennamen%0aEs werden die englischen Orignalseitennamen von PmWiki beibehalten. In jeder übersetzten Seite sollte die erste Zeile den deutschsprachigen Titel enthalten (mittels [=(:title:)=]. Als nächste Zeile sollte eine Versionsinformation mit einem Link zur Orginalseite erscheinen, etwa so:%0a%0a  [=[-%25green%25(deutsche Übersetzung der Seite [[Site.EditQuickReference]], Stand 06.09.2005)%25%25-]=]%0a%0aoder so (halbautomatisch):%0a%0a  [=[-%25green%25(deutsche Übersetzung der Seite [[PmWiki.{$Name}]], Stand 07.09.2005)-]=]%0a%0aBei manchen Seiten macht das natürlich keinen Sinn (z.B. [[EditQuickReference]]). Dort bitte als [@(:comment:)@] eintragen.%0a%0a
+time=1141990565
+title=Hinweise zur deutschen Übersetzung

@@ -1,0 +1,5 @@
+[Wed Jan 12 01:27:11 2022] [error] [client 46.161.27.142] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Jan 12 05:50:41 2022] [error] [client 192.163.204.229] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Jan 12 09:21:24 2022] [error] [client 104.238.170.181] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Jan 12 12:51:10 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/wp-upload.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/wp-upload.php
+[Wed Jan 12 17:16:57 2022] [error] [client 45.227.255.159] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

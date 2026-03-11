@@ -1,0 +1,22 @@
+[Sun Jul 17 06:14:24 2022] [error] [client 14.29.211.220] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sun Jul 17 07:44:20 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sun Jul 17 07:44:27 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sun Jul 17 08:28:52 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Sun Jul 17 08:47:29 2022] [error] [client 82.165.224.154] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sun Jul 17 08:47:33 2022] [error] [client 82.165.224.154] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Sun Jul 17 08:51:39 2022] [error] [client 82.165.224.154] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sun Jul 17 08:51:41 2022] [error] [client 82.165.224.226] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Sun Jul 17 11:43:52 2022] [error] [client 20.22.235.75] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Sun Jul 17 15:30:17 2022] [error] [client 181.214.173.89] File does not exist: /var/www/pro-zurituutsch.ch/doc/phpMyAdmin
+[Sun Jul 17 15:30:17 2022] [error] [client 181.214.173.89] File does not exist: /var/www/pro-zurituutsch.ch/doc/pma
+[Sun Jul 17 15:30:18 2022] [error] [client 181.214.173.89] File does not exist: /var/www/pro-zurituutsch.ch/doc/myadmin
+[Sun Jul 17 15:30:18 2022] [error] [client 181.214.173.89] File does not exist: /var/www/pro-zurituutsch.ch/doc/sql
+[Sun Jul 17 15:30:18 2022] [error] [client 181.214.173.89] File does not exist: /var/www/pro-zurituutsch.ch/doc/mysql
+[Sun Jul 17 15:30:23 2022] [error] [client 181.214.173.89] File does not exist: /var/www/pro-zurituutsch.ch/doc/mysqladmin
+[Sun Jul 17 15:30:24 2022] [error] [client 181.214.173.89] File does not exist: /var/www/pro-zurituutsch.ch/doc/db
+[Sun Jul 17 15:30:30 2022] [error] [client 181.214.173.89] File does not exist: /var/www/pro-zurituutsch.ch/doc/database
+[Sun Jul 17 15:30:37 2022] [error] [client 181.214.173.89] script '/var/www/pro-zurituutsch.ch/doc/adminer.php' not found or unable to stat
+[Sun Jul 17 15:30:40 2022] [error] [client 181.214.173.89] script '/var/www/pro-zurituutsch.ch/doc/sql.php' not found or unable to stat
+[Sun Jul 17 17:56:55 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sun Jul 17 17:56:58 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sun Jul 17 22:30:11 2022] [error] [client 138.128.118.130] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt

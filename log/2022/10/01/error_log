@@ -1,0 +1,19 @@
+[Sat Oct 01 04:42:28 2022] [error] [client 103.145.255.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/env
+[Sat Oct 01 04:42:28 2022] [error] [client 103.145.255.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/laravel
+[Sat Oct 01 04:42:29 2022] [error] [client 103.145.255.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Sat Oct 01 04:42:30 2022] [error] [client 103.145.255.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/local.env
+[Sat Oct 01 04:42:30 2022] [error] [client 103.145.255.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Sat Oct 01 04:42:31 2022] [error] [client 103.145.255.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Sat Oct 01 04:42:32 2022] [error] [client 103.145.255.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Sat Oct 01 06:26:47 2022] [error] [client 46.161.27.155] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sat Oct 01 09:10:04 2022] [error] [client 139.59.230.191] script '/var/www/pro-zurituutsch.ch/doc/wp-22.php' not found or unable to stat
+[Sat Oct 01 13:42:01 2022] [error] [client 46.161.27.153] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sat Oct 01 14:17:58 2022] [error] [client 64.225.27.66] script '/var/www/pro-zurituutsch.ch/doc/wp-plain.php' not found or unable to stat, referer: www.google.com
+[Sat Oct 01 14:17:58 2022] [error] [client 64.225.27.66] script '/var/www/pro-zurituutsch.ch/doc/ucbsamlh.php' not found or unable to stat, referer: www.google.com
+[Sat Oct 01 14:17:58 2022] [error] [client 64.225.27.66] File does not exist: /var/www/pro-zurituutsch.ch/doc/alfacgiapi, referer: www.google.com
+[Sat Oct 01 16:30:09 2022] [error] [client 4.234.91.124] script '/var/www/pro-zurituutsch.ch/doc/wp-plain.php' not found or unable to stat, referer: www.google.com
+[Sat Oct 01 16:30:09 2022] [error] [client 4.234.91.124] script '/var/www/pro-zurituutsch.ch/doc/mtsmnfwr.php' not found or unable to stat, referer: www.google.com
+[Sat Oct 01 16:30:09 2022] [error] [client 4.234.91.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/alfacgiapi, referer: www.google.com
+[Sat Oct 01 20:53:46 2022] [error] [client 139.59.230.191] script '/var/www/pro-zurituutsch.ch/doc/wp-22.php' not found or unable to stat
+[Sat Oct 01 21:38:46 2022] [error] [client 40.114.148.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Sat Oct 01 23:54:01 2022] [error] [client 88.214.43.118] script '/var/www/pro-zurituutsch.ch/doc/phpinfi.php' not found or unable to stat

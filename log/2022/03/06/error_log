@@ -1,0 +1,9 @@
+[Sun Mar 06 03:32:55 2022] [error] [client 162.144.53.128] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sun Mar 06 13:33:29 2022] [error] [client 178.197.248.41] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sun Mar 06 13:33:48 2022] [error] [client 178.197.248.41] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sun Mar 06 13:45:41 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sun Mar 06 13:45:45 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sun Mar 06 17:00:47 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/config.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/config.php
+[Sun Mar 06 18:11:24 2022] [error] [client 154.54.249.202] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/PodCast/
+[Sun Mar 06 21:14:54 2022] [error] [client 50.116.89.2] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sun Mar 06 23:55:17 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets

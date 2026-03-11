@@ -1,0 +1,38 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1198169547
+host=83.76.234.39
+name=PodCast.Sonétt1
+rev=9
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Sonétt1.mp3%0a%3c%3c%3c%3c%3c%3c%3c %0a%0aSONÉTT 1%0a%0a(Màngmaal schynt t’Soune vo oune)\\ %0a%0aWië mànge Taag isch verroune,\\%0a\\ %0awië lang ischs hèèr, sàg wië lang,\\%0a %0amuë mer na waarte–n ound plange,\\%0a %0asit ’s létscht Maal t’Soune hàt gschoune\\ ?%0a%0a%0a\\ %0aGraw téckt de Himel wië Watte,\\%0a%0anàblig sind p’Bèrge verhange,\\%0a%0aflaw trouckt àim t’Stimig ound bang,\\%0a%0amatt ouf em Schnéé lyt de Schatte.\\%0a%0a%0a %0a\\ %0aTuuff ounder myr mouë–n i gséé\\%0a %0aduschter verdounkleti Matte,\\%0a%0aschwaarz rouët dezwusche de Séé.\\%0a %0a\\%0a%0aDrouff aber luuchted wië gspoune\\%0a %0aGoldstraale vo–n ere Féé:\\%0a%0aMàngmaal schynt t’Soune vo oune.\\%0a%0a %0a%0a=======%0a%0a
+time=1198170434
+author:1198170434=fwyss
+diff:1198170434:1198170321:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Sonétt1.mp3%0a---%0a> Attach:Sonétt1.mp3%0a
+host:1198170434=83.76.234.39
+author:1198170321=fwyss
+diff:1198170321:1198170278:=7d6%0a%3c %0a9,11c8,9%0a%3c \\ %0a%3c wië lang ischs hèèr, sàg wië lang,\\%0a%3c  %0a---%0a> %0a> wië lang ischs hèèr, sàg wië lang,\\ %0a
+host:1198170321=83.76.234.39
+author:1198170278=fwyss
+diff:1198170278:1198170236:=6a7%0a> %0a23,24d23%0a%3c %0a%3c %0a
+host:1198170278=83.76.234.39
+author:1198170236=fwyss
+diff:1198170236:1198170139:=10a11%0a> %0a18c19%0a%3c %0a---%0a>  %0a20c21%0a%3c %0a---%0a>  %0a22,23d22%0a%3c %0a%3c matt ouf em Schnéé lyt de Schatte.\\%0a24a24%0a> matt ouf em Schnéé lyt de Schatte.\\ %0a26c26,31%0a%3c Tuuff ounder myr mouë–n i gséé\\%0a---%0a> Tuuff ounder myr mouë–n i gséé\\ %0a> duschter verdounkleti Matte,\\ %0a> schwaarz rouët dezwusche de Séé.\\ %0a> \\%0a> %0a> Drouff aber luuchted wië gspoune\\%0a28,30c33%0a%3c duschter verdounkleti Matte,\\%0a%3c %0a%3c schwaarz rouët dezwusche de Séé.\\%0a---%0a> Goldstraale vo–n ere Féé:\\%0a32,34c35,36%0a%3c \\%0a%3c %0a%3c Drouff aber luuchted wië gspoune\\%0a---%0a> Màngmaal schynt t’Soune vo oune.\\%0a> %0a36,41c38%0a%3c Goldstraale vo–n ere Féé:\\%0a%3c %0a%3c Màngmaal schynt t’Soune vo oune.\\%0a%3c %0a%3c  %0a%3c %0a---%0a> %0a
+host:1198170236=83.76.234.39
+author:1198170139=fwyss
+diff:1198170139:1198170085:=8,9c8%0a%3c Wië mànge Taag isch verroune,\\%0a%3c %0a---%0a> Wië mànge Taag isch verroune,\\ %0a11,13c10%0a%3c %0a%3c muë mer na waarte–n ound plange,\\%0a%3c  %0a---%0a> muë mer na waarte–n ound plange,\\ %0a15,16d11%0a%3c %0a%3c %0a18,23c13,15%0a%3c Graw téckt de Himel wië Watte,\\%0a%3c  %0a%3c nàblig sind p’Bèrge verhange,\\%0a%3c  %0a%3c flaw trouckt àim t’Stimig ound bang,\\%0a%3c  %0a---%0a> Graw téckt de Himel wië Watte,\\ %0a> nàblig sind p’Bèrge verhange,\\ %0a> flaw trouckt àim t’Stimig ound bang,\\ %0a29,38c21,25%0a%3c \\%0a%3c %0a%3c Drouff aber luuchted wië gspoune\\%0a%3c  %0a%3c Goldstraale vo–n ere Féé:\\%0a%3c  %0a%3c Màngmaal schynt t’Soune vo oune.\\%0a%3c %0a%3c  %0a%3c %0a---%0a> \\ %0a> Drouff aber luuchted wië gspoune\\ %0a> Goldstraale vo–n ere Féé:\\ %0a> Màngmaal schynt t’Soune vo oune.\\ %0a> %0a
+host:1198170139=83.76.234.39
+author:1198170085=fwyss
+diff:1198170085:1198169987:=6,25c6,25%0a%3c (Màngmaal schynt t’Soune vo oune)\\ %0a%3c %0a%3c Wië mànge Taag isch verroune,\\ %0a%3c wië lang ischs hèèr, sàg wië lang,\\ %0a%3c muë mer na waarte–n ound plange,\\ %0a%3c sit ’s létscht Maal t’Soune hàt gschoune\\ ?%0a%3c \\ %0a%3c Graw téckt de Himel wië Watte,\\ %0a%3c nàblig sind p’Bèrge verhange,\\ %0a%3c flaw trouckt àim t’Stimig ound bang,\\ %0a%3c matt ouf em Schnéé lyt de Schatte.\\ %0a%3c \\ %0a%3c Tuuff ounder myr mouë–n i gséé\\ %0a%3c duschter verdounkleti Matte,\\ %0a%3c schwaarz rouët dezwusche de Séé.\\ %0a%3c \\ %0a%3c Drouff aber luuchted wië gspoune\\ %0a%3c Goldstraale vo–n ere Féé:\\ %0a%3c Màngmaal schynt t’Soune vo oune.\\ %0a%3c %0a---%0a> (Màngmaal schynt t’Soune vo oune) \\ %0a> %0a> Wië mànge Taag isch verroune, \\ %0a> wië lang ischs hèèr, sàg wië lang, \\ %0a> muë mer na waarte–n ound plange, \\ %0a> sit ’s létscht Maal t’Soune hàt gschoune  \\ ?%0a>  \\ %0a> Graw téckt de Himel wië Watte, \\ %0a> nàblig sind p’Bèrge verhange, \\ %0a> flaw trouckt àim t’Stimig ound bang, \\ %0a> matt ouf em Schnéé lyt de Schatte. \\ %0a>  \\ %0a> Tuuff ounder myr mouë–n i gséé \\ %0a> duschter verdounkleti Matte, \\ %0a> schwaarz rouët dezwusche de Séé. \\ %0a>  \\ %0a> Drouff aber luuchted wië gspoune \\ %0a> Goldstraale vo–n ere Féé: \\ %0a> Màngmaal schynt t’Soune vo oune. \\ %0a> %0a27a28,49%0a> SONÉTT 1%0a> %0a> Màngmaal schynt t’Soune vo oune%0a> %0a> Wië mànge Taag isch verroune,%0a> wië lang ischs hèèr, sàg wië lang,%0a> muë mer na waarte–n ound plange,%0a> sit ’s létscht Maal t’Soune hàt gschoune ?%0a> %0a> Graw téckt de Himel wië Watte,%0a> nàblig sind p’Bèrge verhange,%0a> flaw trouckt àim t’Stimig ound bang,%0a> matt ouf em Schnéé lyt de Schatte.%0a> %0a> Tuuff ounder myr mouë–n igséé%0a> duschter verdounkleti Matte,%0a> schwaarz rouët dezwusche de Séé.%0a> %0a> Drouff aber luuchted wië gspoune%0a> Goldstraale vo–n ere Féé:%0a> Màngmaal schynt t’Soune vo oune.%0a> >>>>>>> %0a
+host:1198170085=83.76.234.39
+author:1198169987=fwyss
+diff:1198169987:1198169865:=2,3c2%0a%3c %3c%3c%3c%3c%3c%3c%3c %0a%3c %0a---%0a> %0a6,29d4%0a%3c (Màngmaal schynt t’Soune vo oune) \\ %0a%3c %0a%3c Wië mànge Taag isch verroune, \\ %0a%3c wië lang ischs hèèr, sàg wië lang, \\ %0a%3c muë mer na waarte–n ound plange, \\ %0a%3c sit ’s létscht Maal t’Soune hàt gschoune  \\ ?%0a%3c  \\ %0a%3c Graw téckt de Himel wië Watte, \\ %0a%3c nàblig sind p’Bèrge verhange, \\ %0a%3c flaw trouckt àim t’Stimig ound bang, \\ %0a%3c matt ouf em Schnéé lyt de Schatte. \\ %0a%3c  \\ %0a%3c Tuuff ounder myr mouë–n i gséé \\ %0a%3c duschter verdounkleti Matte, \\ %0a%3c schwaarz rouët dezwusche de Séé. \\ %0a%3c  \\ %0a%3c Drouff aber luuchted wië gspoune \\ %0a%3c Goldstraale vo–n ere Féé: \\ %0a%3c Màngmaal schynt t’Soune vo oune. \\ %0a%3c %0a%3c =======%0a%3c %0a%3c SONÉTT 1%0a%3c %0a49d23%0a%3c >>>>>>> %0a
+host:1198169987=83.76.234.39
+author:1198169865=fwyss
+diff:1198169865:1198169547:=1,23c1%0a%3c Attach:Sonétt1.mp3%0a%3c %0a%3c SONÉTT 1%0a%3c %0a%3c Màngmaal schynt t’Soune vo oune%0a%3c %0a%3c Wië mànge Taag isch verroune,%0a%3c wië lang ischs hèèr, sàg wië lang,%0a%3c muë mer na waarte–n ound plange,%0a%3c sit ’s létscht Maal t’Soune hàt gschoune ?%0a%3c %0a%3c Graw téckt de Himel wië Watte,%0a%3c nàblig sind p’Bèrge verhange,%0a%3c flaw trouckt àim t’Stimig ound bang,%0a%3c matt ouf em Schnéé lyt de Schatte.%0a%3c %0a%3c Tuuff ounder myr mouë–n igséé%0a%3c duschter verdounkleti Matte,%0a%3c schwaarz rouët dezwusche de Séé.%0a%3c %0a%3c Drouff aber luuchted wië gspoune%0a%3c Goldstraale vo–n ere Féé:%0a%3c Màngmaal schynt t’Soune vo oune.%0a---%0a> Attach:Sonétt1.mp3%0a\ No newline at end of file%0a
+host:1198169865=83.76.234.39
+author:1198169547=fwyss
+diff:1198169547:1198169547:=1d0%0a%3c Attach:Sonétt1.mp3%0a\ No newline at end of file%0a
+host:1198169547=83.76.234.39

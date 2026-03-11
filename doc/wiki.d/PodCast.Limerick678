@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1196368403
+host=83.76.221.227
+name=PodCast.Limerick678
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick.6,7,8.mp3%0a%0a%0a'''Limerick 6'''\\%0a%0a„Waas bygt jétz de Bischoff vo Basel\\%0avill Schyter vo Birke–n ound Hasel ?“\\%0a„Bi Chirchlichem Ràcht,\\%0awànn àin sych erfràcht:\\%0adèè brànnt fur sys ouhfmupfig Gfasel.“\\%0a\\%0a'''Limerick 7'''\\%0a\\%0aDe Hèr Mouhrer, Partéiprèsidànt\\%0aHàt en Gyger fur t’Waale–n ernànnt.\\%0aDrouhf ziët er en zorugg\\%0aSpringt sàlber i t’Lougg.\\%0aSoo hàt er sych p’Finger verbrànnt.\\%0a\\%0a'''Limerick 8'''\\%0a\\%0aWië mànge wirt ouf de Straass toot !\\%0aTànkt àine–n ound fuult si bédroot.\\%0aBald wirt er fundig:\\%0a"T’ Schlussel fur t’Zundig\\%0aSind apzgèè, soo stuurt me de Noot."\\%0a%0a%0a
+time=1196369128
+author:1196369128=fwyss
+diff:1196369128:1196369053:=24,28c24,28%0a%3c Bald wirt er fundig:\\%0a%3c "T’ Schlussel fur t’Zundig\\%0a%3c Sind apzgèè, soo stuurt me de Noot."\\%0a%3c %0a%3c %0a---%0a> Bald wirt er fundig\\%0a> T’ Schlussel fur t’Zundig\\%0a> Sind apzgèè, soo stuurt me de Noot.\\%0a> %0a> %0a
+host:1196369128=83.76.221.227
+author:1196369053=fwyss
+diff:1196369053:1196368426:=1,28c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick.6,7,8.mp3%0a%3c %0a%3c %0a%3c '''Limerick 6'''\\%0a%3c %0a%3c „Waas bygt jétz de Bischoff vo Basel\\%0a%3c vill Schyter vo Birke–n ound Hasel ?“\\%0a%3c „Bi Chirchlichem Ràcht,\\%0a%3c wànn àin sych erfràcht:\\%0a%3c dèè brànnt fur sys ouhfmupfig Gfasel.“\\%0a%3c \\%0a%3c '''Limerick 7'''\\%0a%3c \\%0a%3c De Hèr Mouhrer, Partéiprèsidànt\\%0a%3c Hàt en Gyger fur t’Waale–n ernànnt.\\%0a%3c Drouhf ziët er en zorugg\\%0a%3c Springt sàlber i t’Lougg.\\%0a%3c Soo hàt er sych p’Finger verbrànnt.\\%0a%3c \\%0a%3c '''Limerick 8'''\\%0a%3c \\%0a%3c Wië mànge wirt ouf de Straass toot !\\%0a%3c Tànkt àine–n ound fuult si bédroot.\\%0a%3c Bald wirt er fundig\\%0a%3c T’ Schlussel fur t’Zundig\\%0a%3c Sind apzgèè, soo stuurt me de Noot.\\%0a%3c %0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick.6,7,8.mp3%0a\ No newline at end of file%0a
+host:1196369053=83.76.221.227
+author:1196368426=fwyss
+diff:1196368426:1196368403:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick.6,7,8.mp3%0a\ No newline at end of file%0a---%0a> Attach:Limerick.6,7,8.mp3%0a\ No newline at end of file%0a
+host:1196368426=83.76.221.227
+author:1196368403=fwyss
+diff:1196368403:1196368403:=1d0%0a%3c Attach:Limerick.6,7,8.mp3%0a\ No newline at end of file%0a
+host:1196368403=83.76.221.227

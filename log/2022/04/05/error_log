@@ -1,0 +1,35 @@
+[Tue Apr 05 00:03:31 2022] [error] [client 184.168.113.249] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Tue Apr 05 07:55:03 2022] [error] [client 5.188.211.33] script '/var/www/pro-zurituutsch.ch/doc/images.php' not found or unable to stat
+[Tue Apr 05 09:48:45 2022] [error] [client 46.183.103.17] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Tue Apr 05 10:20:46 2022] [error] [client 1.226.168.56] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/wp-login.php
+[Tue Apr 05 10:20:47 2022] [error] [client 1.226.168.56] File does not exist: /var/www/pro-zurituutsch.ch/doc/administrator, referer: http://pro-zurituutsch.ch/administrator/
+[Tue Apr 05 11:01:28 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Tue Apr 05 11:01:30 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:31 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:33 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:35 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:37 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:39 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:41 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:42 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:44 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Tue Apr 05 11:01:46 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/main
+[Tue Apr 05 11:01:48 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Tue Apr 05 11:01:49 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Tue Apr 05 11:01:51 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Tue Apr 05 11:01:53 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Tue Apr 05 11:01:55 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/gast
+[Tue Apr 05 11:01:57 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:01:59 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:02:00 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Tue Apr 05 11:02:02 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/hilfe
+[Tue Apr 05 11:02:04 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Tue Apr 05 11:02:06 2022] [error] [client 35.210.101.181] File does not exist: /var/www/pro-zurituutsch.ch/doc/bestellen
+[Tue Apr 05 14:24:37 2022] [error] [client 75.98.171.125] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Tue Apr 05 14:45:46 2022] [error] [client 31.210.20.88] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: binance.com
+[Tue Apr 05 14:46:19 2022] [error] [client 31.210.20.88] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: binance.com
+[Tue Apr 05 14:46:36 2022] [error] [client 31.210.20.88] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: binance.com
+[Tue Apr 05 14:46:50 2022] [error] [client 31.210.20.88] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/, referer: binance.com
+[Tue Apr 05 22:46:21 2022] [error] [client 58.186.53.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json
+[Tue Apr 05 22:46:22 2022] [error] [client 58.186.53.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json
+[Tue Apr 05 22:46:23 2022] [error] [client 58.186.53.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json

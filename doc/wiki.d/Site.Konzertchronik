@@ -1,0 +1,26 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1215284034
+host=83.77.70.105
+name=Site.Konzertchronik
+rev=5
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Konzertchronik.mp3%0a%0a!!KONZÈRTCHROONIK, JOUNI 2008%0a%0a'''1.''' Konzèrt vo „Etnastara“ vom Sounntig, 29th Juni , 18:00 i de%0aJohannes –chile, Limetstraass 114, Zuri mit Clíodhna, Violoncello ound Harfe; Christa, Fleuhte ound Harfe; Meret, Ggsang ound Pèrkoussjon; Vera, Piano ound Harmonjoum.%0a%0aT’Improvisazjoone uber Kéltischi Ggsàng vo déne viër Mousikerine wurked ééner na mouëtiger ound mousikaalischer als bim éérschte Konzèrt, woby dië starche–n ound nië sàntimàntaale–n Émozjoone ggwaltig uberecheumed%0a%0aEtnastara isch namaal z’gheuhre–n am Samschtig, 12te Juli 08 am%0aNATURAL SOUND OPENAIR z’Kiental, BE.%0awww.naturalsound.ch%0a %0a'''2.''' A de Vernissage  vom Mèèntig, 30.06.08 „Konschtrouktyvi Kounscht“ (Ouhsstélig a de Stàiwys–Straass 37, 8032 Zuri, na bis am 08.08.08) hàt Cliodhna Ni Aodain sych vo–n es paar ouhsgstéllte Bilder inspiriëre laa zoum ouf em Célo improvisiëre, ound es isch ire gglounge, dië Stimige ound Ggfuël vo de Bilder ouf en Aart i Mousig oumsétze, wo ’s Poublikoum tuuff béydrouckt hàt.%0a%0a'''3.'''  Konzèrt vom Chamerorchéschter Neuï–Affoltere Zuri vom Dounnschtig, 03.07.07 i de Chile Glawbte, Riëdehaldestraass 1, Zuri.%0a%0aMit dère hubsche „Irish Suite“ ereuffnet’s Chamerorchéschter ounder de Tirigàntin Cliodhna Ni Aodain daas Konzèrt tànzerisch béschwingt. Bim Célokonzèrt i C–Moll vom Vivaldi nimmt dèè 10–jèuhrigé Solischt Samouél Niderhouhser ouf sym halbe (!) Célo mit vollem Klang t’Zwyspraach mit em Orchéschter ouhf. Deby wurkt er aw i de tèchnisch schwirige Passaasche rouïg ound konzèntriërt. Im „Kol Nidrei“ vom Max Brouch erfreut t’Solischtin Séréna Gràdel ’s Poublikoum mit eme romantische Voortraag. ’S létschté Stouck, t’Sumfony Nr.1 vom Ludwig van Beethoven, vermittlet dank ere–n éffàktvole Balance  bi klaarer Transparànz, ggwaltiger Dunaamik ound ischwoungvole Tàmpi en starche–n Ouhsdrouck. Uberhawpt gglingt’s de Tirigàntin déne viër Stouck entspràchend irem jééwylige Charakter géràcht z’wèrde.%0a  %0a
+time=1216924541
+author:1216924541=fwyss
+diff:1216924541:1215284757:=
+host:1216924541=83.77.70.105
+author:1215284757=fwyss
+diff:1215284757:1215284731:=3,4c3,4%0a%3c !!KONZÈRTCHROONIK, JOUNI 2008%0a%3c %0a---%0a> !KONZÈRTCHROONIK, JOUNI 2008!%0a> %0a
+host:1215284757=83.77.88.137
+author:1215284731=fwyss
+diff:1215284731:1215284410:=1,19c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Konzertchronik.mp3%0a%3c %0a%3c !KONZÈRTCHROONIK, JOUNI 2008!%0a%3c %0a%3c '''1.''' Konzèrt vo „Etnastara“ vom Sounntig, 29th Juni , 18:00 i de%0a%3c Johannes –chile, Limetstraass 114, Zuri mit Clíodhna, Violoncello ound Harfe; Christa, Fleuhte ound Harfe; Meret, Ggsang ound Pèrkoussjon; Vera, Piano ound Harmonjoum.%0a%3c %0a%3c T’Improvisazjoone uber Kéltischi Ggsàng vo déne viër Mousikerine wurked ééner na mouëtiger ound mousikaalischer als bim éérschte Konzèrt, woby dië starche–n ound nië sàntimàntaale–n Émozjoone ggwaltig uberecheumed%0a%3c %0a%3c Etnastara isch namaal z’gheuhre–n am Samschtig, 12te Juli 08 am%0a%3c NATURAL SOUND OPENAIR z’Kiental, BE.%0a%3c www.naturalsound.ch%0a%3c  %0a%3c '''2.''' A de Vernissage  vom Mèèntig, 30.06.08 „Konschtrouktyvi Kounscht“ (Ouhsstélig a de Stàiwys–Straass 37, 8032 Zuri, na bis am 08.08.08) hàt Cliodhna Ni Aodain sych vo–n es paar ouhsgstéllte Bilder inspiriëre laa zoum ouf em Célo improvisiëre, ound es isch ire gglounge, dië Stimige ound Ggfuël vo de Bilder ouf en Aart i Mousig oumsétze, wo ’s Poublikoum tuuff béydrouckt hàt.%0a%3c %0a%3c '''3.'''  Konzèrt vom Chamerorchéschter Neuï–Affoltere Zuri vom Dounnschtig, 03.07.07 i de Chile Glawbte, Riëdehaldestraass 1, Zuri.%0a%3c %0a%3c Mit dère hubsche „Irish Suite“ ereuffnet’s Chamerorchéschter ounder de Tirigàntin Cliodhna Ni Aodain daas Konzèrt tànzerisch béschwingt. Bim Célokonzèrt i C–Moll vom Vivaldi nimmt dèè 10–jèuhrigé Solischt Samouél Niderhouhser ouf sym halbe (!) Célo mit vollem Klang t’Zwyspraach mit em Orchéschter ouhf. Deby wurkt er aw i de tèchnisch schwirige Passaasche rouïg ound konzèntriërt. Im „Kol Nidrei“ vom Max Brouch erfreut t’Solischtin Séréna Gràdel ’s Poublikoum mit eme romantische Voortraag. ’S létschté Stouck, t’Sumfony Nr.1 vom Ludwig van Beethoven, vermittlet dank ere–n éffàktvole Balance  bi klaarer Transparànz, ggwaltiger Dunaamik ound ischwoungvole Tàmpi en starche–n Ouhsdrouck. Uberhawpt gglingt’s de Tirigàntin déne viër Stouck entspràchend irem jééwylige Charakter géràcht z’wèrde.%0a%3c   %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Konzertchronik.mp3%0a\ No newline at end of file%0a
+host:1215284731=83.77.88.137
+author:1215284410=fwyss
+diff:1215284410:1215284034:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Konzertchronik.mp3%0a\ No newline at end of file%0a---%0a> Attach:Konzertchronik.mp3%0a\ No newline at end of file%0a
+host:1215284410=83.77.88.137
+author:1215284034=fwyss
+diff:1215284034:1215284034:=1d0%0a%3c Attach:Konzertchronik.mp3%0a\ No newline at end of file%0a
+host:1215284034=83.77.88.137

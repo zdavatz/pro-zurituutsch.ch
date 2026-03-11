@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+csum=
+ctime=1425920317
+host=178.198.220.139
+name=PodCast.Lacheteuhdt
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Lacheteuhdt.mp3%0a%0aLache teuhdt; sàit de Turann. Droum stirbt zéérscht dèè, wo z'lache macht.
+time=1426351282
+author:1426351282=
+diff:1426351282:1425920465:=
+host:1426351282=178.198.220.139
+author:1425920465=
+diff:1425920465:1425920395:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Lacheteuhdt.mp3%0a%3c %0a---%0a> Attach:Lacheteuhdt.mp3%0a> %0a
+host:1425920465=178.198.220.139
+author:1425920395=
+diff:1425920395:1425920317:=1,3c1%0a%3c Attach:Lacheteuhdt.mp3%0a%3c %0a%3c Lache teuhdt; sàit de Turann. Droum stirbt zéérscht dèè, wo z'lache macht.%0a\ No newline at end of file%0a---%0a> Attach:Lacheteuhdt.mp3%0a\ No newline at end of file%0a
+host:1425920395=178.198.220.139
+author:1425920317=
+diff:1425920317:1425920317:=1d0%0a%3c Attach:Lacheteuhdt.mp3%0a\ No newline at end of file%0a
+host:1425920317=178.198.220.139

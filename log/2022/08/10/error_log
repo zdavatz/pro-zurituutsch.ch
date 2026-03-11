@@ -1,0 +1,58 @@
+[Wed Aug 10 02:20:09 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/about.php' not found or unable to stat
+[Wed Aug 10 02:20:09 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/upload.php' not found or unable to stat
+[Wed Aug 10 02:20:11 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/c.php' not found or unable to stat
+[Wed Aug 10 02:20:12 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp.php' not found or unable to stat
+[Wed Aug 10 02:20:12 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/fw.php' not found or unable to stat
+[Wed Aug 10 02:20:12 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/alfa.php' not found or unable to stat
+[Wed Aug 10 02:20:13 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/mini.php' not found or unable to stat
+[Wed Aug 10 02:20:13 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/x.php' not found or unable to stat
+[Wed Aug 10 02:20:14 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wso.php' not found or unable to stat
+[Wed Aug 10 02:20:14 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/admin.php' not found or unable to stat
+[Wed Aug 10 02:20:15 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp-22.php' not found or unable to stat
+[Wed Aug 10 02:20:15 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/marijuana.php' not found or unable to stat
+[Wed Aug 10 02:20:15 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/good.php' not found or unable to stat
+[Wed Aug 10 02:20:15 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/up.php' not found or unable to stat
+[Wed Aug 10 02:20:16 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/doc.php' not found or unable to stat
+[Wed Aug 10 02:20:16 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp.php' not found or unable to stat
+[Wed Aug 10 02:20:16 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/radio.php' not found or unable to stat
+[Wed Aug 10 02:20:16 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Wed Aug 10 02:20:17 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp_wrong_datlib.php' not found or unable to stat
+[Wed Aug 10 02:20:18 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/autoload_classmap.php' not found or unable to stat
+[Wed Aug 10 02:20:18 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp.php' not found or unable to stat
+[Wed Aug 10 02:20:18 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wikindex.php' not found or unable to stat
+[Wed Aug 10 02:20:18 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp-2019.php' not found or unable to stat
+[Wed Aug 10 02:20:19 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 02:20:19 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 02:20:19 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Wed Aug 10 02:20:20 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 02:20:20 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/wp-info.php' not found or unable to stat
+[Wed Aug 10 02:20:20 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/utchiha.php' not found or unable to stat
+[Wed Aug 10 02:20:20 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 02:20:20 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 02:20:21 2022] [error] [client 212.192.246.33] script '/var/www/pro-zurituutsch.ch/doc/uploads/xleet.php' not found or unable to stat
+[Wed Aug 10 02:20:21 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 02:20:21 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 02:20:22 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 02:20:23 2022] [error] [client 212.192.246.33] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Wed Aug 10 14:18:16 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Wed Aug 10 14:18:16 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed
+[Wed Aug 10 14:18:16 2022] [error] [client 20.121.136.141] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Wed Aug 10 14:18:16 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Wed Aug 10 14:18:16 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Wed Aug 10 14:18:16 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Wed Aug 10 14:18:16 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Wed Aug 10 14:18:16 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Wed Aug 10 14:18:17 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Wed Aug 10 14:18:17 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Wed Aug 10 14:18:17 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Wed Aug 10 14:18:17 2022] [error] [client 20.121.136.141] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Wed Aug 10 15:17:29 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Aug 10 15:17:44 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Aug 10 15:17:59 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Aug 10 15:18:14 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Aug 10 15:35:27 2022] [error] [client 185.83.144.103] File does not exist: /var/www/pro-zurituutsch.ch/doc/phpinfo.html
+[Wed Aug 10 16:44:55 2022] [error] [client 185.215.180.207] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Aug 10 22:26:39 2022] [error] [client 83.137.158.8] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch
+[Wed Aug 10 22:26:39 2022] [error] [client 83.137.158.8] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch
+[Wed Aug 10 22:26:39 2022] [error] [client 83.137.158.8] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch
+[Wed Aug 10 23:16:34 2022] [error] [client 162.240.24.106] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

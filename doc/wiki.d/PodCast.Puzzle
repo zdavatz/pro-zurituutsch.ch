@@ -1,0 +1,35 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1165647066
+host=194.230.239.80
+name=PodCast.Puzzle
+rev=8
+targets=
+text=[--Page Title: Gedicht auf Züritüütsch, Puzzle (Zusammensetzspiel) zum herunterladen für mp3 player, IPod – Gedicht auf Zürichdeutsch, Züri–Deutsch. Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],%0a[--URL: http://www.pro–zurituutsch.ch/PodCast/Puzzle + http://www.pro–zurituutsch.ch/uploads/PodCast/Puzzle.mp3--],%0a[--Description: Gedichte, Geschichten, Essays, Glossen und Streitgespräche auf Zürichdeutsch der Stiftung zur Förderung Zürichdeutscher Literatur, Gedichte, Essays und Geschichten in PodCasts zu Themen wie Züritüütsch, Politik, Umwelt etc. auf Zürich–Deutsch. Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum. --]%0a%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Puzzle.mp3%0a%3c%3c%3c%3c%3c%3c%3c %0a%0a%0a!! Zwài Chind ound es Zàmesétzspyl%0a%0aE Faable%0a%0aEs Puzzle ous achthoundert àinzelne Tàili isch ’s ggmàinsame Gschànk ouf%0a%0aT’Wiënacht fur zwài chlyni Chind / „Schweuschter, ych nimm’s“ sàit de Bouëb%0a%0a„Ound sétze ’s fèng zàme. Dou chasch ja dànn ’s fèrtige Bild gséé.“ Ouf daas laat%0a%0aT’Schweuschter t’Sirééne grad loos: / „Imer nimmt èr mer alls wègg!“%0a%0aEs gaat, wië ’s so gaat, es git Stryt, mit de Zyt wirt me–n àinig; si tàiled.%0a%0aAbwàchsligswys, wië ’s grad chounnt, / nimmt jédes viërhoundert Tàil, dànn%0a%0aSétzed si ’s zàme. ’S git daa en Blàtz Himel ound déét en Blàtz Wise;%0a%0a’S Gsicht ooni Naas hàt de Bouëb / ’s Màitli de Haagge–n im Lèèr. Am%0a%0aÀnd tounkt si ’s àinewààg bésser, wànn s’ mitenand schaffed, ound s’ mèrked:%0a%0aAchthoundert Tàili sind ganz / méé, als viërhoundert maal zwài.%0a>>>>>>> %0a
+time=1177578736
+author:1177578736=fwyss
+diff:1177578736:1166170225:=1,5d0%0a%3c [--Page Title: Gedicht auf Züritüütsch, Puzzle (Zusammensetzspiel) zum herunterladen für mp3 player, IPod – Gedicht auf Zürichdeutsch, Züri–Deutsch. Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],%0a%3c [--URL: http://www.pro–zurituutsch.ch/PodCast/Puzzle + http://www.pro–zurituutsch.ch/uploads/PodCast/Puzzle.mp3--],%0a%3c [--Description: Gedichte, Geschichten, Essays, Glossen und Streitgespräche auf Zürichdeutsch der Stiftung zur Förderung Zürichdeutscher Literatur, Gedichte, Essays und Geschichten in PodCasts zu Themen wie Züritüütsch, Politik, Umwelt etc. auf Zürich–Deutsch. Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum. --]%0a%3c %0a%3c %0a
+host:1177578736=194.230.239.80
+author:1166170225=fwyss
+diff:1166170225:1165910268:=
+host:1166170225=85.1.166.164
+author:1165910268=fwyss
+diff:1165910268:1165681188:=
+host:1165910268=85.0.71.138
+author:1165681188=fwyss
+diff:1165681188:1165650243:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Puzzle.mp3%0a---%0a> Attach:Puzzle.mp3%0a
+host:1165681188=83.78.25.215
+author:1165650243=fwyss
+diff:1165650243:1165650197:=5,6d4%0a%3c !! Zwài Chind ound es Zàmesétzspyl%0a%3c %0a27a26,51%0a> =======%0a> %0a> %0a> !! Zwài Chind ound es Zàmesétzspyl%0a> %0a> E Faable%0a> %0a> Es Puzzle ous achthoundert àinzelne Tàili isch ’s ggmàinsame Gschànk ouf%0a> %0a> T’Wiënacht fur zwài chlyni Chind / „Schweuschter, ych nimm’s“ sàit de Bouëb%0a> %0a> „Ound sétze ’s fèng zàme. Dou chasch ja dànn ’s fèrtige Bild gséé.“ Ouf daas laat%0a> %0a> T’Schweuschter t’Sirééne grad loos: / „Imer nimmt èr mer alls wègg!“%0a> %0a> Es gaat, wië ’s so gaat, es git Stryt, mit de Zyt wirt me–n àinig; si tàiled.%0a> %0a> Abwàchsligswys, wië ’s grad chounnt, / nimmt jédes viërhoundert Tàil, dànn%0a> %0a> Sétzed si ’s zàme. ’S git daa en Blàtz Himel ound déét en Blàtz Wise;%0a> %0a> ’S Gsicht ooni Naas hàt de Bouëb / ’s Màitli de Haagge–n im Lèèr. Am%0a> %0a> Ànd tounkt si ’s àinewààg bésser, wànn s’ mitenand schaffed, ound s’ mèrked:%0a> %0a> Achthoundert Tàili sind ganz / méé, als viërhoundert maal zwài.%0a
+host:1165650243=81.62.216.211
+author:1165650197=fwyss
+diff:1165650197:1165650010:=2,4c2,5%0a%3c %3c%3c%3c%3c%3c%3c%3c %0a%3c %0a%3c %0a---%0a> %0a> %0a> !! Zwài Chind ound es Zàmesétzspyl%0a> %0a26,52d26%0a%3c =======%0a%3c %0a%3c %0a%3c !! Zwài Chind ound es Zàmesétzspyl%0a%3c %0a%3c E Faable%0a%3c %0a%3c Es Puzzle ous achthoundert àinzelne Tàili isch ’s ggmàinsame Gschànk ouf%0a%3c %0a%3c T’Wiënacht fur zwài chlyni Chind / „Schweuschter, ych nimm’s“ sàit de Bouëb%0a%3c %0a%3c „Ound sétze ’s fèng zàme. Dou chasch ja dànn ’s fèrtige Bild gséé.“ Ouf daas laat%0a%3c %0a%3c T’Schweuschter t’Sirééne grad loos: / „Imer nimmt èr mer alls wègg!“%0a%3c %0a%3c Es gaat, wië ’s so gaat, es git Stryt, mit de Zyt wirt me–n àinig; si tàiled.%0a%3c %0a%3c Abwàchsligswys, wië ’s grad chounnt, / nimmt jédes viërhoundert Tàil, dànn%0a%3c %0a%3c Sétzed si ’s zàme. ’S git daa en Blàtz Himel ound déét en Blàtz Wise;%0a%3c %0a%3c ’S Gsicht ooni Naas hàt de Bouëb / ’s Màitli de Haagge–n im Lèèr. Am%0a%3c %0a%3c Ànd tounkt si ’s àinewààg bésser, wànn s’ mitenand schaffed, ound s’ mèrked:%0a%3c %0a%3c Achthoundert Tàili sind ganz / méé, als viërhoundert maal zwài.%0a%3c >>>>>>> %0a
+host:1165650197=81.62.216.211
+author:1165650010=fwyss
+diff:1165650010:1165647066:=1,26c1%0a%3c Attach:Puzzle.mp3%0a%3c %0a%3c %0a%3c !! Zwài Chind ound es Zàmesétzspyl%0a%3c %0a%3c E Faable%0a%3c %0a%3c Es Puzzle ous achthoundert àinzelne Tàili isch ’s ggmàinsame Gschànk ouf%0a%3c %0a%3c T’Wiënacht fur zwài chlyni Chind / „Schweuschter, ych nimm’s“ sàit de Bouëb%0a%3c %0a%3c „Ound sétze ’s fèng zàme. Dou chasch ja dànn ’s fèrtige Bild gséé.“ Ouf daas laat%0a%3c %0a%3c T’Schweuschter t’Sirééne grad loos: / „Imer nimmt èr mer alls wègg!“%0a%3c %0a%3c Es gaat, wië ’s so gaat, es git Stryt, mit de Zyt wirt me–n àinig; si tàiled.%0a%3c %0a%3c Abwàchsligswys, wië ’s grad chounnt, / nimmt jédes viërhoundert Tàil, dànn%0a%3c %0a%3c Sétzed si ’s zàme. ’S git daa en Blàtz Himel ound déét en Blàtz Wise;%0a%3c %0a%3c ’S Gsicht ooni Naas hàt de Bouëb / ’s Màitli de Haagge–n im Lèèr. Am%0a%3c %0a%3c Ànd tounkt si ’s àinewààg bésser, wànn s’ mitenand schaffed, ound s’ mèrked:%0a%3c %0a%3c Achthoundert Tàili sind ganz / méé, als viërhoundert maal zwài.%0a---%0a> Attach:Puzzle.mp3%0a\ No newline at end of file%0a
+host:1165650010=81.62.216.211
+author:1165647066=fwyss
+diff:1165647066:1165647066:=1d0%0a%3c Attach:Puzzle.mp3%0a\ No newline at end of file%0a
+host:1165647066=81.62.216.211

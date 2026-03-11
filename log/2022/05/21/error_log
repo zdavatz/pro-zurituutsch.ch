@@ -1,0 +1,16 @@
+[Sat May 21 04:07:42 2022] [error] [client 154.54.249.202] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/PodCast/
+[Sat May 21 04:38:17 2022] [error] [client 151.80.67.229] File does not exist: /var/www/pro-zurituutsch.ch/doc/radio.txt
+[Sat May 21 06:35:04 2022] [error] [client 54.39.50.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat May 21 06:44:53 2022] [error] [client 54.39.50.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat May 21 06:56:24 2022] [error] [client 54.39.50.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Sat May 21 14:39:40 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Sat May 21 14:39:41 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Sat May 21 14:39:41 2022] [error] [client 45.91.21.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms

@@ -1,0 +1,10 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; fr-FR; rv:1.7.5) Gecko/20041108 Firefox/1.0
+author=Patricia Fondimare
+csum=
+host=82.67.179.44
+name=PmWikiFr.PagePrincipale
+rev=143
+targets=PmWikiFr.DocumentationGuidelines
+text=Ceci est la page par défaut d'une nouvelle installation PmWikiFr/PmWiki %0a. Si vous lisez cet écran, alors %0ale programme PmWikiFr/PmWiki est probablement configuré correctement.%0a%0a----%0a%0aVous trouverez ici quelques pages utiles installées en même temps que le programme PmWiki:%0a* PmWiki/PmWiki documentation est disponible sur [[Guide de documentation -> PmWikiFr.DocumentationGuidelines]]%0a* Qu'est-ce que le PmWiki/WikiWikiWeb ?%0a* PmWiki/BasicEditing and PmWiki/TextFormattingRules décrit comment créer des pages dans PmWiki/PmWiki.%0a* Exercez-vous à éditer et modifier des pages dans la page WikiSandbox.%0a%0aPlus d'informations sur PmWiki/PmWiki à l'adresse suivante : http://www.pmwiki.org/.%0a
+time=1144662334

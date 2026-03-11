@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1143992027
+host=89.83.120.7
+name=PmWikiFr.PageHistory
+rev=2
+targets=PmWikiFr.WikiAdministrator,PmWikiFr.IndexDocumentation
+text=(:title Historique de page:)%0aActuellement accessible par le liens "Historique de la page",%0al'historique de la page affiche un résumé des modifications précédentes de celle-ci. Chaque édition passée est affichée dans une boîte qui indique quelles lignes ont été ajoutées, modifiées ou supprimées en montrant "l'avant" et "l'après" édition.%0a%0aEn dessous de chaque boîte existe un lien "Restaurer", qui une fois cliqué, ouvre une page d'édition de la page en cours avec le texte choisi plus ancien. Vous pouvez alors de nouveau l'éditer ou simplement valider le changement en sauvegardant la page.%0a%0aIl y a deux options additionnelles spécifiques à la page Historique:%0a* '''Cacher les modifications mineures''' - cache toutes les éditions marquées comme tel par l'auteur.%0a* '''Affichage du code''' - l'affichage passe en mode avec des balises (par opposé à "Affichage de la sortie" qui affiche uniquement le résultat de sortie)%0a%0aL'historique de la page est conservé le nombre de jours déterminé par la variable $DiffKeepDays (accessible par l'[[administrateur du Wiki->WikiAdministrator]]). Quand une page est éditée, toute information antérieure à cette durée est automatiquement détruite.%0a%0a---- %0a%25trail%25%3c%3c|[[Index documentation]]|>>
+time=1144951728
+title=Historique de page

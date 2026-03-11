@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1177579955
+host=194.230.239.80
+name=Site.Email
+rev=1
+targets=
+text=[--Page Title: Geschichte auf Züritüütsch, Konzyl ('S globaal Eukouméénisch Konzyl)  kann zur Zeit nicht als PodCast gehört, aber als Audio–CD auf Zürichdeutsch bestellt werden. Züri–Deutsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],%0a[--URL: http://www.pro–zurituutsch.ch/Pschtéllformoular--],%0a[--Description: Gedichte, Geschichten, Essays, Glossen und Streitgespräche auf Zürichdeutsch der Stiftung zur Förderung Zürichdeutscher Literatur, Gedichte, Essays und Geschichten in PodCasts zu Themen wie Züritüütsch, Politik, Umwelt etc. auf Zürich–Deutsch. Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum. --]%0a
+time=1177579955
+author:1177579955=fwyss
+diff:1177579955:1177579955:=1,3d0%0a%3c [--Page Title: Geschichte auf Züritüütsch, Konzyl ('S globaal Eukouméénisch Konzyl)  kann zur Zeit nicht als PodCast gehört, aber als Audio–CD auf Zürichdeutsch bestellt werden. Züri–Deutsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],%0a%3c [--URL: http://www.pro–zurituutsch.ch/Pschtéllformoular--],%0a%3c [--Description: Gedichte, Geschichten, Essays, Glossen und Streitgespräche auf Zürichdeutsch der Stiftung zur Förderung Zürichdeutscher Literatur, Gedichte, Essays und Geschichten in PodCasts zu Themen wie Züritüütsch, Politik, Umwelt etc. auf Zürich–Deutsch. Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum. --]%0a
+host:1177579955=194.230.239.80

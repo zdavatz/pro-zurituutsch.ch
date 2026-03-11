@@ -1,0 +1,17 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1166084126
+host=83.76.206.176
+name=PodCast.Schlouss
+rev=2
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Schlouss
+time=1166086624
+author:1166086624=fwyss
+diff:1166086624:1166084126:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Schlouss%0a\ No newline at end of file%0a---%0a> Attach:Schlouss%0a\ No newline at end of file%0a
+host:1166086624=83.76.206.176
+author:1166084126=fwyss
+diff:1166084126:1166084126:=1d0%0a%3c Attach:Schlouss%0a\ No newline at end of file%0a
+host:1166084126=83.76.206.176

@@ -1,0 +1,17 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1) Gecko/20061010 Firefox/2.0
+author=fwyss
+csum=
+ctime=1163037460
+host=203.112.11.83
+name=Hilfe.Winamp
+rev=2
+targets=
+text=!! Anleitung für die Installation von Winamp für Windows%0a                                                                                                                              %0a# In einem zweiten Browserfenster gehen sie zur Seite: http://winamp.com/player/%0a# Klicken Sie auf "Get Free" und anschliessend auf "Download Now!"%0a# Das Dateidownload-Fenster erscheint, wählen sie "Speichern in Desktop" und klicken sie auf "Speichern"%0a# Sobald der Download beendet ist drücken Sie die "Windows-Taste + D" um zu ihrem Desktop zu gelangen.%0a# Doppelklicken sie die Datei winamp50x_full%0a# Lisence Agreement: klicken sie auf "I Agree"%0a# Klicken sie nun 3x "next"%0a# Wählen sie ihre Internetverbindung: ADSL, Cable, oder Modem, klicken sie "next" und "install"%0a# Das Dialogfeld "Anmelden" erscheint, checken sie die Box "Do not ask me this again" und klicken sie auf "later"%0a# Das Dialogfeld "Add Media to Library" erscheint, checken sie die Box "Do not show me this again" und klicken sie "close" und Winamp ist fertig installiert.%0a# Um mehr Platz auf dem Bildschirm zu haben können sie die "Playlist" (unter dem Player) schliessen. Wenn sie neben das "Kreuz" ganz rechts oben klicken versetzen sie Winamp in den "Windowshade" Mode.%0a
+time=1163037475
+author:1163037475=fwyss
+diff:1163037475:1163037460:=1c1%0a%3c !! Anleitung für die Installation von Winamp für Windows%0a---%0a> ! Anleitung für die Installation von Winamp für Windows%0a
+host:1163037475=203.112.11.83
+author:1163037460=fwyss
+diff:1163037460:1163037460:=1,13d0%0a%3c ! Anleitung für die Installation von Winamp für Windows%0a%3c                                                                                                                               %0a%3c # In einem zweiten Browserfenster gehen sie zur Seite: http://winamp.com/player/%0a%3c # Klicken Sie auf "Get Free" und anschliessend auf "Download Now!"%0a%3c # Das Dateidownload-Fenster erscheint, wählen sie "Speichern in Desktop" und klicken sie auf "Speichern"%0a%3c # Sobald der Download beendet ist drücken Sie die "Windows-Taste + D" um zu ihrem Desktop zu gelangen.%0a%3c # Doppelklicken sie die Datei winamp50x_full%0a%3c # Lisence Agreement: klicken sie auf "I Agree"%0a%3c # Klicken sie nun 3x "next"%0a%3c # Wählen sie ihre Internetverbindung: ADSL, Cable, oder Modem, klicken sie "next" und "install"%0a%3c # Das Dialogfeld "Anmelden" erscheint, checken sie die Box "Do not ask me this again" und klicken sie auf "later"%0a%3c # Das Dialogfeld "Add Media to Library" erscheint, checken sie die Box "Do not show me this again" und klicken sie "close" und Winamp ist fertig installiert.%0a%3c # Um mehr Platz auf dem Bildschirm zu haben können sie die "Playlist" (unter dem Player) schliessen. Wenn sie neben das "Kreuz" ganz rechts oben klicken versetzen sie Winamp in den "Windowshade" Mode.%0a
+host:1163037460=203.112.11.83

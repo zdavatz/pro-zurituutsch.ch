@@ -1,0 +1,14 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1) Gecko/20061010 Firefox/2.0
+author=fwyss
+csum=
+ctime=1163053118
+host=203.112.11.83
+name=Texte.ZurcherischEnglish
+rev=1
+targets=
+text=! Weurterbuëch Zurcherisch - English%0ain Vorbereitung%0a
+time=1163053118
+author:1163053118=fwyss
+diff:1163053118:1163053118:=1,2d0%0a%3c ! Weurterbuëch Zurcherisch - English%0a%3c in Vorbereitung%0a
+host:1163053118=203.112.11.83

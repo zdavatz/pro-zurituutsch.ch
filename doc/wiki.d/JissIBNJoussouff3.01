@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/6.1.5 Safari/537.77.4
+author=
+csum=
+ctime=1406908362
+host=178.195.197.63
+name=JissIBNJoussouff3.01
+rev=1
+targets=
+text=JBJ3,02
+time=1406908362
+author:1406908362=
+diff:1406908362:1406908362:=1d0%0a%3c JBJ3,02%0a\ No newline at end of file%0a
+host:1406908362=178.195.197.63

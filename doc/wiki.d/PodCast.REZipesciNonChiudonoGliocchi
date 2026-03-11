@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+charset=ISO-8859-1
+csum=
+ctime=1457943267
+host=178.199.104.92
+name=PodCast.REZipesciNonChiudonoGliocchi
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:REZpesci.mp3%0a%0a!!!Rézànsjon: ERRI DE LUCA: I pesci non chiudono gli occhi.%0a%0aEn alte Maa erineret sych a Fèrië, ouf ere–n Insle vor sy–re Hàimetstadt Néapel, wo–n er zàme mit de Mouëtter isch, ound wo–n er, als sàlbschtggwèèlts Opfer vo–n ere  voorpoubertèère Cavalleria rusticana, syni Iniziazjon zoum andere Gschlàcht erlàbt. Syn Vatter isch i de–n U.S.A., wo–n er wott blybe, ound aw souscht sind kài Vàttere–n oume. Niëmer hàt en Name, de Protagonischt gilt als en vo Bimsstài ound Iseblààch ggmachte-n Àinzelgànger. Ygstreuïti Moundaartsàtz gànd zàme mit Béschrybige–n i poétischem Toon es Napolitaanisches Lokalkolorit.%0a%0aDië Novàle–n ouf 115 Syte mouë waarschynli–ch im Zàmehang mit andere–n awtobiograafische Schrifte vom De Luca verstande wèrde. Fur Ounyggwéiti blybt si e chli ounfèrtig ound i de Louft phange.
+time=1458578018
+author:1458578018=
+diff:1458578018:1457943649:=
+host:1458578018=178.199.104.92
+author:1457943649=
+diff:1457943649:1457943466:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:REZpesci.mp3%0a%3c %0a---%0a> Attach:REZpesci.mp3%0a> %0a
+host:1457943649=178.199.104.92
+author:1457943466=
+diff:1457943466:1457943267:=1,7c1%0a%3c Attach:REZpesci.mp3%0a%3c %0a%3c !!!Rézànsjon: ERRI DE LUCA: I pesci non chiudono gli occhi.%0a%3c %0a%3c En alte Maa erineret sych a Fèrië, ouf ere–n Insle vor sy–re Hàimetstadt Néapel, wo–n er zàme mit de Mouëtter isch, ound wo–n er, als sàlbschtggwèèlts Opfer vo–n ere  voorpoubertèère Cavalleria rusticana, syni Iniziazjon zoum andere Gschlàcht erlàbt. Syn Vatter isch i de–n U.S.A., wo–n er wott blybe, ound aw souscht sind kài Vàttere–n oume. Niëmer hàt en Name, de Protagonischt gilt als en vo Bimsstài ound Iseblààch ggmachte-n Àinzelgànger. Ygstreuïti Moundaartsàtz gànd zàme mit Béschrybige–n i poétischem Toon es Napolitaanisches Lokalkolorit.%0a%3c %0a%3c Dië Novàle–n ouf 115 Syte mouë waarschynli–ch im Zàmehang mit andere–n awtobiograafische Schrifte vom De Luca verstande wèrde. Fur Ounyggwéiti blybt si e chli ounfèrtig ound i de Louft phange.%0a\ No newline at end of file%0a---%0a> Attach:REZpesci.mp3%0a\ No newline at end of file%0a
+host:1457943466=178.199.104.92
+author:1457943267=
+diff:1457943267:1457943267:=1d0%0a%3c Attach:REZpesci.mp3%0a\ No newline at end of file%0a
+host:1457943267=178.199.104.92

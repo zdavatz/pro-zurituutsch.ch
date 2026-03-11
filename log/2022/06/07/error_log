@@ -1,0 +1,17 @@
+[Tue Jun 07 10:09:46 2022] [error] [client 149.56.150.167] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Tue Jun 07 10:09:59 2022] [error] [client 149.56.150.167] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Tue Jun 07 15:34:11 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Tue Jun 07 15:34:14 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Tue Jun 07 19:59:31 2022] [error] [client 161.35.224.204] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Tue Jun 07 20:44:28 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Tue Jun 07 20:44:28 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed
+[Tue Jun 07 20:44:28 2022] [error] [client 144.76.92.124] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Tue Jun 07 20:44:29 2022] [error] [client 144.76.92.124] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms

@@ -1,0 +1,42 @@
+[Thu Oct 13 00:14:29 2022] [error] [client 39.109.115.158] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Thu Oct 13 01:06:42 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Thu Oct 13 01:06:42 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed
+[Thu Oct 13 01:06:42 2022] [error] [client 20.198.105.35] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Thu Oct 13 01:06:42 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Thu Oct 13 01:06:42 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Thu Oct 13 01:06:42 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Thu Oct 13 01:06:42 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Thu Oct 13 01:06:43 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Thu Oct 13 01:06:43 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Thu Oct 13 01:06:43 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Thu Oct 13 01:06:43 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Thu Oct 13 01:06:43 2022] [error] [client 20.198.105.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Thu Oct 13 01:07:08 2022] [error] [client 66.240.192.138] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Thu Oct 13 01:17:37 2022] [error] [client 217.160.159.251] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: binance.com
+[Thu Oct 13 01:17:47 2022] [error] [client 217.160.159.251] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: binance.com
+[Thu Oct 13 01:17:49 2022] [error] [client 217.160.159.251] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: binance.com
+[Thu Oct 13 01:17:53 2022] [error] [client 217.160.159.251] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/, referer: binance.com
+[Thu Oct 13 05:02:01 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Oct 13 05:02:08 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Oct 13 05:02:13 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Thu Oct 13 05:02:17 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Thu Oct 13 09:21:52 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Thu Oct 13 09:21:52 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed
+[Thu Oct 13 09:21:52 2022] [error] [client 79.110.62.245] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Thu Oct 13 09:21:52 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Thu Oct 13 09:21:52 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Thu Oct 13 09:21:52 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Thu Oct 13 09:21:52 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Thu Oct 13 09:21:53 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Thu Oct 13 09:21:53 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Thu Oct 13 09:21:53 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Thu Oct 13 09:21:53 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Thu Oct 13 09:21:53 2022] [error] [client 79.110.62.245] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Thu Oct 13 19:02:46 2022] [error] [client 45.141.215.206] script '/var/www/pro-zurituutsch.ch/doc/wp-plain.php' not found or unable to stat, referer: www.google.com
+[Thu Oct 13 19:02:47 2022] [error] [client 45.141.215.206] File does not exist: /var/www/pro-zurituutsch.ch/doc/alfacgiapi, referer: www.google.com
+[Thu Oct 13 19:02:47 2022] [error] [client 45.141.215.206] script '/var/www/pro-zurituutsch.ch/doc/icgnskbm.php' not found or unable to stat, referer: www.google.com
+[Thu Oct 13 19:28:41 2022] [error] [client 87.107.144.155] script '/var/www/pro-zurituutsch.ch/doc/style.php' not found or unable to stat
+[Thu Oct 13 19:59:18 2022] [error] [client 20.205.234.193] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: binance.com
+[Thu Oct 13 19:59:26 2022] [error] [client 20.205.234.193] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: binance.com
+[Thu Oct 13 19:59:29 2022] [error] [client 20.205.234.193] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: binance.com
+[Thu Oct 13 19:59:33 2022] [error] [client 20.205.234.193] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/, referer: binance.com

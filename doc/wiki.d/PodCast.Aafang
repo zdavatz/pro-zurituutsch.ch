@@ -1,0 +1,14 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1166079553
+host=83.76.206.176
+name=PodCast.Aafang
+rev=1
+targets=
+text=Attach:Aafang%0a
+time=1166079553
+author:1166079553=fwyss
+diff:1166079553:1166079553:=1d0%0a%3c Attach:Aafang%0a
+host:1166079553=83.76.206.176

@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1229447218
+host=85.0.11.73
+name=PodCast.Zytmaschyn
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Zytmaschyn.mp3%0a%0a!!!Zytmaschyn%0a%0aStyg y i t’Zytmaschyn:%0a%0aMer faared uberliëchtgschwind%0a%0aHindersi gàg fruëner%0a%0aI Zyte wo verby sind%0a%0a%0a%0aNamaal so ubermuëtig%0a%0aLache wië synerzyt%0a%0aNamaal daas Wéé go gspuure%0a%0aWo brànig ’s Hèrz verschnydt.%0a%0a%0a%0aDoch wéttsch dou fursi faare,%0a%0aerfaare was na chounnt ?%0a%0aso stoossisch aa a–r Liëchtmouhr:%0a%0asoo uberhéll macht blind.%0a%0a
+time=1229447577
+author:1229447577=fwyss
+diff:1229447577:1229447549:=3,4c3,4%0a%3c !!!Zytmaschyn%0a%3c %0a---%0a> Zytmaschyn%0a> %0a
+host:1229447577=85.0.11.73
+author:1229447549=fwyss
+diff:1229447549:1229447368:=1,32c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Zytmaschyn.mp3%0a%3c %0a%3c Zytmaschyn%0a%3c %0a%3c Styg y i t’Zytmaschyn:%0a%3c %0a%3c Mer faared uberliëchtgschwind%0a%3c %0a%3c Hindersi gàg fruëner%0a%3c %0a%3c I Zyte wo verby sind%0a%3c %0a%3c %0a%3c %0a%3c Namaal so ubermuëtig%0a%3c %0a%3c Lache wië synerzyt%0a%3c %0a%3c Namaal daas Wéé go gspuure%0a%3c %0a%3c Wo brànig ’s Hèrz verschnydt.%0a%3c %0a%3c %0a%3c %0a%3c Doch wéttsch dou fursi faare,%0a%3c %0a%3c erfaare was na chounnt ?%0a%3c %0a%3c so stoossisch aa a–r Liëchtmouhr:%0a%3c %0a%3c soo uberhéll macht blind.%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Zytmaschyn.mp3%0a\ No newline at end of file%0a
+host:1229447549=85.0.11.73
+author:1229447368=fwyss
+diff:1229447368:1229447218:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Zytmaschyn.mp3%0a\ No newline at end of file%0a---%0a> Attach:Zytmaschyn.mp3%0a\ No newline at end of file%0a
+host:1229447368=85.0.11.73
+author:1229447218=fwyss
+diff:1229447218:1229447218:=1d0%0a%3c Attach:Zytmaschyn.mp3%0a\ No newline at end of file%0a
+host:1229447218=85.0.11.73

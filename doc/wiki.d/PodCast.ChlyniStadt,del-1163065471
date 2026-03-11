@@ -1,0 +1,26 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.8.1) Gecko/20061026 BonEcho/2.0
+author=fwyss
+csum=
+ctime=1162990544
+host=84.72.152.159
+name=PodCast.ChlyniStadt
+rev=5
+targets=
+text=Podcast zum Testen%0aAttach:ChlyniStadt.mp3 
+time=1162991142
+author:1162991142=fwyss
+diff:1162991142:1162990843:=2c2,3%0a%3c Attach:ChlyniStadt.mp3 %0a\ No newline at end of file%0a---%0a> Attach:ChlyniStadt.mp3 %0a> http://pro-zurituutsch.zftp.com/klini-stadt.mp3%0a\ No newline at end of file%0a
+host:1162991142=84.72.152.159
+author:1162990843=fwyss
+diff:1162990843:1162990764:=1a2%0a> (:title Der PodCast-Titel :)%0a
+host:1162990843=84.72.152.159
+author:1162990764=fwyss
+diff:1162990764:1162990617:=3,4c3%0a%3c Attach:ChlyniStadt.mp3 %0a%3c http://pro-zurituutsch.zftp.com/klini-stadt.mp3%0a\ No newline at end of file%0a---%0a> Attach:http://pro-zurituutsch.zftp.com/klini-stadt.mp3%0a\ No newline at end of file%0a
+host:1162990764=84.72.152.159
+author:1162990617=fwyss
+diff:1162990617:1162990544:=2d1%0a%3c (:title Der PodCast-Titel :)%0a
+host:1162990617=84.72.152.159
+author:1162990544=fwyss
+diff:1162990544:1162990544:=1,2d0%0a%3c Podcast zum Testen%0a%3c Attach:http://pro-zurituutsch.zftp.com/klini-stadt.mp3%0a\ No newline at end of file%0a
+host:1162990544=84.72.152.159

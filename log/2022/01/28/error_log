@@ -1,0 +1,20 @@
+[Fri Jan 28 05:29:56 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Fri Jan 28 05:29:56 2022] [error] [client 193.169.253.168] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Fri Jan 28 05:29:57 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Fri Jan 28 05:29:57 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Fri Jan 28 05:29:57 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Fri Jan 28 05:29:57 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Fri Jan 28 05:29:57 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Fri Jan 28 05:29:57 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Fri Jan 28 05:29:57 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Fri Jan 28 05:29:58 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Fri Jan 28 05:29:58 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Fri Jan 28 05:29:58 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/media
+[Fri Jan 28 05:29:58 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Fri Jan 28 05:29:58 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Fri Jan 28 05:29:58 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Fri Jan 28 05:29:58 2022] [error] [client 193.169.253.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Fri Jan 28 22:05:36 2022] [error] [client 198.57.247.211] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Fri Jan 28 23:59:51 2022] [error] [client 34.78.249.130] File does not exist: /var/www/pro-zurituutsch.ch/doc/util
+[Fri Jan 28 23:59:51 2022] [error] [client 34.78.249.130] script '/var/www/pro-zurituutsch.ch/doc/install.php' not found or unable to stat
+[Fri Jan 28 23:59:51 2022] [error] [client 34.78.249.130] File does not exist: /var/www/pro-zurituutsch.ch/doc/magento_version

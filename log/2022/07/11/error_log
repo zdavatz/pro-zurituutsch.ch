@@ -1,0 +1,18 @@
+[Mon Jul 11 01:37:38 2022] [error] [client 68.183.98.103] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch
+[Mon Jul 11 01:37:39 2022] [error] [client 68.183.98.103] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress, referer: http://pro-zurituutsch.ch
+[Mon Jul 11 01:37:39 2022] [error] [client 68.183.98.103] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: http://pro-zurituutsch.ch
+[Mon Jul 11 01:37:39 2022] [error] [client 68.183.98.103] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp, referer: http://pro-zurituutsch.ch
+[Mon Jul 11 08:50:08 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Mon Jul 11 08:50:10 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Mon Jul 11 11:59:10 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Mon Jul 11 18:17:16 2022] [error] [client 125.227.127.195] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Jul 11 18:50:41 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Mon Jul 11 18:50:44 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Mon Jul 11 19:43:26 2022] [error] [client 5.188.62.76] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Mon Jul 11 19:43:30 2022] [error] [client 5.188.62.76] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Mon Jul 11 19:43:33 2022] [error] [client 5.188.62.76] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Mon Jul 11 19:43:37 2022] [error] [client 5.188.62.76] File does not exist: /var/www/pro-zurituutsch.ch/doc/login, referer: http://pro-zurituutsch.ch/
+[Mon Jul 11 19:43:40 2022] [error] [client 5.188.62.76] script '/var/www/pro-zurituutsch.ch/doc/login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/
+[Mon Jul 11 19:43:44 2022] [error] [client 5.188.62.76] File does not exist: /var/www/pro-zurituutsch.ch/doc/login.aspx, referer: http://pro-zurituutsch.ch/
+[Mon Jul 11 22:37:34 2022] [error] [client 185.27.99.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Mon Jul 11 22:37:34 2022] [error] [client 185.27.99.145] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt

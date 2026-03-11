@@ -1,0 +1,19 @@
+[Thu May 19 07:45:06 2022] [error] [client 157.55.39.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/wp-info.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/shell.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/wso.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/auto-seo.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/local.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/ffAA531.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/alwso.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/logs.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/wp-couldent.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/autoload_classmap.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/fw.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/oldindex.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/wp-2019.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/wp-fox.php' not found or unable to stat
+[Thu May 19 13:32:12 2022] [error] [client 92.53.96.12] script '/var/www/pro-zurituutsch.ch/doc/wp-rmd.php' not found or unable to stat
+[Thu May 19 16:46:41 2022] [error] [client 157.55.39.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Thu May 19 19:55:13 2022] [error] [client 138.128.118.130] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Thu May 19 22:13:00 2022] [error] [client 162.14.71.142] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

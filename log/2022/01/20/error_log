@@ -1,0 +1,7 @@
+[Thu Jan 20 07:16:51 2022] [error] [client 178.238.2.136] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Thu Jan 20 18:18:40 2022] [error] [client 93.104.213.124] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Thu Jan 20 18:20:41 2022] [error] [client 18.212.7.11] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: binance.com
+[Thu Jan 20 18:20:43 2022] [error] [client 18.212.7.11] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: binance.com
+[Thu Jan 20 18:20:56 2022] [error] [client 18.212.7.11] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: binance.com
+[Thu Jan 20 18:20:57 2022] [error] [client 18.212.7.11] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/, referer: binance.com
+[Thu Jan 20 18:37:04 2022] [error] [client 192.249.118.57] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress

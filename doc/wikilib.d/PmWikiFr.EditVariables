@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1143843011
+host=212.194.45.131
+name=PmWikiFr.EditVariables
+rev=2
+targets=PmWikiFr.Variables,PmWikiFr.AuthorTracking
+text=(:title Variables d'édition:)%0a%3c%3c|[[Variables]]|>>%0a%0a:$EnableGUIButtons:Quand mis à '1', active les boutons dans la fenêtre d'édition.%0a        # active les boutons d'édition%0a        $EnableGUIButtons = 1;%0a%0a:$EnablePostAuthorRequired:Quand mis à '1', poster une page oblige l'auteur à donner un nom (voir [[AuthorTracking|+]]).  Sinon, les auteurs peuvent poster sans donner de nom.%0a        # oblige les auteurs à fournir un nom%0a        $EnablePostAuthorRequired = 1; %0a%0a:$DeleteKeyPattern:Syntaxe utilisée pour déterminer si une page doit être effacée. La syntaxe par défaut supprime les pages qui contiennent le mot "delete" (avec des espaces optionnels).%0a        # changer le mot delete en "effacer"%0a        $DeleteKeyPattern = "^\\s*effacer\\s*$";%0a        # effacer toute page sans texte visible, c.a.d. vide%0a        $DeleteKeyPattern = "^\\s*$";%0a%0a:$DefaultPageTextFmt:Le texte qui doit être affiché quand on édite ou qu'on visualise une page inexistante.%0a        $DefaultPageTextFmt = 'La page $Name n'existe pas';%0a%0a:$EditFunctions: This array contains all the function names that are called when you edit a page (in the same order). It could be used to perform some additional or own functions just by adding another (own) function name. Standard setting is (see pmwiki.php):%0a        $EditFunctions = array('`RestorePage','`ReplaceOnSave','`SaveAttributes',%0a  '`PostPage','`PostRecentChanges','`PreviewPage');%0a%0a:$ROSPatterns: With this array you can give a pattern as key and a text which should replace it when saving an edited text. The following example replaces every occurence of @@[[test:sometext@@ with @@[[special:--sometext@@ when you save an edited page.%0a        # Replace text on Save (add pattern and replacement to array $ROSPatterns)%0a        $ROSPatterns["/\\[\\[test:([^\\s$UrlExcludeChars]*)/"] = "[[special:--\$1";%0a%0a:$IsPagePosted:%0a%0a:$PageEditFmt:%0a%0a:$PagePreviewFmt:%0a%0a:$HandleEditFmt:
+time=1143847370
+title=Variables d'édition

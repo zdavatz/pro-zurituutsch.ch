@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1203280944
+host=83.77.237.3
+name=PodCast.Limerick121314
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick121314.mp3%0a%0a'''Limerick 12'''%0a%0a%0a„Wouff wouff! Prèsidànt, pass doch ouff !%0a%0a’s git hupotékaarisch es Pouff.“%0a%0a„Daas gaat mi nuut aa,%0a%0aPfoui still ! dou mouësch gaa !“%0a%0aDoch –zig Miljarde geund drouff.%0a%0a%0a'''Limerick 13'''%0a%0a%0aWaas mouës so–n en tuëchtige Maa%0a%0aVo–n àim ouf de–r ander Taag gaa ?%0a%0aSy Làischtig séig fàin,%0a%0asys Ggwusse séig ràin –%0a%0atànk ggwarnt vor Verlouscht wirt er haa.%0a%0a%0a'''Limerick 14'''%0a%0a%0a’S hàt z’Tuutschland em heuhchschte vo–r Poscht%0a%0ade Poschte wàg Stuurbétrouhg gchoscht.%0a%0aJétz tànkt màngi Bank%0a%0abi–n euïs: „Gottsàidank%0a%0ahànd s’ z’Liëchtestài àne dèè Froscht.%0a%0a%0a%0a
+time=1203281416
+author:1203281416=fwyss
+diff:1203281416:1203281309:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick121314.mp3%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick12–13–14.mp3%0a> %0a
+host:1203281416=83.77.237.3
+author:1203281309=fwyss
+diff:1203281309:1203281193:=1,45c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick12–13–14.mp3%0a%3c %0a%3c '''Limerick 12'''%0a%3c %0a%3c %0a%3c „Wouff wouff! Prèsidànt, pass doch ouff !%0a%3c %0a%3c ’s git hupotékaarisch es Pouff.“%0a%3c %0a%3c „Daas gaat mi nuut aa,%0a%3c %0a%3c Pfoui still ! dou mouësch gaa !“%0a%3c %0a%3c Doch –zig Miljarde geund drouff.%0a%3c %0a%3c %0a%3c '''Limerick 13'''%0a%3c %0a%3c %0a%3c Waas mouës so–n en tuëchtige Maa%0a%3c %0a%3c Vo–n àim ouf de–r ander Taag gaa ?%0a%3c %0a%3c Sy Làischtig séig fàin,%0a%3c %0a%3c sys Ggwusse séig ràin –%0a%3c %0a%3c tànk ggwarnt vor Verlouscht wirt er haa.%0a%3c %0a%3c %0a%3c '''Limerick 14'''%0a%3c %0a%3c %0a%3c ’S hàt z’Tuutschland em heuhchschte vo–r Poscht%0a%3c %0a%3c de Poschte wàg Stuurbétrouhg gchoscht.%0a%3c %0a%3c Jétz tànkt màngi Bank%0a%3c %0a%3c bi–n euïs: „Gottsàidank%0a%3c %0a%3c hànd s’ z’Liëchtestài àne dèè Froscht.%0a%3c %0a%3c %0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick12–13–14.mp3%0a\ No newline at end of file%0a
+host:1203281309=83.77.237.3
+author:1203281193=fwyss
+diff:1203281193:1203280944:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick12–13–14.mp3%0a\ No newline at end of file%0a---%0a> Attach:Limerick12–13–14.mp3%0a\ No newline at end of file%0a
+host:1203281193=83.77.237.3
+author:1203280944=fwyss
+diff:1203280944:1203280944:=1d0%0a%3c Attach:Limerick12–13–14.mp3%0a\ No newline at end of file%0a
+host:1203280944=83.77.237.3

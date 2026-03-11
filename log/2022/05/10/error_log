@@ -1,0 +1,6 @@
+[Tue May 10 01:16:57 2022] [error] [client 89.252.177.18] script '/var/www/pro-zurituutsch.ch/doc/i.php' not found or unable to stat
+[Tue May 10 02:12:34 2022] [error] [client 185.83.147.245] script '/var/www/pro-zurituutsch.ch/doc/admin_phpinfo.php' not found or unable to stat
+[Tue May 10 07:27:05 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Tue May 10 07:27:08 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Tue May 10 07:42:06 2022] [error] [client 88.214.43.118] script '/var/www/pro-zurituutsch.ch/doc/infophp.php' not found or unable to stat
+[Tue May 10 09:53:05 2022] [error] [client 88.214.43.20] File does not exist: /var/www/pro-zurituutsch.ch/doc/nuked-clan

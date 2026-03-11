@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+csum=
+ctime=1420708273
+host=178.198.220.139
+name=PodCast.Parys070115
+rev=3
+targets=
+text=Attach:Limerick28.mp3%0a%0a!!!Limerick 28%0a%0a%25center%25Parys 07.01.15%0a%0aEs Schuussroor, en Stroumpf uber 's Ggsicht,%0a%0aE Màinig, si chèèmted vom Ggricht:%0a%0a„Raach Raach alalallaa%0a%0apèngpèng tralalalla“%0a%0aSind daas dréi fyg nuutnutzig Wicht.%0a%0a
+time=1420708873
+author:1420708873=
+diff:1420708873:1420708852:=8d7%0a%3c %0a10d8%0a%3c %0a12d9%0a%3c %0a14d10%0a%3c %0a
+host:1420708873=178.198.220.139
+author:1420708852=
+diff:1420708852:1420708273:=1,12c1%0a%3c Attach:Limerick28.mp3%0a%3c %0a%3c !!!Limerick 28%0a%3c %0a%3c %25center%25Parys 07.01.15%0a%3c %0a%3c Es Schuussroor, en Stroumpf uber 's Ggsicht,%0a%3c E Màinig, si chèèmted vom Ggricht:%0a%3c „Raach Raach alalallaa%0a%3c pèngpèng tralalalla“%0a%3c Sind daas dréi fyg nuutnutzig Wicht.%0a%3c %0a---%0a> Attach:Limerick28.mp3%0a\ No newline at end of file%0a
+host:1420708852=178.198.220.139
+author:1420708273=
+diff:1420708273:1420708273:=1d0%0a%3c Attach:Limerick28.mp3%0a\ No newline at end of file%0a
+host:1420708273=178.198.220.139

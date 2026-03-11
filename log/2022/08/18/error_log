@@ -1,0 +1,98 @@
+[Thu Aug 18 05:20:22 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Aug 18 05:20:26 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Aug 18 05:20:28 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Thu Aug 18 05:20:30 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Thu Aug 18 07:51:24 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp-load.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:51:25 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/style.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:51:25 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: www.bing.com
+[Thu Aug 18 07:51:25 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/s_e.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:51:26 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/s_ne.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:51:28 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wikindex.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:51:29 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:51:29 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/radio.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:51:30 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/lock360.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:37 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp-load.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:39 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/old-index.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:39 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/xmrlpc.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:40 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/xmlrpcs.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:40 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp-admin.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:41 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/qindex.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:41 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/doc.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:42 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp_wrong_datlib.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:42 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/beence.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:42 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/ups.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:43 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp-signin.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:43 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/media-admin.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:44 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/export.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:45 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:52:45 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: www.bing.com
+[Thu Aug 18 07:52:46 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: www.bing.com
+[Thu Aug 18 07:52:46 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: www.bing.com
+[Thu Aug 18 07:52:47 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: www.bing.com
+[Thu Aug 18 07:52:47 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/defau1t.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:48 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/css.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:48 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/moduless.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:49 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp-booking.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:49 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:52:50 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:52:51 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: www.bing.com
+[Thu Aug 18 07:52:51 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/config.bak.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:51 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:52:52 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/legion.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:52 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:52:53 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp-plugins.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:53 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/gank.php.PhP, referer: www.bing.com
+[Thu Aug 18 07:52:54 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:52:55 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/archives.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:55 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/xindex.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:56 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/defau11.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:57 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:52:57 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/system_log.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:58 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp-backup-sql-302.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:52:59 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/error.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:00 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/alfacgiapi, referer: www.bing.com
+[Thu Aug 18 07:53:01 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/cgialfa, referer: www.bing.com
+[Thu Aug 18 07:53:02 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:53:03 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:53:03 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:53:04 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: www.bing.com
+[Thu Aug 18 07:53:05 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: www.bing.com
+[Thu Aug 18 07:53:05 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: www.bing.com
+[Thu Aug 18 07:53:06 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: www.bing.com
+[Thu Aug 18 07:53:06 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: www.bing.com
+[Thu Aug 18 07:53:07 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: www.bing.com
+[Thu Aug 18 07:53:08 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:53:08 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:53:09 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.bing.com
+[Thu Aug 18 07:53:09 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/templates, referer: www.bing.com
+[Thu Aug 18 07:53:10 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/templates, referer: www.bing.com
+[Thu Aug 18 07:53:10 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/templates, referer: www.bing.com
+[Thu Aug 18 07:53:11 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: www.bing.com
+[Thu Aug 18 07:53:11 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: www.bing.com
+[Thu Aug 18 07:53:12 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: www.bing.com
+[Thu Aug 18 07:53:13 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: www.bing.com
+[Thu Aug 18 07:53:14 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: www.bing.com
+[Thu Aug 18 07:53:14 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: www.bing.com
+[Thu Aug 18 07:53:15 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:15 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/about.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:16 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/shells.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:16 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/olux.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:16 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/xleet.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:16 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wso.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:17 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/shell.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:17 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/up.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:17 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/upload.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:18 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/x.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:18 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/z.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:19 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/a.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:19 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/test.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:20 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/wp.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:20 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/alfa.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:20 2022] [error] [client 81.19.135.28] script '/var/www/pro-zurituutsch.ch/doc/config.php' not found or unable to stat, referer: www.bing.com
+[Thu Aug 18 07:53:21 2022] [error] [client 81.19.135.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/templates, referer: www.bing.com
+[Thu Aug 18 17:41:07 2022] [error] [client 45.128.245.102] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/
+[Thu Aug 18 20:44:27 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/upload
+[Thu Aug 18 21:31:22 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Aug 18 21:31:35 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Aug 18 21:31:46 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Thu Aug 18 21:32:04 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt

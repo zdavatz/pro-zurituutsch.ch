@@ -1,0 +1,22 @@
+[Sun Nov 27 03:05:13 2022] [error] [client 95.179.161.175] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Sun Nov 27 07:37:00 2022] [error] [client 93.158.91.189] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Sun Nov 27 07:37:00 2022] [error] [client 93.158.91.229] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Sun Nov 27 09:51:12 2022] [error] [client 50.87.138.230] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sun Nov 27 11:19:16 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sun Nov 27 11:19:21 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sun Nov 27 11:19:24 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sun Nov 27 11:19:27 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sun Nov 27 15:42:39 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sun Nov 27 17:06:53 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sun Nov 27 21:29:33 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.inc
+[Sun Nov 27 21:29:38 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.old
+[Sun Nov 27 21:29:44 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.php.bak
+[Sun Nov 27 21:29:49 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.php.dist
+[Sun Nov 27 21:29:55 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.php.inc
+[Sun Nov 27 21:30:00 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.php.old
+[Sun Nov 27 21:30:07 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.php~
+[Sun Nov 27 21:30:12 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.php.txt
+[Sun Nov 27 21:30:17 2022] [error] [client 35.182.107.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-config.txt
+[Sun Nov 27 21:30:22 2022] [error] [client 35.182.107.115] script '/var/www/pro-zurituutsch.ch/doc/phpinfo.php' not found or unable to stat
+[Sun Nov 27 21:30:32 2022] [error] [client 35.182.107.115] script '/var/www/pro-zurituutsch.ch/doc/php.php' not found or unable to stat
+[Sun Nov 27 21:30:38 2022] [error] [client 35.182.107.115] script '/var/www/pro-zurituutsch.ch/doc/info.php' not found or unable to stat

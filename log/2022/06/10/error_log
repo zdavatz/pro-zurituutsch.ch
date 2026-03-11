@@ -1,0 +1,21 @@
+[Fri Jun 10 01:26:33 2022] [error] [client 88.160.142.224] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch
+[Fri Jun 10 01:26:33 2022] [error] [client 88.160.142.224] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress, referer: http://pro-zurituutsch.ch
+[Fri Jun 10 01:26:33 2022] [error] [client 88.160.142.224] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: http://pro-zurituutsch.ch
+[Fri Jun 10 01:26:33 2022] [error] [client 88.160.142.224] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp, referer: http://pro-zurituutsch.ch
+[Fri Jun 10 03:42:05 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Fri Jun 10 03:42:08 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Fri Jun 10 04:21:21 2022] [error] [client 185.220.101.145] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch
+[Fri Jun 10 04:21:21 2022] [error] [client 185.220.101.145] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch
+[Fri Jun 10 04:21:21 2022] [error] [client 185.220.101.145] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch
+[Fri Jun 10 10:51:48 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Fri Jun 10 10:51:50 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Fri Jun 10 13:22:01 2022] [error] [client 88.214.43.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/credentials
+[Fri Jun 10 13:53:55 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Fri Jun 10 13:54:05 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Fri Jun 10 13:54:26 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Fri Jun 10 13:54:34 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Fri Jun 10 19:52:05 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/uploadify
+[Fri Jun 10 21:27:20 2022] [error] [client 211.37.147.188] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Fri Jun 10 23:31:48 2022] [error] [client 185.82.126.31] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch
+[Fri Jun 10 23:31:48 2022] [error] [client 185.82.126.31] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch
+[Fri Jun 10 23:31:48 2022] [error] [client 185.82.126.31] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch

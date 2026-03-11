@@ -1,0 +1,15 @@
+[Sat Apr 16 02:33:13 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sat Apr 16 02:33:14 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Sat Apr 16 02:33:15 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/bc
+[Sat Apr 16 02:33:15 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/bk
+[Sat Apr 16 02:33:16 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/backup
+[Sat Apr 16 02:33:16 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/old
+[Sat Apr 16 02:33:16 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/new
+[Sat Apr 16 02:33:16 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/main
+[Sat Apr 16 02:33:17 2022] [error] [client 38.242.249.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/home
+[Sat Apr 16 06:21:45 2022] [error] [client 162.241.216.167] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sat Apr 16 06:45:44 2022] [error] [client 35.219.62.239] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sat Apr 16 06:56:09 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets
+[Sat Apr 16 10:51:47 2022] [error] [client 106.11.156.27] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Sat Apr 16 15:41:38 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets
+[Sat Apr 16 18:51:07 2022] [error] [client 172.116.209.255] File does not exist: /var/www/pro-zurituutsch.ch/doc/old

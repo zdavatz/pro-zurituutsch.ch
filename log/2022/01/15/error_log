@@ -1,0 +1,7 @@
+[Sat Jan 15 01:46:14 2022] [error] [client 66.249.76.193] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/neu_3.jpg
+[Sat Jan 15 02:35:07 2022] [error] [client 45.227.255.159] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sat Jan 15 10:21:05 2022] [error] [client 83.78.142.30] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sat Jan 15 10:21:33 2022] [error] [client 83.78.142.30] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sat Jan 15 10:24:28 2022] [error] [client 83.78.142.30] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sat Jan 15 10:32:00 2022] [error] [client 83.78.142.30] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sat Jan 15 15:19:44 2022] [error] [client 207.180.213.165] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

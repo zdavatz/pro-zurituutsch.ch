@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=FEW
+csum=
+ctime=1430857336
+host=178.198.220.139
+name=PodCast.LanierFuture
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:LanierFuture.mp3%0a%0a!!!LANIER, J.: Who owns the future /Wem gehört die Zukunft%0a%0a„Schicktisch Dou en kolàktyv programiërte Roboter statt Dyr go Séx haa wil er bésser isch als Dou, oder wéttisch dèè Séx sàlber haa ound bésser wèrde will Dou 's machsch ?“%0a %0aNachdèm Dou' uber dië Schèrzfraag gglàchlet hàsch, bisch vilicht ggwoundrig worde fur daas Bouëch vo me Mousiker, Universitèètsdozànt ous Silicon Valley ound Fridesprystrààger vom Tuutsche Bouëchhandel. „Who owns the future“ beschàftiget sych mit déne „Sirééne–Server“ wo rych ound màchtig wèrded indém s' ounder em Voorwand vo Graatislàischtige Information vo–n ire Chounde–n apzapfed ound verchawwfed fur Wèrbig ound anderi Zwàck zou Gounschte vo Groossbétryb mit em Résoultaat, das sit Jaare–n ound verouhssichtli wyterhy dië màischte Mittelstandspruëff verschwinded. Daas ouhsnàmend grundtli ggschribe Bouëch schlaat e Gàgemaassnaam voor, kài Révolouzjon ound kài Gsétzesnovàle, sondern en fréiwilige Wandel vo de Wirtschaft in e màntschewurdigi Form. De Lanier béschrybt dië voorlèuïffig na outoopischi màntschewurdigi Wirtschaftsform, verschideni Wààg wo dezouë séled fuëre, Voor– ound Naachtàil wo sych bim Ubergang vo–r alte–n i dië neuï Wirtschaft chèènted ergèè, ound er ilouschtriërt mit Zwuschespyl ound Bilder syni Aasichte. Nach Syte 381 chounnt en Aahang mit Régischter vo Stichwèurter, Fachouhsdruck ound Quàle.%0a%0aDaas Bouëch empfil ych ale wo 's wounder nimmt, was ous all déne–n Informazjoone uber sych sàlber wirt, wo si uber Choundechaarte, soziaali Méédje, Bank–Chèèrtli oder anderi Sàgnige vom huttige Làbe oumenandstreujed.%0a
+time=1436282212
+author:1436282212=FEW
+diff:1436282212:1430857524:=
+host:1436282212=178.198.220.139
+author:1430857524=
+diff:1430857524:1430857468:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:LanierFuture.mp3%0a%3c %0a---%0a> Attach:LanierFuture.mp3%0a> %0a9a10%0a> %0a
+host:1430857524=178.198.220.139
+author:1430857468=
+diff:1430857468:1430857336:=1,11c1%0a%3c Attach:LanierFuture.mp3%0a%3c %0a%3c !!!LANIER, J.: Who owns the future /Wem gehört die Zukunft%0a%3c %0a%3c „Schicktisch Dou en kolàktyv programiërte Roboter statt Dyr go Séx haa wil er bésser isch als Dou, oder wéttisch dèè Séx sàlber haa ound bésser wèrde will Dou 's machsch ?“%0a%3c  %0a%3c Nachdèm Dou' uber dië Schèrzfraag gglàchlet hàsch, bisch vilicht ggwoundrig worde fur daas Bouëch vo me Mousiker, Universitèètsdozànt ous Silicon Valley ound Fridesprystrààger vom Tuutsche Bouëchhandel. „Who owns the future“ beschàftiget sych mit déne „Sirééne–Server“ wo rych ound màchtig wèrded indém s' ounder em Voorwand vo Graatislàischtige Information vo–n ire Chounde–n apzapfed ound verchawwfed fur Wèrbig ound anderi Zwàck zou Gounschte vo Groossbétryb mit em Résoultaat, das sit Jaare–n ound verouhssichtli wyterhy dië màischte Mittelstandspruëff verschwinded. Daas ouhsnàmend grundtli ggschribe Bouëch schlaat e Gàgemaassnaam voor, kài Révolouzjon ound kài Gsétzesnovàle, sondern en fréiwilige Wandel vo de Wirtschaft in e màntschewurdigi Form. De Lanier béschrybt dië voorlèuïffig na outoopischi màntschewurdigi Wirtschaftsform, verschideni Wààg wo dezouë séled fuëre, Voor– ound Naachtàil wo sych bim Ubergang vo–r alte–n i dië neuï Wirtschaft chèènted ergèè, ound er ilouschtriërt mit Zwuschespyl ound Bilder syni Aasichte. Nach Syte 381 chounnt en Aahang mit Régischter vo Stichwèurter, Fachouhsdruck ound Quàle.%0a%3c %0a%3c Daas Bouëch empfil ych ale wo 's wounder nimmt, was ous all déne–n Informazjoone uber sych sàlber wirt, wo si uber Choundechaarte, soziaali Méédje, Bank–Chèèrtli oder anderi Sàgnige vom huttige Làbe oumenandstreujed.%0a%3c %0a%3c   %0a\ No newline at end of file%0a---%0a> Attach:LanierFuture.mp3%0a\ No newline at end of file%0a
+host:1430857468=178.198.220.139
+author:1430857336=
+diff:1430857336:1430857336:=1d0%0a%3c Attach:LanierFuture.mp3%0a\ No newline at end of file%0a
+host:1430857336=178.198.220.139

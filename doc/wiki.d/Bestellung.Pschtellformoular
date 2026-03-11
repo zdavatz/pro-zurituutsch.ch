@@ -1,0 +1,185 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1173692875
+host=194.230.243.52
+name=Bestellung.Pschtellformoular
+rev=58
+targets=
+text=!!Bestellen.Pschtellformoular%0a%0a(:wyss: C.H.Aaron, Subskriptionspreis Fr. 33.00\\%0aHörbuch und Buch auf 5 CD's auf Zürichdeutsch :)%0a%0a(:wyss: konzyl à Fr. 28.50\\%0aHörbuch und Buch auf CD auf Zürichdeutsch :)%0a%0a(:ovid: liëbhaber à Fr. 45.-\\%0aArs Amatoria von Ovid auf Zürichdeutsch :)%0a%0a(:queneau: Styluëbige à Fr. 7.50.-\\%0aÉxercices de Style von R. Queneau\\%0aauf Zürichdeutsch :)%0a%0a(:legenden: Viër bitterbeuhsi Légànde à Fr. 20.-\\%0avon F. E. Wyss :)%0a%0a(:input form:)%0a(:messages:)%0a||border=0 cellpadding=0 cellspacing=0 valign=top%0a%0a!!! Hörbücher MP3 auf Zürichdeutsch:%0a%0a||{$:wyss} ||(:input text hoerbuch_C.H.Aaron{$hoerbuch_C.H.Aaron} size=3 :) Exemplare ||%0a||{$:wyss} ||(:input text hoerbuch_konzyl {$hoerbuch_konzyl} size=3 :) Exemplare ||%0a%0a!!! Bücher auf Zürichdeutsch:%0a%0a||{$:ovid} ||(:input text buch_liebhaber {$buch_liebhaber} size=3 :) Exemplare ||%0a||{$:queneau} ||(:input text buch_queneau {$buch_queneau} size=3 :) Exemplare ||%0a||{$:legenden} ||(:input text buch_legenden {$buch_legenden} size=3 :) Exemplare ||%0a||Email Adresse ||(:input text email "{$email}" size=40:)||%0a||Anrede ||(:input text anrede "{$anrede}" size=40:) ||%0a||Name ||(:input text name "{$name}" size=40:) ||%0a||Vorname ||(:input text vorname "{$vorname}" size=40:) ||%0a||Firma ||(:input text firma "{$firma}" size=40:) ||%0a||Adresse ||(:input text adresse "{$adresse}" size=40:) ||%0a||PLZ / Ort ||(:input text ort "{$ort}" size=40:) ||%0a||Telefon ||(:input text telefon "{$telefon}" size=40:) ||%0a||Mitteilungen ||(:textarea name=mitteilungen cols=72 rows=12:){$mitteilungen}(:textareaend:)%0a|| ||Ich wünsche eine Zustellung mit Einzahlungsschein an obige Adresse.\\%0aDie Preise verstehen sich ohne Versandspesen. ||%0a|| ||(:input submit value="Email senden":) ||%0a(:input hidden action order :)%0a(:input end:)%0a%0a
+time=1179560354
+author:1179560354=fwyss
+diff:1179560354:1179560241:=25a26%0a> %0a
+host:1179560354=194.230.243.52
+author:1179560241=fwyss
+diff:1179560241:1179560141:=26d25%0a%3c %0a
+host:1179560241=194.230.243.52
+author:1179560141=fwyss
+diff:1179560141:1179223157:=3c3%0a%3c (:wyss: C.H.Aaron, Subskriptionspreis Fr. 33.00\\%0a---%0a> (:wyss: C.H.Aaron, Subskriptionspreis Fr. 30.00\\%0a
+host:1179560141=194.230.243.52
+author:1179223157=fwyss
+diff:1179223157:1179223015:=3,8c3,5%0a%3c (:wyss: C.H.Aaron, Subskriptionspreis Fr. 30.00\\%0a%3c Hörbuch und Buch auf 5 CD's auf Zürichdeutsch :)%0a%3c %0a%3c (:wyss: konzyl à Fr. 28.50\\%0a%3c Hörbuch und Buch auf CD auf Zürichdeutsch :)%0a%3c %0a---%0a> %0a> %0a> %0a
+host:1179223157=83.76.211.146
+author:1179223015=fwyss
+diff:1179223015:1179222960:=5c5,7%0a%3c %0a---%0a> (:wyss: konzyl à Fr. 28.50\\%0a> Hörbuch und Buch auf CD auf Zürichdeutsch :)%0a> %0a
+host:1179223015=83.76.211.146
+author:1179222960=fwyss
+diff:1179222960:1179222804:=3,4c3,9%0a%3c %0a%3c %0a---%0a> !!! Hörbücher MP3 auf Zürichdeutsch:%0a> %0a> %0a> (:C.H.Aaron, en Schélmeroman \\%0a> 24 Stunden Hörvergnügen auf 4 mp3–CD's + 1 Schrift–CD\\%0a> Subskriptionspreis Fr. 33.00:)%0a> %0a21,23d25%0a%3c %0a%3c !!! Hörbücher MP3 auf Zürichdeutsch:%0a%3c %0a
+host:1179222960=83.76.211.146
+author:1179222804=fwyss
+diff:1179222804:1179222659:=12a13,15%0a> %0a> !!! Bücher auf Zürichdeutsch:%0a> %0a28,30d30%0a%3c %0a%3c !!! Bücher auf Zürichdeutsch:%0a%3c %0a
+host:1179222804=83.76.211.146
+author:1179222659=fwyss
+diff:1179222659:1179222593:=16c16%0a%3c (:ovid: liëbhaber à Fr. 45.-\\%0a---%0a> ovid: liëbhaber à Fr. 45.-\\%0a
+host:1179222659=83.76.211.146
+author:1179222593=fwyss
+diff:1179222593:1179222346:=3,6c3,7%0a%3c !!! Hörbücher MP3 auf Zürichdeutsch:%0a%3c %0a%3c %0a%3c (:C.H.Aaron, en Schélmeroman \\%0a---%0a> (:wyss: C.H.Aaron\\%0a> %0a> !Hörbücher MP3 auf Zürichdeutsch:%0a> %0a> (:C.H.Aaron, en Schélmeroman) , \\%0a13,15c14,15%0a%3c %0a%3c !!! Bücher auf Zürichdeutsch:%0a%3c %0a---%0a> !Bücher auf Zürichdeutsch:%0a> %0a
+host:1179222593=83.76.211.146
+author:1179222346=fwyss
+diff:1179222346:1179221854:=5,6c5,6%0a%3c !Hörbücher MP3 auf Zürichdeutsch:%0a%3c %0a---%0a> %25center%25Hörbücher MP3 auf Zürichdeutsch:%0a> %0a14,15c14,15%0a%3c !Bücher auf Zürichdeutsch:%0a%3c %0a---%0a> %25center%25Bücher auf Zürichdeutsch:%0a> %0a29d28%0a%3c ||{$:wyss} ||(:input text hoerbuch_C.H.Aaron{$hoerbuch_C.H.Aaron} size=3 :) Exemplare ||%0a
+host:1179222346=83.76.211.146
+author:1179221854=fwyss
+diff:1179221854:1178724777:=4,10c4,6%0a%3c %0a%3c %25center%25Hörbücher MP3 auf Zürichdeutsch:%0a%3c %0a%3c (:C.H.Aaron, en Schélmeroman) , \\%0a%3c 24 Stunden Hörvergnügen auf 4 mp3–CD's + 1 Schrift–CD\\%0a%3c Subskriptionspreis Fr. 33.00:)%0a%3c %0a---%0a> Hörbuch und Buch, 24 Stunden Hörvergnügen auf 4 mp3–CD's und 1 Schrift–CD%0a> Subskription in Vorbereitung :)%0a> %0a14,16c10%0a%3c %25center%25Bücher auf Zürichdeutsch:%0a%3c %0a%3c ovid: liëbhaber à Fr. 45.-\\%0a---%0a> (:ovid: liëbhaber à Fr. 45.-\\%0a
+host:1179221854=83.76.211.146
+author:1178724777=fwyss
+diff:1178724777:1177430139:=1,2c1,2%0a%3c !!Bestellen.Pschtellformoular%0a%3c %0a---%0a> !!Bücher bestellen%0a> %0a
+host:1178724777=83.76.223.181
+author:1177430139=fwyss
+diff:1177430139:1177397767:=14c14%0a%3c Éxercices de Style von R. Queneau\\%0a---%0a> Éxercices des Style von R. Queneau\\%0a
+host:1177430139=83.76.202.119
+author:1177397767=fwyss
+diff:1177397767:1177397674:=3c3%0a%3c (:wyss: C.H.Aaron\\%0a---%0a> (:wyss:C.H.Aaron\\%0a5,6c5,6%0a%3c Subskription in Vorbereitung :)%0a%3c %0a---%0a> in Vorbereitung%0a> %0a
+host:1177397767=83.77.231.235
+author:1177397674=fwyss
+diff:1177397674:1177397608:=2,3c2%0a%3c %0a%3c (:wyss:C.H.Aaron\\%0a---%0a> (:wyss:Subskription\\%0a
+host:1177397674=83.77.231.235
+author:1177397608=fwyss
+diff:1177397608:1173904010:=2,5c2%0a%3c (:wyss:Subskription\\%0a%3c Hörbuch und Buch, 24 Stunden Hörvergnügen auf 4 mp3–CD's und 1 Schrift–CD%0a%3c in Vorbereitung%0a%3c %0a---%0a> %0a
+host:1177397608=83.77.231.235
+author:1173904010=fwyss
+diff:1173904010:1173903991:=5c5%0a%3c %0a---%0a> ----%0a8c8%0a%3c %0a---%0a> ----%0a
+host:1173904010=84.72.158.179
+author:1173903991=fwyss
+diff:1173903991:1173903971:=5c5%0a%3c ----%0a---%0a> %0a8c8%0a%3c ----%0a---%0a> %0a
+host:1173903991=84.72.158.179
+author:1173903971=fwyss
+diff:1173903971:1173903940:=10c10%0a%3c Éxercices des Style von R. Queneau\\%0a---%0a> Éxercices des Style von R. Queneau%0a
+host:1173903971=84.72.158.179
+author:1173903940=fwyss
+diff:1173903940:1173903390:=6c6%0a%3c (:ovid: liëbhaber à Fr. 45.-\\%0a---%0a> (:ovid: liëbhaber à Fr. 45.-\\ %0a
+host:1173903940=84.72.158.179
+author:1173903390=fwyss
+diff:1173903390:1173903342:=
+host:1173903390=84.72.158.179
+author:1173903342=fwyss
+diff:1173903342:1173903314:=10c10%0a%3c Éxercices des Style von R. Queneau%0a---%0a> Éxercices des Style von R. Queneau\\%0a
+host:1173903342=84.72.158.179
+author:1173903314=fwyss
+diff:1173903314:1173903111:=19,20c19,20%0a%3c ||{$:wyss} ||(:input text hoerbuch_konzyl {$hoerbuch_konzyl} size=3 :) Exemplare ||%0a%3c ||{$:ovid} ||(:input text buch_liebhaber {$buch_liebhaber} size=3 :) Exemplare ||%0a---%0a> ||{$:konzyl} ||(:input text hoerbuch_konzyl {$hoerbuch_konzyl} size=3 :) Exemplare ||%0a> ||{$:liebhaber} ||(:input text buch_liebhaber {$buch_liebhaber} size=3 :) Exemplare ||%0a
+host:1173903314=84.72.158.179
+author:1173903111=fwyss
+diff:1173903111:1173903087:=3c3%0a%3c (:wyss: konzyl à Fr. 28.50\\%0a---%0a> (wyss: konzyl à Fr. 28.50\\%0a
+host:1173903111=84.72.158.179
+author:1173903087=fwyss
+diff:1173903087:1173814046:=3c3%0a%3c (wyss: konzyl à Fr. 28.50\\%0a---%0a> (wyss: konzyl à Fr. 28.50 \\%0a
+host:1173903087=84.72.158.179
+author:1173814046=fwyss
+diff:1173814046:1173813933:=6c6%0a%3c (:ovid: liëbhaber à Fr. 45.-\\ %0a---%0a> (:ovid: emliëbhabersysfach à Fr. 45.-\\ %0a
+host:1173814046=83.76.201.8
+author:1173813933=fwyss
+diff:1173813933:1173813864:=6c6%0a%3c (:ovid: emliëbhabersysfach à Fr. 45.-\\ %0a---%0a> (:ovid: em liëbhaber sys fach à Fr. 45.-\\ %0a
+host:1173813933=83.76.201.8
+author:1173813864=fwyss
+diff:1173813864:1173813814:=
+host:1173813864=83.76.201.8
+author:1173813814=fwyss
+diff:1173813814:1173813402:=3,6c3%0a%3c (wyss: konzyl à Fr. 28.50 \\%0a%3c Hörbuch und Buch auf CD auf Zürichdeutsch :)%0a%3c %0a%3c (:ovid: em liëbhaber sys fach à Fr. 45.-\\ %0a---%0a> (:liebhaber: Em Liebhaber sys Fach à Fr. 45.- \\%0a
+host:1173813814=83.76.201.8
+author:1173813402=fwyss
+diff:1173813402:1173719377:=16d15%0a%3c ||{$:konzyl} ||(:input text hoerbuch_konzyl {$hoerbuch_konzyl} size=3 :) Exemplare ||%0a
+host:1173813402=83.76.201.8
+author:1173719377=fwyss
+diff:1173719377:1173718701:=
+host:1173719377=84.72.158.179
+author:1173718701=fwyss
+diff:1173718701:1173718683:=18a19%0a> %0a
+host:1173718701=84.72.158.179
+author:1173718683=fwyss
+diff:1173718683:1173718499:=19d18%0a%3c %0a
+host:1173718683=84.72.158.179
+author:1173718499=
+diff:1173718499:1173715040:=23d22%0a%3c ||Firma ||(:input text firma "{$firma}" size=40:) ||%0a
+host:1173718499=84.72.158.179
+author:1173715040=
+diff:1173715040:1173714751:=19c19%0a%3c ||Email Adresse ||(:input text email "{$email}" size=40:)||%0a---%0a> ||Email Adresse ||(:input text email "{$:email}" size=40:)||%0a
+host:1173715040=84.72.158.179
+author:1173714751=
+diff:1173714751:1173713667:minor=19c19%0a%3c ||Email Adresse ||(:input text email "{$:email}" size=40:)||%0a---%0a> ||Email Adresse ||(:input text email "{$email}" size=40:)||%0a
+host:1173714751=84.72.158.179
+author:1173713667=
+diff:1173713667:1173713653:=14c14%0a%3c (:messages:)%0a---%0a> %0a
+host:1173713667=84.72.158.179
+author:1173713653=
+diff:1173713653:1173713435:=14c14%0a%3c %0a---%0a> (:messages:)%0a
+host:1173713653=84.72.158.179
+author:1173713435=
+diff:1173713435:1173713239:=16,20c16,20%0a%3c ||{$:liebhaber} ||(:input text buch_liebhaber {$buch_liebhaber} size=3 :) Exemplare ||%0a%3c ||{$:queneau} ||(:input text buch_queneau {$buch_queneau} size=3 :) Exemplare ||%0a%3c ||{$:legenden} ||(:input text buch_legenden {$buch_legenden} size=3 :) Exemplare ||%0a%3c ||Email Adresse ||(:input text email "{$email}" size=40:)||%0a%3c ||Anrede ||(:input text anrede "{$anrede}" size=40:) ||%0a---%0a> ||{$:liebhaber} ||(:input text buch_liebhaber {$:buch_liebhaber} size=3 :) Exemplare ||%0a> ||{$:queneau} ||(:input text buch_queneau {$:buch_queneau} size=3 :) Exemplare ||%0a> ||{$:legenden} ||(:input text buch_legenden {$:buch_legenden} size=3 :) Exemplare ||%0a> ||Email Adresse ||(:input text email "{$:email}" size=40:)||%0a> ||Anrede ||(:input text anrede "{$:anrede}" size=40:) ||%0a22,26c22,26%0a%3c ||Vorname ||(:input text vorname "{$vorname}" size=40:) ||%0a%3c ||Adresse ||(:input text adresse "{$adresse}" size=40:) ||%0a%3c ||PLZ / Ort ||(:input text ort "{$ort}" size=40:) ||%0a%3c ||Telefon ||(:input text telefon "{$telefon}" size=40:) ||%0a%3c ||Mitteilungen ||(:textarea name=mitteilungen cols=72 rows=12:){$mitteilungen}(:textareaend:)%0a---%0a> ||Vorname ||(:input text vorname "{$:vorname}" size=40:) ||%0a> ||Adresse ||(:input text adresse "{$:adresse}" size=40:) ||%0a> ||PLZ / Ort ||(:input text ort "{$:ort}" size=40:) ||%0a> ||Telefon ||(:input text telefon "{$:telefon}" size=40:) ||%0a> ||Mitteilungen ||(:textarea name=mitteilungen cols=72 rows=12:){$:mitteilungen}(:textareaend:)%0a
+host:1173713435=84.72.158.179
+author:1173713239=
+diff:1173713239:1173713033:=19c19%0a%3c ||Email Adresse ||(:input text email "{$:email}" size=40:)||%0a---%0a> ||Email Adresse ||(:input text email "{$:emailfrom}" size=40:)||%0a
+host:1173713239=84.72.158.179
+author:1173713033=
+diff:1173713033:1173712493:=19c19%0a%3c ||Email Adresse ||(:input text email "{$:emailfrom}" size=40:)||%0a---%0a> ||Email Adresse ||(:input text emailfrom "{$:emailfrom}" size=40:)||%0a
+host:1173713033=84.72.158.179
+author:1173712493=
+diff:1173712493:1173712342:=14d13%0a%3c (:messages:)%0a
+host:1173712493=84.72.158.179
+author:1173712342=
+diff:1173712342:1173712261:=6c6,9%0a%3c (:queneau: Styluëbige à Fr. 7.50.-\\%0a---%0a> (:input form:)%0a> ||border=0 cellpadding=0 cellspacing=0 valign=top%0a> ||{$:liebhaber} ||(:input text buch_liebhaber {$:buch_liebhaber} size=3 :) Exemplare ||%0a> ||Styluëbige à Fr. 7.50.-\\%0a8,17c11,13%0a%3c auf Zürichdeutsch :)%0a%3c %0a%3c (:legenden: Viër bitterbeuhsi Légànde à Fr. 20.-\\%0a%3c von F. E. Wyss :)%0a%3c %0a%3c (:input form:)%0a%3c ||border=0 cellpadding=0 cellspacing=0 valign=top%0a%3c ||{$:liebhaber} ||(:input text buch_liebhaber {$:buch_liebhaber} size=3 :) Exemplare ||%0a%3c ||{$:queneau} ||(:input text buch_queneau {$:buch_queneau} size=3 :) Exemplare ||%0a%3c ||{$:legenden} ||(:input text buch_legenden {$:buch_legenden} size=3 :) Exemplare ||%0a---%0a> auf Zürichdeutsch||(:input text buch_queneau {$:buch_queneau} size=3 :) Exemplare ||%0a> ||Viër bitterbeuhsi Légànde à Fr. 20.-\\%0a> von F. E. Wyss||(:input text buch_legenden {$:buch_legenden} size=3 :) Exemplare ||%0a
+host:1173712342=84.72.158.179
+author:1173712261=
+diff:1173712261:1173712214:minor=3,5c3,6%0a%3c (:liebhaber: Em Liebhaber sys Fach à Fr. 45.- \\%0a%3c Ars Amatoria von Ovid auf Zürichdeutsch :)%0a%3c %0a---%0a> (:Liebhaber: Em Liebhaber sys Fach à Fr. 45.-%0a> Ars Amatoria von Ovid auf Zürichdeutsch%0a> :)%0a> %0a8c9%0a%3c ||{$:liebhaber} ||(:input text buch_liebhaber {$:buch_liebhaber} size=3 :) Exemplare ||%0a---%0a> ||{$:Liebhaber} ||(:input text buch_Liebhaber {$:buch_liebhaber} size=3 :) Exemplare ||%0a
+host:1173712261=84.72.158.179
+author:1173712214=
+diff:1173712214:1173712178:=9c9%0a%3c ||{$:Liebhaber} ||(:input text buch_Liebhaber {$:buch_liebhaber} size=3 :) Exemplare ||%0a---%0a> ||{$:liebhaber} ||(:input text buch_liebhaber {$:buch_liebhaber} size=3 :) Exemplare ||%0a
+host:1173712214=84.72.158.179
+author:1173712178=
+diff:1173712178:1173712068:=3c3,4%0a%3c (:Liebhaber: Em Liebhaber sys Fach à Fr. 45.-%0a---%0a> (:liebhaber:%0a> Em Liebhaber sys Fach à Fr. 45.-%0a
+host:1173712178=84.72.158.179
+author:1173712068=
+diff:1173712068:1173708257:=3,7d2%0a%3c (:liebhaber:%0a%3c Em Liebhaber sys Fach à Fr. 45.-%0a%3c Ars Amatoria von Ovid auf Zürichdeutsch%0a%3c :)%0a%3c %0a10c5,6%0a%3c ||{$:liebhaber} ||(:input text buch_liebhaber {$:buch_liebhaber} size=3 :) Exemplare ||%0a---%0a> ||Em Liebhaber sys Fach à Fr. 45.-\\%0a> Ars Amatoria von Ovid auf Zürichdeutsch||(:input text buch_liebhaber {$buch_liebhaber} size=3 :) Exemplare ||%0a13c9%0a%3c auf Zürichdeutsch||(:input text buch_queneau {$:buch_queneau} size=3 :) Exemplare ||%0a---%0a> auf Zürichdeutsch||(:input text buch_queneau {$buch_queneau} size=3 :) Exemplare ||%0a15,17c11,13%0a%3c von F. E. Wyss||(:input text buch_legenden {$:buch_legenden} size=3 :) Exemplare ||%0a%3c ||Email Adresse ||(:input text emailfrom "{$:emailfrom}" size=40:)||%0a%3c ||Anrede ||(:input text anrede "{$:anrede}" size=40:) ||%0a---%0a> von F. E. Wyss||(:input text buch_legenden {$buch_legenden} size=3 :) Exemplare ||%0a> ||Email Adresse ||(:input text emailfrom "{$emailfrom}" size=40:)||%0a> ||Anrede ||(:input text anrede "{$anrede}" size=40:) ||%0a19,23c15,19%0a%3c ||Vorname ||(:input text vorname "{$:vorname}" size=40:) ||%0a%3c ||Adresse ||(:input text adresse "{$:adresse}" size=40:) ||%0a%3c ||PLZ / Ort ||(:input text ort "{$:ort}" size=40:) ||%0a%3c ||Telefon ||(:input text telefon "{$:telefon}" size=40:) ||%0a%3c ||Mitteilungen ||(:textarea name=mitteilungen cols=72 rows=12:){$:mitteilungen}(:textareaend:)%0a---%0a> ||Vorname ||(:input text vorname "{$vorname}" size=40:) ||%0a> ||Adresse ||(:input text adresse "{$adresse}" size=40:) ||%0a> ||PLZ / Ort ||(:input text ort "{$ort}" size=40:) ||%0a> ||Telefon ||(:input text telefon "{$telefon}" size=40:) ||%0a> ||Mitteilungen ||(:textarea mitteilungen  cols=72 rows=12:){$mitteilungen}(:textareaend:)%0a
+host:1173712068=84.72.158.179
+author:1173708257=
+diff:1173708257:1173703171:=3c3,8%0a%3c (:input form:)%0a---%0a> (:zapget:)%0a> %0a> (:messages:)%0a> (:zapform:)%0a> (:zap emailsubject="Bücherbestellung von www.pro-zurituutsch.ch":)%0a> (:zap emailto="hwyss@ywesee.com":)%0a19c24%0a%3c ||Mitteilungen ||(:textarea mitteilungen  cols=72 rows=12:){$mitteilungen}(:textareaend:)%0a---%0a> ||Mitteilungen ||(:input textarea mitteilungen "{$mitteilungen}" cols=72 rows=12:)%0a23,25c28,33%0a%3c (:input hidden action order :)%0a%3c (:input end:)%0a%3c %0a---%0a> %0a> (:zap validateemailfrom="^.+@.+\..+$|| warn|'Bitte geben Sie eine gültige Email-Adresse an!'":)%0a> (:zap emailbody="Bestellung:[[%3c%3c]]Lieferung an:[[%3c%3c]]{anrede} {vorname} {name}[[%3c%3c]]{adresse}[[%3c%3c]]{ort}[[%3c%3c]]Email: {emailfrom}[[%3c%3c]]Telefon: {telefon}[[%3c%3c]]Mitteilungen:[[%3c%3c]]{mitteilungen}" :)%0a> (:zap passdata="buch_liebhaber,buch_queneau,buch_legenden,emailfrom,anrede,name,vorname,adresse,ort,telefon,mitteilungen":)%0a> (:zapend:)%0a> %0a
+host:1173708257=84.72.158.179
+author:1173703171=
+diff:1173703171:1173697227:=17,24c17,24%0a%3c ||Email Adresse ||(:input text emailfrom "{$emailfrom}" size=40:)||%0a%3c ||Anrede ||(:input text anrede "{$anrede}" size=40:) ||%0a%3c ||Name ||(:input text name "{$name}" size=40:) ||%0a%3c ||Vorname ||(:input text vorname "{$vorname}" size=40:) ||%0a%3c ||Adresse ||(:input text adresse "{$adresse}" size=40:) ||%0a%3c ||PLZ / Ort ||(:input text ort "{$ort}" size=40:) ||%0a%3c ||Telefon ||(:input text telefon "{$telefon}" size=40:) ||%0a%3c ||Mitteilungen ||(:input textarea mitteilungen "{$mitteilungen}" cols=72 rows=12:)%0a---%0a> ||Email Adresse ||(:input text emailfrom {$emailfrom} size=40:)||%0a> ||Anrede ||(:input text anrede {$anrede} size=40:) ||%0a> ||Name ||(:input text name {$name} size=40:) ||%0a> ||Vorname ||(:input text vorname {$vorname} size=40:) ||%0a> ||Adresse ||(:input text adresse {$adresse} size=40:) ||%0a> ||PLZ / Ort ||(:input text ort {$ort} size=40:) ||%0a> ||Telefon ||(:input text telefon {$telefon} size=40:) ||%0a> ||Mitteilungen ||(:input textarea mitteilungen {$mitteilungen} cols=72 rows=12:)%0a30c30%0a%3c (:zap emailbody="Bestellung:[[%3c%3c]]Lieferung an:[[%3c%3c]]{anrede} {vorname} {name}[[%3c%3c]]{adresse}[[%3c%3c]]{ort}[[%3c%3c]]Email: {emailfrom}[[%3c%3c]]Telefon: {telefon}[[%3c%3c]]Mitteilungen:[[%3c%3c]]{mitteilungen}" :)%0a---%0a> (:zap emailbody="Bestellung:\n\nLieferung an:\n{anrede} {vorname} {name}\n{adresse}\n{ort}\nEmail: {emailfrom}\nTelefon: {telefon}\n\nMitteilungen:\n{mitteilungen}" :)%0a
+host:1173703171=84.72.158.179
+author:1173697227=
+diff:1173697227:1173695883:=
+host:1173697227=84.72.158.179
+author:1173695883=
+diff:1173695883:1173695321:=17c17%0a%3c ||Email Adresse ||(:input text emailfrom {$emailfrom} size=40:)||%0a---%0a> ||Email Adresse ||(:input text emailfrom {$emailfrom} size=40:)(:zap validateemailfrom="^.+@.+\..+$|| warn|'Bitte geben Sie eine gültige Email-Adresse an!'":)||%0a29c29%0a%3c (:zap validateemailfrom="^.+@.+\..+$|| warn|'Bitte geben Sie eine gültige Email-Adresse an!'":)%0a---%0a> %0a31d30%0a%3c (:zap passdata="buch_liebhaber,buch_queneau,buch_legenden,emailfrom,anrede,name,vorname,adresse,ort,telefon,mitteilungen":)%0a
+host:1173695883=84.72.158.179
+author:1173695321=
+diff:1173695321:1173694988:=3,4d2%0a%3c (:zapget:)%0a%3c %0a11c9%0a%3c Ars Amatoria von Ovid auf Zürichdeutsch||(:input text buch_liebhaber {$buch_liebhaber} size=3 :) Exemplare ||%0a---%0a> Ars Amatoria von Ovid auf Zürichdeutsch||(:input text buch_liebhaber "" size=3 :) Exemplare ||%0a14c12%0a%3c auf Zürichdeutsch||(:input text buch_queneau {$buch_queneau} size=3 :) Exemplare ||%0a---%0a> auf Zürichdeutsch||(:input text buch_queneau "" size=3 :) Exemplare ||%0a16,24c14,22%0a%3c von F. E. Wyss||(:input text buch_legenden {$buch_legenden} size=3 :) Exemplare ||%0a%3c ||Email Adresse ||(:input text emailfrom {$emailfrom} size=40:)(:zap validateemailfrom="^.+@.+\..+$|| warn|'Bitte geben Sie eine gültige Email-Adresse an!'":)||%0a%3c ||Anrede ||(:input text anrede {$anrede} size=40:) ||%0a%3c ||Name ||(:input text name {$name} size=40:) ||%0a%3c ||Vorname ||(:input text vorname {$vorname} size=40:) ||%0a%3c ||Adresse ||(:input text adresse {$adresse} size=40:) ||%0a%3c ||PLZ / Ort ||(:input text ort {$ort} size=40:) ||%0a%3c ||Telefon ||(:input text telefon {$telefon} size=40:) ||%0a%3c ||Mitteilungen ||(:input textarea mitteilungen {$mitteilungen} cols=72 rows=12:)%0a---%0a> von F. E. Wyss||(:input text buch_legenden "" size=3 :) Exemplare ||%0a> ||Email Adresse ||(:input text emailfrom "" size=40 checked:)(:zap validateemailfrom="^.+@.+\..+$|| warn|'Bitte geben Sie eine gültige Email-Adresse an!'":)||%0a> ||Anrede ||(:input text anrede {anrede} size=40:) ||%0a> ||Name ||(:input text name {name} size=40 checked:) ||%0a> ||Vorname ||(:input text vorname {vorname} size=40 checked:) ||%0a> ||Adresse ||(:input text adresse {adresse} size=40 checked:) ||%0a> ||PLZ / Ort ||(:input text ort {ort} size=40 checked:) ||%0a> ||Telefon ||(:input text telefon {telefon} size=40 checked:) ||%0a> ||Mitteilungen ||(:input textarea mitteilungen {mitteilungen} cols=72 rows=12:)%0a
+host:1173695321=84.72.158.179
+author:1173694988=
+diff:1173694988:1173694475:=15,22c15,22%0a%3c ||Email Adresse ||(:input text emailfrom "" size=40 checked:)(:zap validateemailfrom="^.+@.+\..+$|| warn|'Bitte geben Sie eine gültige Email-Adresse an!'":)||%0a%3c ||Anrede ||(:input text anrede {anrede} size=40:) ||%0a%3c ||Name ||(:input text name {name} size=40 checked:) ||%0a%3c ||Vorname ||(:input text vorname {vorname} size=40 checked:) ||%0a%3c ||Adresse ||(:input text adresse {adresse} size=40 checked:) ||%0a%3c ||PLZ / Ort ||(:input text ort {ort} size=40 checked:) ||%0a%3c ||Telefon ||(:input text telefon {telefon} size=40 checked:) ||%0a%3c ||Mitteilungen ||(:input textarea mitteilungen {mitteilungen} cols=72 rows=12:)%0a---%0a> ||Email Adresse ||(:input text emailfrom "" size=40 checked:) ||%0a> ||Anrede ||(:input text anrede {$anrede} size=40:) ||%0a> ||Name ||(:input text name {$name} size=40:) ||%0a> ||Vorname ||(:input text vorname {$vorname} size=40:) ||%0a> ||Adresse ||(:input text adresse {$adresse} size=40:) ||%0a> ||PLZ / Ort ||(:input text ort {$ort} size=40:) ||%0a> ||Telefon ||(:input text telefon {$telefon} size=40:) ||%0a> ||Mitteilungen ||(:input textarea mitteilungen ${mitteilungen} cols=72 rows=12:)%0a27,28c27,28%0a%3c %0a%3c (:zap emailbody="Bestellung:\n\nLieferung an:\n{anrede} {vorname} {name}\n{adresse}\n{ort}\nEmail: {emailfrom}\nTelefon: {telefon}\n\nMitteilungen:\n{mitteilungen}" :)%0a---%0a> (:zap validateemailfrom="^.+@.+\..+$|| warn|'Bitte geben Sie eine gültige Email-Adresse an!'":)%0a> (:zap emailbody="{anrede} {vorname} {name}" :)%0a
+host:1173694988=84.72.158.179
+author:1173694475=
+diff:1173694475:1173694347:=9c9%0a%3c Ars Amatoria von Ovid auf Zürichdeutsch||(:input text buch_liebhaber "" size=3 :) Exemplare ||%0a---%0a> Ars Amatoria von Ovid auf Zürichdeutsch||(:input text buch_liebhaber {$buch_liebhaber} size=3 checked:) Exemplare ||%0a12c12%0a%3c auf Zürichdeutsch||(:input text buch_queneau "" size=3 :) Exemplare ||%0a---%0a> auf Zürichdeutsch||(:input text buch_queneau {$buch_queneau} size=3 checked:) Exemplare ||%0a14,15c14,15%0a%3c von F. E. Wyss||(:input text buch_legenden "" size=3 :) Exemplare ||%0a%3c ||Email Adresse ||(:input text emailfrom "" size=40 checked:) ||%0a---%0a> von F. E. Wyss||(:input text buch_legenden {$buch_legenden} size=3 checked:) Exemplare ||%0a> ||Email Adresse ||(:input text emailfrom {$emailfrom} size=40 checked:) ||%0a
+host:1173694475=84.72.158.179
+author:1173694347=
+diff:1173694347:1173693277:=9c9%0a%3c Ars Amatoria von Ovid auf Zürichdeutsch||(:input text buch_liebhaber {$buch_liebhaber} size=3 checked:) Exemplare ||%0a---%0a> Ars Amatoria von Ovid auf Zürichdeutsch||(:input text liebhaber "" size=3 checked:) Exemplare ||%0a12c12%0a%3c auf Zürichdeutsch||(:input text buch_queneau {$buch_queneau} size=3 checked:) Exemplare ||%0a---%0a> auf Zürichdeutsch||(:input text queneau "" size=3 checked:) Exemplare ||%0a14,22c14,22%0a%3c von F. E. Wyss||(:input text buch_legenden {$buch_legenden} size=3 checked:) Exemplare ||%0a%3c ||Email Adresse ||(:input text emailfrom {$emailfrom} size=40 checked:) ||%0a%3c ||Anrede ||(:input text anrede {$anrede} size=40:) ||%0a%3c ||Name ||(:input text name {$name} size=40:) ||%0a%3c ||Vorname ||(:input text vorname {$vorname} size=40:) ||%0a%3c ||Adresse ||(:input text adresse {$adresse} size=40:) ||%0a%3c ||PLZ / Ort ||(:input text ort {$ort} size=40:) ||%0a%3c ||Telefon ||(:input text telefon {$telefon} size=40:) ||%0a%3c ||Mitteilungen ||(:input textarea mitteilungen ${mitteilungen} cols=72 rows=12:)%0a---%0a> von F. E. Wyss||(:input text legande "" size=3 checked:) Exemplare ||%0a> ||Email Adresse ||(:input text emailfrom "" size=40 checked:) ||%0a> ||Anrede ||(:input text anrede "" size=40:) ||%0a> ||Name ||(:input text name "" size=40:) ||%0a> ||Vorname ||(:input text vorname "" size=40:) ||%0a> ||Adresse ||(:input text adresse "" size=40:) ||%0a> ||PLZ / Ort ||(:input text ort "" size=40:) ||%0a> ||Telefon ||(:input text telefon "" size=40:) ||%0a> ||Mitteilungen ||(:input textarea emailbody cols=72 rows=12:)%0a26,28d25%0a%3c %0a%3c (:zap validateemailfrom="^.+@.+\..+$|| warn|'Bitte geben Sie eine gültige Email-Adresse an!'":)%0a%3c (:zap emailbody="{anrede} {vorname} {name}" :)%0a
+host:1173694347=84.72.158.179
+author:1173693277=
+diff:1173693277:1173693231:=15c15%0a%3c ||Email Adresse ||(:input text emailfrom "" size=40 checked:) ||%0a---%0a> ||Email Adresse ||(:input text email "" size=40 checked:) ||%0a
+host:1173693277=84.72.158.179
+author:1173693231=
+diff:1173693231:1173692875:=5,6c5,6%0a%3c (:zap emailsubject="Bücherbestellung von www.pro-zurituutsch.ch":)%0a%3c (:zap emailto="hwyss@ywesee.com":)%0a---%0a> %0a> %0a
+host:1173693231=84.72.158.179
+author:1173692875=
+diff:1173692875:1173692875:=1,27d0%0a%3c !!Bücher bestellen%0a%3c %0a%3c (:messages:)%0a%3c (:zapform:)%0a%3c %0a%3c %0a%3c ||border=0 cellpadding=0 cellspacing=0 valign=top%0a%3c ||Em Liebhaber sys Fach à Fr. 45.-\\%0a%3c Ars Amatoria von Ovid auf Zürichdeutsch||(:input text liebhaber "" size=3 checked:) Exemplare ||%0a%3c ||Styluëbige à Fr. 7.50.-\\%0a%3c Éxercices des Style von R. Queneau\\%0a%3c auf Zürichdeutsch||(:input text queneau "" size=3 checked:) Exemplare ||%0a%3c ||Viër bitterbeuhsi Légànde à Fr. 20.-\\%0a%3c von F. E. Wyss||(:input text legande "" size=3 checked:) Exemplare ||%0a%3c ||Email Adresse ||(:input text email "" size=40 checked:) ||%0a%3c ||Anrede ||(:input text anrede "" size=40:) ||%0a%3c ||Name ||(:input text name "" size=40:) ||%0a%3c ||Vorname ||(:input text vorname "" size=40:) ||%0a%3c ||Adresse ||(:input text adresse "" size=40:) ||%0a%3c ||PLZ / Ort ||(:input text ort "" size=40:) ||%0a%3c ||Telefon ||(:input text telefon "" size=40:) ||%0a%3c ||Mitteilungen ||(:input textarea emailbody cols=72 rows=12:)%0a%3c || ||Ich wünsche eine Zustellung mit Einzahlungsschein an obige Adresse.\\%0a%3c Die Preise verstehen sich ohne Versandspesen. ||%0a%3c || ||(:input submit value="Email senden":) ||%0a%3c (:zapend:)%0a%3c %0a
+host:1173692875=84.72.158.179

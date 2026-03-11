@@ -1,0 +1,26 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1194508250
+host=83.76.220.107
+name=PodCast.Limerick345
+rev=5
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick3,4,5.mp3%0a%0a'''Limerick 3''' \\%0a%0a%0aWànn t’Tàiffouhn fur Tooti muënd sorge, \\%0aound g’Kryse fur Bankekràsch sorge, \\%0aso sorg i mi aw \\%0aeub t’Naachrichtefraw \\%0asych sorg go–n es Wèurterbouëch psorge. \\%0a%0a%0a'''Limerick 4''' \\%0a%0a%0a’S koréliërt, sàit en Forscher i Chouhr \\%0amit em Chopfoumfang vo me ne Pouhr \\%0a’s Hèrdeupfelggwicht, \\%0anou–r isch bleuhd a dèr Ggschicht \\%0avo de Signifikanz e kà Spouhr. \\%0a%0a%0a'''Limerick 5''' \\%0aEuïthanasy \\%0a%0a%0aEn wurdige Hèrr sàit i Mouhr \\%0aEm Chranke–n ound louëget ouf t’Ouhr: \\%0a„P’Parkzyt lawfft ap, \\%0amach jétz neud schlapp, \\%0a’s isch Zyt fur dië allerlétscht Kouhr. \\%0a%0a
+time=1194508961
+author:1194508961=fwyss
+diff:1194508961:1194508902:=5d4%0a%3c %0a12d10%0a%3c %0a15d12%0a%3c %0a22d18%0a%3c %0a26d21%0a%3c %0a
+host:1194508961=83.76.220.107
+author:1194508902=fwyss
+diff:1194508902:1194508574:=1,27c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick3,4,5.mp3%0a%3c %0a%3c '''Limerick 3''' \\%0a%3c %0a%3c Wànn t’Tàiffouhn fur Tooti muënd sorge, \\%0a%3c ound g’Kryse fur Bankekràsch sorge, \\%0a%3c so sorg i mi aw \\%0a%3c eub t’Naachrichtefraw \\%0a%3c sych sorg go–n es Wèurterbouëch psorge. \\%0a%3c %0a%3c '''Limerick 4''' \\%0a%3c %0a%3c ’S koréliërt, sàit en Forscher i Chouhr \\%0a%3c mit em Chopfoumfang vo me ne Pouhr \\%0a%3c ’s Hèrdeupfelggwicht, \\%0a%3c nou–r isch bleuhd a dèr Ggschicht \\%0a%3c vo de Signifikanz e kà Spouhr. \\%0a%3c %0a%3c '''Limerick 5''' \\%0a%3c Euïthanasy \\%0a%3c %0a%3c En wurdige Hèrr sàit i Mouhr \\%0a%3c Em Chranke–n ound louëget ouf t’Ouhr: \\%0a%3c „P’Parkzyt lawfft ap, \\%0a%3c mach jétz neud schlapp, \\%0a%3c ’s isch Zyt fur dië allerlétscht Kouhr. \\%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick3,4,5.mp3%0a\ No newline at end of file%0a
+host:1194508902=83.76.220.107
+author:1194508574=fwyss
+diff:1194508574:1194508486:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick3,4,5.mp3%0a\ No newline at end of file%0a---%0a> Attach:Limerick3,4,5.mp3%0a\ No newline at end of file%0a
+host:1194508574=83.76.220.107
+author:1194508486=fwyss
+diff:1194508486:1194508250:=
+host:1194508486=83.76.220.107
+author:1194508250=fwyss
+diff:1194508250:1194508250:=1d0%0a%3c Attach:Limerick3,4,5.mp3%0a\ No newline at end of file%0a
+host:1194508250=83.76.220.107

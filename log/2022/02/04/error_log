@@ -1,0 +1,9 @@
+[Fri Feb 04 01:26:45 2022] [error] [client 142.132.139.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Fri Feb 04 07:47:49 2022] [error] [client 147.139.6.62] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch
+[Fri Feb 04 07:47:53 2022] [error] [client 147.139.6.62] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress, referer: http://pro-zurituutsch.ch
+[Fri Feb 04 07:47:54 2022] [error] [client 147.139.6.62] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: http://pro-zurituutsch.ch
+[Fri Feb 04 07:47:55 2022] [error] [client 147.139.6.62] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp, referer: http://pro-zurituutsch.ch
+[Fri Feb 04 15:11:48 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/wwos.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/wwos.php
+[Fri Feb 04 16:48:02 2022] [error] [client 108.167.189.49] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Fri Feb 04 18:19:46 2022] [error] [client 93.158.92.199] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Fri Feb 04 18:19:46 2022] [error] [client 93.158.92.231] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt

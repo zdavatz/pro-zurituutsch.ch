@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+csum=
+ctime=1453482182
+host=178.198.133.189
+name=PodCast.RezPflInt
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:PflInt.mp3%0a%0a!!!Stefano Mancuso, Alessandra Viola: Die Intelligenz der Pflanzen%0a%25center%25Ous em Italiènische. Kunstmann Verlag%0a%0aT'Awtoore gànd e popoulèèrwusseschaftlichi Zàmefassig vo neujere natourwusseschaftliche Befund uber Empfindtlichkàit ound Réakzjon vo Pflanze ouf Liëcht, Béruërig, Teuhn ound Wassergghalt, aber aw ouf chéémischi Stoff in irer Konzàntrazjoon, wo entspràchendi Fééigkàite vom Màntsch ubertràffed. Ousserdèm oumfasst dië Zàmefassig aber aw Béobachtige vo zylggrichteter, fruntlicher wië findtlicher Komounikazjon ound Interakzjoon mit andere Làbéwàse. Dèèwààg cheumed t'Awtoore zour Aasicht, das Pflanze ébeso uber Intéligànz verfuëged wië Tiër ound de Màntsch, alerdings uber en Intéligànz, wo de sàsshafte, ortspboundene Làbeswys aapasst isch (im Verglich zou dère vo béwégte Làbéwàse).%0a%0aP'Béduutig vo dère–n Erkànntnis staat in àinere Ràje mit Entdéckige wo t'Stélig vom Màntsch als àinzigaartiger Chroone vo de Scheupfig is Wanke bringed; wië vom héliozàntrische Wàltbild, vo zaalloose andere Planééte, vo de–r Entwicklig vo de–n Aarte dour Uberlàbe vom Béschtaapasste, ound vo ounbéwusste Tèuhtigkàite wo 's màntschli Verhalte stuured.%0a%0a
+time=1453482434
+author:1453482434=
+diff:1453482434:1453482351:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:PflInt.mp3%0a%3c %0a---%0a> Attach:PflInt.mp3%0a> %0a9a10%0a> %0a
+host:1453482434=178.198.133.189
+author:1453482351=
+diff:1453482351:1453482182:=2,10d1%0a%3c %0a%3c !!!Stefano Mancuso, Alessandra Viola: Die Intelligenz der Pflanzen%0a%3c %25center%25Ous em Italiènische. Kunstmann Verlag%0a%3c %0a%3c T'Awtoore gànd e popoulèèrwusseschaftlichi Zàmefassig vo neujere natourwusseschaftliche Befund uber Empfindtlichkàit ound Réakzjon vo Pflanze ouf Liëcht, Béruërig, Teuhn ound Wassergghalt, aber aw ouf chéémischi Stoff in irer Konzàntrazjoon, wo entspràchendi Fééigkàite vom Màntsch ubertràffed. Ousserdèm oumfasst dië Zàmefassig aber aw Béobachtige vo zylggrichteter, fruntlicher wië findtlicher Komounikazjon ound Interakzjoon mit andere Làbéwàse. Dèèwààg cheumed t'Awtoore zour Aasicht, das Pflanze ébeso uber Intéligànz verfuëged wië Tiër ound de Màntsch, alerdings uber en Intéligànz, wo de sàsshafte, ortspboundene Làbeswys aapasst isch (im Verglich zou dère vo béwégte Làbéwàse).%0a%3c %0a%3c P'Béduutig vo dère–n Erkànntnis staat in àinere Ràje mit Entdéckige wo t'Stélig vom Màntsch als àinzigaartiger Chroone vo de Scheupfig is Wanke bringed; wië vom héliozàntrische Wàltbild, vo zaalloose andere Planééte, vo de–r Entwicklig vo de–n Aarte dour Uberlàbe vom Béschtaapasste, ound vo ounbéwusste Tèuhtigkàite wo 's màntschli Verhalte stuured.%0a%3c %0a%3c %0a
+host:1453482351=178.198.133.189
+author:1453482182=
+diff:1453482182:1453482182:=1d0%0a%3c Attach:PflInt.mp3%0a
+host:1453482182=178.198.133.189

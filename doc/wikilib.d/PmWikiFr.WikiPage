@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1144510559
+host=89.83.171.147
+name=PmWikiFr.WikiPage
+rev=1
+targets=PmWikiFr.WikiPage,PmWikiFr.WikiWikiWeb,PmWikiFr.WikiStructure
+text=(:title Page Wiki:)%0aUne [[page Wiki->WikiPage]] est simplement la brique de base d'un [[WikiWikiWeb]] contenant du texte et des images. Voir [[WikiStructure]]s et WikiWikiWeb pour plus d'informations.%0a%0a---- %0a%25trail%25%3c%3c|PmWikiFr.IndexDocumentation|>>
+time=1144510559
+title=Page Wiki

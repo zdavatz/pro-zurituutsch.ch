@@ -1,0 +1,34 @@
+[Sat Nov 12 05:04:04 2022] [error] [client 212.102.55.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Sat Nov 12 05:04:05 2022] [error] [client 212.102.55.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/yii
+[Sat Nov 12 05:04:05 2022] [error] [client 212.102.55.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/laravel
+[Sat Nov 12 05:04:06 2022] [error] [client 212.102.55.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/laravel52
+[Sat Nov 12 05:04:07 2022] [error] [client 212.102.55.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/lib
+[Sat Nov 12 05:04:08 2022] [error] [client 212.102.55.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/zend
+[Sat Nov 12 06:43:38 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sat Nov 12 06:43:45 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sat Nov 12 06:43:52 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sat Nov 12 06:43:57 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sat Nov 12 06:57:40 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Sat Nov 12 06:57:40 2022] [error] [client 185.207.35.118] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Sat Nov 12 06:57:41 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Sat Nov 12 06:57:41 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Sat Nov 12 06:57:41 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sat Nov 12 06:57:41 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Sat Nov 12 06:57:41 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Sat Nov 12 06:57:41 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Sat Nov 12 06:57:41 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Sat Nov 12 06:57:41 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Sat Nov 12 06:57:42 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Sat Nov 12 06:57:42 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Sat Nov 12 06:57:42 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Sat Nov 12 06:57:42 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Sat Nov 12 06:57:42 2022] [error] [client 185.207.35.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Sat Nov 12 08:46:38 2022] [error] [client 37.139.53.7] File does not exist: /var/www/pro-zurituutsch.ch/doc/fr, referer: http://www.pro-zurituutsch.ch/
+[Sat Nov 12 09:39:32 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sat Nov 12 09:44:46 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sat Nov 12 10:53:14 2022] [error] [client 40.122.230.188] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/neu_3.jpg, referer: http://www.pro-zurituutsch.ch/resources
+[Sat Nov 12 11:43:40 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sat Nov 12 11:58:21 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sat Nov 12 14:04:32 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sat Nov 12 18:32:29 2022] [error] [client 144.217.135.186] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sat Nov 12 18:32:42 2022] [error] [client 144.217.135.186] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt

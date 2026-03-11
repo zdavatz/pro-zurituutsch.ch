@@ -1,0 +1,17 @@
+Version 1.1
+
+2005-10-07  Thomas Weibel <thom@beeblebrox.net>
+
+  * Ported to PmWiki Version 2.0.0 and above
+    - Added favicon
+    - Icons for external links and attachments
+    - Added support for UserAuth and CMSLike
+  * Updated README.
+  * Reorganised directory structure.
+
+
+Version 1.0
+
+2005-05-20  Thomas Weibel <thom@beeblebrox.net>
+
+  * Initial revision.

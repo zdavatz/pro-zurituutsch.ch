@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1242662500
+host=85.0.1.97
+name=PodCast.Mài2009
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Mài2009.mp3%0a%0a!!!Limerick 19%0a%25center%25Mài 2009%0a%0a%25center%25„We can“, ja de de Wààg hàt’s em pbaant.%0a%0a%25center%25„We can“, aber wèr hétt doo ggaant%0a%0a%25center%25Das èr wuur soo chly%0a%0a%25center%25Gàg’s Héér, t’Indouschtry  ?%0a%0a%25center%25Jétz gséét me doch tuutli: „he can’t“%0a%0a%0a%0a
+time=1242662739
+author:1242662739=fwyss
+diff:1242662739:1242662715:=7d6%0a%3c %0a9d7%0a%3c %0a11d8%0a%3c %0a13d9%0a%3c %0a17d12%0a%3c %0a
+host:1242662739=85.0.1.97
+author:1242662715=fwyss
+diff:1242662715:1242662500:=1,12c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Mài2009.mp3%0a%3c %0a%3c !!!Limerick 19%0a%3c %25center%25Mài 2009%0a%3c %0a%3c %25center%25„We can“, ja de de Wààg hàt’s em pbaant.%0a%3c %25center%25„We can“, aber wèr hétt doo ggaant%0a%3c %25center%25Das èr wuur soo chly%0a%3c %25center%25Gàg’s Héér, t’Indouschtry  ?%0a%3c %25center%25Jétz gséét me doch tuutli: „he can’t“%0a%3c %0a%3c %0a---%0a> Attach:Mài2009.mp3%0a\ No newline at end of file%0a
+host:1242662715=85.0.1.97
+author:1242662500=fwyss
+diff:1242662500:1242662500:=1d0%0a%3c Attach:Mài2009.mp3%0a\ No newline at end of file%0a
+host:1242662500=85.0.1.97

@@ -1,0 +1,13 @@
+[Wed May 11 01:58:37 2022] [error] [client 185.174.28.82] script '/var/www/pro-zurituutsch.ch/doc/time.php' not found or unable to stat
+[Wed May 11 05:37:06 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/plugins
+[Wed May 11 10:14:37 2022] [error] [client 185.83.145.138] script '/var/www/pro-zurituutsch.ch/doc/phpversion.php' not found or unable to stat
+[Wed May 11 10:30:28 2022] [error] [client 160.153.153.3] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Wed May 11 13:52:50 2022] [error] [client 185.129.62.62] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json, referer: www.pro-zurituutsch.ch/wp-json/wp/v2/posts
+[Wed May 11 13:52:51 2022] [error] [client 185.220.100.248] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json, referer: www.pro-zurituutsch.ch/wp-json/wp/v2/posts
+[Wed May 11 13:52:51 2022] [error] [client 185.220.101.38] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json, referer: www.pro-zurituutsch.ch/wp-json/wp/v2/posts
+[Wed May 11 14:07:05 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed May 11 14:07:23 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed May 11 21:27:05 2022] [error] [client 143.198.30.100] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch
+[Wed May 11 21:27:05 2022] [error] [client 143.198.30.100] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress, referer: http://pro-zurituutsch.ch
+[Wed May 11 21:27:06 2022] [error] [client 143.198.30.100] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: http://pro-zurituutsch.ch
+[Wed May 11 21:27:06 2022] [error] [client 143.198.30.100] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp, referer: http://pro-zurituutsch.ch

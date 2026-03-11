@@ -1,0 +1,14 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1) Gecko/20061010 Firefox/2.0
+author=fwyss
+csum=
+ctime=1163037724
+host=203.112.11.83
+name=Hilfe.Quicktime
+rev=1
+targets=
+text=!! Quicktime Installation%0a%0aNormalerweise sollte Quicktime auf ihrem Macintosh Computer bereits installiert sein.%3cbr>%0aTrotzdem finden sie hier die Anleitung für die Installation des Quicktime Players für Mac.%0a                                                                                                                              %0a# In einem zweiten Browserfenster gehen sie zur Seite: http://www.apple.com/quicktime/download/%0a# Wählen sie ihre Mac OS Version %0a# Wählen sie alle Häckchen ab. Lassen sie alle Felder leer und klicken sie auf "Download Quicktime"%0a# Die Datei "QuickTimeInstaller.dmg" wird heruntergeladen.%0a# Lokalisieren sie die Datei QuickTimeInstaller.dmg" und starten sie die Installation%0a# Klicken sie 3x "continue" und dann "agree".%0a# Wählen sie den Ort wo Quicktime installiert werden soll und klicken sie "continue/upgrade"%0a# (Geben sie ihren "usernamen" und "passwort" ein)%0a# Die Installation wird abgeschlossen.%0a
+time=1163037724
+author:1163037724=fwyss
+diff:1163037724:1163037724:=1,14d0%0a%3c !! Quicktime Installation%0a%3c %0a%3c Normalerweise sollte Quicktime auf ihrem Macintosh Computer bereits installiert sein.%3cbr>%0a%3c Trotzdem finden sie hier die Anleitung für die Installation des Quicktime Players für Mac.%0a%3c                                                                                                                               %0a%3c # In einem zweiten Browserfenster gehen sie zur Seite: http://www.apple.com/quicktime/download/%0a%3c # Wählen sie ihre Mac OS Version %0a%3c # Wählen sie alle Häckchen ab. Lassen sie alle Felder leer und klicken sie auf "Download Quicktime"%0a%3c # Die Datei "QuickTimeInstaller.dmg" wird heruntergeladen.%0a%3c # Lokalisieren sie die Datei QuickTimeInstaller.dmg" und starten sie die Installation%0a%3c # Klicken sie 3x "continue" und dann "agree".%0a%3c # Wählen sie den Ort wo Quicktime installiert werden soll und klicken sie "continue/upgrade"%0a%3c # (Geben sie ihren "usernamen" und "passwort" ein)%0a%3c # Die Installation wird abgeschlossen.%0a
+host:1163037724=203.112.11.83

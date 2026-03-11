@@ -1,0 +1,57 @@
+[Mon Nov 21 00:33:05 2022] [error] [client 223.247.205.107] File does not exist: /var/www/pro-zurituutsch.ch/doc/data
+[Mon Nov 21 02:16:07 2022] [error] [client 223.247.205.107] File does not exist: /var/www/pro-zurituutsch.ch/doc/e
+[Mon Nov 21 02:46:13 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Mon Nov 21 02:46:13 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed
+[Mon Nov 21 02:46:13 2022] [error] [client 37.120.142.148] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Mon Nov 21 02:46:13 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Mon Nov 21 02:46:13 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Mon Nov 21 02:46:13 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Nov 21 02:46:13 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Mon Nov 21 02:46:14 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Mon Nov 21 02:46:14 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Mon Nov 21 02:46:14 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Mon Nov 21 02:46:14 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Mon Nov 21 02:46:14 2022] [error] [client 37.120.142.148] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Mon Nov 21 03:12:45 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Mon Nov 21 03:12:46 2022] [error] [client 176.9.139.52] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Mon Nov 21 03:12:46 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Mon Nov 21 03:12:46 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Mon Nov 21 03:12:47 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Nov 21 03:12:47 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Mon Nov 21 03:12:47 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Mon Nov 21 03:12:47 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Mon Nov 21 03:12:47 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Mon Nov 21 03:12:47 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Mon Nov 21 03:12:48 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Mon Nov 21 03:12:48 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Mon Nov 21 03:12:48 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Mon Nov 21 03:12:48 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Mon Nov 21 03:12:48 2022] [error] [client 176.9.139.52] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Mon Nov 21 05:09:32 2022] [error] [client 159.89.202.88] script '/var/www/pro-zurituutsch.ch/doc/style.php' not found or unable to stat
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/media
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Mon Nov 21 05:21:07 2022] [error] [client 163.172.231.202] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Mon Nov 21 07:16:23 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Mon Nov 21 09:45:52 2022] [error] [client 223.247.205.107] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat
+[Mon Nov 21 14:11:59 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Mon Nov 21 14:12:30 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Mon Nov 21 17:30:34 2022] [error] [client 188.209.152.115] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Nov 21 18:43:58 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/public
+[Mon Nov 21 18:44:01 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Mon Nov 21 20:46:46 2022] [error] [client 20.198.221.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: binance.com
+[Mon Nov 21 20:47:03 2022] [error] [client 20.198.221.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: binance.com
+[Mon Nov 21 20:47:13 2022] [error] [client 20.198.221.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: binance.com
+[Mon Nov 21 20:47:21 2022] [error] [client 20.198.221.121] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/, referer: binance.com

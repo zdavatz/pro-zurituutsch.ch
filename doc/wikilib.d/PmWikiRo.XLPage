@@ -1,0 +1,10 @@
+version=pmwiki-2.1.3 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+author=
+csum=
+host=67.66.76.94
+name=PmWikiRo.XLPage
+rev=21
+targets=
+text=This page contains the string mappings to convert PmWiki's prompts into another language.  [= ### Character encoding, e.g. 'iso-8859-2' or 'utf-8' 'xlpage-i18n' =
+time=1143115468

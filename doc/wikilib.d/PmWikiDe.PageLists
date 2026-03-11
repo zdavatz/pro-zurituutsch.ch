@@ -1,0 +1,12 @@
+version=pmwiki-2.1.beta17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8) Gecko/20051111 Firefox/1.5
+author=Klonk
+ctime=1136279075
+excerpt=%3cp>(:redirect %3cspan class='wikiword'>Cookbook.PagelistExplained%3c/span>:)%0a%3c/p>%0a
+host=62.245.250.121
+name=PmWikiDe.PageLists
+rev=1
+targets=
+text=(:title Seitenlisten:)%0a(:redirect Cookbook.PagelistExplained:)
+time=1136279075
+title=Seitenlisten

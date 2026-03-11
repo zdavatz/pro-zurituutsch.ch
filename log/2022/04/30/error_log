@@ -1,0 +1,9 @@
+[Sat Apr 30 07:00:19 2022] [error] [client 178.82.195.226] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sat Apr 30 07:00:19 2022] [error] [client 178.82.195.226] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sat Apr 30 08:31:26 2022] [error] [client 185.222.57.162] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Sat Apr 30 09:24:10 2022] [error] [client 37.75.131.172] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Sat Apr 30 09:24:11 2022] [error] [client 37.75.131.172] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Sat Apr 30 11:28:21 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Sat Apr 30 12:38:53 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Sat Apr 30 17:00:14 2022] [error] [client 37.19.206.59] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Sat Apr 30 20:29:24 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast

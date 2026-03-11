@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1191153969
+host=83.76.230.232
+name=PodCast.Limerick2
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick2.mp3%0a%0a%0a'''Limerick 2'''%0a%0aSo–n en Boundesraat macht neud lang Pflànz,%0a%0asàit si, schliëssli ha–n ych g’Kompètànz.%0a%0aWànn so àine neud ggnuëgt,%0a%0aja so wirt er spédiërt. –%0a%0aOund im Waalkampf gits gspàssigi Tànz.%0a%0a
+time=1191154308
+author:1191154308=fwyss
+diff:1191154308:1191154146:=1,15c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick2.mp3%0a%3c %0a%3c %0a%3c '''Limerick 2'''%0a%3c %0a%3c So–n en Boundesraat macht neud lang Pflànz,%0a%3c %0a%3c sàit si, schliëssli ha–n ych g’Kompètànz.%0a%3c %0a%3c Wànn so àine neud ggnuëgt,%0a%3c %0a%3c ja so wirt er spédiërt. –%0a%3c %0a%3c Ound im Waalkampf gits gspàssigi Tànz.%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick2.mp3%0a\ No newline at end of file%0a
+host:1191154308=83.76.230.232
+author:1191154146=fwyss
+diff:1191154146:1191153969:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick2.mp3%0a\ No newline at end of file%0a---%0a> Attach:Limerick2.mp3%0a\ No newline at end of file%0a
+host:1191154146=83.76.230.232
+author:1191153969=fwyss
+diff:1191153969:1191153969:=1d0%0a%3c Attach:Limerick2.mp3%0a\ No newline at end of file%0a
+host:1191153969=83.76.230.232

@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1191070700
+host=83.77.213.48
+name=PodCast.Limerick1
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick1.mp3%0a%0a'''Limerick 1'''%0a%0aEs Dooping hànd Forscher ouhsgghéckt%0a%0aWo total im Blouët sych verstéckt.%0a%0aWèèr doope–n erlawbt%0a%0aMe hétt uberhawpt%0a%0aEs Dooping wo nuut schadt, entdéckt.%0a%0a%0a
+time=1191071159
+author:1191071159=fwyss
+diff:1191071159:1191070911:=3,15d2%0a%3c '''Limerick 1'''%0a%3c %0a%3c Es Dooping hànd Forscher ouhsgghéckt%0a%3c %0a%3c Wo total im Blouët sych verstéckt.%0a%3c %0a%3c Wèèr doope–n erlawbt%0a%3c %0a%3c Me hétt uberhawpt%0a%3c %0a%3c Es Dooping wo nuut schadt, entdéckt.%0a%3c %0a%3c %0a
+host:1191071159=83.77.213.48
+author:1191070911=fwyss
+diff:1191070911:1191070700:=1,2c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick1.mp3%0a%3c %0a---%0a> Attach:Limerick1.mp3%0a\ No newline at end of file%0a
+host:1191070911=83.77.213.48
+author:1191070700=fwyss
+diff:1191070700:1191070700:=1d0%0a%3c Attach:Limerick1.mp3%0a\ No newline at end of file%0a
+host:1191070700=83.77.213.48

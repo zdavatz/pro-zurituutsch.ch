@@ -1,0 +1,4 @@
+[Fri Aug 12 05:49:33 2022] [error] [client 149.56.150.188] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Fri Aug 12 05:49:46 2022] [error] [client 149.56.150.188] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Aug 12 09:04:57 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Fri Aug 12 13:03:23 2022] [error] [client 5.188.62.21] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/

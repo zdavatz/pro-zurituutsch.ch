@@ -1,0 +1,16 @@
+[Wed Mar 02 06:51:48 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Wed Mar 02 13:49:49 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Wed Mar 02 13:49:49 2022] [error] [client 206.189.159.28] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Wed Mar 02 13:49:49 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Wed Mar 02 13:49:49 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Wed Mar 02 13:49:50 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Wed Mar 02 13:49:50 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Wed Mar 02 13:49:50 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Wed Mar 02 13:49:50 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Wed Mar 02 13:49:50 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Wed Mar 02 13:49:51 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Wed Mar 02 13:49:51 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Wed Mar 02 13:49:51 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Wed Mar 02 13:49:51 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Wed Mar 02 13:49:51 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Wed Mar 02 13:49:51 2022] [error] [client 206.189.159.28] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito

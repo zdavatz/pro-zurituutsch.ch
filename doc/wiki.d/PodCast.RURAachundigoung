@@ -1,0 +1,17 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17
+author=
+csum=
+ctime=1363453085
+host=188.62.172.77
+name=PodCast.RURAachundigoung
+rev=2
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:RURAachundigoung.mp3%0a%0a!!RUR: RAFFYNIS UNIVERSAL–ROBOTER%0a%0aES HEUHRSPYL NACH EME BUUNESTOUCK VOM CAREL CAPEK%0a%0aPRO–ZURITUUTSCH bringt ab Àndi Mèrz 2013 daas science–fiction Drama fréi nach Karel Capek, dèm greuhschte Tschèchische Dichter vom zwànzgischte Jaarhoundert. Im Tuutsche Spraachbérych kànnt me–n am éénschte „Krakatit“ (en proféétische Roman uber t'Atoombombe na vor em zwàite Wàltchriëg) ound „De Chriëg mit de Mèulch“ (e Warnig vor de mànschliche Gyr). Daas Wort „Roboter“ fur kunschtlichi Màntsche erschynt zoum éérschte Maal prèzys i sym Buunestouck „RUR“, wo 1921 ouhrouhfgfuërt worde–n isch, ound wo jétz starch gchurzt ound modèrnisiërt i Zurituutscher Ubersétzig séll i loose Fourtsétzige ouf euïsem Pod–Cast erschyne. Wèr 's wott lose mouë sych ouf Spanig bis zour Béklàmig gfasst mache.%0a%0a%0a%0a%0a
+time=1363453516
+author:1363453516=
+diff:1363453516:1363453085:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:RURAachundigoung.mp3%0a%3c %0a---%0a> Attach:RURAachundigoung.mp3%0a> %0a11a12%0a> %0a
+host:1363453516=188.62.172.77
+author:1363453085=
+diff:1363453085:1363453085:=1,13d0%0a%3c Attach:RURAachundigoung.mp3%0a%3c %0a%3c !!RUR: RAFFYNIS UNIVERSAL–ROBOTER%0a%3c %0a%3c ES HEUHRSPYL NACH EME BUUNESTOUCK VOM CAREL CAPEK%0a%3c %0a%3c PRO–ZURITUUTSCH bringt ab Àndi Mèrz 2013 daas science–fiction Drama fréi nach Karel Capek, dèm greuhschte Tschèchische Dichter vom zwànzgischte Jaarhoundert. Im Tuutsche Spraachbérych kànnt me–n am éénschte „Krakatit“ (en proféétische Roman uber t'Atoombombe na vor em zwàite Wàltchriëg) ound „De Chriëg mit de Mèulch“ (e Warnig vor de mànschliche Gyr). Daas Wort „Roboter“ fur kunschtlichi Màntsche erschynt zoum éérschte Maal prèzys i sym Buunestouck „RUR“, wo 1921 ouhrouhfgfuërt worde–n isch, ound wo jétz starch gchurzt ound modèrnisiërt i Zurituutscher Ubersétzig séll i loose Fourtsétzige ouf euïsem Pod–Cast erschyne. Wèr 's wott lose mouë sych ouf Spanig bis zour Béklàmig gfasst mache.%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c  %0a\ No newline at end of file%0a
+host:1363453085=188.62.172.77

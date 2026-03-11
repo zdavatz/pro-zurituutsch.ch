@@ -1,0 +1,16 @@
+[Fri Apr 15 10:25:31 2022] [error] [client 109.248.175.62] script '/var/www/pro-zurituutsch.ch/doc/wp-info.php' not found or unable to stat
+[Fri Apr 15 12:49:50 2022] [error] [client 107.174.138.169] File does not exist: /var/www/pro-zurituutsch.ch/doc/api
+[Fri Apr 15 12:49:50 2022] [error] [client 107.174.138.169] File does not exist: /var/www/pro-zurituutsch.ch/doc/core
+[Fri Apr 15 12:49:50 2022] [error] [client 107.174.138.169] File does not exist: /var/www/pro-zurituutsch.ch/doc/backend
+[Fri Apr 15 14:59:52 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Fri Apr 15 14:59:55 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Fri Apr 15 16:51:58 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:51:59 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:51:59 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:52:00 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:52:00 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:52:01 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:52:02 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:52:02 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:52:03 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Apr 15 16:52:03 2022] [error] [client 178.128.231.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt

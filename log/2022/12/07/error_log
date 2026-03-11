@@ -1,0 +1,14 @@
+[Wed Dec 07 05:39:41 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/elfinder
+[Wed Dec 07 11:05:56 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/de/gcc/search/zone/drugs/search_query/Fentanyl-Mepha+75/search_type/st_oddb
+[Wed Dec 07 11:10:04 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/de/gcc/search/zone/drugs/search_query/Fentanyl-Mepha+75/search_type/st_oddb
+[Wed Dec 07 11:13:58 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/de/gcc/search/zone/drugs/search_query/Fentanyl-Mepha+75/search_type/st_oddb
+[Wed Dec 07 11:17:55 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/de/gcc/search/zone/drugs/search_query/Fentanyl-Mepha+75/search_type/st_oddb
+[Wed Dec 07 18:07:50 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Wed Dec 07 18:22:06 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Wed Dec 07 20:14:23 2022] [error] [client 50.62.223.222] script '/var/www/pro-zurituutsch.ch/doc/wp-commentin.php' not found or unable to stat
+[Wed Dec 07 20:17:54 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Wed Dec 07 20:33:06 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Wed Dec 07 23:20:56 2022] [error] [client 162.55.85.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Dec 07 23:21:01 2022] [error] [client 162.55.85.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Dec 07 23:21:10 2022] [error] [client 162.55.85.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Dec 07 23:21:13 2022] [error] [client 162.55.85.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt

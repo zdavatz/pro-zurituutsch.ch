@@ -1,0 +1,118 @@
+[Sun Mar 27 04:02:30 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets
+[Sun Mar 27 05:16:07 2022] [error] [client 185.191.34.215] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Sun Mar 27 14:14:07 2022] [error] [client 31.44.0.77] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Sun Mar 27 18:55:03 2022] [error] [client 95.173.160.160] File does not exist: /var/www/pro-zurituutsch.ch/doc/aws
+[Sun Mar 27 19:12:53 2022] [error] [client 85.202.169.250] script '/var/www/pro-zurituutsch.ch/doc/info.php' not found or unable to stat
+[Sun Mar 27 19:12:54 2022] [error] [client 85.202.169.250] script '/var/www/pro-zurituutsch.ch/doc/phpinfo.php' not found or unable to stat
+[Sun Mar 27 19:12:56 2022] [error] [client 85.202.169.250] File does not exist: /var/www/pro-zurituutsch.ch/doc/debug
+[Sun Mar 27 19:12:56 2022] [error] [client 85.202.169.250] script '/var/www/pro-zurituutsch.ch/doc/info.php' not found or unable to stat
+[Sun Mar 27 19:12:57 2022] [error] [client 85.202.169.250] script '/var/www/pro-zurituutsch.ch/doc/phpinfo.php' not found or unable to stat
+[Sun Mar 27 19:12:59 2022] [error] [client 85.202.169.250] File does not exist: /var/www/pro-zurituutsch.ch/doc/debug
+[Sun Mar 27 21:47:16 2022] [error] [client 173.254.28.32] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sun Mar 27 22:26:37 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/style.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:26:47 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/moduless.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:26:49 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:27:08 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/admin.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:27:30 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:27:44 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/boom.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:27:45 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:27:51 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:28:32 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:28:34 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/xmlrp.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:28:45 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/wpindex.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:29:16 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/larva.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:29:44 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/th3_err0r.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:31:02 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/alfindex.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:31:08 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/alfa.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:31:30 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/wp-booking.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:32:39 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/cindex.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:32:51 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:33:21 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/wp-1ogin_bak.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:33:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:33:48 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:34:29 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/old-index.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:34:35 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/config.bak.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:34:49 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: anonymousfox.co
+[Sun Mar 27 22:36:09 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:36:10 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/style.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:36:23 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:36:24 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/moduless.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:36:30 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:36:30 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:36:56 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/admin.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:36:56 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:37:04 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:37:04 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:37:08 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/boom.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:37:08 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:37:08 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:37:33 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:37:49 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:37:57 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:38:07 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:38:07 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/xmlrp.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:39:16 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/haders.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:39:23 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/wpindex.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:39:32 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:39:32 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/larva.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:39:44 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/legion.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:39:44 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/th3_err0r.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:40:05 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/alfindex.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:40:32 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:40:44 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/alfa.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:41:08 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/wp-booking.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:41:09 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:41:11 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/cindex.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:41:48 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:41:48 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:42:07 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/up.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:42:07 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/wp-1ogin_bak.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:42:08 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:42:08 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/upload.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:42:10 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:42:10 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/config.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:42:35 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/old-index.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:43:54 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/test.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:43:55 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/config.bak.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:43:59 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: anonymousfox.co
+[Sun Mar 27 22:44:37 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:44:40 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:44:40 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:45:07 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:45:08 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor, referer: anonymousfox.co
+[Sun Mar 27 22:45:10 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:45:10 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:45:51 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:46:00 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:46:12 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:46:30 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:46:50 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:47:02 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/haders.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:47:09 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:47:29 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/legion.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:48:20 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:48:36 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:49:00 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes, referer: anonymousfox.co
+[Sun Mar 27 22:49:16 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/up.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:50:30 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/upload.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:51:32 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/config.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:51:56 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/test.php' not found or unable to stat, referer: anonymousfox.co
+[Sun Mar 27 22:52:24 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:53:13 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor, referer: anonymousfox.co
+[Sun Mar 27 22:53:50 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 22:54:40 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: anonymousfox.co
+[Sun Mar 27 23:19:05 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:19:11 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:19:16 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:19:22 2022] [error] [client 5.188.62.214] script '/var/www/pro-zurituutsch.ch/doc/admin.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:19:28 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:19:34 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:19:42 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:19:53 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:19:59 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:20:05 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/login, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:20:11 2022] [error] [client 5.188.62.214] script '/var/www/pro-zurituutsch.ch/doc/login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:20:17 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/login.aspx, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:20:23 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/login, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:20:35 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/login.html, referer: http://pro-zurituutsch.ch/
+[Sun Mar 27 23:20:41 2022] [error] [client 5.188.62.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/login.asp, referer: http://pro-zurituutsch.ch/

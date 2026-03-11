@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1144952376
+host=89.83.120.7
+name=PmWikiFr.OtherLanguages
+rev=3
+targets=
+text=(:redirect PmWiki/OtherLanguages:)%0a(:title Autres langues:)
+time=1144952531
+title=Autres langues

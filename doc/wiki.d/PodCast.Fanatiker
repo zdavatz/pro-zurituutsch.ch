@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.53.11 (KHTML, like Gecko) Version/5.1.3 Safari/534.53.10
+author=
+csum=
+ctime=1347560332
+host=188.62.88.237
+name=PodCast.Fanatiker
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick25.mp3%0a%0a!!!Limerick 25%0a%0a%25center%25Fanaatiker%0a%0a%25center%25En blindwuëtig lachhafte Knoot%0a%0a%25center%25z'Béngaasi voll Oundank gséét root.%0a%0a%25center%25Em Proféét syni Éér%0a%0a%25center%25rèècht èr mit em Ggwéér:%0a%0a%25center%25macht viër, wo nuut pboossget hànd, toot. %0a%0a%0a
+time=1347560791
+author:1347560791=
+diff:1347560791:1347560703:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick25.mp3%0a%3c %0a---%0a> Attach:Limerick25.mp3%0a> %0a
+host:1347560791=188.62.88.237
+author:1347560703=
+diff:1347560703:1347560681:=8d7%0a%3c %0a10d8%0a%3c %0a12d9%0a%3c %0a14d10%0a%3c %0a17d12%0a%3c %0a
+host:1347560703=188.62.88.237
+author:1347560681=
+diff:1347560681:1347560332:=2,12d1%0a%3c %0a%3c !!!Limerick 25%0a%3c %0a%3c %25center%25Fanaatiker%0a%3c %0a%3c %25center%25En blindwuëtig lachhafte Knoot%0a%3c %25center%25z'Béngaasi voll Oundank gséét root.%0a%3c %25center%25Em Proféét syni Éér%0a%3c %25center%25rèècht èr mit em Ggwéér:%0a%3c %25center%25macht viër, wo nuut pboossget hànd, toot. %0a%3c %0a
+host:1347560681=188.62.88.237
+author:1347560332=
+diff:1347560332:1347560332:=1d0%0a%3c Attach:Limerick25.mp3%0a
+host:1347560332=188.62.88.237

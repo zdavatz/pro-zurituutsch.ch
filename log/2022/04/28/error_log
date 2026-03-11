@@ -1,0 +1,18 @@
+[Thu Apr 28 00:54:07 2022] [error] [client 143.198.30.100] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch
+[Thu Apr 28 00:54:07 2022] [error] [client 143.198.30.100] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress, referer: http://pro-zurituutsch.ch
+[Thu Apr 28 00:54:07 2022] [error] [client 143.198.30.100] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: http://pro-zurituutsch.ch
+[Thu Apr 28 00:54:08 2022] [error] [client 143.198.30.100] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp, referer: http://pro-zurituutsch.ch
+[Thu Apr 28 01:51:42 2022] [error] [client 24.194.85.47] access to /var/www/dev.ywesee.com/doc/uploads/att/license.txt failed, reason: SSL connection required
+[Thu Apr 28 02:30:42 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Thu Apr 28 04:11:02 2022] [error] [client 108.179.193.20] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Thu Apr 28 04:27:35 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Thu Apr 28 09:53:36 2022] [error] [client 185.222.57.162] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Thu Apr 28 10:29:19 2022] [error] [client 185.222.57.162] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Thu Apr 28 11:22:28 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Thu Apr 28 13:18:08 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Thu Apr 28 14:55:21 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Apr 28 14:55:26 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Thu Apr 28 15:01:04 2022] [error] [client 106.11.152.110] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Thu Apr 28 15:37:29 2022] [error] [client 142.132.132.137] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Thu Apr 28 16:18:20 2022] [error] [client 45.86.202.172] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Thu Apr 28 20:24:53 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast

@@ -1,0 +1,26 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1163716822
+host=92.106.35.167
+name=PodCast.Bachtelberg
+rev=5
+targets=
+text=[--Page Title: Essay, Streitgespräch über Doping (Verwendung von Wirksubstanzen im Sport) auf Zürichdeutsch. Essay auf Züritüütsch, Zurituutsch, Zürich–Deutsch zoum herunterladen für MP3 Player, IPod. Zürichdeutsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],\\%0a[--URL: http://www.pro–zurituutsch.ch/PodCast/Doping + http://www.pro–zurituutsch.ch/uploads/PodCast/Doping.mp3--],\\%0a[--Description: Essays, Glossen und Streitgespräche, Gedichte und Geschichten der Stiftung zur Förderung Zürichdeutscher Literatur auf Zürichdeutsch. Informationen zu Themen wie Zürichdeutsch, Politik, Umwelt, etc. auf Züritüütsch. Zürichdeutsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],\\%0a%0a
+time=1233552192
+author:1233552192=fwyss
+diff:1233552192:1177602679:=4a5,6%0a> !! Es offnigs Télifoon an Ouëli vom Bachtelbèrg.%0a> Attach:Bachtelberg.mp3%0a
+host:1233552192=92.106.35.167
+author:1177602679=fwyss
+diff:1177602679:1177601178:=1,4c1,2%0a%3c [--Page Title: Essay, Streitgespräch über Doping (Verwendung von Wirksubstanzen im Sport) auf Zürichdeutsch. Essay auf Züritüütsch, Zurituutsch, Zürich–Deutsch zoum herunterladen für MP3 Player, IPod. Zürichdeutsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],\\%0a%3c [--URL: http://www.pro–zurituutsch.ch/PodCast/Doping + http://www.pro–zurituutsch.ch/uploads/PodCast/Doping.mp3--],\\%0a%3c [--Description: Essays, Glossen und Streitgespräche, Gedichte und Geschichten der Stiftung zur Förderung Zürichdeutscher Literatur auf Zürichdeutsch. Informationen zu Themen wie Zürichdeutsch, Politik, Umwelt, etc. auf Züritüütsch. Zürichdeutsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],\\%0a%3c %0a---%0a> %0a> %0a6c4%0a%3c Attach:Bachtelberg.mp3%0a---%0a> Attach:Bachtelberg.mp3%0a\ No newline at end of file%0a
+host:1177602679=194.230.210.7
+author:1177601178=fwyss
+diff:1177601178:1163717297:=1,2d0%0a%3c %0a%3c %0a
+host:1177601178=83.76.212.21
+author:1163717297=fwyss
+diff:1163717297:1163716822:=1d0%0a%3c !! Es offnigs Télifoon an Ouëli vom Bachtelbèrg.%0a
+host:1163717297=219.177.168.27
+author:1163716822=fwyss
+diff:1163716822:1163716822:=1d0%0a%3c Attach:Bachtelberg.mp3%0a\ No newline at end of file%0a
+host:1163716822=219.177.168.27

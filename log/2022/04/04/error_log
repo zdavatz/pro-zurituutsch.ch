@@ -1,0 +1,24 @@
+[Mon Apr 04 01:42:55 2022] [error] [client 185.243.218.32] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 04 01:42:55 2022] [error] [client 185.243.218.32] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 04 01:42:55 2022] [error] [client 185.243.218.32] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 04 01:44:13 2022] [error] [client 167.235.19.70] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Mon Apr 04 04:23:20 2022] [error] [client 192.185.81.168] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Apr 04 07:09:37 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets
+[Mon Apr 04 09:24:40 2022] [error] [client 5.9.215.63] File does not exist: /var/www/pro-zurituutsch.ch/doc/api
+[Mon Apr 04 09:24:40 2022] [error] [client 5.9.215.63] File does not exist: /var/www/pro-zurituutsch.ch/doc/app
+[Mon Apr 04 09:24:40 2022] [error] [client 5.9.215.63] File does not exist: /var/www/pro-zurituutsch.ch/doc/application
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Mon Apr 04 16:34:37 2022] [error] [client 18.159.206.4] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito

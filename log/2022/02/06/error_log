@@ -1,0 +1,5 @@
+[Sun Feb 06 05:17:19 2022] [error] [client 34.123.125.44] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sun Feb 06 07:40:14 2022] [error] [client 156.67.72.31] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sun Feb 06 17:30:45 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/wsi.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/wsi.php
+[Sun Feb 06 17:39:52 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/ckeditor
+[Sun Feb 06 20:50:16 2022] [error] [client 72.167.84.160] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

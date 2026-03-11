@@ -1,0 +1,22 @@
+[Tue Jul 05 11:34:32 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Jul 05 12:06:47 2022] [error] [client 88.214.43.118] File does not exist: /var/www/pro-zurituutsch.ch/doc/environments
+[Tue Jul 05 12:50:21 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Tue Jul 05 12:50:21 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed
+[Tue Jul 05 12:50:21 2022] [error] [client 31.14.75.23] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Tue Jul 05 12:50:21 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Tue Jul 05 12:50:21 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Tue Jul 05 12:50:22 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Tue Jul 05 12:50:22 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Tue Jul 05 12:50:22 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Tue Jul 05 12:50:22 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Tue Jul 05 12:50:22 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Tue Jul 05 12:50:22 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Tue Jul 05 12:50:22 2022] [error] [client 31.14.75.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Tue Jul 05 13:49:06 2022] [error] [client 213.230.114.126] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Tue Jul 05 13:49:07 2022] [error] [client 213.230.114.126] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Tue Jul 05 13:49:08 2022] [error] [client 213.230.114.126] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Tue Jul 05 19:02:14 2022] [error] [client 54.36.148.185] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/neu_3.jpg
+[Tue Jul 05 21:55:51 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Tue Jul 05 21:55:56 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Tue Jul 05 21:55:58 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Tue Jul 05 21:55:59 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt

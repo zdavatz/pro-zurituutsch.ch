@@ -1,0 +1,66 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1179232963
+host=178.83.10.220
+name=Bestellen.Pschtellf
+rev=18
+targets=
+text=!!Pschtéllformoular%0a%0aAn PRO–ZURITUUTSCH / c/o Dr.F.E.Wyss / Steinwiesstr. 37 / CH 8032 Zürich \\%0aoder an barbarawyss(@)gmx.net%0a%0a(:aaron: C.H.Aaron à Fr. 33.00\\%0aHörbuch und Buch auf 5 CD's auf Zürichdeutsch :)%0a%0a(:wyss: Konzyl à Fr. 28.50\\%0aHörbuch und Buch auf CD auf Zürichdeutsch :)%0a%0a(:ovid: Liëbhaber à Fr. 45.-\\%0aArs Amatoria von Ovid auf Zürichdeutsch :)%0a%0a(:queneau: Styluëbige à Fr. 7.50.-\\%0aÉxercices de Style von R. Queneau\\%0aauf Zürichdeutsch :)%0a%0a(:legenden: Viër bitterbeuhsi Légànde à Fr. 20.-\\%0avon F. E. Wyss :)%0a%0a(:input form:)%0a(:messages:)%0a||border=0 cellpadding=0 cellspacing=0 valign=top%0a%0a!!! Hörbücher MP3 auf Zürichdeutsch:%0a%0a||{$:aaron} ||(:input text hoerbuch_C.H.Aaron{$hoerbuch_C.H.Aaron} size=3 :) Exemplare ||%0a||{$:wyss} ||(:input text hoerbuch_konzyl {$hoerbuch_konzyl} size=3 :) Exemplare ||%0a%0a!!! Bücher auf Zürichdeutsch:%0a%0a||{$:ovid} ||(:input text buch_liebhaber {$buch_liebhaber} size=3 :) Exemplare ||%0a||{$:queneau} ||(:input text buch_queneau {$buch_queneau} size=3 :) Exemplare ||%0a||{$:legenden} ||(:input text buch_legenden {$buch_legenden} size=3 :) Exemplare ||%0a||Email Adresse ||(:input text email "{$email}" size=40:)||%0a||Anrede ||(:input text anrede "{$anrede}" size=40:) ||%0a||Name ||(:input text name "{$name}" size=40:) ||%0a||Vorname ||(:input text vorname "{$vorname}" size=40:) ||%0a||Firma ||(:input text firma "{$firma}" size=40:) ||%0a||Adresse ||(:input text adresse "{$adresse}" size=40:) ||%0a||PLZ / Ort ||(:input text ort "{$ort}" size=40:) ||%0a||Telefon ||(:input text telefon "{$telefon}" size=40:) ||%0a||Mitteilungen ||(:input text mitteilungen "{$mitteilungen}" size=40:) ||%0a|| ||Ich wünsche eine Zustellung mit Rechnung an obige Adresse.\\%0aDie Preise verstehen sich ohne Versandspesen. ||%0a%0a(:input hidden action order :)%0a(:input end:)%0a%0a
+time=1656358707
+author:1656358707=
+diff:1656358707:1656358650:=
+host:1656358707=178.83.10.220
+author:1656358650=
+diff:1656358650:1656358540:=4,5c4,5%0a%3c oder an barbarawyss(@)gmx.net%0a%3c %0a---%0a> oder mit diesem Formular an barbarawyss(@)gmx.net%0a> %0a44c44%0a%3c ||Mitteilungen ||(:input text mitteilungen "{$mitteilungen}" size=40:) ||%0a---%0a> ||Mitteilungen ||(:input text mitteilungen "{$mitteilungen} size=40:) ||%0a
+host:1656358650=178.83.10.220
+author:1656358540=
+diff:1656358540:1656358423:=6c6%0a%3c (:aaron: C.H.Aaron à Fr. 33.00\\%0a---%0a> (:aaron: C.H.Aaron à Fr. 33.00 Subskriptionspreis\\%0a9c9%0a%3c (:wyss: Konzyl à Fr. 28.50\\%0a---%0a> (:wyss: konzyl à Fr. 28.50\\%0a12c12%0a%3c (:ovid: Liëbhaber à Fr. 45.-\\%0a---%0a> (:ovid: liëbhaber à Fr. 45.-\\%0a
+host:1656358540=178.83.10.220
+author:1656358423=
+diff:1656358423:1656358247:=3c3%0a%3c An PRO–ZURITUUTSCH / c/o Dr.F.E.Wyss / Steinwiesstr. 37 / CH 8032 Zürich \\%0a---%0a> An PRO–ZURITUUTSCH / c/o Dr.F.E.Wyss / Steinwiesstr. 37 / CH 8032 Zürich %0a44c44%0a%3c ||Mitteilungen ||(:input text mitteilungen "{$mitteilungen} size=40:) ||%0a---%0a> ||Mitteilungen ||(:textarea name=mitteilungen cols=72 rows=12:){$mitteilungen}(:textareaend:)%0a
+host:1656358423=178.83.10.220
+author:1656358247=
+diff:1656358247:1656358190:=
+host:1656358247=178.83.10.220
+author:1656358190=
+diff:1656358190:1656358138:=45c45%0a%3c || ||Ich wünsche eine Zustellung mit Rechnung an obige Adresse.\\%0a---%0a> || ||Ich wünsche eine Zustellung mit Einzahlungsschein an obige Adresse.\\%0a
+host:1656358190=178.83.10.220
+author:1656358138=
+diff:1656358138:1619700757:=47c47%0a%3c %0a---%0a> || ||(:input submit value="Email senden":) ||%0a
+host:1656358138=178.83.10.220
+author:1619700757=
+diff:1619700757:1619700629:=1c1%0a%3c !!Pschtéllformoular%0a---%0a> !!Bestellen.Pschtellformoular%0a
+host:1619700757=178.83.114.200
+author:1619700629=
+diff:1619700629:1619700608:=3,4c3,4%0a%3c An PRO–ZURITUUTSCH / c/o Dr.F.E.Wyss / Steinwiesstr. 37 / CH 8032 Zürich %0a%3c oder mit diesem Formular an barbarawyss(@)gmx.net%0a---%0a> An PRO–ZURITUUTSCH / c/o Dr.F.E.Wyss / Steinwiesstr. 37 / CH 8032 Zürich / Tel.: 079 108 23 03%0a> oder mit diesem Formular an fwyss@pro–zurituutsch.ch%0a
+host:1619700629=178.83.114.200
+author:1619700608=
+diff:1619700608:1416758680:=
+host:1619700608=178.83.114.200
+author:1416758680=
+diff:1416758680:1185289853:=3c3%0a%3c An PRO–ZURITUUTSCH / c/o Dr.F.E.Wyss / Steinwiesstr. 37 / CH 8032 Zürich / Tel.: 079 108 23 03%0a---%0a> An PRO–ZURITUUTSCH / c/o Dr.F.E.Wyss / Steinwiesstr. 37 / CH 8032 Zürich%0a
+host:1416758680=178.198.220.139
+author:1185289853=fwyss
+diff:1185289853:1185288327:=
+host:1185289853=194.230.233.193
+author:1185288327=fwyss
+diff:1185288327:1179764478:=3,5d2%0a%3c An PRO–ZURITUUTSCH / c/o Dr.F.E.Wyss / Steinwiesstr. 37 / CH 8032 Zürich%0a%3c oder mit diesem Formular an fwyss@pro–zurituutsch.ch%0a%3c %0a
+host:1185288327=194.230.233.193
+author:1179764478=fwyss
+diff:1179764478:1179728785:=
+host:1179764478=194.230.192.104
+author:1179728785=fwyss
+diff:1179728785:1179560490:=3c3%0a%3c (:aaron: C.H.Aaron à Fr. 33.00 Subskriptionspreis\\%0a---%0a> (:wyss: C.H.Aaron à Fr. 33.00 Subskriptionspreis\\%0a25c25%0a%3c ||{$:aaron} ||(:input text hoerbuch_C.H.Aaron{$hoerbuch_C.H.Aaron} size=3 :) Exemplare ||%0a---%0a> ||{$:wyss} ||(:input text hoerbuch_C.H.Aaron{$hoerbuch_C.H.Aaron} size=3 :) Exemplare ||%0a
+host:1179728785=84.72.158.179
+author:1179560490=fwyss
+diff:1179560490:1179560406:=3c3%0a%3c (:wyss: C.H.Aaron à Fr. 33.00 Subskriptionspreis\\%0a---%0a> (:wyss: C.H.Aaron, Subskriptionspreis Fr. 33.00\\%0a
+host:1179560490=194.230.243.52
+author:1179560406=fwyss
+diff:1179560406:1179232963:=1,47d0%0a%3c !!Bestellen.Pschtellformoular%0a%3c %0a%3c (:wyss: C.H.Aaron, Subskriptionspreis Fr. 33.00\\%0a%3c Hörbuch und Buch auf 5 CD's auf Zürichdeutsch :)%0a%3c %0a%3c (:wyss: konzyl à Fr. 28.50\\%0a%3c Hörbuch und Buch auf CD auf Zürichdeutsch :)%0a%3c %0a%3c (:ovid: liëbhaber à Fr. 45.-\\%0a%3c Ars Amatoria von Ovid auf Zürichdeutsch :)%0a%3c %0a%3c (:queneau: Styluëbige à Fr. 7.50.-\\%0a%3c Éxercices de Style von R. Queneau\\%0a%3c auf Zürichdeutsch :)%0a%3c %0a%3c (:legenden: Viër bitterbeuhsi Légànde à Fr. 20.-\\%0a%3c von F. E. Wyss :)%0a%3c %0a%3c (:input form:)%0a%3c (:messages:)%0a%3c ||border=0 cellpadding=0 cellspacing=0 valign=top%0a%3c %0a%3c !!! Hörbücher MP3 auf Zürichdeutsch:%0a%3c %0a%3c ||{$:wyss} ||(:input text hoerbuch_C.H.Aaron{$hoerbuch_C.H.Aaron} size=3 :) Exemplare ||%0a%3c ||{$:wyss} ||(:input text hoerbuch_konzyl {$hoerbuch_konzyl} size=3 :) Exemplare ||%0a%3c %0a%3c !!! Bücher auf Zürichdeutsch:%0a%3c %0a%3c ||{$:ovid} ||(:input text buch_liebhaber {$buch_liebhaber} size=3 :) Exemplare ||%0a%3c ||{$:queneau} ||(:input text buch_queneau {$buch_queneau} size=3 :) Exemplare ||%0a%3c ||{$:legenden} ||(:input text buch_legenden {$buch_legenden} size=3 :) Exemplare ||%0a%3c ||Email Adresse ||(:input text email "{$email}" size=40:)||%0a%3c ||Anrede ||(:input text anrede "{$anrede}" size=40:) ||%0a%3c ||Name ||(:input text name "{$name}" size=40:) ||%0a%3c ||Vorname ||(:input text vorname "{$vorname}" size=40:) ||%0a%3c ||Firma ||(:input text firma "{$firma}" size=40:) ||%0a%3c ||Adresse ||(:input text adresse "{$adresse}" size=40:) ||%0a%3c ||PLZ / Ort ||(:input text ort "{$ort}" size=40:) ||%0a%3c ||Telefon ||(:input text telefon "{$telefon}" size=40:) ||%0a%3c ||Mitteilungen ||(:textarea name=mitteilungen cols=72 rows=12:){$mitteilungen}(:textareaend:)%0a%3c || ||Ich wünsche eine Zustellung mit Einzahlungsschein an obige Adresse.\\%0a%3c Die Preise verstehen sich ohne Versandspesen. ||%0a%3c || ||(:input submit value="Email senden":) ||%0a%3c (:input hidden action order :)%0a%3c (:input end:)%0a%3c %0a
+host:1179560406=194.230.243.52
+author:1179232963=fwyss
+diff:1179232963:1179232963:=
+host:1179232963=194.230.187.107

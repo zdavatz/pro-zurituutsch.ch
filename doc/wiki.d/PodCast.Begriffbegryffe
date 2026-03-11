@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1247320608
+host=81.62.45.237
+name=PodCast.Begriffbegryffe
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Begriffbegryffe.mp3%0a%0a!!!Bégriffbégryffe%0a%0a%25center%25Ch. Cheuïzli.%0a%0aZoum tànke, sàit en Filosoof, brouhcht de Màntsch apstrakti Bégriff. Dië Bégriff erfassed aber nië ales daas, wo me dour Béobachtig cha–n erfaare. Droum warnt de Filosoof, me séll neud àin apstrakte Bégriff an andere ràihe, ooni sych ouf tiràkti Béobachtig z’bézië, souscht gghéji me blos Louftblaatere–n oumenand.%0a%0aDaa schrybt jétz en Profàsser:%0a%0a„Die Krankseins–Erfahrung kann einen Weg zur Reifung einspuren: zum Wachstum zu Bescheidenheit, Selbstrelativierung des Ich–Anspruches, Echtheit des eigenen Selbstseins, Annahme des eigenen Geschicks, Ausdauer im Durchhalten und im Weiterschreiten auf dem je eigenen Lebensweg, Fortsetzung dessen, was möglich ist und was das Selbstsein fordert  – und darin Sinn erfahren.“%0a%0aOuf Zurituutsch cheunnti dèè Apschnitt euppe–n e soo hàisse:%0a%0aWà me–n e Chranket douremacht, cha me–n aw draa ryffe. Séigs, das me zfride wirt mit wéniger, zfride–n aw mit dèm wo–n àim widerfaart, séigs das me sych wéniger wichtig nimmt ound éérli zou sych sàlber staat. Me cha deby aw léére dourehébe wànn ’s muësam wirt ound wéé touët, dourehébe so wyt ’s gaat aw bi syne–n Ouhfgabe–n ound bi dèm, wo me sych sàlber voorggnaa hàt. E dèèwààg cha so–n e Chranket en Sinn uberchoo.%0a%0a
+time=1247320980
+author:1247320980=fwyss
+diff:1247320980:1247320889:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Begriffbegryffe.mp3%0a%3c %0a---%0a> Attach:Begriffbegryffe.mp3%0a> %0a
+host:1247320980=81.62.45.237
+author:1247320889=fwyss
+diff:1247320889:1247320608:=1,16c1%0a%3c Attach:Begriffbegryffe.mp3%0a%3c %0a%3c !!!Bégriffbégryffe%0a%3c %0a%3c %25center%25Ch. Cheuïzli.%0a%3c %0a%3c Zoum tànke, sàit en Filosoof, brouhcht de Màntsch apstrakti Bégriff. Dië Bégriff erfassed aber nië ales daas, wo me dour Béobachtig cha–n erfaare. Droum warnt de Filosoof, me séll neud àin apstrakte Bégriff an andere ràihe, ooni sych ouf tiràkti Béobachtig z’bézië, souscht gghéji me blos Louftblaatere–n oumenand.%0a%3c %0a%3c Daa schrybt jétz en Profàsser:%0a%3c %0a%3c „Die Krankseins–Erfahrung kann einen Weg zur Reifung einspuren: zum Wachstum zu Bescheidenheit, Selbstrelativierung des Ich–Anspruches, Echtheit des eigenen Selbstseins, Annahme des eigenen Geschicks, Ausdauer im Durchhalten und im Weiterschreiten auf dem je eigenen Lebensweg, Fortsetzung dessen, was möglich ist und was das Selbstsein fordert  – und darin Sinn erfahren.“%0a%3c %0a%3c Ouf Zurituutsch cheunnti dèè Apschnitt euppe–n e soo hàisse:%0a%3c %0a%3c Wà me–n e Chranket douremacht, cha me–n aw draa ryffe. Séigs, das me zfride wirt mit wéniger, zfride–n aw mit dèm wo–n àim widerfaart, séigs das me sych wéniger wichtig nimmt ound éérli zou sych sàlber staat. Me cha deby aw léére dourehébe wànn ’s muësam wirt ound wéé touët, dourehébe so wyt ’s gaat aw bi syne–n Ouhfgabe–n ound bi dèm, wo me sych sàlber voorggnaa hàt. E dèèwààg cha so–n e Chranket en Sinn uberchoo.%0a%3c %0a---%0a> Attach:Begriffbegryffe.mp3%0a\ No newline at end of file%0a
+host:1247320889=81.62.45.237
+author:1247320608=fwyss
+diff:1247320608:1247320608:=1d0%0a%3c Attach:Begriffbegryffe.mp3%0a\ No newline at end of file%0a
+host:1247320608=81.62.45.237

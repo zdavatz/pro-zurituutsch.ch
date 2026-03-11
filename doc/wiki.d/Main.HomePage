@@ -1,0 +1,13 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.8.1) Gecko/20061026 BonEcho/2.0
+author=fwyss
+csum=
+host=84.72.152.159
+name=Main.HomePage
+rev=201
+targets=PmWiki.DocumentationIndex,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,Main.WikiSandbox
+text=Attach:http://pro-zurituutsch.zftp.com/klini-stadt.mp3%0a%0aWelcome to PmWiki!%0a%0aA local copy of PmWiki's%0adocumentation has been installed along with the software,%0aand is available via the [[PmWiki/documentation index]].  %0a%0aTo continue setting up PmWiki, see [[PmWiki/initial setup tasks]].%0a%0aThe [[PmWiki/basic editing]] page describes how to create pages%0ain PmWiki.  You can practice editing in the [[wiki sandbox]].%0a%0aMore information about PmWiki is available from http://www.pmwiki.org .%0a
+time=1162984890
+author:1162984890=fwyss
+diff:1162984890:1142203034:=1,2d0%0a%3c Attach:http://pro-zurituutsch.zftp.com/klini-stadt.mp3%0a%3c %0a
+host:1162984890=84.72.152.159

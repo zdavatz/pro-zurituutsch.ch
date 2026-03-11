@@ -1,0 +1,14 @@
+[Tue Oct 18 03:16:27 2022] [error] [client 185.27.99.130] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Tue Oct 18 03:16:27 2022] [error] [client 185.27.99.116] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Tue Oct 18 03:28:29 2022] [error] [client 185.196.220.26] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: https://www.google.com/
+[Tue Oct 18 08:59:35 2022] [error] [client 46.242.145.28] script '/var/www/pro-zurituutsch.ch/doc/wp-commentin.php' not found or unable to stat
+[Tue Oct 18 13:47:28 2022] [error] [client 193.24.32.34] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-120x120-precomposed.png
+[Tue Oct 18 13:47:28 2022] [error] [client 193.24.32.34] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-120x120.png
+[Tue Oct 18 13:47:28 2022] [error] [client 193.24.32.34] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Tue Oct 18 13:47:28 2022] [error] [client 193.24.32.34] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Tue Oct 18 15:16:07 2022] [error] [client 20.205.234.193] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin, referer: binance.com
+[Tue Oct 18 15:16:23 2022] [error] [client 20.205.234.193] File does not exist: /var/www/pro-zurituutsch.ch/doc/sites, referer: binance.com
+[Tue Oct 18 15:16:41 2022] [error] [client 20.205.234.193] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: binance.com
+[Tue Oct 18 15:16:48 2022] [error] [client 20.205.234.193] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/, referer: binance.com
+[Tue Oct 18 18:18:09 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Oct 18 18:39:52 2022] [error] [client 20.68.176.92] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content, referer: www.google.com

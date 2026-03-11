@@ -1,0 +1,87 @@
+BODY {
+  font-family : Arial, Helvetica, sans-serif;
+  color : #ffffff;
+  background-color : #000089;
+ }
+HEAD {
+	font : Arial, Helvetica, sans-serif;
+  color : #ffffff;
+}
+TITLE {
+
+	font : Arial, Helvetica, sans-serif;
+	color : #ffffff;
+	background: rgb(0,0,200);
+}
+h1 {
+	font : Arial, Helvetica, sans-serif;
+  color : #ffffff;
+	padding : 2px;
+}
+h2 {
+	font : Arial, Helvetica, sans-serif;
+  color : #ffffff;
+	padding : 2px;
+}
+h3 {
+	font : Arial, Helvetica, sans-serif;
+  color : #000089;
+	background : #ffffff;
+	padding : 2px;
+}
+h3 > a:hover {
+
+	color : #000089;
+	padding : 2px;
+
+}
+h4 {
+	font : Arial, Helvetica, sans-serif;
+  color : #ffffff;
+	padding : 2px;
+}
+h5 {
+	font : Arial, Helvetica, sans-serif;
+  color : #ffffff;
+	padding : 2px;
+}
+h6 {
+	font : Arial, Helvetica, sans-serif;
+  color : #ffffff;
+	padding : 2px;
+}
+a, .a:link, .a:visited {
+	font : Arial, Helvetica, sans-serif;
+  text-decoration : underline;
+	color : #ffffff;
+
+ }
+a:hover {
+	font : Arial, Helvetica, sans-serif;
+  color : #ff6562;
+  text-decoration : none;
+}	
+
+
+
+
+td.titel {
+	text-align : left;
+	font : bold 35px Arial, Helvetica, sans-serif;
+  color : #ffffff;
+	padding : 2px;
+}
+textarea {
+	width : 350px;
+	height : 300px;
+}
+.small-textinput {
+	width : 25px;
+}
+.TDBOLD{
+	font-weight : bold;
+}
+.missing-email {
+	font-weight : bold;
+	color : red;
+}

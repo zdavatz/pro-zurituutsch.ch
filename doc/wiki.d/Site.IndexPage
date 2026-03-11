@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1233334947
+host=81.62.28.137
+name=Site.IndexPage
+rev=1
+targets=
+text=
+time=1233334947
+author:1233334947=fwyss
+diff:1233334947:1233334947:=
+host:1233334947=81.62.28.137

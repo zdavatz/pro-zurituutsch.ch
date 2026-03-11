@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/6.1.1 Safari/537.73.11
+author=
+csum=
+ctime=1391098921
+host=85.2.212.174
+name=PodCast.Antiikiundanderigschichte
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:antiikiundanderigschichte.mp3
+time=1391099169
+author:1391099169=
+diff:1391099169:1391099042:=
+host:1391099169=85.2.212.174
+author:1391099042=
+diff:1391099042:1391098952:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:antiikiundanderigschichte.mp3%0a\ No newline at end of file%0a---%0a> Attach:antiikiundanderigschichte.mp3%0a\ No newline at end of file%0a
+host:1391099042=85.2.212.174
+author:1391098952=
+diff:1391098952:1391098921:=
+host:1391098952=85.2.212.174
+author:1391098921=
+diff:1391098921:1391098921:=1d0%0a%3c Attach:antiikiundanderigschichte.mp3%0a\ No newline at end of file%0a
+host:1391098921=85.2.212.174

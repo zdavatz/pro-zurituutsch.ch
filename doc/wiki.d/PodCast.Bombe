@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; de-de) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/4.1.3 Safari/533.19.4
+author=
+csum=
+ctime=1301674036
+host=85.1.96.173
+name=PodCast.Bombe
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Bombe.mp3%0a%0a!!!Bombe%0a%0a%25center%25Limerick 24%0a%0aOuf 's Maal isch en Briëf éxplodiërt,%0a%0aIm Swiss–Chèrnchrafft–Buro ischs passiërt.%0a%0aZwoo Daame sidhèèr %0a%0ahànd en Schade–n am Ggheuhr –%0a%0aMit Bombe wirt schlàcht rèsoniërt.%0a
+time=1301674327
+author:1301674327=
+diff:1301674327:1301674251:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Bombe.mp3%0a%3c %0a---%0a> Attach:Bombe.mp3%0a> %0a
+host:1301674327=85.1.96.173
+author:1301674251=
+diff:1301674251:1301674224:=8d7%0a%3c %0a10d8%0a%3c %0a12d9%0a%3c %0a14d10%0a%3c %0a
+host:1301674251=85.1.96.173
+author:1301674224=
+diff:1301674224:1301674036:=1,12c1%0a%3c Attach:Bombe.mp3%0a%3c %0a%3c !!!Bombe%0a%3c %0a%3c %25center%25Limerick 24%0a%3c %0a%3c Ouf 's Maal isch en Briëf éxplodiërt,%0a%3c Im Swiss–Chèrnchrafft–Buro ischs passiërt.%0a%3c Zwoo Daame sidhèèr %0a%3c hànd en Schade–n am Ggheuhr –%0a%3c Mit Bombe wirt schlàcht rèsoniërt.%0a%3c  %0a\ No newline at end of file%0a---%0a> Attach:Bombe.mp3%0a\ No newline at end of file%0a
+host:1301674224=85.1.96.173
+author:1301674036=
+diff:1301674036:1301674036:=1d0%0a%3c Attach:Bombe.mp3%0a\ No newline at end of file%0a
+host:1301674036=85.1.96.173

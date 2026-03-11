@@ -1,0 +1,7 @@
+[Wed Feb 16 03:28:16 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/ab0ut.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/ab0ut.php
+[Wed Feb 16 11:52:19 2022] [error] [client 85.25.185.138] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Wed Feb 16 12:00:57 2022] [error] [client 85.25.185.138] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Wed Feb 16 12:57:50 2022] [error] [client 80.150.6.150] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Wed Feb 16 16:08:17 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Wed Feb 16 16:08:20 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Wed Feb 16 17:50:11 2022] [error] [client 109.194.141.174] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat

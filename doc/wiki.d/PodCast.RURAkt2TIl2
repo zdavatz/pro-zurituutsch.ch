@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+author=
+csum=
+ctime=1373741737
+host=188.62.172.77
+name=PodCast.RURAkt2TIl2
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:RUR02/02.mp3
+time=1375287113
+author:1375287113=
+diff:1375287113:1373743214:=
+host:1375287113=188.62.172.77
+author:1373743214=
+diff:1373743214:1373741737:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:RUR02/02.mp3%0a\ No newline at end of file%0a---%0a> Attach:RUR02/02.mp3%0a\ No newline at end of file%0a
+host:1373743214=188.62.172.77
+author:1373741737=
+diff:1373741737:1373741737:=1d0%0a%3c Attach:RUR02/02.mp3%0a\ No newline at end of file%0a
+host:1373741737=188.62.172.77

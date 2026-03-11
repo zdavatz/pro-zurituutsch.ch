@@ -1,0 +1,11 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1144514645
+host=89.83.171.147
+name=PmWikiFr.ToutesLesModifs
+rev=1
+targets=
+text=(:redirect Site.AllRecentChanges:)
+time=1144514645

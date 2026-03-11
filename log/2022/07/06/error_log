@@ -1,0 +1,23 @@
+[Wed Jul 06 02:55:59 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 04:10:37 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 08:27:36 2022] [error] [client 213.108.3.239] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 08:54:30 2022] [error] [client 162.0.223.197] script '/var/www/pro-zurituutsch.ch/doc/lock360.php' not found or unable to stat
+[Wed Jul 06 08:54:30 2022] [error] [client 162.0.223.197] script '/var/www/pro-zurituutsch.ch/doc/lock360.php' not found or unable to stat
+[Wed Jul 06 08:54:30 2022] [error] [client 162.0.223.197] script '/var/www/pro-zurituutsch.ch/doc/xmrlpc.php' not found or unable to stat
+[Wed Jul 06 08:54:30 2022] [error] [client 162.0.223.197] script '/var/www/pro-zurituutsch.ch/doc/xmrlpc.php' not found or unable to stat
+[Wed Jul 06 08:58:42 2022] [error] [client 194.104.8.83] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 09:41:05 2022] [error] [client 84.17.48.75] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Wed Jul 06 11:42:54 2022] [error] [client 178.83.73.15] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Wed Jul 06 13:42:24 2022] [error] [client 45.132.186.12] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 13:50:17 2022] [error] [client 158.69.119.14] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 13:52:28 2022] [error] [client 54.39.50.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 14:18:32 2022] [error] [client 54.39.50.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 14:26:01 2022] [error] [client 158.69.119.14] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 14:27:42 2022] [error] [client 45.148.126.60] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jul 06 14:45:45 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Wed Jul 06 19:15:27 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Jul 06 19:15:32 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Jul 06 19:15:35 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Jul 06 19:15:38 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Jul 06 22:06:58 2022] [error] [client 201.253.170.26] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Jul 06 22:08:10 2022] [error] [client 86.97.177.47] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

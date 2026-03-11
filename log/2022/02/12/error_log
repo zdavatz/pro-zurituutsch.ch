@@ -1,0 +1,4 @@
+[Sat Feb 12 08:15:17 2022] [error] [client 185.191.171.13] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sat Feb 12 13:02:39 2022] [error] [client 154.54.249.202] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/PodCast/
+[Sat Feb 12 19:33:01 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/about.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/about.php
+[Sat Feb 12 20:40:43 2022] [error] [client 137.184.22.7] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

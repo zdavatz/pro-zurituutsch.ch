@@ -1,0 +1,29 @@
+[Sun Mar 20 05:38:44 2022] [error] [client 162.241.216.32] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sun Mar 20 12:38:42 2022] [error] [client 124.223.96.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed, referer: http://pro-zurituutsch.ch/feed/
+[Sun Mar 20 13:52:47 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets
+[Sun Mar 20 14:06:35 2022] [error] [client 139.59.25.246] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch
+[Sun Mar 20 14:06:36 2022] [error] [client 139.59.25.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress, referer: http://pro-zurituutsch.ch
+[Sun Mar 20 14:06:37 2022] [error] [client 139.59.25.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: http://pro-zurituutsch.ch
+[Sun Mar 20 14:06:37 2022] [error] [client 139.59.25.246] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp, referer: http://pro-zurituutsch.ch
+[Sun Mar 20 16:06:39 2022] [error] [client 59.102.158.122] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/media
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Sun Mar 20 17:45:28 2022] [error] [client 20.123.195.80] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Sun Mar 20 22:02:58 2022] [error] [client 185.220.101.49] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Sun Mar 20 22:02:58 2022] [error] [client 185.220.101.49] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Sun Mar 20 22:02:58 2022] [error] [client 185.220.101.49] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Sun Mar 20 23:26:19 2022] [error] [client 95.173.160.160] File does not exist: /var/www/pro-zurituutsch.ch/doc/aws
+[Sun Mar 20 23:42:44 2022] [error] [client 185.18.212.66] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

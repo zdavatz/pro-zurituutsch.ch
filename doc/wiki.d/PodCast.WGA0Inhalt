@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; de-de) AppleWebKit/533.16 (KHTML, like Gecko) Version/4.1 Safari/533.16
+author=
+csum=
+ctime=1282557334
+host=83.79.128.53
+name=PodCast.WGA0Inhalt
+rev=1
+targets=
+text=Attach:WGA0Inhalt.mp3%0a
+time=1282557334
+author:1282557334=
+diff:1282557334:1282557334:=1d0%0a%3c Attach:WGA0Inhalt.mp3%0a
+host:1282557334=83.79.128.53

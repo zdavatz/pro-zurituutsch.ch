@@ -1,0 +1,2 @@
+[Wed Feb 23 04:05:39 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/server.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/server.php
+[Wed Feb 23 05:06:03 2022] [error] [client 108.167.132.58] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress

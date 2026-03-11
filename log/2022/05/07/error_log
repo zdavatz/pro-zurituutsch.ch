@@ -1,0 +1,5 @@
+[Sat May 07 00:17:48 2022] [error] [client 162.241.252.221] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sat May 07 10:00:00 2022] [error] [client 149.56.150.178] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sat May 07 10:00:15 2022] [error] [client 149.56.150.178] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Sat May 07 16:20:37 2022] [error] [client 130.255.166.174] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Sat May 07 16:20:37 2022] [error] [client 130.255.166.223] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt

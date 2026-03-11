@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+csum=
+ctime=1387558604
+host=178.198.220.139
+name=PodCast.Sterbe
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:sterbe.mp3
+time=1429728589
+author:1429728589=
+diff:1429728589:1387559036:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:sterbe.mp3%0a\ No newline at end of file%0a---%0a> Attach:sterbe.mp3%0a\ No newline at end of file%0a
+host:1429728589=178.198.220.139
+author:1387559036=
+diff:1387559036:1387559018:=
+host:1387559036=188.62.3.143
+author:1387559018=
+diff:1387559018:1387558604:=
+host:1387559018=188.62.3.143
+author:1387558604=
+diff:1387558604:1387558604:=1d0%0a%3c Attach:sterbe.mp3%0a\ No newline at end of file%0a
+host:1387558604=188.62.3.143

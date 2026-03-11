@@ -1,0 +1,10 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=
+author=CarlosAB
+csum=
+host=201.15.138.101
+name=PmWikiPtBr.PmWikiPtBr
+rev=40
+targets=PmWikiPtBr.WikiWikiWeb,PmWikiPtBr.Sandbox
+text=Aos que não estão acostumados, lembrem-se das pequenas diferenças entre o português do Brasil e o de outros países que o têm como língua oficial...!%0a%0aPmWiki é um sistema [[WikiWikiWeb]] desenvolvido por%0aPmWiki/PatrickMichaud em PHP, principalmente como uma ferramenta que habilita o fácil desenvolvimento e manutenção de sites web colaborativos.%0a%0aEste site usa {$Version}. O programa está livremente disponível sob a '''GPL''' '''Licença Pública GNU''' e pode ser baixado daqui http://www.pmichaud.com/pub/pmwiki. Mais informações sobre '''PmWiki''' em http://www.pmwiki.org.%0a%0aPmWiki é uma marca registrada de Patrick R. Michaud     (http://www.pmichaud.com).%0a%0aTeste o [[Sandbox]] para explorar melhor um Wiki.%0a%0a(:include PmWikiPtBr.OutrasLinguas:)%0a%0a
+time=1146878874

@@ -1,0 +1,10 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+host=212.194.45.131
+name=PmWikiFr.SideBar
+rev=22
+targets=PmWikiFr.PmWikiFr,PmWikiFr.PmWikiFeatures,PmWikiFr.Download,PmWikiFr.IndexDocumentation,PmWikiFr.IndexDocAdmin,PmWikiFr.IndexCompléments,PmWikiFr.ReleaseNotes,PmWikiFr.EtatDeLaTraduction,PmWikiFr.SitePages,Main.HomePage
+text=![[En Français->PmWikiFr.PmWikiFr]]%0a*[[PmWikiFeatures| Fonctionnalités]]%0a*[[Download|+]]%0a*[[Documentation->index documentation]]%0a*[[Doc administration->index doc admin]]%0a*[[Doc compléments->index compléments]]%0a*[[ReleaseNotes|+]]%0a*[[Etat.de.la.traduction -> EtatDeLaTraduction]] (:Comment Transformation en lien libre pour éviter le lien cassé lors d'une utilisation de PmWiki en utf8 :)%0a*[[Administration site->SitePages]]%0a%0a![[En Anglais->Main.HomePage]]%0a(:include Site.SideBar lines=3..25:)
+time=1144179783

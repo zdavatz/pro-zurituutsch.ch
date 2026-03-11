@@ -1,0 +1,9 @@
+[Sun Jul 10 02:35:09 2022] [error] [client 43.250.80.250] File does not exist: /var/www/pro-zurituutsch.ch/doc/main
+[Sun Jul 10 02:35:10 2022] [error] [client 43.250.80.250] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Sun Jul 10 07:19:36 2022] [error] [client 89.252.138.226] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sun Jul 10 10:52:12 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sun Jul 10 10:52:23 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sun Jul 10 10:56:19 2022] [error] [client 167.99.212.214] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Sun Jul 10 11:50:08 2022] [error] [client 154.54.249.197] Directory index forbidden by Options directive: /var/www/pro-zurituutsch.ch/doc/uploads/Site/
+[Sun Jul 10 21:52:56 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sun Jul 10 21:52:58 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt

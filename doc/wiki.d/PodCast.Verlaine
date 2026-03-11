@@ -1,0 +1,26 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+csum=
+ctime=1445011923
+host=178.198.133.189
+name=PodCast.Verlaine
+rev=5
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Verlaine.mp3%0a%0a!!!Verlaine%0a%0a%0aLes sanglots longs des violons de l'automne%0a%0ablessent mont coeur d'une langueur monotone.%0a%0aTout suffocant et blême quand sonne l'heure%0a%0aJe me souviens des temps enciens, et je pleure.%0a%0aEt je m'en vais au vents mauvais qui m'emportent%0a%0adeça, delà, comme une feuille morte.%0a%0a- - - - - -%0a%0a%0aUbersétzt vom Félix Wyss:%0a%0aDaas langsam Gsteuhn vo Violooneteuhn vom Novàmber%0a%0aschlaat mer ouf 's Ggmuët, àiteuhnig schwach ound matt.%0a%0aGanz verschlaat's mer de Schnouhf ound blouëtlèèr wànn t'Stound schlaat%0a%0apsinn i mi–ch a dië vergangnige Zyte, ound 's cheumed mer Trèène.%0a%0aOund i verschwinde vo wuëschte Winde verblaase,å%0a%0adaahy, dééthy, graad wië–n es apgstorbnigs Blatt. å%0a%0a%0a
+time=1445175304
+author:1445175304=
+diff:1445175304:1445012958:=
+host:1445175304=178.198.133.189
+author:1445012958=
+diff:1445012958:1445012716:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Verlaine.mp3%0a%3c %0a---%0a> Attach:Verlaine.mp3%0a> %0a35a36%0a> %0a
+host:1445012958=178.198.133.189
+author:1445012716=
+diff:1445012716:1445012657:=18,20c18,19%0a%3c - - - - - -%0a%3c %0a%3c %0a---%0a> %0a> %0a
+host:1445012716=178.198.133.189
+author:1445012657=
+diff:1445012657:1445011923:=1,35c1%0a%3c Attach:Verlaine.mp3%0a%3c %0a%3c !!!Verlaine%0a%3c %0a%3c %0a%3c Les sanglots longs des violons de l'automne%0a%3c %0a%3c blessent mont coeur d'une langueur monotone.%0a%3c %0a%3c Tout suffocant et blême quand sonne l'heure%0a%3c %0a%3c Je me souviens des temps enciens, et je pleure.%0a%3c %0a%3c Et je m'en vais au vents mauvais qui m'emportent%0a%3c %0a%3c deça, delà, comme une feuille morte.%0a%3c %0a%3c %0a%3c %0a%3c Ubersétzt vom Félix Wyss:%0a%3c %0a%3c Daas langsam Gsteuhn vo Violooneteuhn vom Novàmber%0a%3c %0a%3c schlaat mer ouf 's Ggmuët, àiteuhnig schwach ound matt.%0a%3c %0a%3c Ganz verschlaat's mer de Schnouhf ound blouëtlèèr wànn t'Stound schlaat%0a%3c %0a%3c psinn i mi–ch a dië vergangnige Zyte, ound 's cheumed mer Trèène.%0a%3c %0a%3c Ound i verschwinde vo wuëschte Winde verblaase,å%0a%3c %0a%3c daahy, dééthy, graad wië–n es apgstorbnigs Blatt. å%0a%3c %0a%3c %0a%3c %0a---%0a> Attach:Verlaine.mp3%0a\ No newline at end of file%0a
+host:1445012657=178.198.133.189
+author:1445011923=
+diff:1445011923:1445011923:=1d0%0a%3c Attach:Verlaine.mp3%0a\ No newline at end of file%0a
+host:1445011923=178.198.133.189

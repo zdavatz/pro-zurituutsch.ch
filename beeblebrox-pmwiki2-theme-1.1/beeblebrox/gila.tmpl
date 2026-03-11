@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="author" content="Thomas Weibel" />
+  <meta name="generator" content="GNU/Emacs" />
+  <link rel="shortcut icon" href="$SkinDirUrl/images/favicon.ico" />
+
+  <!--HeaderText-->
+
+  <style type="text/css">
+    @import url($SkinDirUrl/gila.css);
+  </style>
+
+  <!-- externalLinks(): to use rel='external' instead target='_blank' -->
+  <script type="text/javascript">
+    <!--
+    function externalLinks() {
+      if (!document.getElementsByTagName) return;
+      var anchors = document.getElementsByTagName("a");
+      for (var i=0; i<anchors.length; i++) {
+        var anchor = anchors[i];
+        if (anchor.getAttribute("href") &&
+          anchor.getAttribute("rel") == "external")
+            anchor.target = "_blank";
+      }
+    }
+    window.onload = externalLinks;
+    -->
+  </script>
+  <!-- /externalLinks() -->
+  
+  <title>$Titlespaced - $WikiTitle</title>
+</head>
+
+<body>
+
+  <!-- Wiki header -->
+  <div id="header">
+    <h1 class="headerTitle">$PageLogoFmt</h1>
+  </div>
+
+  <form id="headerSearch" action='$ScriptUrl/$[$SiteGroup/Search]'>
+    <div>
+    <input type='hidden' name='pagename' value='$[$SiteGroup/Search]'/>
+    <label for='searchbox'>$[Search]</label> 
+    <input id='searchbox' class='searchbox' type='text' name='q' value='' />
+    <input class='searchbutton' type='submit' value='&raquo;' />
+    </div>
+  </form>
+  <!-- /Wiki header -->
+  
+  <!-- Wiki navigation -->
+  <!--PageLeftFmt-->
+  <div class="wikileft">
+    <div id="sidebar">
+      <!--wiki:$Group.SideBar $SiteGroup.SideBar-->
+    </div>
+  </div>
+  <!--/PageLeftFmt-->
+  <!-- /Wiki navigation -->
+  
+  
+  <!-- Wiki body -->
+  <div id="wikibody">
+    <!--PageHeaderFmt-->
+    
+    <!-- Wiki commands -->
+    <div id="wikicmds">
+      <!--function:CmsLikeMenuFmt-->
+    </div>
+    <!-- /Wiki commands -->
+    
+    <!--PageTitleFmt-->
+    <div id="breadcrumbs">
+      <a href="$ScriptUrl/$Group">$Groupspaced</a> &raquo; 
+      <a href="$PageUrl">$Titlespaced</a>
+    </div>
+    <!--/PageTitleFmt-->
+
+    <div id="wikipage">
+      <!--PageText-->
+    </div>
+  </div>
+  <!-- /Wiki body -->
+  
+  <!-- Wiki footer -->
+  <!--PageFooterFmt-->
+  <div id="wikifoot">
+    <div class="footnav">
+      $LoginLink
+      <!--function:CmsLikeMenuFmt-->
+    </div>
+
+    <div class="lastmod">
+      $[Page last modified on $LastModified]
+    </div>
+
+    <div class="copyright">
+      $CopyrightNotice
+    </div>
+  </div>
+  <!--/PageFooterFmt-->
+  <!-- /Wiki footer -->
+
+</body>
+</html>

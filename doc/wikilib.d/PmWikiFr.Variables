@@ -1,0 +1,10 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+host=89.83.205.83
+name=PmWikiFr.Variables
+rev=27
+targets=PmWikiFr.LocalCustomizations,PmWikiFr.PageVariables,PmWikiFr.BasicVariables,PmWikiFr.LayoutVariables,PmWikiFr.PathVariables,PmWikiFr.LinkVariables,PmWikiFr.EditVariables,PmWikiFr.UploadVariables,PmWikiFr.I18nVariables,PmWikiFr.PagelistVariables,PmWikiFr.OtherVariables,PmWikiFr.MailPosts,PmWikiFr.IndexDocAdmin
+text=%25audience%25 administrateurs (basique) %0a%0aCette page documente les variables disponibles permettant de [[LocalCustomizations|personnaliser]] `PmWiki. %0a%0aNe pas confondre ces variables (définies et utilisées uniquement en  PHP) avec les [[PageVariables|+]].%0a%0aLa documentation des variables est réparties sur plusieurs pages%0a* [[BasicVariables|+]] - Variables au coeur du système%0a* [[LayoutVariables|+]] - Variables qui contrôlent la mise en forme de pages%0a* [[PathVariables|+]] - Variables utilisées pour définir des emplacements sur le serveur%0a* [[LinkVariables|+]] - Variables qui contrôlent l'affichage des liens dans les pages%0a* [[EditVariables|+]] - Variables utilisées pendant l'édition des pages%0a* [[UploadVariables|+]] - Variables utilisées pour les téléchargements/attachements de fichiers%0a* [[I18nVariables|+]]%0a* [[PagelistVariables|+]] - Variables utilisées pour les liste de pages et les recherches%0a* [[OtherVariables|+]] - Variables pas encore classées%0a* [[MailPosts|+]] - Courriels envoyés quand les pages sont modifiées%0a%0aUn [[#index |index]] complet des variables documentées se trouve ci-dessous.%0a%0aEn général, les variables dont le nom se termine par 'Fmt' (tel que $PageLayoutFmt) sont traitées globalement - la substitution avec leur valeur s'effectue avant l'affichage. Et les chaînes de caractères telles que @@$Title@@ et @@$PageUrl@@ sont remplacées avec le titre et l'URL de la page au moment de leur écriture. %0a%0a%25trail%25%3c%3c|[[Index doc admin]]|>>%0a%0a----%0a%0a[[#index]]%0a(:varindex:)
+time=1144350275

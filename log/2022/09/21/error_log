@@ -1,0 +1,7 @@
+[Wed Sep 21 02:01:01 2022] [error] [client 159.223.39.176] File does not exist: /var/www/pro-zurituutsch.ch/doc/administrator
+[Wed Sep 21 04:19:16 2022] [error] [client 51.222.253.20] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Wed Sep 21 15:09:25 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Sep 21 15:09:55 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Sep 21 16:16:39 2022] [error] [client 201.69.31.78] script '/var/www/pro-zurituutsch.ch/doc/adminer.php' not found or unable to stat
+[Wed Sep 21 17:29:23 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Wed Sep 21 22:49:54 2022] [error] [client 45.72.48.130] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt

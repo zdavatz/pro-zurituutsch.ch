@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1207335119
+host=83.76.70.237
+name=PodCast.Obenabegghéit
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Obenabegghéit.mp3
+time=1218481606
+author:1218481606=fwyss
+diff:1218481606:1207335770:=
+host:1218481606=83.76.70.237
+author:1207335770=fwyss
+diff:1207335770:1207335496:=
+host:1207335770=83.76.230.202
+author:1207335496=fwyss
+diff:1207335496:1207335119:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Obenabegghéit.mp3%0a\ No newline at end of file%0a---%0a> Attach:Obenabegghéit.mp3%0a\ No newline at end of file%0a
+host:1207335496=83.76.230.202
+author:1207335119=fwyss
+diff:1207335119:1207335119:=1d0%0a%3c Attach:Obenabegghéit.mp3%0a\ No newline at end of file%0a
+host:1207335119=83.76.230.202

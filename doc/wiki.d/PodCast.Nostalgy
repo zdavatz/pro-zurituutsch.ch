@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1220121878
+host=83.76.75.225
+name=PodCast.Nostalgy
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Nostalgy.mp3%0a%0aNostalgy%0a%0aHinder em wyssliche Schléjer vo Nostalgy%0a%0aluuchtet matt, root vo Gold, de–r Aabigmond.%0a %0aOuntuutli blaw gséét me déét de Hàiwééséé.%0a%0aGruënsideglanz enthullt verschwoume de wybliché Lyb,%0a%0aBlàndigi Zàà zàiged ’s Làchle doch ’s Gsicht isch vergàsse.%0a%0aSchmèrzlichi Réminiszànz vo me gluckliche Làbe.%0a%0a
+time=1220122182
+author:1220122182=fwyss
+diff:1220122182:1220122129:=6,8c6%0a%3c %0a%3c luuchtet matt, root vo Gold, de–r Aabigmond.%0a%3c  %0a---%0a> luuchtet matt, root vo Gold, de–r Aabigmond. %0a10d7%0a%3c %0a12d8%0a%3c %0a14,16c10,11%0a%3c %0a%3c Schmèrzlichi Réminiszànz vo me gluckliche Làbe.%0a%3c %0a---%0a> Schmèrzlichi Réminiszànz vo me, gluckliche Làbe.%0a> %0a
+host:1220122182=83.76.75.225
+author:1220122129=fwyss
+diff:1220122129:1220122071:=1,11c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Nostalgy.mp3%0a%3c %0a%3c Nostalgy%0a%3c %0a%3c Hinder em wyssliche Schléjer vo Nostalgy%0a%3c luuchtet matt, root vo Gold, de–r Aabigmond. %0a%3c Ountuutli blaw gséét me déét de Hàiwééséé.%0a%3c Gruënsideglanz enthullt verschwoume de wybliché Lyb,%0a%3c Blàndigi Zàà zàiged ’s Làchle doch ’s Gsicht isch vergàsse.%0a%3c Schmèrzlichi Réminiszànz vo me, gluckliche Làbe.%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Nostalgy.mp3%0a\ No newline at end of file%0a
+host:1220122129=83.76.75.225
+author:1220122071=fwyss
+diff:1220122071:1220121878:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Nostalgy.mp3%0a\ No newline at end of file%0a---%0a> Attach:Nostalgy.mp3%0a\ No newline at end of file%0a
+host:1220122071=83.76.75.225
+author:1220121878=fwyss
+diff:1220121878:1220121878:=1d0%0a%3c Attach:Nostalgy.mp3%0a\ No newline at end of file%0a
+host:1220121878=83.76.75.225

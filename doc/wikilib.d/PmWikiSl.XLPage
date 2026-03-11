@@ -1,0 +1,11 @@
+version=pmwiki-2.1.3 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+author=
+csum=
+ctime=1143113525
+host=70.28.146.81
+name=PmWikiSl.XLPage
+rev=1
+targets=PmWiki.XLPageCookbookTemplate
+text=This page contains the string mappings to convert PmWiki's prompts into another language.  Most strings have the original text on the left-hand-side, and two quotation marks on the right-hand-side which can be filled with the  translation. However, some strings already have an English  explanation on the right-hand-side, which can be replaced with the  appropriate translation, to explain the cryptic string names on the  left-hand-side. If you are confused about left and right, as many  people are, please go and have a cuppa and a lie down, then come back  to translation.  Other strings to be translated, including some used in previous versions, may be found at [[PmWiki.XLPageCookbookTemplate]].  [@ ### Character encoding, e.g. 'iso-8859-2' or 'utf-8' # 'xlpage-i18n' =
+time=1143113525

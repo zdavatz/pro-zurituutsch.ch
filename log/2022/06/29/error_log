@@ -1,0 +1,17 @@
+[Wed Jun 29 00:12:03 2022] [error] [client 54.39.18.217] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jun 29 01:00:32 2022] [error] [client 54.39.18.217] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jun 29 04:01:14 2022] [error] [client 191.101.31.36] File does not exist: /var/www/pro-zurituutsch.ch/doc/wallets
+[Wed Jun 29 04:01:43 2022] [error] [client 191.101.31.36] File does not exist: /var/www/pro-zurituutsch.ch/doc/wallet.dat
+[Wed Jun 29 04:02:07 2022] [error] [client 191.101.31.36] File does not exist: /var/www/pro-zurituutsch.ch/doc/backups
+[Wed Jun 29 04:02:33 2022] [error] [client 191.101.31.36] File does not exist: /var/www/pro-zurituutsch.ch/doc/backup
+[Wed Jun 29 04:03:06 2022] [error] [client 191.101.31.36] File does not exist: /var/www/pro-zurituutsch.ch/doc/bitcoin
+[Wed Jun 29 04:03:50 2022] [error] [client 191.101.31.36] File does not exist: /var/www/pro-zurituutsch.ch/doc/wallet
+[Wed Jun 29 04:04:14 2022] [error] [client 191.101.31.36] File does not exist: /var/www/pro-zurituutsch.ch/doc/btc
+[Wed Jun 29 04:04:44 2022] [error] [client 191.101.31.36] File does not exist: /var/www/pro-zurituutsch.ch/doc/backup
+[Wed Jun 29 04:56:31 2022] [error] [client 158.69.119.14] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Wed Jun 29 05:24:52 2022] [error] [client 191.96.168.167] File does not exist: /var/www/pro-zurituutsch.ch/doc/bitcoin
+[Wed Jun 29 13:23:56 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Jun 29 13:24:02 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Jun 29 13:24:06 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Jun 29 13:24:11 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Jun 29 16:40:08 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content

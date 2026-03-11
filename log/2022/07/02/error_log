@@ -1,0 +1,30 @@
+[Sat Jul 02 00:07:06 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jul 02 00:32:59 2022] [error] [client 194.87.54.64] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jul 02 00:58:13 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jul 02 01:23:35 2022] [error] [client 185.102.113.206] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jul 02 03:52:09 2022] [error] [client 77.220.195.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jul 02 07:04:28 2022] [error] [client 54.39.18.217] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jul 02 07:45:11 2022] [error] [client 143.198.235.178] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat, referer: http://pro-zurituutsch.ch
+[Sat Jul 02 07:45:12 2022] [error] [client 143.198.235.178] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress, referer: http://pro-zurituutsch.ch
+[Sat Jul 02 07:45:12 2022] [error] [client 143.198.235.178] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog, referer: http://pro-zurituutsch.ch
+[Sat Jul 02 07:45:13 2022] [error] [client 143.198.235.178] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp, referer: http://pro-zurituutsch.ch
+[Sat Jul 02 08:04:43 2022] [error] [client 54.39.18.217] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jul 02 11:03:25 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Sat Jul 02 17:02:12 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Sat Jul 02 17:02:12 2022] [error] [client 128.199.97.212] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Sat Jul 02 17:02:13 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Sat Jul 02 17:02:13 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Sat Jul 02 17:02:13 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sat Jul 02 17:02:13 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Sat Jul 02 17:02:14 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Sat Jul 02 17:02:14 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Sat Jul 02 17:02:15 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Sat Jul 02 17:02:15 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Sat Jul 02 17:02:15 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Sat Jul 02 17:02:15 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/media
+[Sat Jul 02 17:02:16 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Sat Jul 02 17:02:16 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Sat Jul 02 17:02:16 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Sat Jul 02 17:02:16 2022] [error] [client 128.199.97.212] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Sat Jul 02 19:04:53 2022] [error] [client 139.9.169.41] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed, referer: http://www.pro-zurituutsch.ch/feed/
+[Sat Jul 02 23:31:17 2022] [error] [client 83.68.102.49] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

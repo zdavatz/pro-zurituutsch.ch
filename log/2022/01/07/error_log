@@ -1,0 +1,16 @@
+[Fri Jan 07 01:16:34 2022] [error] [client 162.144.78.149] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Fri Jan 07 09:12:31 2022] [error] [client 131.153.240.2] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Fri Jan 07 12:48:18 2022] [error] [client 154.27.81.105] File does not exist: /var/www/pro-zurituutsch.ch/doc/mail
+[Fri Jan 07 12:48:19 2022] [error] [client 154.27.81.105] File does not exist: /var/www/pro-zurituutsch.ch/doc/autodiscover
+[Fri Jan 07 13:24:53 2022] [error] [client 40.77.167.7] File does not exist: /var/www/pro-zurituutsch.ch/doc/texte
+[Fri Jan 07 16:19:17 2022] [error] [client 167.99.78.164] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Fri Jan 07 16:45:38 2022] [error] [client 45.66.210.199] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Fri Jan 07 17:03:47 2022] [error] [client 185.88.102.116] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Fri Jan 07 17:22:02 2022] [error] [client 45.132.186.149] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Fri Jan 07 17:23:57 2022] [error] [client 131.153.240.2] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Fri Jan 07 17:41:03 2022] [error] [client 45.66.210.94] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Fri Jan 07 17:57:48 2022] [error] [client 45.132.186.145] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Fri Jan 07 18:16:09 2022] [error] [client 45.66.210.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Fri Jan 07 23:14:38 2022] [error] [client 42.200.169.14] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Fri Jan 07 23:36:28 2022] [error] [client 185.191.34.215] script '/var/www/pro-zurituutsch.ch/doc/cache.php' not found or unable to stat
+[Fri Jan 07 23:51:15 2022] [error] [client 45.227.255.159] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

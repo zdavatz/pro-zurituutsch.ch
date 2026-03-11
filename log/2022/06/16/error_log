@@ -1,0 +1,7 @@
+[Thu Jun 16 00:38:27 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Jun 16 00:38:31 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Thu Jun 16 00:38:33 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Thu Jun 16 00:38:35 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Thu Jun 16 18:21:21 2022] [error] [client 64.124.8.48] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Thu Jun 16 18:25:18 2022] [error] [client 14.29.217.108] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Thu Jun 16 22:00:28 2022] [error] [client 20.213.246.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor

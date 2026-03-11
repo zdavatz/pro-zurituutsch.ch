@@ -1,0 +1,3 @@
+[Thu Mar 10 03:02:00 2022] [error] [client 50.87.233.200] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Thu Mar 10 23:31:28 2022] [error] [client 20.121.5.144] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Thu Mar 10 23:32:54 2022] [error] [client 20.121.5.144] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor

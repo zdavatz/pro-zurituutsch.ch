@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1141473653
+host=212.194.45.131
+name=PmWikiFr.Download
+rev=7
+targets=PmWikiFr.Installation,PmWikiFr.Upgrades,PmWikiFr.Subversion
+text=(:title Téléchargement:)%0aLa version à jour et les anciennes versions de `PmWikì sont disponibles sur  http://www.pmwiki.org/pub/pmwiki/ .%0a%0aLiens directs:%0a%0aDernière version stable (non-beta):%0a* [[(http://www.pmwiki.org/pub/pmwiki/)pmwiki-2.1.0.tgz]]%0a* [[(http://www.pmwiki.org/pub/pmwiki/)pmwiki-2.1.0.zip]]%0a%0aInternationalisation%0a*[[http://www.pmwiki.org/pub/pmwiki/i18n.tgz| Pages internationales (dont le Français) en tgz]]%0a*[[http://www.pmwiki.org/pub/pmwiki/i18n.zip| Pages internationales (dont le Français) en zip]]%0a%0aDernière version pmwiki%0a* [[http://www.pmwiki.org/pub/pmwiki/pmwiki-latest.tgz | Dernière version comprimée au format tgz]]%0a* [[http://www.pmwiki.org/pub/pmwiki/pmwiki-latest.zip | Dernière version comprimée au format zip]]%0a%0aPages associées:%0a* [[Installation|+]]%0a* [[Upgrades|+]]%0a* [[Subversion|+]] - Installe/met à jour facilement le logiciel en utilisant la fonction "export" du système de gestion de versions.%0a* [[Cookbook:Standalone]] 'Autonome' - Module pour faire fonctionner `PmWiki sans serveur web%0a
+time=1144176156
+title=Téléchargement

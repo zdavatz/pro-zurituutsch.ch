@@ -1,0 +1,5 @@
+[Fri Nov 11 03:53:00 2022] [error] [client 185.27.99.129] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Fri Nov 11 03:53:00 2022] [error] [client 185.27.99.146] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Fri Nov 11 05:15:31 2022] [error] [client 185.151.48.131] script '/var/www/pro-zurituutsch.ch/doc/wp-commentin.php' not found or unable to stat
+[Fri Nov 11 09:09:59 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/public
+[Fri Nov 11 09:10:01 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes

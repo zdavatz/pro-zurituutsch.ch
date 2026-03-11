@@ -1,0 +1,26 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1239033887
+host=81.62.22.189
+name=Site.41Fasnacht
+rev=5
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:41Fasnacht.mp3
+time=1241514124
+author:1241514124=fwyss
+diff:1241514124:1240480100:=
+host:1241514124=81.62.22.189
+author:1240480100=fwyss
+diff:1240480100:1239034612:=
+host:1240480100=81.62.4.215
+author:1239034612=fwyss
+diff:1239034612:1239034418:=
+host:1239034612=85.1.10.56
+author:1239034418=fwyss
+diff:1239034418:1239033887:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:41Fasnacht.mp3%0a\ No newline at end of file%0a---%0a> Attach:41Fasnacht.mp3%0a\ No newline at end of file%0a
+host:1239034418=85.1.10.56
+author:1239033887=fwyss
+diff:1239033887:1239033887:=1d0%0a%3c Attach:41Fasnacht.mp3%0a\ No newline at end of file%0a
+host:1239033887=85.1.10.56

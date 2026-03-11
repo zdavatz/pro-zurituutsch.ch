@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1144002177
+host=89.83.120.7
+name=PmWikiFr.GroupHeaders
+rev=6
+targets=PmWikiFr.WikiGroup,PmWikiFr.WikiStyles,PmWikiFr.MarkupMasterIndex,PmWikiFr.PerGroupCustomizations,PmWikiFr.WikiAdministrator,PmWikiFr.LocalCustomizations
+text=(:title Entêtes de groupe:)%0aChaque [[groupe Wiki->WikiGroup]] peut avoir des pages propres définissant son entête (page [@GroupHeader@]) et son pied de page (page [@GroupFooter@]) qui contiennent des balises qui sont inclues au début et la fin de chaque page du groupe. Cette fonctionnalité est essentiellement utilisée:%0a%0a* pour ajouter un rectificatif ou un titrage d'entête sur toutes les pages du groupe.%0a* pour définir des [[WikiStyles|+]] spécifiques utilisables par toutes les pages du groupe%0a* pour remplacer les entêtes et pieds de pages par défaut (en utilisant @@[=(:=]noheader:)@@ et @@[=(:=]nofooter:)@@ -- voir [[MarkupMasterIndex|+]])%0a%0aL'entête de groupe permet aux utilisateurs du Wiki de créer des groupes avec des entêtes et des pieds de page personnalisés sans nécessairement la coordination d'un Administrateur. Pour plus de contrôle, les [[administrateurs du Wiki->WikiAdministrator]] peuvent effectuer des [[PerGroupCustomizations |personnalisations par groupe]] telles que décrites dans [[configuration locale->LocalCustomizations]].%0a%0aUne page d'un groupe peut supprimer l'entête et le pied de page par défaut en utilisant les balises @@[=(:nogroupheader:)=]@@ et @@[=(:nogroupfooter:)=]@@.%0a%0a---- %0a%25trail%25%3c%3c|PmWikiFr.IndexDocumentation|>>
+time=1144951430
+title=Entêtes de groupe

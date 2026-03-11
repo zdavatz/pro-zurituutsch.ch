@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+csum=
+ctime=1442429995
+host=178.198.133.189
+name=PodCast.Limerick30
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick30.mp3%0a%0a%0a!Limerick 30%0aGraabwàchsel%0a%0aNach Moskaw i 's neuhblischte Graab%0a%0aChounnt màng widerspàngschtige Chnaab%0a%0aOus sym fréje–n Éxyl%0a%0aWill de Pouhtin t'Lych will%0a%0aZour Waalhulff als nutzlichi Gaab.%0a
+time=1442430305
+author:1442430305=
+diff:1442430305:1442430224:=1,3c1,3%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick30.mp3%0a%3c %0a%3c %0a---%0a> Attach:Limerick30.mp3%0a> %0a> %0a8d7%0a%3c %0a10d8%0a%3c %0a12d9%0a%3c %0a14d10%0a%3c %0a
+host:1442430305=178.198.133.189
+author:1442430224=
+diff:1442430224:1442429995:=1,11c1%0a%3c Attach:Limerick30.mp3%0a%3c %0a%3c %0a%3c !Limerick 30%0a%3c Graabwàchsel%0a%3c %0a%3c Nach Moskaw i 's neuhblischte Graab%0a%3c Chounnt màng widerspàngschtige Chnaab%0a%3c Ous sym fréje–n Éxyl%0a%3c Will de Pouhtin t'Lych will%0a%3c Zour Waalhulff als nutzlichi Gaab.%0a---%0a> Attach:Limerick30.mp3%0a\ No newline at end of file%0a
+host:1442430224=178.198.133.189
+author:1442429995=
+diff:1442429995:1442429995:=1d0%0a%3c Attach:Limerick30.mp3%0a\ No newline at end of file%0a
+host:1442429995=178.198.133.189

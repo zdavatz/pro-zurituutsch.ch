@@ -1,0 +1,8 @@
+[Mon Jan 17 06:41:11 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/wp-header.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/wp-header.php
+[Mon Jan 17 09:06:32 2022] [error] [client 178.128.14.157] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Jan 17 11:33:12 2022] [error] [client 45.227.255.159] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Jan 17 16:19:45 2022] [error] [client 162.241.224.233] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Jan 17 16:36:55 2022] [error] [client 138.201.142.113] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Mon Jan 17 18:02:17 2022] [error] [client 62.138.2.160] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Mon Jan 17 19:22:22 2022] [error] [client 103.1.239.107] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Jan 17 23:37:47 2022] [error] [client 52.55.140.179] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast

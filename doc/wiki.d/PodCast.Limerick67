@@ -1,0 +1,17 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1196367831
+host=83.76.221.227
+name=PodCast.Limerick67
+rev=2
+targets=
+text=Attach:Limerick.6,7,8.mp3
+time=1196368109
+author:1196368109=fwyss
+diff:1196368109:1196367831:=1c1%0a%3c Attach:Limerick.6,7,8.mp3%0a\ No newline at end of file%0a---%0a> Attach:Limerick.6,7.mp3%0a\ No newline at end of file%0a
+host:1196368109=83.76.221.227
+author:1196367831=fwyss
+diff:1196367831:1196367831:=1d0%0a%3c Attach:Limerick.6,7.mp3%0a\ No newline at end of file%0a
+host:1196367831=83.76.221.227

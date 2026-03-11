@@ -1,0 +1,27 @@
+[Mon Dec 12 05:16:52 2022] [error] [client 51.159.36.122] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Mon Dec 12 06:36:06 2022] [error] [client 162.55.85.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Mon Dec 12 06:36:13 2022] [error] [client 162.55.85.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Mon Dec 12 06:36:17 2022] [error] [client 162.55.85.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Mon Dec 12 06:36:20 2022] [error] [client 162.55.85.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Mon Dec 12 14:01:47 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Mon Dec 12 14:01:47 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/feed
+[Mon Dec 12 14:01:47 2022] [error] [client 128.199.121.8] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Mon Dec 12 14:01:47 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Mon Dec 12 14:01:47 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Mon Dec 12 14:01:48 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Dec 12 14:01:48 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Mon Dec 12 14:01:48 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Mon Dec 12 14:01:49 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Mon Dec 12 14:01:49 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Mon Dec 12 14:01:49 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Mon Dec 12 14:01:49 2022] [error] [client 128.199.121.8] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Mon Dec 12 16:14:19 2022] [error] [client 85.1.217.244] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Mon Dec 12 16:15:59 2022] [error] [client 85.1.217.244] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Mon Dec 12 16:24:19 2022] [error] [client 85.1.217.244] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Mon Dec 12 17:46:57 2022] [error] [client 5.181.168.115] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/de/gcc/search/zone/drugs/search_query/Movicol+Chocolat/search_type/st_oddb
+[Mon Dec 12 17:50:41 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/public
+[Mon Dec 12 17:50:43 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Mon Dec 12 18:04:56 2022] [error] [client 193.56.73.145] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/de/gcc/search/zone/drugs/search_query/Movicol+Chocolat/search_type/st_oddb
+[Mon Dec 12 19:38:53 2022] [error] [client 64.227.160.199] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Dec 12 22:15:27 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Mon Dec 12 22:35:27 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml

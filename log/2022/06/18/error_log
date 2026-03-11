@@ -1,0 +1,36 @@
+[Sat Jun 18 02:42:23 2022] [error] [client 54.39.18.217] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jun 18 03:02:03 2022] [error] [client 54.39.18.217] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jun 18 05:47:27 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jun 18 07:25:55 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Sat Jun 18 07:25:55 2022] [error] [client 185.244.212.24] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/media
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Sat Jun 18 07:25:56 2022] [error] [client 185.244.212.24] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Sat Jun 18 12:12:39 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jun 18 13:02:12 2022] [error] [client 142.44.212.237] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jun 18 13:32:30 2022] [error] [client 5.181.168.189] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jun 18 14:10:59 2022] [error] [client 193.56.73.88] File does not exist: /var/www/pro-zurituutsch.ch/doc/http:www.mundartforum.ch, referer: http://www.pro-zurituutsch.ch/http:www.mundartforum.ch
+[Sat Jun 18 14:37:08 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sat Jun 18 14:37:12 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Sat Jun 18 14:37:15 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sat Jun 18 14:37:20 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Sat Jun 18 17:07:23 2022] [error] [client 109.136.56.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Sat Jun 18 17:07:23 2022] [error] [client 109.136.56.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Sat Jun 18 17:07:24 2022] [error] [client 109.136.56.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Sat Jun 18 17:07:24 2022] [error] [client 109.136.56.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Sat Jun 18 17:07:47 2022] [error] [client 109.136.56.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/null
+[Sat Jun 18 17:08:15 2022] [error] [client 109.136.56.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Sat Jun 18 17:08:15 2022] [error] [client 109.136.56.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Sat Jun 18 17:08:34 2022] [error] [client 109.136.56.170] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Sat Jun 18 18:10:22 2022] [error] [client 185.83.144.103] File does not exist: /var/www/pro-zurituutsch.ch/doc/environments

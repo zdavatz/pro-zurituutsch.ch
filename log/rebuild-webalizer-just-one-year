@@ -1,0 +1,67 @@
+#!/bin/bash
+# rebuild_webalizer -- 08.01.2013 -- zdavatz@ywesee.com
+# rebuild_webalizer -- 04.07.2011 -- mhatakeyama@ywesee.com
+# rebuild_webalizer -- xx.xx.20xx -- hwyss@ywesee.com
+
+LOCK_FILE="/var/lock/update_vhost_stats"
+
+if [ -z "$1" ] 
+then
+	echo "Usage: $0 <lookandfeel> [<config-file>]"
+	exit -1
+fi
+
+LOOKANDFEEL=${1%"/"}
+
+CONFIG_FILE=$2
+if [ -z "$CONFIG_FILE" ]
+then
+	CONFIG_FILE="/etc/webalizer/$LOOKANDFEEL.oddb.org.conf"
+	echo "no config-file given, assuming $CONFIG_FILE"
+fi
+
+if [ ! -f $CONFIG_FILE ]
+then
+	echo "Couldn't find config-file for $LOOKANDFEEL"
+	exit -1
+fi
+
+(set -C; : > $LOCK_FILE) 2> /dev/null
+while [ $? != "0" ]
+do
+	echo "waiting for lock-file..."
+	sleep 2
+	(set -C; : > $LOCK_FILE) 2> /dev/null
+done
+
+trap 'rm $LOCK_FILE' EXIT
+
+TMPDIR="/tmp/$(basename $0).$$"
+LOG_FILE="$LOOKANDFEEL/access_log.bak"
+TARGET_DIR="../webalizer/$LOOKANDFEEL"
+DNS_CACHE="/etc/webalizer/dns_cache.db"
+
+mkdir -p $TMPDIR
+
+if [ -f $LOG_FILE ]
+then
+	#fastzolver -s -L100 -H1500 -U1500 -D $DNS_CACHE $LOG_FILE
+	webalizer -p -c $CONFIG_FILE -N15 -D $DNS_CACHE -o $TMPDIR $LOG_FILE
+fi
+
+TMP_FILE="/tmp/oddb.$LOOKANDFEEL.access_log"
+#YEAR=`date +"%Y"`
+#cat $LOOKANDFEEL/*/*/*/access_log > $TMP_FILE
+#cat $LOOKANDFEEL/$YEAR/*/*/access_log > $TMP_FILE
+cat $LOOKANDFEEL/2013/*/*/access_log > $TMP_FILE
+#fastzolver -s -L100 -H1500 -U1500 -D $DNS_CACHE $TMP_FILE
+webalizer -p -c $CONFIG_FILE -N15 -D $DNS_CACHE -o $TMPDIR $TMP_FILE
+
+rm $TMP_FILE
+#mv $TARGET_DIR $TARGET_DIR.bak
+#mv $TMPDIR $TARGET_DIR
+rm -rf $TARGET_DIR.bak
+cp -r $TARGET_DIR $TARGET_DIR.bak
+mv $TMPDIR/*.* $TARGET_DIR
+rm -rf $TMPDIR
+

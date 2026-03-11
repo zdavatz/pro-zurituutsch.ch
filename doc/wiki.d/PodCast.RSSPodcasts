@@ -1,0 +1,75 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+author=
+charset=ISO-8859-1
+csum=
+ctime=1163065799
+host=212.51.146.241
+name=PodCast.RSSPodcasts
+rev=25
+targets=
+text=%25center%25[++Zürichdeutsche Texte hören++]%0a%0a!! Podcasts %0aZum Anhören der Podcasts von Pro-Zurituutsch klicken Sie bitte auf folgenden Link:\\%0ahttps://pro-zurituutsch.ch/PodCast/IndexPage%0a%0a10.01.13: Réschpàkt
+time=1673603362
+author:1673603362=
+diff:1673603362:1673603355:=4c4%0a%3c Zum Anhören der Podcasts von Pro-Zurituutsch klicken Sie bitte auf folgenden Link:\\%0a---%0a> Zum Anhören der Podcasts von Pro-Zurituutsch klicken Sie bitte auf folgenden Link:%0a
+host:1673603362=212.51.146.241
+author:1673603355=
+diff:1673603355:1673603308:=4c4,6%0a%3c Zum Anhören der Podcasts von Pro-Zurituutsch klicken Sie bitte auf folgenden Link:%0a---%0a> Zum Abonnieren der Podcasts von Pro-Zurituutsch klicken Sie bitte auf folgenden Link:%0a> https://pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a> %0a5a8,11%0a> %0a> Zum direkten abonnieren im [[http://www.apple.com/itunes/download/ | iTunes]] bitte auf folgenden Link klicken:%0a> %3ca href="itpc://pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itpc://pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a> %0a
+host:1673603355=212.51.146.241
+author:1673603308=
+diff:1673603308:1673555620:=6,7d5%0a%3c %0a%3c https://pro-zurituutsch.ch/PodCast/IndexPage%0a
+host:1673603308=212.51.146.241
+author:1673555620=
+diff:1673555620:1673555473:=8c8%0a%3c %3ca href="itpc://pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itpc://pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a---%0a> %3ca href="itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a
+host:1673555620=212.51.146.241
+author:1673555473=
+diff:1673555473:1376904428:=5c5%0a%3c https://pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a---%0a> http://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a
+host:1673555473=212.51.146.241
+author:1376904428=
+diff:1376904428:1376904377:=
+host:1376904428=188.62.172.77
+author:1376904377=
+diff:1376904377:1357846716:=
+host:1376904377=188.62.172.77
+author:1357846716=
+diff:1357846716:1178723194:=9,11d8%0a%3c %0a%3c %0a%3c 10.01.13: Réschpàkt%0a\ No newline at end of file%0a
+host:1357846716=188.62.172.77
+author:1178723194=fwyss
+diff:1178723194:1178723176:=1,2c1,2%0a%3c %25center%25[++Zürichdeutsche Texte hören++]%0a%3c %0a---%0a>  %25center%25[++Zürichdeutsche Texte hören++]%0a> %0a
+host:1178723194=83.76.223.181
+author:1178723176=fwyss
+diff:1178723176:1177573259:=1,2d0%0a%3c  %25center%25[++Zürichdeutsche Texte hören++]%0a%3c %0a4,8c2,6%0a%3c Zum Abonnieren der Podcasts von Pro-Zurituutsch klicken Sie bitte auf folgenden Link:%0a%3c http://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a%3c %0a%3c Zum direkten abonnieren im [[http://www.apple.com/itunes/download/ | iTunes]] bitte auf folgenden Link klicken:%0a%3c %3ca href="itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a---%0a>  Zum Abonnieren der Podcasts von Pro-Zurituutsch klicken Sie bitte auf folgenden Link:%0a>  http://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a> %0a>  Zum direkten abonnieren im [[http://www.apple.com/itunes/download/ | iTunes]] bitte auf folgenden Link klicken:%0a>  %3ca href="itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a
+host:1178723176=83.76.223.181
+author:1177573259=
+diff:1177573259:1177573243:=6c6%0a%3c  %3ca href="itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a---%0a>  %3ca href="itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a
+host:1177573259=84.72.158.179
+author:1177573243=
+diff:1177573243:1177573201:=6c6%0a%3c  %3ca href="itpc://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a---%0a>  %3ca href="itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a
+host:1177573243=84.72.158.179
+author:1177573201=
+diff:1177573201:1177573059:=6c6%0a%3c  %3ca href="itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss">itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%3c/a>%0a---%0a>  itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a\ No newline at end of file%0a
+host:1177573201=84.72.158.179
+author:1177573059=
+diff:1177573059:1177573039:=5c5%0a%3c  Zum direkten abonnieren im [[http://www.apple.com/itunes/download/ | iTunes]] bitte auf folgenden Link klicken:%0a---%0a>  Zum direkten abonnieren im [[http://www.apple.com/itunes/download/ | iTunes]]:%0a
+host:1177573059=84.72.158.179
+author:1177573039=
+diff:1177573039:1177572598:=5c5%0a%3c  Zum direkten abonnieren im [[http://www.apple.com/itunes/download/ | iTunes]]:%0a---%0a>  Zum direkten abonnieren im iTunes:%0a
+host:1177573039=84.72.158.179
+author:1177572598=
+diff:1177572598:1177572569:=6c6,10%0a%3c  itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a\ No newline at end of file%0a---%0a>  http://itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a> %0a> href='itpc://www.ganglion.ch/feed.xml'%0a> %0a> %3ca href='itpc://www.ganglion.ch/feed.xml'>mit diesem Link abonnieren%3c/a>%0a\ No newline at end of file%0a
+host:1177572598=84.72.158.179
+author:1177572569=
+diff:1177572569:1177572547:=8,10c8%0a%3c href='itpc://www.ganglion.ch/feed.xml'%0a%3c %0a%3c %3ca href='itpc://www.ganglion.ch/feed.xml'>mit diesem Link abonnieren%3c/a>%0a\ No newline at end of file%0a---%0a> href='itpc://www.ganglion.ch/feed.xml'%0a\ No newline at end of file%0a
+host:1177572569=84.72.158.179
+author:1177572547=
+diff:1177572547:1177572424:=6,8c6%0a%3c  http://itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a%3c %0a%3c href='itpc://www.ganglion.ch/feed.xml'%0a\ No newline at end of file%0a---%0a>  http://itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a\ No newline at end of file%0a
+host:1177572547=84.72.158.179
+author:1177572424=
+diff:1177572424:1177572356:=6c6%0a%3c  http://itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a\ No newline at end of file%0a---%0a>  %25newwin%25itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a\ No newline at end of file%0a
+host:1177572424=84.72.158.179
+author:1177572356=
+diff:1177572356:1177572281:=6c6%0a%3c  %25newwin%25itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a\ No newline at end of file%0a---%0a>  [[itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss]]%0a\ No newline at end of file%0a
+host:1177572356=84.72.158.179
+author:1177572281=
+diff:1177572281:1177572128:=6c6%0a%3c  [[itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss]]%0a\ No newline at end of file%0a---%0a>  itcp://www.pro-zurituutsch.ch/PodCast/IndexPage?action=rss%0a\ No newline at end of file%0a
+host:1177572281=84.72.158.179

@@ -1,0 +1,10 @@
+version=pmwiki-2.1.11 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.4) Gecko/20060508 Firefox/1.5.0.4
+author=
+csum=
+host=82.239.0.32
+name=PmWikiFr.AttributsDeGroupe
+rev=11
+targets=PmWikiFr.Passwords
+text=Pour chaque groupe, la page `GroupAttributes (optionnelle) contient le réglage des attributs pour un groupe donné. Pour le moment son utilité primaire est de fixer les mots de passe en lecture, écriture et autorisation de changer ces attributs du groupe.  %0a%0aConsultez [[PmWikiFr.Passwords | Mots de passe]] pour plus d'informations sur les mots de passe de page et de groupe, ou utilisez ''[={$Group}.GroupAttributes?action=attr=]'' pour changer les attributs de ce groupe.%0a%0a----%0a%25trail%25 %3c%3c|PmWikiFr/IndexDocumentation|>>%0a%0a----%0a%25tr%25Traduction de ? - Page originale sur PmWiki:PmWikiFr/AttributsDeGroupe
+time=1153325206

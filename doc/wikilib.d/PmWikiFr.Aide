@@ -1,0 +1,10 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+host=212.194.45.131
+name=PmWikiFr.Aide
+rev=19
+targets=PmWikiFr.PmWikiFr,PmWikiFr.IndexDocumentation,PmWikiFr.BasicEditing,PmWikiFr.CreatingNewPages,PmWikiFr.RèglesDeFormatage,PmWikiFr.ConseilsPourLédition,PmWikiFr.Passwords,PmWikiFr.IndexDocAdmin
+text=Voici des pages intéressantes pour obtenir de l'aide sur [[PmWikiFr |PmWiki]]. Pour avoir la liste complète des page de la documentation, voir [[Index Documentation |index de la documentation]].%0a%0a* Aide à l'écriture%0a** [[BasicEditing|+]] %0a** [[CreatingNewPages|+]]%0a** [[RèglesDeFormatage |Règles de formatages du texte]]%0a** [[Conseils pour l'édition]]%0a** [[Passwords|+]]%0a%0a* Documentation %0a** [[IndexDocumentation |Index de la documentation PmWiki]]%0a** [[IndexDocAdmin |Index de la documentation d'administration]]
+time=1144187287

@@ -1,0 +1,5 @@
+[Sun Jan 02 05:06:44 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/wp-info.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/wp-info.php
+[Sun Jan 02 05:51:26 2022] [error] [client 131.153.240.2] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Sun Jan 02 07:17:25 2022] [error] [client 185.27.99.132] File does not exist: /var/www/pro-zurituutsch.ch/doc/humans.txt
+[Sun Jan 02 07:17:25 2022] [error] [client 185.27.99.116] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Sun Jan 02 17:06:59 2022] [error] [client 212.33.207.164] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress

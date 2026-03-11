@@ -1,0 +1,7 @@
+[Mon Jan 24 00:41:53 2022] [error] [client 107.180.109.15] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Jan 24 04:06:24 2022] [error] [client 35.211.94.153] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Jan 24 18:35:14 2022] [error] [client 18.222.239.1] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Mon Jan 24 18:51:31 2022] [error] [client 18.222.239.1] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Mon Jan 24 22:22:33 2022] [error] [client 194.163.151.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/mt
+[Mon Jan 24 22:22:33 2022] [error] [client 194.163.151.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/mt
+[Mon Jan 24 23:42:02 2022] [error] [client 52.203.223.74] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast

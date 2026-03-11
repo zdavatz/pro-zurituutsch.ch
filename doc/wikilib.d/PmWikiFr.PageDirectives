@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.2) Gecko/20060308 Firefox/1.5.0.2
+author=PRZ
+csum=
+ctime=1143374745
+host=212.194.201.12
+name=PmWikiFr.PageDirectives
+rev=4
+targets=PmWikiFr.Skins,PmWikiFr.GroupHeaders,PmWikiFr.WikiWord,PmWikiFr.IndexDocumentation
+text=(:title Directives de page:)%0a%0aPmWiki utilise un certain nombre de directives pour spécifier le titre des pages, des descriptions, des mots-clés de pages et pour contrôler l'affichage de certains composants. %0a%0a:[@(:linebreaks:)@]: Affiche tous les sauts de lignes dans la portée de cette balise. Les textes entrés sur des lignes distinctes apparaitront sur des lignes distinctes à l'affichage. Utiliser [@(:nolinebreaks:)@] pour que les lignes de textes soient automatiquement jointes à nouveau.%0a%0a:[@(:title text:)@]: Définit le titre de la page à une valeur différente du nom de la page. Le texte du titre peut contenir des apostrophes ou d'autres caractères spéciaux. S'il y a plusieurs titres dans une page, le dernier rencontré est retenu.%0a%0a:[@(:keywords word1, word2, ...:)@]: Identifie des mots-clés associés à une page. Ils ne sont affichés nulle part, mais sont utiles pour aider les moteurs de recherche à trouver ces pages. (Essentiellement, cela génère [@%3cmeta name='keywords' content='...' />@])%0a%0a:[@(:description text:)@]: Texte descriptif associé à une page. (Génère un élément [@%3cmeta name='description' content='...' />@])%0a%0a:[@(:redirect PageName:)@]: Redirige le navigateur internet vers une autre page en affichant un message de redirection. Pour des raisons de sécurité, la redirection n'est possible que vers d'autres pages du wiki et pas vers des url externes.%0a%0a:[@(:noheader:), (:nofooter:)@]: %0a:[@(:notitle:)@]:%0a:[@(:noleft:), (:noright:)@]:%0a->Si elles sont supportées par le [[thème->Skins]] (Skin) courant, chacune de ces directives désactive la partie correspondante de la page.%0a%0a:[@(:nogroupheader:)@]:%0a:[@(:nogroupfooter:)@]:%0a->Désactive n'importe quel en-tête de groupe et pied-de-page de groupe pour la page.  (Voir [[GroupHeaders|+]].)%0a%0a:[@(:linkwikiwords:), (:nolinkwikiwords:)@]:%0a:[@(:spacewikiwords:), (:nospacewikiwords:)@]:%0a->Active ou désactive les [[MotsWiki->WikiWord]] et l'espacement automatique des [[MotsWiki->WikiWord]] dans le texte.%0a%0a:[@(:attachlist:)@]:%0a->Affiche la liste des attachements de la page courante.%0a%0a---- %0a%25trail%25%3c%3c|[[Index documentation]]|>>
+time=1145220957
+title=Directives de page

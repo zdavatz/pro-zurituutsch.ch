@@ -1,0 +1,26 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/6.1.4 Safari/537.76.4
+author=
+csum=
+ctime=1401432817
+host=178.195.197.63
+name=PodCast.Limerick27
+rev=5
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick27.mp3%0a%0a!Limerick 27%0a30.05.14%0a%0a%0aZ'Ègupte schiër houndert Prozànt%0a%0aFur Graabrouë a t'Ourne sind ggrànnt.%0a%0aAber gouët jéde Zwèit%0a%0aHàt na nuut dezouë ggsàit%0a%0aJétz fuurch i, das Kàiro bald brànnt.
+time=1401433329
+author:1401433329=
+diff:1401433329:1401433264:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick27.mp3%0a%3c %0a---%0a> Attach:Limerick27.mp3%0a> %0a15c15%0a%3c Jétz fuurch i, das Kàiro bald brànnt.%0a\ No newline at end of file%0a---%0a> Jétz fuurch i, das Kàiro bald brànnt.%0a
+host:1401433329=178.195.197.63
+author:1401433264=
+diff:1401433264:1401433074:=
+host:1401433264=178.195.197.63
+author:1401433074=
+diff:1401433074:1401433025:=6d5%0a%3c %0a8d6%0a%3c %0a10d7%0a%3c %0a12d8%0a%3c %0a14,15c10%0a%3c %0a%3c Jétz fuurch i, das Kàiro bald brànnt.%0a---%0a> Jétz fuurch i, das Kàiro bald brànnt.%0a\ No newline at end of file%0a
+host:1401433074=178.195.197.63
+author:1401433025=
+diff:1401433025:1401432817:=1,10c1%0a%3c Attach:Limerick27.mp3%0a%3c %0a%3c !Limerick 27%0a%3c 30.05.14%0a%3c %0a%3c Z'Ègupte schiër houndert Prozànt%0a%3c Fur Graabrouë a t'Ourne sind ggrànnt.%0a%3c Aber gouët jéde Zwèit%0a%3c Hàt na nuut dezouë ggsàit%0a%3c Jétz fuurch i, das Kàiro bald brànnt.%0a\ No newline at end of file%0a---%0a> Attach:Limerick27.mp3%0a\ No newline at end of file%0a
+host:1401433025=178.195.197.63
+author:1401432817=
+diff:1401432817:1401432817:=1d0%0a%3c Attach:Limerick27.mp3%0a\ No newline at end of file%0a
+host:1401432817=178.195.197.63

@@ -1,0 +1,14 @@
+version=pmwiki-2.1.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1165333002
+host=194.230.172.88
+name=PodCast.KonzylMp3
+rev=1
+targets=
+text=Attach:Konzyl.mp3
+time=1165333002
+author:1165333002=fwyss
+diff:1165333002:1165333002:=1d0%0a%3c Attach:Konzyl.mp3%0a\ No newline at end of file%0a
+host:1165333002=194.230.172.88

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+charset=ISO-8859-1
+csum=
+ctime=1240479974
+host=85.2.156.190
+name=PodCast.Stolz
+rev=4
+targets=
+text=
+time=1472564760
+author:1472564760=
+diff:1472564760:1240480196:=0a1%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Stolz.mp3%0a\ No newline at end of file%0a
+host:1472564760=85.2.156.190
+author:1240480196=fwyss
+diff:1240480196:1240480145:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Stolz.mp3%0a\ No newline at end of file%0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Stolz%0a\ No newline at end of file%0a
+host:1240480196=81.62.4.215
+author:1240480145=fwyss
+diff:1240480145:1240479974:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Stolz%0a\ No newline at end of file%0a---%0a> Attach:Stolz%0a\ No newline at end of file%0a
+host:1240480145=81.62.4.215
+author:1240479974=fwyss
+diff:1240479974:1240479974:=1d0%0a%3c Attach:Stolz%0a\ No newline at end of file%0a
+host:1240479974=81.62.4.215

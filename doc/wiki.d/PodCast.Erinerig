@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1238353763
+host=62.203.6.40
+name=PodCast.Erinerig
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Erinerig.mp3%0a%0a!!!Limerick 18%0a%0a%25center%25Erinerig%0a%0a%0aBeuhs schréjed s’ vo ànet em Ry%0a%0aVo Trouppe–n ound Ggavalery !%0a%0a„Dië màined’s neud soo“%0a%0aDaas macht mi neud froo:%0a%0aGlych chounnt’s mer, wië’s gsy isch, in Sy.%0a%0a
+time=1238354188
+author:1238354188=fwyss
+diff:1238354188:1238354026:=1,17c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Erinerig.mp3%0a%3c %0a%3c !!!Limerick 18%0a%3c %0a%3c %25center%25Erinerig%0a%3c %0a%3c %0a%3c Beuhs schréjed s’ vo ànet em Ry%0a%3c %0a%3c Vo Trouppe–n ound Ggavalery !%0a%3c %0a%3c „Dië màined’s neud soo“%0a%3c %0a%3c Daas macht mi neud froo:%0a%3c %0a%3c Glych chounnt’s mer, wië’s gsy isch, in Sy.%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Erinerig.mp3%0a\ No newline at end of file%0a
+host:1238354188=62.203.6.40
+author:1238354026=fwyss
+diff:1238354026:1238353870:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Erinerig.mp3%0a\ No newline at end of file%0a---%0a> Attach:Erinerig.mp3%0a\ No newline at end of file%0a
+host:1238354026=62.203.6.40
+author:1238353870=fwyss
+diff:1238353870:1238353763:=1c1%0a%3c Attach:Erinerig.mp3%0a\ No newline at end of file%0a---%0a> Attach:Erinerig%0a\ No newline at end of file%0a
+host:1238353870=62.203.6.40
+author:1238353763=fwyss
+diff:1238353763:1238353763:=1d0%0a%3c Attach:Erinerig%0a\ No newline at end of file%0a
+host:1238353763=62.203.6.40

@@ -1,0 +1,23 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/6.1.1 Safari/537.73.11
+author=
+csum=
+ctime=1391097286
+host=85.2.212.174
+name=PodCast.Antyki
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:antyki.mp3
+time=1391098681
+author:1391098681=
+diff:1391098681:1391098599:=1c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:antyki.mp3%0a\ No newline at end of file%0a---%0a> Attach:antyki.mp3%0a\ No newline at end of file%0a
+host:1391098681=85.2.212.174
+author:1391098599=
+diff:1391098599:1391097750:=
+host:1391098599=85.2.212.174
+author:1391097750=
+diff:1391097750:1391097286:=
+host:1391097750=85.2.212.174
+author:1391097286=
+diff:1391097286:1391097286:=1d0%0a%3c Attach:antyki.mp3%0a\ No newline at end of file%0a
+host:1391097286=85.2.212.174

@@ -1,0 +1,16 @@
+[Tue Dec 13 00:27:13 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Tue Dec 13 00:27:43 2022] [error] [client 149.56.160.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Tue Dec 13 00:27:56 2022] [error] [client 149.56.160.142] File does not exist: /var/www/pro-zurituutsch.ch/doc/ads.txt
+[Tue Dec 13 01:51:29 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Tue Dec 13 05:29:24 2022] [error] [client 51.159.37.117] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Dec 13 07:50:58 2022] [error] [client 85.25.177.219] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Tue Dec 13 09:48:47 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Tue Dec 13 13:12:38 2022] [error] [client 5.45.84.86] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://pro-zurituutsch.ch/de/gcc/fachinfo/reg/62960
+[Tue Dec 13 13:19:07 2022] [error] [client 5.45.84.86] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://pro-zurituutsch.ch/de/gcc/fachinfo/reg/62960
+[Tue Dec 13 13:40:45 2022] [error] [client 178.159.37.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Dec 13 18:28:55 2022] [error] [client 118.27.125.39] script '/var/www/pro-zurituutsch.ch/doc/wp-commentin.php' not found or unable to stat
+[Tue Dec 13 18:34:38 2022] [error] [client 162.241.126.33] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Tue Dec 13 22:24:38 2022] [error] [client 104.192.4.145] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-admin
+[Tue Dec 13 22:24:38 2022] [error] [client 104.192.4.145] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Tue Dec 13 22:24:38 2022] [error] [client 104.192.4.145] File does not exist: /var/www/pro-zurituutsch.ch/doc/administrator
+[Tue Dec 13 22:24:39 2022] [error] [client 104.192.4.145] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor

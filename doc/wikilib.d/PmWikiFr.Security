@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1143994407
+host=212.194.45.131
+name=PmWikiFr.Security
+rev=5
+targets=PmWikiFr.Passwords,PmWikiFr.PasswordsAdmin,PmWikiFr.UrlApprovals,PmWikiFr.ListeDeBlocage
+text=(:title Sécurité:)%0a*[[Passwords|+]]%0a*[[PasswordsAdmin|+]]%0a*[[UrlApprovals|+]] - requiert une approbation des liens%0a%0a*[[Liste de blocage]] - bloque les envois au vu des IP ou du contenu%0a%0aPages du Cookbook (en anglais)%0a* Voir aussi [[Cookbook:Cookbook#Security | Cookbook index: Security]]%0a*[[Cookbook:Blocklist2]] bloque les envois au vu des IP ou du contenu%0a*[[Cookbook:MTBlackList]] blacklist anti spam mobile%0a*[[Cookbook:WebServerSecurity]] Améliorer la sécurité du serveur avec  .htaccess%0a*[[Cookbook:FarmSecurity]] Améliorer la sécurité des fermes Wiki%0a*[[Cookbook:EProtect]] Cacher une adresse courriel%0a*[[Cookbook:AuditImages]] Vérifier les images qui ont été envoyées sur le wiki.
+time=1144188475
+title=Sécurité

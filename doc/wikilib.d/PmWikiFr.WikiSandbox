@@ -1,0 +1,11 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; fr-FR; rv:1.7.5) Gecko/20041108 Firefox/1.0
+author=Patricia Fondimare
+csum=
+ctime=1144661379
+host=82.67.179.44
+name=PmWikiFr.WikiSandbox
+rev=2
+targets=
+text=! test de titre principal%0a!! titre 2%0a!! titre 3%0a%0a->Retrait 1%0a->->Retrait 2
+time=1144661400

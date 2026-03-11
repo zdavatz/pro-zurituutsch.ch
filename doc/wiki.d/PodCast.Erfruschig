@@ -1,0 +1,17 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; de-de) AppleWebKit/533.16 (KHTML, like Gecko) Version/4.1 Safari/533.16
+author=
+csum=
+ctime=1279901160
+host=85.1.99.131
+name=PodCast.Erfruschig
+rev=2
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Erfruschig.mp3%0a%0a%0aErfruschende Trounk%0a%0aSouhber ound klaar, nimmt me–n aa, das zour Quàll ouse Wasser meug sproudle,%0a%0aschloucked doch Èrde–n ound Sand     Dràck ous em cheuschtliche Nass.%0a%0aSickeret Wasser hingàge dour Wàide wo Vèè si drouff toummlet,%0a%0afuurch me dië gfèuhrliche Kàim      ous déne Tiër irem Darm.%0a%0aSproudled bi hàiterer Stimig zoum Mouhl ouse Wèurter, erfrusched s';%0a%0aous eme pittere Ggmuët      sprutzt euppe tuckisches Gift.%0a%0a%0a%0a
+time=1279901378
+author:1279901378=
+diff:1279901378:1279901160:=1,19c1%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Erfruschig.mp3%0a%3c %0a%3c %0a%3c Erfruschende Trounk%0a%3c %0a%3c Souhber ound klaar, nimmt me–n aa, das zour Quàll ouse Wasser meug sproudle,%0a%3c %0a%3c schloucked doch Èrde–n ound Sand     Dràck ous em cheuschtliche Nass.%0a%3c %0a%3c Sickeret Wasser hingàge dour Wàide wo Vèè si drouff toummlet,%0a%3c %0a%3c fuurch me dië gfèuhrliche Kàim      ous déne Tiër irem Darm.%0a%3c %0a%3c Sproudled bi hàiterer Stimig zoum Mouhl ouse Wèurter, erfrusched s';%0a%3c %0a%3c ous eme pittere Ggmuët      sprutzt euppe tuckisches Gift.%0a%3c %0a%3c %0a%3c %0a---%0a> Attach:Erfruschig.mp3%0a\ No newline at end of file%0a
+host:1279901378=85.1.99.131
+author:1279901160=
+diff:1279901160:1279901160:=1d0%0a%3c Attach:Erfruschig.mp3%0a\ No newline at end of file%0a
+host:1279901160=85.1.99.131

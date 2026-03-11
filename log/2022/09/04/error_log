@@ -1,0 +1,4 @@
+[Sun Sep 04 01:41:14 2022] [error] [client 92.204.54.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Sun Sep 04 01:49:40 2022] [error] [client 92.204.54.123] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Sun Sep 04 10:02:07 2022] [error] [client 34.123.125.44] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Sun Sep 04 13:15:04 2022] [error] [client 185.206.225.51] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat

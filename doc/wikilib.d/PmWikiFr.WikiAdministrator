@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+author=PRZ
+csum=
+ctime=1144950592
+host=89.83.120.7
+name=PmWikiFr.WikiAdministrator
+rev=1
+targets=PmWikiFr.InitialSetupTasks,PmWikiFr.Installation,PmWikiFr.IndexDocumentation,PmWikiFr.IndexDocAdmin,PmWikiFr.Audiences
+text=(:title Administrateur du Wiki:)%0a%25tr%25 Traduction de PmWiki:WikiAdministrator%0a%0aUn  administrateur de Wiki est la (ou les personnes) qui installe, configure et administre un système `PmWiki pour des utilisateurs. `PmWiki est conçu pour que l'[[installation]] et la [[InitialSetupTasks|+]] soit la plus facile possible pour des personnes qui n'ont pas nécessairement une connaissance approfondie d'HTML, de PHP ou de configuration de serveur Web. Parallèlement, il est également conçu pour être assez souple de manière à ce que quelqu'un connaissant un peu PHP et HTML puisse l'adapter à ses besoins personnels.%0a%0aVoir l'[[index documentation]] et l'[[index doc admin]]istration pour consulter la documentation d'installation et d'utilisation de `PmWiki, et [[Audiences]] pour savoir à quel public s'adresse `PmWiki.%0a%0a----%0a%3c%3c|[[Index documentation]]|>>
+time=1144950592
+title=Administrateur du Wiki

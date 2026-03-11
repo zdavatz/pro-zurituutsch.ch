@@ -1,0 +1,31 @@
+[Wed Jul 13 00:07:04 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Jul 13 00:07:13 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Jul 13 09:39:15 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Jul 13 09:39:16 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Jul 13 10:49:44 2022] [error] [client 20.218.111.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Wed Jul 13 10:59:28 2022] [error] [client 20.218.111.54] File does not exist: /var/www/pro-zurituutsch.ch/doc/vendor
+[Wed Jul 13 13:23:59 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/production
+[Wed Jul 13 13:23:59 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/localhost
+[Wed Jul 13 13:23:59 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/core
+[Wed Jul 13 13:23:59 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/testing
+[Wed Jul 13 13:23:59 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/dev
+[Wed Jul 13 13:23:59 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/locally
+[Wed Jul 13 13:24:00 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/prod
+[Wed Jul 13 13:24:01 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/api
+[Wed Jul 13 13:24:01 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/app
+[Wed Jul 13 13:24:02 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Wed Jul 13 13:24:02 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/developer
+[Wed Jul 13 13:24:02 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/development
+[Wed Jul 13 13:24:02 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/staging
+[Wed Jul 13 13:24:02 2022] [error] [client 51.210.60.121] script '/var/www/pro-zurituutsch.ch/doc/phpinfo.php' not found or unable to stat
+[Wed Jul 13 13:24:03 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/phpinfo
+[Wed Jul 13 13:24:03 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/public
+[Wed Jul 13 13:24:03 2022] [error] [client 51.210.60.121] script '/var/www/pro-zurituutsch.ch/doc/info.php' not found or unable to stat
+[Wed Jul 13 13:24:03 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/platform
+[Wed Jul 13 13:24:03 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/stag
+[Wed Jul 13 13:24:03 2022] [error] [client 51.210.60.121] script '/var/www/pro-zurituutsch.ch/doc/app_dev.php' not found or unable to stat
+[Wed Jul 13 13:24:03 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/debug
+[Wed Jul 13 13:24:03 2022] [error] [client 51.210.60.121] File does not exist: /var/www/pro-zurituutsch.ch/doc/config.js
+[Wed Jul 13 19:24:41 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Wed Jul 13 19:24:48 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Wed Jul 13 23:56:20 2022] [error] [client 223.16.167.156] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat

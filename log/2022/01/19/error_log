@@ -1,0 +1,17 @@
+[Wed Jan 19 01:19:54 2022] [error] [client 14.116.189.222] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Jan 19 05:23:39 2022] [error] [client 108.167.189.19] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Wed Jan 19 08:53:41 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/wp-css.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/wp-css.php
+[Wed Jan 19 19:59:15 2022] [error] [client 167.172.56.36] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Jan 19 21:01:02 2022] [error] [client 45.227.255.159] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/administrator
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/joomla
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] File does not exist: /var/www/pro-zurituutsch.ch/doc/joomla
+[Wed Jan 19 22:53:22 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat
+[Wed Jan 19 22:53:23 2022] [error] [client 51.68.111.184] script '/var/www/pro-zurituutsch.ch/doc/index.php' not found or unable to stat

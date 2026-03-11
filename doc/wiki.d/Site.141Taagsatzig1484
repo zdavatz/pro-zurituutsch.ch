@@ -1,0 +1,14 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1260723771
+host=81.62.255.248
+name=Site.141Taagsatzig1484
+rev=1
+targets=
+text=Attach:141Taagsatzig1484.mp3
+time=1260723771
+author:1260723771=fwyss
+diff:1260723771:1260723771:=1d0%0a%3c Attach:141Taagsatzig1484.mp3%0a\ No newline at end of file%0a
+host:1260723771=81.62.255.248

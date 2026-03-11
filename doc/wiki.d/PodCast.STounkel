@@ -1,0 +1,20 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.14 (KHTML, like Gecko) Version/6.0.1 Safari/536.26.14
+author=
+csum=
+ctime=1351703216
+host=188.62.88.237
+name=PodCast.STounkel
+rev=3
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:sTounkel.mp3%0a%0a%0a!!!'S Tounkel isch verschwounde%0a%0a'S Tounkel isch verschwounde,%0a%0a's wàiss niëmer nuut devoo.%0a%0aWaas nutzt mer jétz e Chèèrze %0a%0aim héle Néonliëcht ?%0a%0aDië cha doch nume luuchte,%0a%0awo 's niëne fyschter isch.%0a%0aDe Himel isch verluuchtet,%0a%0aound wèèr er woulchelèèr,%0a%0afèèlt mer g'Kassiopéja,%0a%0ade grooss ound chlyné Bààr.%0a%0aIsch t'Soune–n ounderggange,%0a%0aso gséé–n i glych neud méé%0a%0avo vile Lampe pblàndet%0a%0afuurcht's mer ouf de Straass.%0a%0aT'Nacht isch verloore ggange.%0a%0aAw ouf em Foundburo,%0a%0aDéét bin i si go souëche,%0a%0adoch wussed s' nuut devoo.%0a%0a(Schangli Schildchrott)%0a%0a*      *      *      *      *%0a%0aCheumed  Ine dië Vèrs chinéésisch voor ? %3cwww.darksky.ch> wàiss méé. 
+time=1351703490
+author:1351703490=
+diff:1351703490:1351703386:=1,3c1,3%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:sTounkel.mp3%0a%3c %0a%3c %0a---%0a> Attach:sTounkel.mp3%0a> %0a> %0a46c46%0a%3c Cheumed  Ine dië Vèrs chinéésisch voor ? %3cwww.darksky.ch> wàiss méé. %0a\ No newline at end of file%0a---%0a> Cheumed  Ine dië Vèrs chinéésisch voor ? %3cwww.darksky.ch> wàiss méé. %0a
+host:1351703490=188.62.88.237
+author:1351703386=
+diff:1351703386:1351703216:=1,46c1%0a%3c Attach:sTounkel.mp3%0a%3c %0a%3c %0a%3c !!!'S Tounkel isch verschwounde%0a%3c %0a%3c 'S Tounkel isch verschwounde,%0a%3c %0a%3c 's wàiss niëmer nuut devoo.%0a%3c %0a%3c Waas nutzt mer jétz e Chèèrze %0a%3c %0a%3c im héle Néonliëcht ?%0a%3c %0a%3c Dië cha doch nume luuchte,%0a%3c %0a%3c wo 's niëne fyschter isch.%0a%3c %0a%3c De Himel isch verluuchtet,%0a%3c %0a%3c ound wèèr er woulchelèèr,%0a%3c %0a%3c fèèlt mer g'Kassiopéja,%0a%3c %0a%3c de grooss ound chlyné Bààr.%0a%3c %0a%3c Isch t'Soune–n ounderggange,%0a%3c %0a%3c so gséé–n i glych neud méé%0a%3c %0a%3c vo vile Lampe pblàndet%0a%3c %0a%3c fuurcht's mer ouf de Straass.%0a%3c %0a%3c T'Nacht isch verloore ggange.%0a%3c %0a%3c Aw ouf em Foundburo,%0a%3c %0a%3c Déét bin i si go souëche,%0a%3c %0a%3c doch wussed s' nuut devoo.%0a%3c %0a%3c (Schangli Schildchrott)%0a%3c %0a%3c *      *      *      *      *%0a%3c %0a%3c Cheumed  Ine dië Vèrs chinéésisch voor ? %3cwww.darksky.ch> wàiss méé. %0a---%0a> Attach:sTounkel.mp3%0a\ No newline at end of file%0a
+host:1351703386=188.62.88.237
+author:1351703216=
+diff:1351703216:1351703216:=1d0%0a%3c Attach:sTounkel.mp3%0a\ No newline at end of file%0a
+host:1351703216=188.62.88.237

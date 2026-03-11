@@ -1,0 +1,31 @@
+[Mon Apr 11 02:04:22 2022] [error] [client 194.67.205.125] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Mon Apr 11 02:04:24 2022] [error] [client 194.67.205.125] File does not exist: /var/www/pro-zurituutsch.ch/doc/manager
+[Mon Apr 11 02:04:26 2022] [error] [client 194.67.205.125] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Mon Apr 11 02:04:28 2022] [error] [client 194.67.205.125] File does not exist: /var/www/pro-zurituutsch.ch/doc/simpla
+[Mon Apr 11 02:04:29 2022] [error] [client 194.67.205.125] File does not exist: /var/www/pro-zurituutsch.ch/doc/js
+[Mon Apr 11 06:20:55 2022] [error] [client 52.189.215.54] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Apr 11 06:44:27 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets
+[Mon Apr 11 10:08:16 2022] [error] [client 106.11.159.107] File does not exist: /var/www/pro-zurituutsch.ch/doc/main
+[Mon Apr 11 14:05:09 2022] [error] [client 162.241.218.238] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Mon Apr 11 14:08:40 2022] [error] [client 84.181.17.166] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 14:08:40 2022] [error] [client 84.181.17.166] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 14:08:40 2022] [error] [client 84.181.17.166] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 14:09:04 2022] [error] [client 84.181.17.166] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 14:09:04 2022] [error] [client 84.181.17.166] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 14:09:04 2022] [error] [client 84.181.17.166] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 14:10:51 2022] [error] [client 84.181.17.166] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 14:10:51 2022] [error] [client 84.181.17.166] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 14:10:51 2022] [error] [client 84.181.17.166] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 20:42:50 2022] [error] [client 178.83.10.220] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Mon Apr 11 20:46:08 2022] [error] [client 178.83.10.220] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 20:46:08 2022] [error] [client 178.83.10.220] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 20:46:08 2022] [error] [client 178.83.10.220] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 20:46:36 2022] [error] [client 178.83.10.220] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 20:46:36 2022] [error] [client 178.83.10.220] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php') in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 30, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 20:46:36 2022] [error] [client 178.83.10.220] PHP Fatal error:  Class 'Mail' not found in /var/www/pro-zurituutsch.ch/doc/local/ordermail.php on line 111, referer: http://www.pro-zurituutsch.ch/Bestellen/Pschtellf
+[Mon Apr 11 22:29:07 2022] [error] [client 94.198.98.13] File does not exist: /var/www/pro-zurituutsch.ch/doc/fckeditor
+[Mon Apr 11 22:29:07 2022] [error] [client 94.198.98.13] File does not exist: /var/www/pro-zurituutsch.ch/doc/includes
+[Mon Apr 11 22:29:07 2022] [error] [client 94.198.98.13] File does not exist: /var/www/pro-zurituutsch.ch/doc/fckeditor
+[Mon Apr 11 22:29:07 2022] [error] [client 94.198.98.13] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin
+[Mon Apr 11 22:29:08 2022] [error] [client 94.198.98.13] File does not exist: /var/www/pro-zurituutsch.ch/doc/includes
+[Mon Apr 11 22:29:08 2022] [error] [client 94.198.98.13] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin

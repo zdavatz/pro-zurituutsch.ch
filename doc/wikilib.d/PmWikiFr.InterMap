@@ -1,0 +1,12 @@
+version=pmwiki-2.1.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.2) Gecko/20060308 Firefox/1.5.0.2
+author=PRZ
+csum=misc.
+ctime=1144010360
+host=89.83.152.223
+name=PmWikiFr.InterMap
+rev=6
+targets=PmWikiFr.InterMap,PmWiki.Variables,PmWikiFr.WikiWikiWeb,PmWikiFr.CustomInterMap,PmWikiFr.WikiAdministrator,PmWikiFr.IndexDocumentation
+text=(:Title Liens InterMap:)%0aLe rôle du système des Liens [[InterMap]] est d'établir des liens entre des sites WikiWikiWeb qui ont initialement été développés avec UseMod:UseModWiki et Meatball:MeatballWiki. Les Liens [[InterMap]] ont la forme suivante [=HostPrefix:Page=], où le préfixe de l'hôte ([=HostPrefix=]) est converti sous forme d'un début d'URL à partir des informations des fichiers @@intermap.txt@@ et @@localmap.txt@@.%0a%0aLe fichier par défaut @@intermap.txt@@ livré avec `PmWiki contient les entrées `InterMap suivantes:%0a%0a [=%0aPmWiki:      http://www.pmichaud.com/wiki/PmWiki/%0aCookbook:    http://www.pmwiki.org/wiki/Cookbook/%0aWiki:        http://c2.com/cgi/wiki?%0aMeatball:    http://www.usemod.com/cgi-bin/mb.pl?%0aUseMod:      http://www.usemod.com/cgi-bin/wiki.pl?%0aISBN:        http://www.amazon.com/exec/obidos/tg/detail/-/%0aWikipedia:   http://www.wikipedia.com/wiki/%0aPITS:        http://www.pmwiki.org/PITS/%0aPath: %0a=]%0a%0aAinsi, PmWiki:Variables devient un lien à la page [[PmWiki.Variables]] du site officiel PmWiki, Wiki:FrontPage est un lien sur la page d'accueil du premier WikiWikiWeb, et Wikipedia:Stonehenge vous envoie vers un article de l'encyclopédie Wikipedia à propos de ces très célèbres pierres d'Angleterre. %0a%0aLes liens `InterMap peuvent être utilisés pour aller vers des pages non wiki :  %25newwin%25 ISBN:020171499X  %25%25 est un lien sur le site d'Amazon.com sur l'entrée ''The Wiki Way'' de Bo Leuf et Ward Cunningham (un excellent livre sur les [[WikiWikiWeb]]s en général).%0a%0aLes liens `InterMap vers n'importe quel autre site sont définis par l'[[administrateur du Wiki->WikiAdministrator]]; pour plus de précisions voyez [[CustomInterMap|+]].%0a%0a----%0a%25trail%25%3c%3c|[[Index documentation]]|>>
+time=1146491491
+title=Liens InterMap

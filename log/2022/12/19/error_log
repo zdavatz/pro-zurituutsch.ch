@@ -1,0 +1,7 @@
+[Mon Dec 19 04:25:31 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Mon Dec 19 06:14:14 2022] [error] [client 5.188.62.140] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Mon Dec 19 15:43:49 2022] [error] [client 185.191.171.14] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml
+[Mon Dec 19 18:29:18 2022] [error] [client 40.70.241.53] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Mon Dec 19 19:56:42 2022] [error] [client 193.56.73.216] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/de/gcc/fachinfo/reg/32497/chapter/usage
+[Mon Dec 19 20:13:15 2022] [error] [client 213.232.120.199] File does not exist: /var/www/pro-zurituutsch.ch/doc/de, referer: http://www.pro-zurituutsch.ch/de/gcc/fachinfo/reg/32497/chapter/usage
+[Mon Dec 19 23:58:43 2022] [error] [client 85.25.185.196] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.xml

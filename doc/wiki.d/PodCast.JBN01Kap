@@ -1,0 +1,17 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/6.1.3 Safari/537.75.14
+author=
+csum=
+ctime=1397750950
+host=178.195.197.63
+name=PodCast.JBN01Kap
+rev=2
+targets=
+text=Attach:Jissai01.1.mp3.
+time=1397751402
+author:1397751402=
+diff:1397751402:1397750950:=1c1%0a%3c Attach:Jissai01.1.mp3.%0a\ No newline at end of file%0a---%0a> Attach:JBN01.Kap.mp3%0a\ No newline at end of file%0a
+host:1397751402=178.195.197.63
+author:1397750950=
+diff:1397750950:1397750950:=1d0%0a%3c Attach:JBN01.Kap.mp3%0a\ No newline at end of file%0a
+host:1397750950=178.195.197.63

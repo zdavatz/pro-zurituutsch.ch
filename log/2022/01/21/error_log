@@ -1,0 +1,18 @@
+[Fri Jan 21 00:06:38 2022] [error] [client 66.249.66.77] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg
+[Fri Jan 21 05:31:28 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Fri Jan 21 05:31:28 2022] [error] [client 137.184.124.78] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Fri Jan 21 05:31:28 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Fri Jan 21 05:31:28 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Fri Jan 21 05:31:29 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Fri Jan 21 05:31:29 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Fri Jan 21 05:31:29 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Fri Jan 21 05:31:29 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Fri Jan 21 05:31:30 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Fri Jan 21 05:31:30 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Fri Jan 21 05:31:30 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Fri Jan 21 05:31:30 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/media
+[Fri Jan 21 05:31:31 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Fri Jan 21 05:31:31 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Fri Jan 21 05:31:31 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Fri Jan 21 05:31:31 2022] [error] [client 137.184.124.78] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Fri Jan 21 11:15:07 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/edit.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/edit.php

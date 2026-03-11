@@ -1,0 +1,6 @@
+[Sun Aug 28 14:53:13 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/public
+[Sun Aug 28 15:52:21 2022] [error] [client 20.56.52.114] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Sun Aug 28 18:20:44 2022] [error] [client 5.188.62.140] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://pro-zurituutsch.ch/
+[Sun Aug 28 20:53:48 2022] [error] [client 147.78.47.249] File does not exist: /var/www/pro-zurituutsch.ch/doc/public
+[Sun Aug 28 23:31:46 2022] [error] [client 36.70.41.75] File does not exist: /var/www/pro-zurituutsch.ch/doc/administrator
+[Sun Aug 28 23:32:36 2022] [error] [client 36.70.41.75] File does not exist: /var/www/pro-zurituutsch.ch/doc/administrator

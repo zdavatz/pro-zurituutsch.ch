@@ -1,0 +1,26 @@
+version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.9 (KHTML, like Gecko) Safari/312.6
+author=fwyss
+csum=
+ctime=1237656052
+host=62.203.6.40
+name=PodCast.Eidsprofulaxe
+rev=5
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Eidsprofulaxe.mp3%0a%0a!!Limerick 17%0aÉidsprofulaxe%0a%0aDe–r ounfèèlbaar Vatter ous Room\\%0aPrédiget, wàg dèm Sundroom:\\%0aKeuïsch muë me sy.\\%0aGly drouhf trifft y\\%0aOus Spanje–n e Ladig Condoom.\\%0a%0a%0a
+time=1238353984
+author:1238353984=fwyss
+diff:1238353984:1237656519:=
+host:1238353984=62.203.6.40
+author:1237656519=fwyss
+diff:1237656519:1237656341:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Eidsprofulaxe.mp3%0a%3c %0a---%0a> Attach:Eidsprofulaxe.mp3%0a> %0a
+host:1237656519=62.203.39.208
+author:1237656341=fwyss
+diff:1237656341:1237656289:=6,12c6,11%0a%3c De–r ounfèèlbaar Vatter ous Room\\%0a%3c Prédiget, wàg dèm Sundroom:\\%0a%3c Keuïsch muë me sy.\\%0a%3c Gly drouhf trifft y\\%0a%3c Ous Spanje–n e Ladig Condoom.\\%0a%3c %0a%3c %0a---%0a> De–r ounfèèlbaar Vatter ous Room%0a> Prédiget, wàg dèm Sundroom:%0a> Keuïsch muë me sy.%0a> Gly drouhf trifft y%0a> Ous Spanje–n e Ladig Condoom.%0a> %0a
+host:1237656341=62.203.39.208
+author:1237656289=fwyss
+diff:1237656289:1237656052:=1,11c1%0a%3c Attach:Eidsprofulaxe.mp3%0a%3c %0a%3c !!Limerick 17%0a%3c Éidsprofulaxe%0a%3c %0a%3c De–r ounfèèlbaar Vatter ous Room%0a%3c Prédiget, wàg dèm Sundroom:%0a%3c Keuïsch muë me sy.%0a%3c Gly drouhf trifft y%0a%3c Ous Spanje–n e Ladig Condoom.%0a%3c %0a---%0a> Attach:Eidsprofulaxe.mp3%0a\ No newline at end of file%0a
+host:1237656289=62.203.39.208
+author:1237656052=fwyss
+diff:1237656052:1237656052:=1d0%0a%3c Attach:Eidsprofulaxe.mp3%0a\ No newline at end of file%0a
+host:1237656052=62.203.39.208

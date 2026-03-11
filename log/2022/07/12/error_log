@@ -1,0 +1,15 @@
+[Tue Jul 12 04:52:04 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Tue Jul 12 04:52:07 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Tue Jul 12 10:49:18 2022] [error] [client 155.133.138.66] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Jul 12 10:49:18 2022] [error] [client 155.133.138.66] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Jul 12 10:49:18 2022] [error] [client 155.133.138.66] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-content
+[Tue Jul 12 10:49:18 2022] [error] [client 155.133.138.66] script '/var/www/pro-zurituutsch.ch/doc/wp-blockup.php' not found or unable to stat
+[Tue Jul 12 10:49:18 2022] [error] [client 155.133.138.66] script '/var/www/pro-zurituutsch.ch/doc/wp-blog-post.php' not found or unable to stat
+[Tue Jul 12 10:49:18 2022] [error] [client 155.133.138.66] script '/var/www/pro-zurituutsch.ch/doc/wp-beckup.php' not found or unable to stat
+[Tue Jul 12 10:49:18 2022] [error] [client 155.133.138.66] script '/var/www/pro-zurituutsch.ch/doc/wp-blockdown.php' not found or unable to stat
+[Tue Jul 12 10:49:18 2022] [error] [client 155.133.138.66] script '/var/www/pro-zurituutsch.ch/doc/wp-stream.php' not found or unable to stat
+[Tue Jul 12 14:32:18 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap
+[Tue Jul 12 14:32:24 2022] [error] [client 162.55.85.227] File does not exist: /var/www/pro-zurituutsch.ch/doc/sitemap.txt
+[Tue Jul 12 15:07:50 2022] [error] [client 14.116.207.31] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Tue Jul 12 15:22:57 2022] [error] [client 72.195.34.35] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json, referer: www.pro-zurituutsch.ch/wp-json/wp/v2/posts
+[Tue Jul 12 15:22:58 2022] [error] [client 37.99.224.225] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-json, referer: www.pro-zurituutsch.ch/wp-json/wp/v2/posts

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+author=
+charset=ISO-8859-1
+csum=
+ctime=1483735233
+host=92.106.185.4
+name=PodCast.Limerick33
+rev=4
+targets=
+text=http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick33Ggloge.mp3%0a%0a!!!Limerick 33 Ggloge%0a%0a%25center%25De Waalsyger glawbt nou–r em Rouss,%0a%0a%25center%25Was de Gghàimdiënscht verzapfi séig Stouss;%0a%0a%25center%25Dèè héb ggloge–n  àis maal !%0a%0a%25center%25De Rouss i greuhsserer Zaal.%0a%0a%25center%25Wèm 's nutzi ? frèuhg ych mi–ch am Schlouss.%0a%0a
+time=1483735514
+author:1483735514=
+diff:1483735514:1483735383:=1,2c1,2%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpgAttach:Limerick33Ggloge.mp3%0a%3c %0a---%0a> Attach:Limerick33Ggloge.mp3%0a> %0a13a14%0a> %0a
+host:1483735514=92.106.185.4
+author:1483735383=
+diff:1483735383:1483735359:=6d5%0a%3c %0a8d6%0a%3c %0a10d7%0a%3c %0a12d8%0a%3c %0a14,15d9%0a%3c %0a%3c %0a
+host:1483735383=92.106.185.4
+author:1483735359=
+diff:1483735359:1483735233:=1,9c1%0a%3c Attach:Limerick33Ggloge.mp3%0a%3c %0a%3c !!!Limerick 33 Ggloge%0a%3c %0a%3c %25center%25De Waalsyger glawbt nou–r em Rouss,%0a%3c %25center%25Was de Gghàimdiënscht verzapfi séig Stouss;%0a%3c %25center%25Dèè héb ggloge–n  àis maal !%0a%3c %25center%25De Rouss i greuhsserer Zaal.%0a%3c %25center%25Wèm 's nutzi ? frèuhg ych mi–ch am Schlouss.%0a---%0a> Attach:Limerick33Ggloge.mp3%0a\ No newline at end of file%0a
+host:1483735359=92.106.185.4
+author:1483735233=
+diff:1483735233:1483735233:=1d0%0a%3c Attach:Limerick33Ggloge.mp3%0a\ No newline at end of file%0a
+host:1483735233=92.106.185.4

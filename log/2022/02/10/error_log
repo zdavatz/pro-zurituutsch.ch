@@ -1,0 +1,28 @@
+[Thu Feb 10 07:16:15 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Thu Feb 10 07:16:15 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Thu Feb 10 07:30:23 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Thu Feb 10 07:30:23 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Thu Feb 10 07:31:37 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Thu Feb 10 07:31:37 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Thu Feb 10 07:32:48 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Thu Feb 10 07:32:48 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Thu Feb 10 07:36:26 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon-precomposed.png
+[Thu Feb 10 07:36:26 2022] [error] [client 77.109.152.68] File does not exist: /var/www/pro-zurituutsch.ch/doc/apple-touch-icon.png
+[Thu Feb 10 15:45:21 2022] [error] [client 193.231.129.34] script '/var/www/pro-zurituutsch.ch/doc/wp-login.php' not found or unable to stat
+[Thu Feb 10 15:54:45 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp-includes
+[Thu Feb 10 15:54:45 2022] [error] [client 54.219.165.23] script '/var/www/pro-zurituutsch.ch/doc/xmlrpc.php' not found or unable to stat
+[Thu Feb 10 15:54:46 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/blog
+[Thu Feb 10 15:54:46 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/web
+[Thu Feb 10 15:54:46 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Thu Feb 10 15:54:46 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/website
+[Thu Feb 10 15:54:46 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp
+[Thu Feb 10 15:54:47 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/news
+[Thu Feb 10 15:54:47 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/shop
+[Thu Feb 10 15:54:47 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp1
+[Thu Feb 10 15:54:47 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/test
+[Thu Feb 10 15:54:48 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/media
+[Thu Feb 10 15:54:48 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/wp2
+[Thu Feb 10 15:54:48 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/site
+[Thu Feb 10 15:54:48 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/cms
+[Thu Feb 10 15:54:48 2022] [error] [client 54.219.165.23] File does not exist: /var/www/pro-zurituutsch.ch/doc/sito
+[Thu Feb 10 18:28:07 2022] [error] [client 87.251.85.227] script '/var/www/pro-zurituutsch.ch/doc/header.php' not found or unable to stat, referer: http://pro-zurituutsch.ch/header.php

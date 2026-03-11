@@ -1,0 +1,22 @@
+[Fri Apr 22 04:17:19 2022] [error] [client 108.167.133.18] File does not exist: /var/www/pro-zurituutsch.ch/doc/wordpress
+[Fri Apr 22 06:32:29 2022] [error] [client 212.192.241.17] File does not exist: /var/www/pro-zurituutsch.ch/doc/debug
+[Fri Apr 22 06:33:27 2022] [error] [client 212.192.241.17] File does not exist: /var/www/pro-zurituutsch.ch/doc/debug
+[Fri Apr 22 07:38:24 2022] [error] [client 194.38.20.161] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets
+[Fri Apr 22 09:26:02 2022] [error] [client 83.78.82.201] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Fri Apr 22 09:28:07 2022] [error] [client 83.78.82.201] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Fri Apr 22 09:28:17 2022] [error] [client 83.78.82.201] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Fri Apr 22 09:30:15 2022] [error] [client 83.78.82.201] File does not exist: /var/www/pro-zurituutsch.ch/doc/resources/speaker.jpg, referer: http://www.pro-zurituutsch.ch/Texte/Styluebige
+[Fri Apr 22 09:50:04 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/js, referer: http://www.baidu.com/
+[Fri Apr 22 10:17:53 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Fri Apr 22 11:15:59 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/html, referer: http://www.baidu.com/
+[Fri Apr 22 12:41:22 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/js, referer: http://www.baidu.com/
+[Fri Apr 22 14:09:33 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/templates, referer: http://www.baidu.com/
+[Fri Apr 22 15:43:28 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/admin, referer: http://www.baidu.com/
+[Fri Apr 22 15:43:43 2022] [error] [client 185.191.34.215] script '/var/www/pro-zurituutsch.ch/doc/upl.php' not found or unable to stat
+[Fri Apr 22 17:20:03 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/includes, referer: http://www.baidu.com/
+[Fri Apr 22 18:19:11 2022] [error] [client 92.118.36.208] File does not exist: /var/www/pro-zurituutsch.ch/doc/kh1jx3
+[Fri Apr 22 18:55:36 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/public, referer: http://www.baidu.com/
+[Fri Apr 22 19:19:37 2022] [error] [client 40.77.167.44] File does not exist: /var/www/pro-zurituutsch.ch/doc/podcast
+[Fri Apr 22 20:26:41 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/common, referer: http://www.baidu.com/
+[Fri Apr 22 21:53:11 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/assets, referer: http://www.baidu.com/
+[Fri Apr 22 23:16:51 2022] [error] [client 120.33.219.207] File does not exist: /var/www/pro-zurituutsch.ch/doc/fck, referer: http://www.baidu.com/

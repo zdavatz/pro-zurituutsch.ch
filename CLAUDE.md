@@ -32,9 +32,9 @@ Live URL: https://pro-zurituutsch.ch
 
 ## Podcast
 
-- RSS feed: `/PodCast/IndexPage?action=rss` — 196 episodes with MP3 enclosures
-- WikiTrail on `PodCast/IndexPage` has 268 entries, 196 have wiki pages (the RSS plugin skips missing pages)
-- 224 MP3 files in `doc/uploads/PodCast/` (all with `.mp3` extension)
+- RSS feed: `/PodCast/IndexPage?action=rss` — 230 episodes with MP3 enclosures
+- WikiTrail on `PodCast/IndexPage` has 268 entries, 230 have wiki pages (the RSS plugin skips missing pages)
+- 223 MP3 files in `doc/uploads/PodCast/` (all with `.mp3` extension)
 - Each RSS item has a `<guid isPermaLink="true">` based on its page URL for unique episode identification
 - Feed includes iTunes namespace tags for Spotify/Apple Podcasts compatibility (`itunes:author`, `itunes:image`, `itunes:category`, `itunes:owner`, `itunes:explicit`, `itunes:type`, `itunes:summary`)
 - Feed includes `<managingEditor>` and `<language>` tags; item `<author>` falls back to `$RssFeedAuthor` when the wiki page has no author
@@ -61,7 +61,7 @@ No build system, CI/CD, or Docker. This is a standard PHP/Apache application:
 - Configuration via `doc/local/config.php`
 - Content editing happens through the PmWiki web interface
 - `.htaccess` files protect `local/` and `cookbook/` directories from direct access
-- MP3 audio files (224 files) are tracked with **Git LFS**
+- MP3 audio files (223 files) are tracked with **Git LFS**
 
 ## Conventions
 

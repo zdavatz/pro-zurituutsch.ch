@@ -345,7 +345,26 @@ function HandleRss($pagename) {
 function entityencode($s) {
   global $EntitiesTable;
   $s = str_replace(array_keys($EntitiesTable),array_values($EntitiesTable),$s);
-  // Convert non-ASCII bytes to numeric XML entities
+  // Check if content is valid UTF-8
+  if (@preg_match('//u', $s)) {
+    // UTF-8: convert multibyte sequences to Unicode codepoint entities
+    return preg_replace_callback('/[\xc0-\xf7][\x80-\xbf]+/', function($m) {
+      $bytes = $m[0];
+      $len = strlen($bytes);
+      $b0 = ord($bytes[0]);
+      if ($len == 2) {
+        $cp = (($b0 & 0x1F) << 6) | (ord($bytes[1]) & 0x3F);
+      } elseif ($len == 3) {
+        $cp = (($b0 & 0x0F) << 12) | ((ord($bytes[1]) & 0x3F) << 6) | (ord($bytes[2]) & 0x3F);
+      } elseif ($len == 4) {
+        $cp = (($b0 & 0x07) << 18) | ((ord($bytes[1]) & 0x3F) << 12) | ((ord($bytes[2]) & 0x3F) << 6) | (ord($bytes[3]) & 0x3F);
+      } else {
+        return $bytes;
+      }
+      return '&#' . $cp . ';';
+    }, $s);
+  }
+  // Latin-1 fallback: convert each non-ASCII byte individually
   return preg_replace_callback('/[\x80-\xff]/', function($m) {
     return '&#' . ord($m[0]) . ';';
   }, $s);

@@ -75,6 +75,12 @@ SDV($RssItemOptions, ''); // gives people the ability to add optional tags in th
 SDV($RssEnclosureTLA, 'mp3'); // default attachments are mp3
 SDV($RssEmailAddress, ''); // default value for feed email address
 SDV($RssFeedAuthor, $WikiTitle); // default author name for the feed channel
+SDV($RssFeedLanguage, 'en'); // feed language code (e.g. 'de', 'de-CH')
+SDV($RssFeedImageUrl, ''); // podcast cover image URL (min 1400x1400px for iTunes/Spotify)
+SDV($RssFeedCategory, ''); // iTunes category (e.g. 'Arts', 'Society &amp; Culture')
+SDV($RssFeedSubCategory, ''); // iTunes subcategory (optional)
+SDV($RssFeedExplicit, 'false'); // 'true' or 'false'
+SDV($RssFeedType, 'episodic'); // 'episodic' or 'serial'
 
 
 
@@ -118,14 +124,30 @@ if ($action=='rdf') {
 
 ### RSS 2.0 definitions
 SDV($RssTimeFmt,'%a, %d %b %Y %H:%M:%S GMT');
+$RssCategoryXml = '<itunes:category text="' . $RssFeedCategory . '"';
+if (!empty($RssFeedSubCategory)) {
+  $RssCategoryXml .= '><itunes:category text="' . $RssFeedSubCategory . '"/></itunes:category>';
+} else {
+  $RssCategoryXml .= '/>';
+}
 SDV($RssChannelFmt,'<?xml version="1.0" encoding="UTF-8"?'.'>
-  <rss version="2.0">
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
       <!-- feed title here -->
       <link>$PageUrl</link>
       <!-- feed description here -->
-      <managingEditor>' . $RssEmailAddress . ' ($RssFeedAuthor)</managingEditor>
+      <language>' . $RssFeedLanguage . '</language>
+      <managingEditor>' . $RssEmailAddress . ' (' . $RssFeedAuthor . ')</managingEditor>
       <lastBuildDate>$RssChannelBuildDate</lastBuildDate>
+      <itunes:author>' . $RssFeedAuthor . '</itunes:author>
+      <itunes:owner>
+        <itunes:name>' . $RssFeedAuthor . '</itunes:name>
+        <itunes:email>' . $RssEmailAddress . '</itunes:email>
+      </itunes:owner>
+      <itunes:image href="' . $RssFeedImageUrl . '"/>
+      ' . $RssCategoryXml . '
+      <itunes:explicit>' . $RssFeedExplicit . '</itunes:explicit>
+      <itunes:type>' . $RssFeedType . '</itunes:type>
  	  <!-- feed options here -->
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>PmWiki $Version</generator>');
@@ -185,10 +207,12 @@ function ApplyRssOptions(){
 	
 	if ($RssFeedDescFromMetadata == 1){
 	//Right now this does nothing -- I am waiting for information from Patrick
-		$feed_format_pointer = str_replace ('<!-- feed description here -->', '<description>$RssFeedDesc</description>', $feed_format_pointer);
-	 
+		$feed_format_pointer = str_replace ('<!-- feed description here -->', '<description>$RssFeedDesc</description>
+      <itunes:summary>$RssFeedDesc</itunes:summary>', $feed_format_pointer);
+
 	} else {
-			$feed_format_pointer = str_replace ('<!-- feed description here -->', '<description>$RssFeedDesc</description>', $feed_format_pointer);
+			$feed_format_pointer = str_replace ('<!-- feed description here -->', '<description>$RssFeedDesc</description>
+      <itunes:summary>$RssFeedDesc</itunes:summary>', $feed_format_pointer);
 	}	
 	
 	// to allow taking descriptions from metadata (:description:) wiki-tag [Pending Feature]

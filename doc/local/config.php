@@ -167,7 +167,14 @@ $EnableDiag = 1;
 
 $EnableRssEnclosures = 1;
 $RssEmailAddress = "bwyss.zurituutsch@gmail.com";
-$RssFeedAuthor = "Pro-Zurituutsch";
+$RssFeedAuthor = "Félix Wyss, Stiftung Pro-Tsüritüütsch";
+$RssFeedDesc = "Schweizer Mundart von Félix Wyss, Stiftung Pro-Tsüritüütsch.";
+$RssFeedDescFromMetadata = 0;
+$RssFeedLanguage = 'de-CH';
+$RssFeedImageUrl = 'https://pro-zurituutsch.ch/uploads/Main/logo.jpg';
+$RssFeedCategory = 'Arts';
+$RssFeedExplicit = 'false';
+$RssFeedType = 'episodic';
 $RssMaxItems = 250;
 $RssFeedTitle = 'PodCast';
 

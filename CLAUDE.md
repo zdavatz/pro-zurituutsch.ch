@@ -32,8 +32,8 @@ Live URL: https://pro-zurituutsch.ch
 
 ## Podcast
 
-- RSS feed: `/PodCast/IndexPage?action=rss` — ~159 episodes with MP3 enclosures
-- WikiTrail on `PodCast/IndexPage` has 229 entries, ~159 have wiki pages (the RSS plugin skips missing pages)
+- RSS feed: `/PodCast/IndexPage?action=rss` — 196 episodes with MP3 enclosures
+- WikiTrail on `PodCast/IndexPage` has 268 entries, 196 have wiki pages (the RSS plugin skips missing pages)
 - 224 MP3 files in `doc/uploads/PodCast/` (all with `.mp3` extension)
 - Each RSS item has a `<guid isPermaLink="true">` based on its page URL for unique episode identification
 - Feed includes iTunes namespace tags for Spotify/Apple Podcasts compatibility (`itunes:author`, `itunes:image`, `itunes:category`, `itunes:owner`, `itunes:explicit`, `itunes:type`, `itunes:summary`)

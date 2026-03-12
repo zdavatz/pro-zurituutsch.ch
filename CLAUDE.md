@@ -44,6 +44,7 @@ Live URL: https://pro-zurituutsch.ch
 - Config variables: `$RssFeedAuthor`, `$RssFeedDesc`, `$RssFeedLanguage`, `$RssFeedImageUrl`, `$RssFeedCategory`, `$RssFeedExplicit`, `$RssFeedType`
 - Audio files in `doc/uploads/PodCast/`
 - `check_trail.py` — script to analyze which trail entries have wiki pages and/or MP3 files
+- Episodes without MP3 audio (missing files): SprAlAner, RezPflInt, SpruchZ, Limerick29, JBJKap1, PrSidNtewaal, Fanatiker, Schlaaffloos1, Schlaaffloos2, Eereroueff, Eereroueff2, Site192HouhsRech1509, Site191Rech1509, 161Predigerchoor1489, 63Frawmeuischter1470
 
 ## Tech Stack
 

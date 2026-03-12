@@ -11,7 +11,7 @@ This repository contains the full website installation including:
 - **PmWiki 2.2.84** — the wiki engine (`pmwiki-2.2.84/`)
 - **Live site** — configuration, wiki pages, uploads, and custom skin (`doc/`)
 - **Custom skin** — "pro-zurituutsch" theme based on Beeblebrox Gila (`doc/pub/skins/pro-zurituutsch/`)
-- **Podcast audio** — ~154 Zurich German text recordings (`doc/uploads/PodCast/`), distributed via RSS feed (229 trail entries, but only ~154 have wiki pages)
+- **Podcast audio** — 224 MP3 files (`doc/uploads/PodCast/`), distributed via RSS feed (229 trail entries, ~159 with wiki pages and MP3 enclosures)
 
 ## Requirements
 
@@ -28,7 +28,7 @@ This repository contains the full website installation including:
 
 ## Podcast / RSS
 
-The site serves a podcast feed at `/PodCast/IndexPage?action=rss` with ~154 episodes of Zurich German text recordings (229 trail entries total; episodes without wiki pages are skipped by the RSS plugin). The feed is compatible with Spotify for Creators and other podcast platforms. Audio files are stored in `doc/uploads/PodCast/`.
+The site serves a podcast feed at `/PodCast/IndexPage?action=rss` with ~159 episodes of Zurich German text recordings (229 trail entries total; episodes without wiki pages are skipped by the RSS plugin). The feed is compatible with Spotify for Creators and other podcast platforms. Audio files are stored in `doc/uploads/PodCast/`.
 
 The RSS plugin (`doc/cookbook/rssenclosures.php`) generates RSS 2.0 with MP3 enclosures and full iTunes namespace support for Spotify and Apple Podcasts compatibility. Features include:
 

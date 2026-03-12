@@ -74,6 +74,7 @@ SDV($RssFeedOptions, ''); // user-configurable RSS feed options
 SDV($RssItemOptions, ''); // gives people the ability to add optional tags in their config.php files (like copyright info)
 SDV($RssEnclosureTLA, 'mp3'); // default attachments are mp3
 SDV($RssEmailAddress, ''); // default value for feed email address
+SDV($RssFeedAuthor, $WikiTitle); // default author name for the feed channel
 
 
 
@@ -123,17 +124,19 @@ SDV($RssChannelFmt,'<?xml version="1.0" encoding="UTF-8"?'.'>
       <!-- feed title here -->
       <link>$PageUrl</link>
       <!-- feed description here -->
+      <managingEditor>' . $RssEmailAddress . ' ($RssFeedAuthor)</managingEditor>
       <lastBuildDate>$RssChannelBuildDate</lastBuildDate>
  	  <!-- feed options here -->
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>PmWiki $Version</generator>');
 SDV($RssItemFmt,'
-		
+
         <item>
           <!-- item title here -->
           <link>$PageUrl</link>
           <!-- item description here -->
           <author>' . $RssEmailAddress . ' ($RssItemAuthor)</author>
+          <guid isPermaLink="true">$PageUrl</guid>
           <pubDate>$RssItemPubDate</pubDate>
           <!-- item options here -->
         </item>');
@@ -228,10 +231,14 @@ function HandleRss($pagename) {
   
   // define an array to hold an array of info for each article/item in the feed
   $itemarray = array();
+  $seenpages = array();
 
   // grabs the existing trail items up to the number of max items in the feed
   for($i=0;$i<count($trailpage) && count($itemarray)<$RssMaxItems;$i++) {
 
+    // skip duplicate trail entries to avoid duplicate GUIDs
+    if (isset($seenpages[$trailpage[$i]['pagename']])) continue;
+    $seenpages[$trailpage[$i]['pagename']] = true;
 
     if (!PageExists($trailpage[$i]['pagename'])) continue;
     $page = RetrieveAuthPage($trailpage[$i]['pagename'],'read',false); Lock(0);
@@ -265,7 +272,8 @@ function HandleRss($pagename) {
   foreach($itemarray as $page) {
     $FmtV['$RssItemPubDate'] = gmstrftime($RssTimeFmt,$page['time']);
     $FmtV['$RssItemDesc'] = $page['desc']; 
-    $FmtV['$RssItemAuthor'] = $page['author'];
+    global $RssFeedAuthor;
+    $FmtV['$RssItemAuthor'] = !empty($page['author']) ? $page['author'] : $RssFeedAuthor;
     
     // Create a temporary item format that can be altered in the iteration of each page
     $TempRssItemFmt = $RssItemFmt;

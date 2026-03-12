@@ -167,6 +167,7 @@ $EnableDiag = 1;
 
 $EnableRssEnclosures = 1;
 $RssEmailAddress = "bwyss.zurituutsch@gmail.com";
+$RssFeedAuthor = "Pro-Zurituutsch";
 $RssMaxItems = 250;
 $RssFeedTitle = 'PodCast';
 

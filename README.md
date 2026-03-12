@@ -30,6 +30,8 @@ This repository contains the full website installation including:
 
 The site serves a podcast feed at `/PodCast/IndexPage?action=rss` with ~154 episodes of Zurich German text recordings (229 trail entries total; episodes without wiki pages are skipped by the RSS plugin). The feed is compatible with Spotify for Creators and other podcast platforms. Audio files are stored in `doc/uploads/PodCast/`.
 
+The RSS plugin (`doc/cookbook/rssenclosures.php`) generates RSS 2.0 with MP3 enclosures. Each item includes a `<guid>` based on its page URL for unique episode identification. The feed includes a `<managingEditor>` tag for podcast author attribution. Duplicate trail entries are automatically deduplicated.
+
 ## License
 
 GNU General Public License v3 — see [LICENSE](LICENSE)

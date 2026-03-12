@@ -39,6 +39,7 @@ The RSS plugin (`doc/cookbook/rssenclosures.php`) generates RSS 2.0 with MP3 enc
 - iTunes tags: `itunes:author`, `itunes:image`, `itunes:category`, `itunes:owner`, `itunes:explicit`, `itunes:type`, `itunes:summary`
 - `<managingEditor>` and `<language>` tags
 - Automatic deduplication of duplicate trail entries
+- UTF-8 aware `entityencode()` — correctly converts multibyte characters (ä, ü, è, etc.) to Unicode codepoint entities, with Latin-1 fallback for legacy content
 
 ## License
 

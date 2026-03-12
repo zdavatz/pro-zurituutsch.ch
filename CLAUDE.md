@@ -27,14 +27,18 @@ Live URL: https://pro-zurituutsch.ch
 - `doc/pub/skins/pro-zurituutsch/gila.tmpl` — XHTML 1.1 page template (includes Google Analytics)
 - `doc/pub/skins/pro-zurituutsch/gila.css` — site stylesheet
 - `doc/pub/skins/pro-zurituutsch/skin.php` — skin logic (PHP)
-- `doc/cookbook/rssenclosures.php` — RSS/podcast feed plugin with MP3 enclosures
+- `doc/cookbook/rssenclosures.php` — RSS/podcast feed plugin with MP3 enclosures, GUIDs, author attribution, and trail deduplication
 - `pmwiki-2.2.84/pmwiki.php` — PmWiki engine entry point
 
 ## Podcast
 
 - RSS feed: `/PodCast/IndexPage?action=rss` — ~154 episodes with MP3 enclosures
 - WikiTrail on `PodCast/IndexPage` has 229 entries, but only ~154 have wiki pages (the RSS plugin skips missing pages)
+- Each RSS item has a `<guid isPermaLink="true">` based on its page URL for unique episode identification
+- Feed includes `<managingEditor>` tag; item `<author>` falls back to `$RssFeedAuthor` when the wiki page has no author
+- Duplicate trail entries are automatically deduplicated (e.g., `JissäiBänJoussouff4.02` appears twice in the trail)
 - `$RssMaxItems = 250` in config.php (must be >= number of trail entries with wiki pages)
+- `$RssFeedAuthor = "Pro-Zurituutsch"` in config.php — used as feed managing editor and fallback item author
 - Audio files in `doc/uploads/PodCast/`
 - `check_trail.py` — script to analyze which trail entries have wiki pages and/or MP3 files
 

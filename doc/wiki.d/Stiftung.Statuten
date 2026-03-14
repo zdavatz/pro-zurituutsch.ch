@@ -1,0 +1,21 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773507180
+host=193.5.238.21
+name=Stiftung.Statuten
+rev=3
+targets=
+text=!Stiftung PRO ZURITUUTSCH%0a%0a\%0a %0a!!Statuten%0a%0aDie Stiftung bezweckt die Unterstützung und Förderung literarischer Produktion (eigenständige Werke und Übersetzungen) im Züricher Dialekt. Insbesondere wird die vom Stifter bevorzugte Schreibweise "Zurituutsch" gefördert. Die Förderung kann in verschiedenster Art erfolgen.%0a%0aDurch die Publikation von Dialekttexten soll das "Zurituutsch" der Öffentlichkeit bekannt gemacht werden.%0a%0aSofern keine Texte in der Form des vom Stifter bevorzugten "Zurituutsch" vorliegen, kann die Stiftung auch Autoren und Übersetzer unterstützen und fördern, die Texte in einer anderen Schreibweise und/oder in einem anderen Deutschschweizer Dialekt vorlegen.%0a%0aViele Texte sind im PodCast zu hören, lesen und herunterzuladen. Der PodCast ist open source.%0a%0aAllerhand Texte von Felix Wyss sind in Druckformat im Archiv für Mundartbücher, Elgg gelagert. Kontaktadressen: Dr.Jürg Bleiker, Wannenfeldstr.9, 8005 Frauenfeld oder Thomas Ziegler, Bergstr. 17, 8353 Elgg, Tel.: 052 364 12 51. %0a%0a\\%0a%0a----%0a%0a\%0a %0a!!Stiftungsrat%0a%0aBarbara Wyss Wagnière, Präsidentin%0a%0aHannes Wyss, Stiftungsrat%0a%0aSebastian Wyss, Stiftungsrat%0a%0a
+time=1773509231
+author:1773509231=
+diff:1773509231:1773509221:=2d1%0a%3c %0a
+host:1773509231=193.5.238.21
+author:1773509221=
+diff:1773509221:1773507180:=2c2,4%0a%3c \%0a---%0a> \\%0a> %0a> %0a
+host:1773509221=193.5.238.21
+author:1773507180=
+diff:1773507180:1773507180:=1,31d0%0a%3c !Stiftung PRO ZURITUUTSCH%0a%3c \\%0a%3c %0a%3c %0a%3c  %0a%3c !!Statuten%0a%3c %0a%3c Die Stiftung bezweckt die Unterstützung und Förderung literarischer Produktion (eigenständige Werke und Übersetzungen) im Züricher Dialekt. Insbesondere wird die vom Stifter bevorzugte Schreibweise "Zurituutsch" gefördert. Die Förderung kann in verschiedenster Art erfolgen.%0a%3c %0a%3c Durch die Publikation von Dialekttexten soll das "Zurituutsch" der Öffentlichkeit bekannt gemacht werden.%0a%3c %0a%3c Sofern keine Texte in der Form des vom Stifter bevorzugten "Zurituutsch" vorliegen, kann die Stiftung auch Autoren und Übersetzer unterstützen und fördern, die Texte in einer anderen Schreibweise und/oder in einem anderen Deutschschweizer Dialekt vorlegen.%0a%3c %0a%3c Viele Texte sind im PodCast zu hören, lesen und herunterzuladen. Der PodCast ist open source.%0a%3c %0a%3c Allerhand Texte von Felix Wyss sind in Druckformat im Archiv für Mundartbücher, Elgg gelagert. Kontaktadressen: Dr.Jürg Bleiker, Wannenfeldstr.9, 8005 Frauenfeld oder Thomas Ziegler, Bergstr. 17, 8353 Elgg, Tel.: 052 364 12 51. %0a%3c %0a%3c \\%0a%3c %0a%3c ----%0a%3c %0a%3c \%0a%3c  %0a%3c !!Stiftungsrat%0a%3c %0a%3c Barbara Wyss Wagnière, Präsidentin%0a%3c %0a%3c Hannes Wyss, Stiftungsrat%0a%3c %0a%3c Sebastian Wyss, Stiftungsrat%0a%3c %0a
+host:1773507180=193.5.238.21

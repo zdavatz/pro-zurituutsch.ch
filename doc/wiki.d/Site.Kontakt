@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773506855
+host=193.5.238.21
+name=Site.Kontakt
+rev=1
+targets=
+text=!Kontakt%0a\\%0a%0aStiftung Pro Zurituutsch C/O Barbara Wyss%0aWinzerstrasse 92%0aCH-8408 Winterthur%0a%0aEmail: barbarawyss(@)gmx.net%0a%0aBankverbindung:\\ Kto: 343-1.451836.3\\ 737 Zürcher Kantonalbank%0a8010 Zürich; PC 80-151-4 
+time=1773506855
+author:1773506855=
+diff:1773506855:1773506855:=1,11d0%0a%3c !Kontakt%0a%3c \\%0a%3c %0a%3c Stiftung Pro Zurituutsch C/O Barbara Wyss%0a%3c Winzerstrasse 92%0a%3c CH-8408 Winterthur%0a%3c %0a%3c Email: barbarawyss(@)gmx.net%0a%3c %0a%3c Bankverbindung:\\ Kto: 343-1.451836.3\\ 737 Zürcher Kantonalbank%0a%3c 8010 Zürich; PC 80-151-4 %0a\ No newline at end of file%0a
+host:1773506855=193.5.238.21

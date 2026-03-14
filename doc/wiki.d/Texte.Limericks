@@ -1,14 +1,21 @@
-version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
 author=
+charset=ISO-8859-1
 csum=
 ctime=1357847046
-host=188.62.172.77
+host=193.5.238.21
 name=Texte.Limericks
-rev=1
+rev=3
 targets=
-text=
-time=1357847046
+text=!Limerick 1%0a%0aEs Dooping hànd Forscher ouhsgghéckt%0a%0aWo total im Blouët sych verstéckt.%0a%0aWèèr doope–n erlawbt%0a%0aMe hétt uberhawpt%0a%0aEs Dooping wo nuut schadt, entdéckt.%0a%0a\\%0a%0a!Limerick 2%0a%0aSo–n en Boundesraat macht neud lang Pflànz,%0a%0asàit si, schliëssli ha–n ych g’Kompètànz.%0a%0aWànn so àine neud ggnuëgt,%0a%0aja so wirt er spédiërt. –%0a%0aOund im Waalkampf gits gspàssigi Tànz.%0a%0a\\%0a%0a!Limerick 3%0a%0aWànn t’Tàiffouhn fur Tooti muënd sorge,%0aound g’Kryse fur Bankekràsch sorge,%0aso sorg i mi aw%0aeub t’Naachrichtefraw%0asych sorg go–n es Wèurterbouëch psorge.%0a%0a\\%0a%0a!Limerick 4%0a%0a’S koréliërt, sàit en Forscher i Chouhr%0amit em Chopfoumfang vo me ne Pouhr%0a’s Hèrdeupfelggwicht,%0anou–r isch bleuhd a dèr Ggschicht%0avo de Signifikanz e kà Spouhr.%0a%0a\\%0a%0a!Limerick 5, Euïthanasy%0a%0aEn wurdige Hèrr sàit i Mouhr%0aEm Chranke–n ound louëget ouf t’Ouhr:%0a„P’Parkzyt lawfft ap,%0amach jétz neud schlapp,%0a’s isch Zyt fur dië allerlétscht Kouhr.
+time=1773509997
+author:1773509997=
+diff:1773509997:1773509930:=1,2c1,2%0a%3c !Limerick 1%0a%3c %0a---%0a>  Limerick 1%0a> %0a13,16c13,16%0a%3c \\%0a%3c %0a%3c !Limerick 2%0a%3c %0a---%0a>  %0a> %0a> Limerick 2%0a> %0a27,30c27,30%0a%3c \\%0a%3c %0a%3c !Limerick 3%0a%3c %0a---%0a>  %0a> %0a> Limerick 3%0a> %0a37,40c37,40%0a%3c \\%0a%3c %0a%3c !Limerick 4%0a%3c %0a---%0a>  %0a> %0a> Limerick 4%0a> %0a47,49c47,49%0a%3c \\%0a%3c %0a%3c !Limerick 5, Euïthanasy%0a---%0a>  %0a> %0a> Limerick 5, Euïthanasy%0a
+host:1773509997=193.5.238.21
+author:1773509930=
+diff:1773509930:1357847046:=1,55d0%0a%3c  Limerick 1%0a%3c %0a%3c Es Dooping hànd Forscher ouhsgghéckt%0a%3c %0a%3c Wo total im Blouët sych verstéckt.%0a%3c %0a%3c Wèèr doope–n erlawbt%0a%3c %0a%3c Me hétt uberhawpt%0a%3c %0a%3c Es Dooping wo nuut schadt, entdéckt.%0a%3c %0a%3c  %0a%3c %0a%3c Limerick 2%0a%3c %0a%3c So–n en Boundesraat macht neud lang Pflànz,%0a%3c %0a%3c sàit si, schliëssli ha–n ych g’Kompètànz.%0a%3c %0a%3c Wànn so àine neud ggnuëgt,%0a%3c %0a%3c ja so wirt er spédiërt. –%0a%3c %0a%3c Ound im Waalkampf gits gspàssigi Tànz.%0a%3c %0a%3c  %0a%3c %0a%3c Limerick 3%0a%3c %0a%3c Wànn t’Tàiffouhn fur Tooti muënd sorge,%0a%3c ound g’Kryse fur Bankekràsch sorge,%0a%3c so sorg i mi aw%0a%3c eub t’Naachrichtefraw%0a%3c sych sorg go–n es Wèurterbouëch psorge.%0a%3c %0a%3c  %0a%3c %0a%3c Limerick 4%0a%3c %0a%3c ’S koréliërt, sàit en Forscher i Chouhr%0a%3c mit em Chopfoumfang vo me ne Pouhr%0a%3c ’s Hèrdeupfelggwicht,%0a%3c nou–r isch bleuhd a dèr Ggschicht%0a%3c vo de Signifikanz e kà Spouhr.%0a%3c %0a%3c  %0a%3c %0a%3c Limerick 5, Euïthanasy%0a%3c %0a%3c En wurdige Hèrr sàit i Mouhr%0a%3c Em Chranke–n ound louëget ouf t’Ouhr:%0a%3c „P’Parkzyt lawfft ap,%0a%3c mach jétz neud schlapp,%0a%3c ’s isch Zyt fur dië allerlétscht Kouhr. %0a\ No newline at end of file%0a
+host:1773509930=193.5.238.21
 author:1357847046=
 diff:1357847046:1357847046:=
 host:1357847046=188.62.172.77

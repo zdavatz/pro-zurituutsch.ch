@@ -1,8 +1,9 @@
-version=pmwiki-2.1.26 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1) Gecko/20061010 Firefox/2.0
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+charset=ISO-8859-1
 ctime=1163037365
-host=203.112.11.83
+host=193.5.238.21
 name=Hilfe.RecentChanges
-rev=9
-text=* [[Hilfe/AnleitungTonbeispiele]]  . . . 09.11.2006 03:03 Uhr von [[~fwyss]]: [==]%0a* [[Hilfe/Quicktime]]  . . . 09.11.2006 03:02 Uhr von [[~fwyss]]: [==]%0a* [[Hilfe/RealOne]]  . . . 09.11.2006 03:00 Uhr von [[~fwyss]]: [==]%0a* [[Hilfe/Winamp]]  . . . 09.11.2006 02:57 Uhr von [[~fwyss]]: [==]%0a
-time=1163037804
+rev=10
+text=* [[Hilfe/AnleitungTonbeispiele]]  . . . 14.03.2026 18:42 Uhr von ?: [==]%0a* [[Hilfe/Quicktime]]  . . . 09.11.2006 03:02 Uhr von [[~fwyss]]: [==]%0a* [[Hilfe/RealOne]]  . . . 09.11.2006 03:00 Uhr von [[~fwyss]]: [==]%0a* [[Hilfe/Winamp]]  . . . 09.11.2006 02:57 Uhr von [[~fwyss]]: [==]%0a
+time=1773510152

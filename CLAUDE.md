@@ -27,7 +27,7 @@ Live URL: https://pro-zurituutsch.ch
 - `doc/pub/skins/pro-zurituutsch/gila.tmpl` — XHTML 1.1 page template (includes Google Analytics)
 - `doc/pub/skins/pro-zurituutsch/gila.css` — site stylesheet
 - `doc/pub/skins/pro-zurituutsch/skin.php` — skin logic (PHP)
-- `doc/cookbook/rssenclosures.php` — RSS/podcast feed plugin with MP3 enclosures, GUIDs, author attribution, and trail deduplication
+- `doc/cookbook/rssenclosures.php` — RSS/podcast feed plugin with MP3 enclosures, GUIDs, author attribution, trail deduplication, and UTF-8 aware entity encoding
 - `pmwiki-2.2.84/pmwiki.php` — PmWiki engine entry point
 
 ## Podcast
@@ -36,6 +36,7 @@ Live URL: https://pro-zurituutsch.ch
 - WikiTrail on `PodCast/IndexPage` has 268 entries, 239 have wiki pages (the RSS plugin skips missing pages)
 - MP3 files in `doc/uploads/` across multiple group directories (PodCast, Site, Lydja, Tessynfaart, JissIBNJoussouff*)
 - Wiki page and MP3 filenames must use ASCII only (PmWiki strips non-ASCII from page names)
+- Page content may contain UTF-8 or Latin-1 characters; `entityencode()` in the RSS plugin handles both encodings correctly
 - Each RSS item has a `<guid isPermaLink="true">` based on its page URL for unique episode identification
 - Feed includes iTunes namespace tags for Spotify/Apple Podcasts compatibility (`itunes:author`, `itunes:image`, `itunes:category`, `itunes:owner`, `itunes:explicit`, `itunes:type`, `itunes:summary`)
 - Feed includes `<managingEditor>` and `<language>` tags; item `<author>` falls back to `$RssFeedAuthor` when the wiki page has no author

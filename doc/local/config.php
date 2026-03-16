@@ -22,7 +22,7 @@ $PubDirUrl = 'https://pro-zurituutsch.ch/pub';
 #  $PageTemplateFmt = 'pub/skins/ywesee/gila.tmpl';
 $Skin = 'pro-zurituutsch';
 # The HTML code to be generated for the page logo.
-$PageLogoFmt = "<a href='$ScriptUrl/Main/Home'>Pro-Zurituutsch</a>";
+$PageLogoFmt = "<a href='$ScriptUrl/Main/Home'>Stiftung PRO ZURITUUTSCH</a>";
 
 XLPage('de','PmWikiDe.XLPage');
 		 

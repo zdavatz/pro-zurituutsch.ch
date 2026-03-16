@@ -69,7 +69,7 @@ No build system, CI/CD, or Docker. This is a standard PHP/Apache application:
 ## Conventions
 
 - The custom skin follows XHTML 1.1 strict compliance and CSS 2.0 (no table layouts)
-- Typography: Header uses "Arial Nova Cond" at 48pt; body text uses Arial. Header has equal top and bottom padding (1.2em)
+- Typography: Header uses "Roboto Condensed" at 48pt (loaded via Google Fonts, with Arial Nova Cond/Arial Narrow as fallbacks); body text uses Arial. Header has equal top and bottom padding (1.2em)
 - Font sizes use relative units for accessibility
 - External links get a visual indicator icon
 - All user-facing text is in German

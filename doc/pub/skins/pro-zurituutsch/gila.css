@@ -21,7 +21,7 @@
 body {
   color: #333;
   background-color: #f5f5f5;
-  font-family: verdana, helvetica, arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 10pt;
   margin: 0px;
   padding: 0px;
@@ -210,23 +210,23 @@ fieldset {
 
 .headerTitle {
   margin: 0;
-  padding: 1.2em 4mm 0.25em 4mm;
+  padding: 1.2em 4mm 1.2em 4mm;
+  font-family: "Arial Nova Cond", "Arial Narrow", Arial, sans-serif;
+  font-size: 48pt;
 }
 
 .headerTitle a {
   color: #5b9bd5;
   background-color: transparent;
   text-decoration: none;
-
-  /* For MSIE */
-  font-size: 100%;
+  font-size: inherit;
   font-weight: bold;
   /*font-style: italic;*/
 }
 
 /* For fully standards-compliant user agents */
 .headerTitle > a {
-  font-size: 118%;
+  font-size: inherit;
 }
 
 .headerTitle span {

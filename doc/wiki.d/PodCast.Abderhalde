@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773570199
+host=193.5.238.21
+name=PodCast.Abderhalde
+rev=1
+targets=PodCast.WGA6Klynikerfaarig,PodCast.WGA5Herz,PodCast.WGA4Gglinge,PodCast.WGA3FrejersfuSs,PodCast.WGA2Eergyz,PodCast.WGA1Begaabig,PodCast.Abderhalde0Inhalt
+text=!!!W.G.Abderhalde%0aKapitel in oumgchéérter Ràjefolg:%0a%0a* [[WGA6Klynikerfaarig]] %0a* [[WGA5Herz]] %0a* [[WGA4Gglinge]] %0a* [[WGA3Frejersfuëss]] %0a* [[WGA2Eergyz]] %0a* [[WGA1Begaabig]] %0a* [[Abderhalde0Inhalt]]
+time=1773570199
+author:1773570199=
+diff:1773570199:1773570199:=1,10d0%0a%3c !!!W.G.Abderhalde%0a%3c Kapitel in oumgchéérter Ràjefolg:%0a%3c %0a%3c * [[WGA6Klynikerfaarig]] %0a%3c * [[WGA5Herz]] %0a%3c * [[WGA4Gglinge]] %0a%3c * [[WGA3Frejersfuëss]] %0a%3c * [[WGA2Eergyz]] %0a%3c * [[WGA1Begaabig]] %0a%3c * [[Abderhalde0Inhalt]]%0a\ No newline at end of file%0a
+host:1773570199=193.5.238.21

@@ -1,15 +1,18 @@
 version=pmwiki-2.2.84 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
 author=
 charset=ISO-8859-1
 csum=
 ctime=1163038336
-host=178.83.114.200
+host=193.5.238.21
 name=Texte.Bitterbeuhsi
-rev=13
+rev=14
 targets=
-text=!! Viër bitterbeuhsi Légànde%0a1. Am viërezwànzgischte Zweulfte nuunzààhoundertnuunenuunzg (S. 1-10) Dour es Wounder wirt de Paapscht i-n e Fraw verwandlet, was neud nou zou innere Kàmpf i de Chile fuërt, sondern aw p'Pràss alarmiërt ound aw souscht allerhand fur Folge hàt.%0a%0a2. 'S Anderle vom Ring (S. 11-15) Es aarms ounéélichs Buëbli wirt vom Dorfpfarer gfeurderet, missbrouhcht ound teuhdt. T'Chile isch psorgt oum ire Rouëf ound findt en Ouhswààg mit Folge.%0a%0a3. Wo de Jésous zoum Paapscht choo isch (S. 16.25) Im Trawm erschynt de Jésous em Paapscht. Dèè làischtet Verzicht ouf Macht ound Rychtoum fur t' Chile, was zou-n ere raasende Éskalazion fuërt.%0a%0a4. De-r Atéischt im Jénsyts (S. 26-28) En Atéischt chounnt i t' Heull ound findt's déét àigetli ganz nétt.%0a%0aDas schmaale Bàndli isch fur Fr. 20.- erhàltlich mit em '''[[http://www.pro-zurituutsch.ch/Bestellen.Pschtellformoular]]'''.%0a%0a
-time=1591952722
+text=!! Viër bitterbeuhsi Légànde%0a1. Am viërezwànzgischte Zweulfte nuunzààhoundertnuunenuunzg (S. 1-10) Dour es Wounder wirt de Paapscht i-n e Fraw verwandlet, was neud nou zou innere Kàmpf i de Chile fuërt, sondern aw p'Pràss alarmiërt ound aw souscht allerhand fur Folge hàt.%0a%0a2. 'S Anderle vom Ring (S. 11-15) Es aarms ounéélichs Buëbli wirt vom Dorfpfarer gfeurderet, missbrouhcht ound teuhdt. T'Chile isch psorgt oum ire Rouëf ound findt en Ouhswààg mit Folge.%0a%0a3. Wo de Jésous zoum Paapscht choo isch (S. 16.25) Im Trawm erschynt de Jésous em Paapscht. Dèè làischtet Verzicht ouf Macht ound Rychtoum fur t' Chile, was zou-n ere raasende Éskalazion fuërt.%0a%0a4. De-r Atéischt im Jénsyts (S. 26-28) En Atéischt chounnt i t' Heull ound findt's déét àigetli ganz nétt.%0a%0aDas schmaale Bàndli isch fur Fr. 20.- erhàltlich.%0a%0a
+time=1773567875
+author:1773567875=
+diff:1773567875:1591952722:=10c10%0a%3c Das schmaale Bàndli isch fur Fr. 20.- erhàltlich.%0a---%0a> Das schmaale Bàndli isch fur Fr. 20.- erhàltlich mit em '''[[http://www.pro-zurituutsch.ch/Bestellen.Pschtellformoular]]'''.%0a
+host:1773567875=193.5.238.21
 author:1591952722=
 diff:1591952722:1179764670:=0a1,7%0a> [--Page Title: Vier bitterböse Legenden auf Zürichdeutsch. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a> [--URL http//www.pro–zurituutsch.ch/Texte/Bitterbeuhsi--],\\%0a> [--DESCRIPTION Vier Kurzgeschichten auf Zürich–Deutsch. Zürichdeutsch,Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--],\\%0a> [--Bread Crumb Line:http://www.pro-zurituutsch.ch/Bestellen/Pschtellf--]\\%0a> [--BOTTOM TEXT: Züritüütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum. Hier können Sie sich Gedichte, Geschichten, Streitgespräche, Essays und Übersetzungen auf Zürichdeutsch als PodCast anhören, soch informieren zu verschiedenen Themen aus Alltag, Politik und Zürichdeutsch.--]\\%0a> %0a> %0a
 host:1591952722=178.83.114.200

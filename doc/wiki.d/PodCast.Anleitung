@@ -1,0 +1,27 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773571083
+host=193.5.238.21
+name=PodCast.Anleitung
+rev=5
+targets=
+text=! Anleitung Tonbeispiele%0aUm die Texte neben den Bildern auch hören zu können, klicken Sie auf %0aden jeweiligen Titel (neben dem Lautsprecher). Es erscheint nach einer %0akurzen Pause das Fenster des Tonwiedergabegeräts (''Winamp, RealOne, Quicktime'') und der Ton beginnt. %0aSofern Sie gleichzeitig zum gesprochenen Text die Schrift lesen und das %0aBild sehen möchten, klicken Sie auf das entsprechende Fenster, welches %0anun nach vorne kommt. Zwecks Übersicht empfiehlt es sich nach Beendigung der Wiedergabe das Fenster des Wiedergabegeräts zu schliessen.%0a%0a!! Technische Voraussetzungen zum Hören der Tonbeispiele:%0a# Ihr Computer sollte über eine Soundkarte verfügen%0a# Sie benötigen einen geigneten Mediaplayer. (Auf den meisten heutigen Computern ist bereits ein Mediaplayer installiert)%0a# Wir empfehlen für '''Windows''' ''Winamp'' oder ''RealOne''%0a# Wir empfehlen für '''Mac''' den ''Quicktime'' oder ''RealOne Player''.%0a# Ihr Computer muss "wissen" was er mit einer "Tondatei" d.h. einer MP3-Datei anfangen soll.
+time=1773572467
+author:1773572467=
+diff:1773572467:1773572443:=12,13c12,13%0a%3c # Wir empfehlen für '''Windows''' ''Winamp'' oder ''RealOne''%0a%3c # Wir empfehlen für '''Mac''' den ''Quicktime'' oder ''RealOne Player''.%0a---%0a> # Wir empfehlen für '''Windows''' ''Winamp oder RealOne''%0a> # Wir empfehlen für '''Mac''' den ''Quicktime oder RealOne Player''.%0a
+host:1773572467=193.5.238.21
+author:1773572443=
+diff:1773572443:1773572399:=4c4%0a%3c kurzen Pause das Fenster des Tonwiedergabegeräts (''Winamp, RealOne, Quicktime'') und der Ton beginnt. %0a---%0a> kurzen Pause das Fenster des Tonwiedergabegeräts ('Winamp, RealOne, Quicktime') und der Ton beginnt. %0a12,13c12,13%0a%3c # Wir empfehlen für '''Windows''' ''Winamp oder RealOne''%0a%3c # Wir empfehlen für '''Mac''' den ''Quicktime oder RealOne Player''.%0a---%0a> # Wir empfehlen für '''Windows''' 'Winamp oder RealOne'%0a> # Wir empfehlen für '''Mac''' den 'Quicktime oder RealOne Player'.%0a
+host:1773572443=193.5.238.21
+author:1773572399=
+diff:1773572399:1773572368:=4c4%0a%3c kurzen Pause das Fenster des Tonwiedergabegeräts ('Winamp, RealOne, Quicktime') und der Ton beginnt. %0a---%0a> kurzen Pause das Fenster des Tonwiedergabegeräts (Winamp, RealOne, Quicktime) und der Ton beginnt. %0a12,13c12,13%0a%3c # Wir empfehlen für '''Windows''' 'Winamp oder RealOne'%0a%3c # Wir empfehlen für '''Mac''' den 'Quicktime oder RealOne Player'.%0a---%0a> # Wir empfehlen für '''Windows''' Winamp oder RealOne%0a> # Wir empfehlen für '''Mac''' den Quicktime oder RealOne Player.%0a
+host:1773572399=193.5.238.21
+author:1773572368=
+diff:1773572368:1773571083:=4c4%0a%3c kurzen Pause das Fenster des Tonwiedergabegeräts (Winamp, RealOne, Quicktime) und der Ton beginnt. %0a---%0a> kurzen Pause das Fenster des Tonwiedergabegeräts ([[Winamp]], [[RealOne]], [[Quicktime]]) und der Ton beginnt. %0a12,13c12,13%0a%3c # Wir empfehlen für '''Windows''' Winamp oder RealOne%0a%3c # Wir empfehlen für '''Mac''' den Quicktime oder RealOne Player.%0a---%0a> # Wir empfehlen für '''Windows''' [[Winamp]] oder [[RealOne]]%0a> # Wir empfehlen für '''Mac''' den [[Quicktime]] oder [[RealOne]] Player.%0a
+host:1773572368=193.5.238.21
+author:1773571083=
+diff:1773571083:1773571083:=1,14d0%0a%3c ! Anleitung Tonbeispiele%0a%3c Um die Texte neben den Bildern auch hören zu können, klicken Sie auf %0a%3c den jeweiligen Titel (neben dem Lautsprecher). Es erscheint nach einer %0a%3c kurzen Pause das Fenster des Tonwiedergabegeräts ([[Winamp]], [[RealOne]], [[Quicktime]]) und der Ton beginnt. %0a%3c Sofern Sie gleichzeitig zum gesprochenen Text die Schrift lesen und das %0a%3c Bild sehen möchten, klicken Sie auf das entsprechende Fenster, welches %0a%3c nun nach vorne kommt. Zwecks Übersicht empfiehlt es sich nach Beendigung der Wiedergabe das Fenster des Wiedergabegeräts zu schliessen.%0a%3c %0a%3c !! Technische Voraussetzungen zum Hören der Tonbeispiele:%0a%3c # Ihr Computer sollte über eine Soundkarte verfügen%0a%3c # Sie benötigen einen geigneten Mediaplayer. (Auf den meisten heutigen Computern ist bereits ein Mediaplayer installiert)%0a%3c # Wir empfehlen für '''Windows''' [[Winamp]] oder [[RealOne]]%0a%3c # Wir empfehlen für '''Mac''' den [[Quicktime]] oder [[RealOne]] Player.%0a%3c # Ihr Computer muss "wissen" was er mit einer "Tondatei" d.h. einer MP3-Datei anfangen soll.%0a\ No newline at end of file%0a
+host:1773571083=193.5.238.21

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773569376
+host=193.5.238.21
+name=PodCast.Bersetzungen
+rev=2
+targets=PodCast.Styluebige,PodCast.Liebhaber1,PodCast.Liebhaber2,PodCast.Maitli,PodCast.Amor,PodCast.Metamorfoose
+text=! Ubersétzige = Übersetzungen:%0a%0a* [[PodCast/Styluebige]]%0a%0a* [[PodCast/Liebhaber1]]%0a* [[PodCast/Liebhaber2]]%0a* [[PodCast/Maitli]]%0a* [[PodCast/Amor]]%0a%0a* [[PodCast/Metamorfoose]]
+time=1773571670
+author:1773571670=
+diff:1773571670:1773569376:=1c1%0a%3c ! Ubersétzige = Übersetzungen:%0a---%0a> !Ubersétzige = Übersetzungen:%0a
+host:1773571670=193.5.238.21
+author:1773569376=
+diff:1773569376:1773569376:=1,10d0%0a%3c !Ubersétzige = Übersetzungen:%0a%3c %0a%3c * [[PodCast/Styluebige]]%0a%3c %0a%3c * [[PodCast/Liebhaber1]]%0a%3c * [[PodCast/Liebhaber2]]%0a%3c * [[PodCast/Maitli]]%0a%3c * [[PodCast/Amor]]%0a%3c %0a%3c * [[PodCast/Metamorfoose]]%0a\ No newline at end of file%0a
+host:1773569376=193.5.238.21

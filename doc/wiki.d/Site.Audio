@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773574082
+host=193.5.238.21
+name=Site.Audio
+rev=1
+targets=
+text=!Willkommen im Podcast!%0aHier finden Sie viele Aufnahmen, gesprochen von Felix E. Wyss.
+time=1773574082
+author:1773574082=
+diff:1773574082:1773574082:=1,2d0%0a%3c !Willkommen im Podcast!%0a%3c Hier finden Sie viele Aufnahmen, gesprochen von Felix E. Wyss.%0a\ No newline at end of file%0a
+host:1773574082=193.5.238.21

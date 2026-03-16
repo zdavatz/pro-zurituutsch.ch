@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773568873
+host=193.5.238.21
+name=PodCast.BenJoussouf
+rev=2
+targets=PodCast.JBJNaawort,PodCast.JBJ702,PodCast.JBJ701,PodCast.JBJ602,PodCast.JBJ601,PodCast.JBJ502,PodCast.JBJ501,PodCast.JBJ402,PodCast.JBJ401,PodCast.JBJ302,PodCast.JBJ301,PodCast.JBJ202,PodCast.JBJ201,PodCast.JBJKap1,PodCast.JBJInhaltsverzaichnis
+text=!En Roman:%0a%0a!!!Jissài bén Joussouff oder sàchs Judischi Fluchtling Ano 76 i me Boudistische Pilgerhàim verzéled.%0a%0a* (JissàiNaawort)[[PodCast/JBJNaawort]]%0a* (JissàiBénJoussouff7.02)[[PodCast/JBJ7,02]]   %0a* (JissàiBénJoussouff7.01)[[PodCast/JBJ7,01]]                                                                                                                                                                     %0a* (JissàiBénJoussouff6.02)[[PodCast/JBJ6,02]]%0a* (JissàiBénJoussouff6.01)[[PodCast/JBJ6,01]]%0a* (JissàiBénJoussouff5.02)[[PodCast/JBJ5,02]]%0a* (JissàiBénJoussouff5.01)[[PodCast/JBJ5,01]]%0a* (JissàiBénJoussouff4.02)[[PodCast/JBJ4,02]]%0a* (JissàiBénJoussouff4.01)[[PodCast/JBJ4,01]]%0a* (JissàiBénJoussouff3.02)[[PodCast/JBJ3,02]]%0a* (JissàiBénJoussouff3.01)[[PodCast/JBJ3,01]]%0a* (JissàiBénJoussouff2.02)[[PodCast/JBJ2,02]]%0a* (JissàiBénJoussouff2.01)[[PodCast/JBJ2,01]]%0a* (JissàiBénJoussouff1.01)[[PodCast/JBJKap1]]%0a* (Inhaltsverzàichnis)[[PodCast/JBJInhaltsverzaichnis]] %0a%0a
+time=1773571658
+author:1773571658=
+diff:1773571658:1773568873:=1c1%0a%3c !En Roman:%0a---%0a> !en Roman:%0a
+host:1773571658=193.5.238.21
+author:1773568873=
+diff:1773568873:1773568873:=1,20d0%0a%3c !en Roman:%0a%3c %0a%3c !!!Jissài bén Joussouff oder sàchs Judischi Fluchtling Ano 76 i me Boudistische Pilgerhàim verzéled.%0a%3c %0a%3c * (JissàiNaawort)[[PodCast/JBJNaawort]]%0a%3c * (JissàiBénJoussouff7.02)[[PodCast/JBJ7,02]]   %0a%3c * (JissàiBénJoussouff7.01)[[PodCast/JBJ7,01]]                                                                                                                                                                     %0a%3c * (JissàiBénJoussouff6.02)[[PodCast/JBJ6,02]]%0a%3c * (JissàiBénJoussouff6.01)[[PodCast/JBJ6,01]]%0a%3c * (JissàiBénJoussouff5.02)[[PodCast/JBJ5,02]]%0a%3c * (JissàiBénJoussouff5.01)[[PodCast/JBJ5,01]]%0a%3c * (JissàiBénJoussouff4.02)[[PodCast/JBJ4,02]]%0a%3c * (JissàiBénJoussouff4.01)[[PodCast/JBJ4,01]]%0a%3c * (JissàiBénJoussouff3.02)[[PodCast/JBJ3,02]]%0a%3c * (JissàiBénJoussouff3.01)[[PodCast/JBJ3,01]]%0a%3c * (JissàiBénJoussouff2.02)[[PodCast/JBJ2,02]]%0a%3c * (JissàiBénJoussouff2.01)[[PodCast/JBJ2,01]]%0a%3c * (JissàiBénJoussouff1.01)[[PodCast/JBJKap1]]%0a%3c * (Inhaltsverzàichnis)[[PodCast/JBJInhaltsverzaichnis]] %0a%3c %0a
+host:1773568873=193.5.238.21

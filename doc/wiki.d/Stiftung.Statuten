@@ -6,10 +6,28 @@ csum=
 ctime=1773507180
 host=193.5.238.21
 name=Stiftung.Statuten
-rev=3
+rev=9
 targets=
-text=!Stiftung PRO ZURITUUTSCH%0a%0a\%0a %0a!!Statuten%0a%0aDie Stiftung bezweckt die Unterstützung und Förderung literarischer Produktion (eigenständige Werke und Übersetzungen) im Züricher Dialekt. Insbesondere wird die vom Stifter bevorzugte Schreibweise "Zurituutsch" gefördert. Die Förderung kann in verschiedenster Art erfolgen.%0a%0aDurch die Publikation von Dialekttexten soll das "Zurituutsch" der Öffentlichkeit bekannt gemacht werden.%0a%0aSofern keine Texte in der Form des vom Stifter bevorzugten "Zurituutsch" vorliegen, kann die Stiftung auch Autoren und Übersetzer unterstützen und fördern, die Texte in einer anderen Schreibweise und/oder in einem anderen Deutschschweizer Dialekt vorlegen.%0a%0aViele Texte sind im PodCast zu hören, lesen und herunterzuladen. Der PodCast ist open source.%0a%0aAllerhand Texte von Felix Wyss sind in Druckformat im Archiv für Mundartbücher, Elgg gelagert. Kontaktadressen: Dr.Jürg Bleiker, Wannenfeldstr.9, 8005 Frauenfeld oder Thomas Ziegler, Bergstr. 17, 8353 Elgg, Tel.: 052 364 12 51. %0a%0a\\%0a%0a----%0a%0a\%0a %0a!!Stiftungsrat%0a%0aBarbara Wyss Wagnière, Präsidentin%0a%0aHannes Wyss, Stiftungsrat%0a%0aSebastian Wyss, Stiftungsrat%0a%0a
-time=1773509231
+text=Attach:Logo1%0a%0a!Stiftung PRO ZURITUUTSCH%0a%0a\%0a %0a!!Statuten%0a%0aDie Stiftung bezweckt die Unterstützung und Förderung literarischer Produktion (eigenständige Werke und Übersetzungen) im Züricher Dialekt. Insbesondere wird die vom Stifter bevorzugte Schreibweise "Zurituutsch" gefördert. Die Förderung kann in verschiedenster Art erfolgen.%0a%0aDurch die Publikation von Dialekttexten soll das "Zurituutsch" der Öffentlichkeit bekannt gemacht werden.%0a%0aSofern keine Texte in der Form des vom Stifter bevorzugten "Zurituutsch" vorliegen, kann die Stiftung auch Autoren und Übersetzer unterstützen und fördern, die Texte in einer anderen Schreibweise und/oder in einem anderen Deutschschweizer Dialekt vorlegen.%0a%0aViele Texte sind im PodCast zu hören, lesen und herunterzuladen. Der PodCast ist open source.%0a%0aAllerhand Texte von Felix Wyss sind in Druckformat im Archiv für Mundartbücher, Elgg gelagert. Kontaktadressen: Dr.Jürg Bleiker, Wannenfeldstr.9, 8005 Frauenfeld oder Thomas Ziegler, Bergstr. 17, 8353 Elgg, Tel.: 052 364 12 51. %0a%0a\\%0a%0a----%0a%0a\%0a %0a!!Stiftungsrat%0a%0aBarbara Wyss Wagnière, Präsidentin%0a%0aHannes Wyss, Stiftungsrat%0a%0aSebastian Wyss, Stiftungsrat%0a%0a
+time=1773519557
+author:1773519557=
+diff:1773519557:1773519545:=1a2,5%0a> %0a> %25align=right%25 Attach:logo%0a> %0a> %0a
+host:1773519557=193.5.238.21
+author:1773519545=
+diff:1773519545:1773518941:=3c3%0a%3c %25align=right%25 Attach:logo%0a---%0a> %25align=right%25 Attach:logo.jpg%0a
+host:1773519545=193.5.238.21
+author:1773518941=
+diff:1773518941:1773518867:=2,4d1%0a%3c %0a%3c %25align=right%25 Attach:logo.jpg%0a%3c %0a
+host:1773518941=193.5.238.21
+author:1773518867=
+diff:1773518867:1773518848:=1,2c1%0a%3c Attach:Logo1%0a%3c %0a---%0a> Attach:Logo1.png%0a
+host:1773518867=193.5.238.21
+author:1773518848=
+diff:1773518848:1773518805:=1c1%0a%3c Attach:Logo1.png%0a---%0a> Attach:Logo1%0a
+host:1773518848=193.5.238.21
+author:1773518805=
+diff:1773518805:1773509231:=1,2d0%0a%3c Attach:Logo1%0a%3c %0a
+host:1773518805=193.5.238.21
 author:1773509231=
 diff:1773509231:1773509221:=2d1%0a%3c %0a
 host:1773509231=193.5.238.21

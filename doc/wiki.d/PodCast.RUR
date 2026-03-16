@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773569079
+host=193.5.238.21
+name=PodCast.RUR
+rev=2
+targets=PodCast.RURAkt2TIl4,PodCast.RURAkt2TIl3,PodCast.RURAkt2TIl2,PodCast.RURAkt2TIl1,PodCast.RURAkt1TIl5,PodCast.RURAkt1TIl4,PodCast.RURAkt1TIl3,PodCast.RURAkt1Tail2,PodCast.RURAktITail1
+text=!RUR: RAFFYNIS UNIVERSAL–ROBOTER%0a%0aES HEUHRSPYL NACH EME BUUNESTOUCK VOM CAREL CAPEK%0a%0aPRO–ZURITUUTSCH bringt ab Àndi Mèrz 2013 daas science–fiction Drama fréi nach Karel Capek, dèm greuhschte Tschèchische Dichter vom zwànzgischte Jaarhoundert. Im Tuutsche Spraachbérych kànnt me–n am éénschte „Krakatit“ (en proféétische Roman uber t'Atoombombe na vor em zwàite Wàltchriëg) ound „De Chriëg mit de Mèulch“ (e Warnig vor de mànschliche Gyr). Daas Wort „Roboter“ fur kunschtlichi Màntsche erschynt zoum éérschte Maal prèzys i sym Buunestouck „RUR“, wo 1921 ouhrouhfgfuërt worde–n isch, ound wo jétz starch gchurzt ound modèrnisiërt i Zurituutscher Ubersétzig séll i loose Fourtsétzige ouf euïsem Pod–Cast erschyne. Wèr 's wott lose mouë sych ouf Spanig bis zour Béklàmig gfasst mache.%0a%0a%0a%0a* (Raffyni02.04)[[PodCast/RURAkt2Tàil4]]%0a* (Raffyni02.03)[[PodCast/RURAkt2Tàil3]]%0a* (Raffyni02.02)[[PodCast/RURAkt2Tàil2]]%0a* (Raffyni02.01)[[PodCast/RURAkt2Tàil1]]%0a* (Raffyni1.05)[[PodCast/RURAkt1Tàil5]]%0a* (Raffyni1.04)[[PodCast/RURAkt1Tàil4]]%0a* (Raffyni1.03)[[PodCast/RURAkt1Tàil3]]%0a* (Raffyni1.02)[[PodCast/RURAkt1Tail2]]%0a* (Raffyni1.01)[[PodCast/RURAktITail1]]%0a%0a%0a
+time=1773571629
+author:1773571629=
+diff:1773571629:1773569079:=1c1%0a%3c !RUR: RAFFYNIS UNIVERSAL–ROBOTER%0a---%0a> !!RUR: RAFFYNIS UNIVERSAL–ROBOTER%0a
+host:1773571629=193.5.238.21
+author:1773569079=
+diff:1773569079:1773569079:=1,19d0%0a%3c !!RUR: RAFFYNIS UNIVERSAL–ROBOTER%0a%3c %0a%3c ES HEUHRSPYL NACH EME BUUNESTOUCK VOM CAREL CAPEK%0a%3c %0a%3c PRO–ZURITUUTSCH bringt ab Àndi Mèrz 2013 daas science–fiction Drama fréi nach Karel Capek, dèm greuhschte Tschèchische Dichter vom zwànzgischte Jaarhoundert. Im Tuutsche Spraachbérych kànnt me–n am éénschte „Krakatit“ (en proféétische Roman uber t'Atoombombe na vor em zwàite Wàltchriëg) ound „De Chriëg mit de Mèulch“ (e Warnig vor de mànschliche Gyr). Daas Wort „Roboter“ fur kunschtlichi Màntsche erschynt zoum éérschte Maal prèzys i sym Buunestouck „RUR“, wo 1921 ouhrouhfgfuërt worde–n isch, ound wo jétz starch gchurzt ound modèrnisiërt i Zurituutscher Ubersétzig séll i loose Fourtsétzige ouf euïsem Pod–Cast erschyne. Wèr 's wott lose mouë sych ouf Spanig bis zour Béklàmig gfasst mache.%0a%3c %0a%3c %0a%3c %0a%3c * (Raffyni02.04)[[PodCast/RURAkt2Tàil4]]%0a%3c * (Raffyni02.03)[[PodCast/RURAkt2Tàil3]]%0a%3c * (Raffyni02.02)[[PodCast/RURAkt2Tàil2]]%0a%3c * (Raffyni02.01)[[PodCast/RURAkt2Tàil1]]%0a%3c * (Raffyni1.05)[[PodCast/RURAkt1Tàil5]]%0a%3c * (Raffyni1.04)[[PodCast/RURAkt1Tàil4]]%0a%3c * (Raffyni1.03)[[PodCast/RURAkt1Tàil3]]%0a%3c * (Raffyni1.02)[[PodCast/RURAkt1Tail2]]%0a%3c * (Raffyni1.01)[[PodCast/RURAktITail1]]%0a%3c %0a%3c %0a
+host:1773569079=193.5.238.21

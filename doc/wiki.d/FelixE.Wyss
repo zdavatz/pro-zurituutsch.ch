@@ -1,15 +1,51 @@
 version=pmwiki-2.2.84 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 author=
 charset=ISO-8859-1
 csum=
 ctime=1773484113
-host=193.5.238.21
+host=212.51.146.241
 name=FelixE.Wyss
-rev=16
+rev=28
 targets=
-text=!Felix E. Wyss%0a\%0a%0aFelix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a\%0a%0aDie Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. %0a%0aAttach:FEW%0a
-time=1773509294
+text=!Felix E. Wyss und sein Werk%0a\%0a%0aFelix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a\%0a%0aDie Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. %0a%0a%0a%25align=left%25Attach:FEW%0a%0aAttach:zeno.jpeg%0a%0a%0a%0a\\%0a%0a----%0a%0a\\%0a%0a!Konstruktyvkunscht%0a%0a%0a%0aAttach:Ricercare%0a%0aAttach:Augmentation%0a%0aAttach:Spiralen%0a
+time=1773666442
+author:1773666442=
+diff:1773666442:1773666430:=11,12d10%0a%3c %0a%3c Attach:zeno.jpeg%0a
+host:1773666442=212.51.146.241
+author:1773666430=
+diff:1773666430:1773666366:=10,12c10%0a%3c %25align=left%25Attach:FEW%0a%3c %0a%3c %0a---%0a> %25align=left%25Attach:FEW.jpeg%0a
+host:1773666430=212.51.146.241
+author:1773666366=
+diff:1773666366:1773666322:=10c10%0a%3c %25align=left%25Attach:FEW.jpeg%0a---%0a> %25align=right%25Attach:FEW.jpeg%0a
+host:1773666366=212.51.146.241
+author:1773666322=
+diff:1773666322:1773666317:=
+host:1773666322=212.51.146.241
+author:1773666317=
+diff:1773666317:1773666298:=10c10%0a%3c %25align=right%25Attach:FEW.jpeg%0a---%0a> %25align=right%25Attach:FEW%0a
+host:1773666317=212.51.146.241
+author:1773666298=
+diff:1773666298:1773666276:=10c10%0a%3c %25align=right%25Attach:FEW%0a---%0a> %25align=right%25Attach:FEW.jpg%0a
+host:1773666298=212.51.146.241
+author:1773666276=
+diff:1773666276:1773666153:=10c10%0a%3c %25align=right%25Attach:FEW.jpg%0a---%0a> %25align=right%25Attach:FEW%0a
+host:1773666276=212.51.146.241
+author:1773666153=
+diff:1773666153:1773522234:=10c10%0a%3c %25align=right%25Attach:FEW%0a---%0a> Attach:FEW%0a
+host:1773666153=212.51.146.241
+author:1773522234=
+diff:1773522234:1773519397:=1c1%0a%3c !Felix E. Wyss und sein Werk%0a---%0a> !Felix E. Wyss%0a
+host:1773522234=193.5.238.21
+author:1773519397=
+diff:1773519397:1773519293:=9d8%0a%3c %0a12,21d10%0a%3c \\%0a%3c %0a%3c ----%0a%3c %0a%3c \\%0a%3c %0a%3c !Konstruktyvkunscht%0a%3c %0a%3c %0a%3c %0a25,26d13%0a%3c %0a%3c Attach:Spiralen%0a
+host:1773519397=193.5.238.21
+author:1773519293=
+diff:1773519293:1773519209:=12,13d11%0a%3c %0a%3c Attach:Augmentation%0a
+host:1773519293=193.5.238.21
+author:1773519209=
+diff:1773519209:1773509294:=10,11d9%0a%3c %0a%3c Attach:Ricercare%0a
+host:1773519209=193.5.238.21
 author:1773509294=
 diff:1773509294:1773484619:=2c2%0a%3c \%0a---%0a> \\\%0a
 host:1773509294=193.5.238.21

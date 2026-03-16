@@ -1,0 +1,18 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773574266
+host=193.5.238.21
+name=Site.Tonaufnahmen
+rev=2
+targets=PodCast.Gedichte,PodCast.BenJoussouf,PodCast.FrauimSchatte,PodCast.RUR,PodCast.Bersetzungen,PodCast.Glossen,PodCast.Mundartinitiative,PodCast.Rezensionen,PodCast.SprChe,PodCast.A,PodCast.Anleitung,PodCast.IndexPage,Site.PodCast
+text=!Willkommen im Podcast!%0aHier finden Sie viele Aufnahmen, gesprochen von Felix E. Wyss.%0a%0a* [[PodCast/Gedichte]]%0a* [[PodCast/BenJoussouf]]%0a* [[PodCast/FrauimSchatte | Frau im Schatten]]%0a* [[PodCast/RUR]]%0a* [[PodCast/Übersetzungen]]%0a* [[PodCast/Glossen]]%0a* [[PodCast/Mundartinitiative]]%0a* [[PodCast/Rezensionen]]%0a* [[PodCast/Sprüche]]%0a* [[PodCast/A | Diverses]]%0a* [[PodCast/Anleitung | Anleitung Tonbeispiele]]%0a* [[PodCast/IndexPage | Postcastliste]]%0a* [[PodCast | Archiv]]
+time=1773574526
+author:1773574526=
+diff:1773574526:1773574266:=2,16c2%0a%3c Hier finden Sie viele Aufnahmen, gesprochen von Felix E. Wyss.%0a%3c %0a%3c * [[PodCast/Gedichte]]%0a%3c * [[PodCast/BenJoussouf]]%0a%3c * [[PodCast/FrauimSchatte | Frau im Schatten]]%0a%3c * [[PodCast/RUR]]%0a%3c * [[PodCast/Übersetzungen]]%0a%3c * [[PodCast/Glossen]]%0a%3c * [[PodCast/Mundartinitiative]]%0a%3c * [[PodCast/Rezensionen]]%0a%3c * [[PodCast/Sprüche]]%0a%3c * [[PodCast/A | Diverses]]%0a%3c * [[PodCast/Anleitung | Anleitung Tonbeispiele]]%0a%3c * [[PodCast/IndexPage | Postcastliste]]%0a%3c * [[PodCast | Archiv]]%0a\ No newline at end of file%0a---%0a> Hier finden Sie viele Aufnahmen, gesprochen von Felix E. Wyss.%0a\ No newline at end of file%0a
+host:1773574526=193.5.238.21
+author:1773574266=
+diff:1773574266:1773574266:=1,2d0%0a%3c !Willkommen im Podcast!%0a%3c Hier finden Sie viele Aufnahmen, gesprochen von Felix E. Wyss.%0a\ No newline at end of file%0a
+host:1773574266=193.5.238.21

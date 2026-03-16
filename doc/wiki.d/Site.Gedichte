@@ -1,0 +1,27 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773568240
+host=193.5.238.21
+name=Site.Gedichte
+rev=5
+targets=PodCast.Limerick35,PodCast.Limerick34,PodCast.Limerick33,PodCast.Limerick32,PodCast.Limerick31,PodCast.Sidereuhsli,PodCast.Limerick30,PodCast.Limerick29,PodCast.Limerick27,PodCast.Verlaine,PodCast.Parys070115,PodCast.STounkel,PodCast.PrSidNtewaal,PodCast.Sounegsang,PodCast.Fanatiker,PodCast.Bombe
+text=! Gédicht%0a%0a!!!Hèrbschtgédicht%0a%0a* [[PodCast/Limerick 35]]%0a* [[PodCast/Limerick 34]]%0a* [[PodCast/Limerick 33]]%0a* [[PodCast/Limerick 32]]%0a* [[PodCast/Limerick 31]]%0a* [[PodCast/Sidereuhsli]]%0a* [[PodCast/Limerick 30]]%0a* [[PodCast/Limerick 29]]%0a* [[PodCast/Limerick 27]]%0a* [[PodCast/Verlaine]]%0a%0a!!!Limerick 28%0a* [[PodCast/Parys07,01,15]]%0a%0a!!!'S Tounkel%0a* [[PodCast/sTounkel]]%0a%0a!!!Limerick 26%0a* [[PodCast/Prèsidàntewaal]]%0a%0a!!!Sounegsang%0a* [[PodCast/Sounegsang]]%0a%0a!!!Limerick 25%0a* [[PodCast/Fanatiker]]%0a%0a%0a!!!Limerick 24%0a* [[PodCast/Bombe]]%0a
+time=1773568447
+author:1773568447=
+diff:1773568447:1773568264:=4a5%0a> * [[PodCast/Limerick 36B]]%0a
+host:1773568447=193.5.238.21
+author:1773568264=
+diff:1773568264:1773568254:=13a14%0a> %0a14a16%0a> %0a
+host:1773568264=193.5.238.21
+author:1773568254=
+diff:1773568254:1773568248:=1c1%0a%3c ! Gédicht%0a---%0a> !! Gédicht%0a
+host:1773568254=193.5.238.21
+author:1773568248=
+diff:1773568248:1773568240:=1c1%0a%3c !! Gédicht%0a---%0a> !! %25center%25Gédicht%0a
+host:1773568248=193.5.238.21
+author:1773568240=
+diff:1773568240:1773568240:=1,36d0%0a%3c !! %25center%25Gédicht%0a%3c %0a%3c !!!Hèrbschtgédicht%0a%3c %0a%3c * [[PodCast/Limerick 36B]]%0a%3c * [[PodCast/Limerick 35]]%0a%3c * [[PodCast/Limerick 34]]%0a%3c * [[PodCast/Limerick 33]]%0a%3c * [[PodCast/Limerick 32]]%0a%3c * [[PodCast/Limerick 31]]%0a%3c * [[PodCast/Sidereuhsli]]%0a%3c * [[PodCast/Limerick 30]]%0a%3c * [[PodCast/Limerick 29]]%0a%3c %0a%3c * [[PodCast/Limerick 27]]%0a%3c %0a%3c * [[PodCast/Verlaine]]%0a%3c %0a%3c !!!Limerick 28%0a%3c * [[PodCast/Parys07,01,15]]%0a%3c %0a%3c !!!'S Tounkel%0a%3c * [[PodCast/sTounkel]]%0a%3c %0a%3c !!!Limerick 26%0a%3c * [[PodCast/Prèsidàntewaal]]%0a%3c %0a%3c !!!Sounegsang%0a%3c * [[PodCast/Sounegsang]]%0a%3c %0a%3c !!!Limerick 25%0a%3c * [[PodCast/Fanatiker]]%0a%3c %0a%3c %0a%3c !!!Limerick 24%0a%3c * [[PodCast/Bombe]]%0a
+host:1773568240=193.5.238.21

@@ -1,15 +1,18 @@
 version=pmwiki-2.2.84 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
 author=
 charset=ISO-8859-1
 csum=
 ctime=1163052941
-host=178.83.114.200
+host=193.5.238.21
 name=Texte.Metamorphoses
-rev=13
-targets=Hilfe.AnleitungTonbeispiele
-text=! Metamorphoses%0a%0aAttach:Speaker.jpg '''[[http://www.pro-zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3 | Metamorfoose]]''' ''[[Hilfe/AnleitungTonbeispiele]]''%0a%0aAttach:arcimboldo.jpg%0a%0a%25center%25"T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji\\%0a%25center%25Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe\\%0a%25center%25ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang\\%0a%25center%25hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a%0a%0a%0a
-time=1591952758
+rev=14
+targets=PodCast.Anleitung
+text=! Metamorphoses%0a%0aAttach:Speaker.jpg '''[[http://www.pro-zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3 | Metamorfoose]]''' ''[[PodCast/Anleitung]]''%0a%0aAttach:arcimboldo.jpg%0a%0a%25center%25"T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji\\%0a%25center%25Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe\\%0a%25center%25ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang\\%0a%25center%25hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a%0a%0a%0a
+time=1773571178
+author:1773571178=
+diff:1773571178:1591952758:=3c3%0a%3c Attach:Speaker.jpg '''[[http://www.pro-zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3 | Metamorfoose]]''' ''[[PodCast/Anleitung]]''%0a---%0a> Attach:Speaker.jpg '''[[http://www.pro-zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3 | Metamorfoose]]''' ''[[Hilfe/AnleitungTonbeispiele]]''%0a
+host:1773571178=193.5.238.21
 author:1591952758=
 diff:1591952758:1177682932:=0a1,6%0a> [--Page Title: Übersetzung von Ovid's Metamorphosen auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a> [--URL http//www.pro–zurituutsch.ch/PodCast/Metamorfoose + http//www.pro–zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3--],\\%0a> [--Bread Crumb Line: Der integrale Text ist zur Zeit vergriffen.--]\\%0a> [--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche und Übersetzungen auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--],%0a> %0a> %0a
 host:1591952758=178.83.114.200

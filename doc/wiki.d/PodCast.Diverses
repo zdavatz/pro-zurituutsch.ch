@@ -1,0 +1,15 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773680529
+host=193.5.238.21
+name=PodCast.Diverses
+rev=1
+targets=PodCast.Antiikiundanderigschichte,PodCast.Antyki,Tessynfaart.Tessynfaart,PodCast.Wistaria01,PodCast.Wistaria02,PodCast.Wienechtsgschicht,PodCast.Apvantyv
+text=!Alfred Vogel%0a%0a* [[PodCast/antiikiundanderigschichte]]%0a* [[PodCast/antyki]]%0a%0a!Gschichte%0a%0a* [[Tessynfaart]]%0a* (Wistariasinensis01)[[PodCast/Wistaria01]]%0a* (Wistariasinensis02)[[PodCast/Wistaria02]]%0a* [[PodCast/Wienechtsgschicht]]%0a%0a!Gramatik%0a%0a* (Apvàntyv)[[PodCast/Apvantyv]]
+time=1773680529
+author:1773680529=
+diff:1773680529:1773680529:=1,15d0%0a%3c !Alfred Vogel%0a%3c %0a%3c * [[PodCast/antiikiundanderigschichte]]%0a%3c * [[PodCast/antyki]]%0a%3c %0a%3c !Gschichte%0a%3c %0a%3c * [[Tessynfaart]]%0a%3c * (Wistariasinensis01)[[PodCast/Wistaria01]]%0a%3c * (Wistariasinensis02)[[PodCast/Wistaria02]]%0a%3c * [[PodCast/Wienechtsgschicht]]%0a%3c %0a%3c !Gramatik%0a%3c %0a%3c * (Apvàntyv)[[PodCast/Apvantyv]]%0a\ No newline at end of file%0a
+host:1773680529=193.5.238.21

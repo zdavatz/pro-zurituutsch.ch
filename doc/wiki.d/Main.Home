@@ -1,15 +1,150 @@
 version=pmwiki-2.2.84 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
 author=
 charset=ISO-8859-1
 csum=
 ctime=1163036267
-host=212.51.146.241
+host=193.5.238.21
 name=Main.Home
-rev=312
-targets=FelixE.Wyss,Stiftung.Projekte,PodCast.IndexPage,PodCast.Gedichte,PodCast.BenJoussouf,PodCast.FrauimSchatte,PodCast.RUR,PodCast.Bersetzungen,PodCast.Glossen,PodCast.Mundartinitiative,PodCast.Rezensionen,PodCast.SprChe,PodCast.A,PodCast.Anleitung,PodCast.PodCast,Texte.Limericks,Texte.Metamorphoses,Texte.Styluebige,Texte.ArsAmatoria,Texte.RUR,Texte.CHAaron,Texte.Miniaturen,Texte.HaltinersPredigt,Texte.Bitterbeuhsi,Texte.Rezension,Texte.Schrybwys
-text=%25align=right%25 Attach:logo.jpg%0a%0a\\%0a%0a--> [++++GRUEZI – SALI – TSCHAW++++]%0a%0a---> [++++HALOO – WILLKOUMM!++++]%0a%0a\\\%0a%0a[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] %0a%0a[++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]%0a%0a[++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]%0a%0a\\%0a%0a----%0a%0a\%0a%0a!Das Werk von Felix E. Wyss%0a\%0a%0a!!Zürichdeutsch hören%0a%0a\%0a%0aEine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im '''[[PodCast/IndexPage | PodCast]]''', steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a%0a* [[PodCast/Gedichte]]%0a* [[PodCast/BenJoussouf]]%0a* [[PodCast/FrauimSchatte | Frau im Schatten]]%0a* [[PodCast/RUR]]%0a* [[PodCast/Übersetzungen]]%0a* [[PodCast/Glossen]]%0a* [[PodCast/Mundartinitiative]]%0a* [[PodCast/Rezensionen]]%0a* [[PodCast/Sprüche]]%0a* [[PodCast/A | Diverses]]%0a* [[PodCast/Anleitung | Anleitung Tonbeispiele]]%0a* [[PodCast/IndexPage | Postcastliste]]%0a* [[PodCast | Archiv]]%0a%0a\%0a%0a!!Zürichdeutsch lesen%0a%0a\%0a%0aFelix E. Wyss hat eine beachtliche Zahl an Texten verfasst: Übersetzungen aus dem Lateinischen und Französischen, eigene Romane, Kurzgeschichten, Streitgespräche, Essays und Gedichte. In dieser vielseitigen Sammlung gibt es einiges zu entdecken.%0a%0a* [[Texte/Limericks]]%0a* [[Texte/Metamorphoses]]%0a* [[Texte/Styluebige]]%0a* [[Texte/Ars Amatoria]]%0a* [[Texte/RUR]]%0a* [[Texte/CH Aaron]]%0a* [[Texte/Miniaturen]]%0a* [[Texte/Haltiners Predigt]]%0a* [[Texte/Bitterbeuhsi]] %0a* [[Texte/Rezension]]%0a\%0a%0a!!Lautnahe Schreibweise%0a%0a\%0a%0aFelix E. Wyss entwickelte eine eigene lautnahe [[Texte/Schrybwys | Schreibweise]], um dem Klang des Zürichdeutschen besser gerecht zu werden. Nach einer kleinen, aber lohnenden Anfangsangstrengung eröffnet sich eine eigene Welt.%0aAls kleine Anleitung für die interessierten Leser*innen: Die Vokale werden wie im Französischen gelesen.%0a%0a-> ou als Hochdeutsch u%0a-> u als ü%0a-> eu als ö%0a-> à als ä%0a%0aEigentlich ganz einfach, oder? %0aFalls Sie es gerne noch etwas bequemer haben, können Sie viele der Texte auf unserer Webseite auch akustisch geniessen.%0aViel Vergnügen beim Lesen und Hören! %0a%0a\%0a%0a----%0a%0a\%0a%0a!!Adresse%0aPRO–ZURITUUTSCH/c/o Barbara Wyss, Winzerstrasse 92, 8408 Winterthur%0a%0a!!Zweck%0aSTIFTUNG ZUR FÖRDERUNG ZÜRICHDEUTSCHER LITERATUR, ZÜRICHDEUTSCH, SCHWEIZER MUNDART%0a%0a!!Keywords%0aSchweizerdeutsch, Schweizer–Deutsch, Schwyzertuutsch, Schwiizerdutsch, schweizerdeutsch, Mundart, Dialekt, Zürichdeutsch, Zürich–Deutsch, Zurituutsch, Züri–tuutsch, Züridütsch, Zürcher Dialekt, Literatur, lesen, Audio, hören%0a%0a!!Beschreibung %0aStiftung zur Förderung Zürichdeutscher Literatur, Informationen zur Zielsetzung und Tätigkeit der Stiftung. Hinweise auf Zürichdeutsche Gedichte, Kurzgeschichten, Glossen, Romane, etc. mit Audio–Beispielen, Information zu einer lautnahen Mundartschreibweise.
-time=1773665896
+rev=357
+targets=FelixE.Wyss,Stiftung.Projekte,PodCast.Willkommen,Texte.Willkommen,Texte.Schrybwys
+text=%25clear%25 Attach:Tschaw.jpeg%0a%0a[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] %0a%0a[++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]%0a%0a[++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]%0a%0a\\%0a%0a----%0a%0a\%0a%0a!Das Werk von Felix E. Wyss%0a\%0a%0a!!Zürichdeutsch hören%0a%0a\%0a%0aEine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im [[PodCast/Willkommen | PodCast]], steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a%0a\%0a%0a!!Zürichdeutsch lesen%0a%0a\%0a%0aFelix E. Wyss hat eine beachtliche Zahl an [[Texte/Willkommen | Texten]] verfasst: Übersetzungen aus dem Lateinischen und Französischen, eigene Romane, Kurzgeschichten, Streitgespräche, Essays und Gedichte. In dieser vielseitigen Sammlung gibt es einiges zu entdecken.%0a%0a\%0a%0a!!Lautnahe Schreibweise%0a%0a\%0a%0aFelix E. Wyss entwickelte eine eigene lautnahe [[Texte/Schrybwys | Schreibweise]], um dem Klang des Zürichdeutschen besser gerecht zu werden. Nach einer kleinen, aber lohnenden Anfangsangstrengung eröffnet sich eine eigene Welt.%0aAls kleine Anleitung für die interessierten Leser*innen: Die Vokale werden wie im Französischen gelesen.%0a%0a-> ou als Hochdeutsch u%0a-> u als ü%0a-> eu als ö%0a-> à als ä%0a%0aEigentlich ganz einfach, oder? %0aFalls Sie es gerne noch etwas bequemer haben, können Sie viele der Texte auf unserer Webseite auch akustisch geniessen.%0aViel Vergnügen beim Lesen und Hören! %0a%0a\%0a%0a----%0a%0a\%0a%0a!!Adresse%0aPRO–ZURITUUTSCH/c/o Barbara Wyss, Winzerstrasse 92, 8408 Winterthur%0a%0a!!Zweck%0aSTIFTUNG ZUR FÖRDERUNG ZÜRICHDEUTSCHER LITERATUR, ZÜRICHDEUTSCH, SCHWEIZER MUNDART%0a%0a!!Keywords%0aSchweizerdeutsch, Schweizer–Deutsch, Schwyzertuutsch, Schwiizerdutsch, schweizerdeutsch, Mundart, Dialekt, Zürichdeutsch, Zürich–Deutsch, Zurituutsch, Züri–tuutsch, Züridütsch, Zürcher Dialekt, Literatur, lesen, Audio, hören%0a%0a!!Beschreibung %0aStiftung zur Förderung Zürichdeutscher Literatur, Informationen zur Zielsetzung und Tätigkeit der Stiftung. Hinweise auf Zürichdeutsche Gedichte, Kurzgeschichten, Glossen, Romane, etc. mit Audio–Beispielen, Information zu einer lautnahen Mundartschreibweise.
+time=1773694746
+author:1773694746=
+diff:1773694746:1773693924:=1c1,10%0a%3c %25clear%25 Attach:Tschaw.jpeg%0a---%0a> %25align=left%25 Attach:Tschaw.jpeg%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> %0a> \\\%0a> %0a> \%0a
+host:1773694746=193.5.238.21
+author:1773693924=
+diff:1773693924:1773693918:=1c1%0a%3c %25align=left%25 Attach:Tschaw.jpeg%0a---%0a> %25align=left%25 Attach:Tschaw.jpeg | 300px%0a
+host:1773693924=193.5.238.21
+author:1773693918=
+diff:1773693918:1773693910:=1c1%0a%3c %25align=left%25 Attach:Tschaw.jpeg | 300px%0a---%0a> %25align=left%25 Attach:Tschaw.jpeg|300px%0a
+host:1773693918=193.5.238.21
+author:1773693910=
+diff:1773693910:1773693886:=1c1%0a%3c %25align=left%25 Attach:Tschaw.jpeg|300px%0a---%0a> %25align=left%25 Attach:Tschaw.jpeg 300px%0a
+host:1773693910=193.5.238.21
+author:1773693886=
+diff:1773693886:1773693021:=1c1%0a%3c %25align=left%25 Attach:Tschaw.jpeg 300px%0a---%0a> %25align=left%25 Attach:Tschaw.jpeg%0a
+host:1773693886=193.5.238.21
+author:1773693021=
+diff:1773693021:1773693010:=5c5%0a%3c \\\%0a---%0a> \%0a
+host:1773693021=193.5.238.21
+author:1773693010=
+diff:1773693010:1773692997:=6a7,9%0a> --->'''[+++++Pro-Zurituutsch sàit:+++++]'''%0a> %0a> --->'''[+++++GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !+++++]'''%0a
+host:1773693010=193.5.238.21
+author:1773692997=
+diff:1773692997:1773692008:=1c1%0a%3c %25align=left%25 Attach:Tschaw.jpeg%0a---%0a> %25align=left%25 Attach:Lowe.jpeg%0a
+host:1773692997=193.5.238.21
+author:1773692008=
+diff:1773692008:1773691991:=7,9c7,9%0a%3c --->'''[+++++Pro-Zurituutsch sàit:+++++]'''%0a%3c %0a%3c --->'''[+++++GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !+++++]'''%0a---%0a> ->'''[+++++Pro-Zurituutsch sàit:+++++]'''%0a> %0a> ->'''[+++++GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !+++++]'''%0a
+host:1773692008=193.5.238.21
+author:1773691991=
+diff:1773691991:1773691971:=7,9c7,9%0a%3c ->'''[+++++Pro-Zurituutsch sàit:+++++]'''%0a%3c %0a%3c ->'''[+++++GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !+++++]'''%0a---%0a>  '''[+++++Pro-Zurituutsch sàit:+++++]'''%0a> %0a>  '''[+++++GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !+++++]'''%0a
+host:1773691991=193.5.238.21
+author:1773691971=
+diff:1773691971:1773691947:=7,9c7,9%0a%3c  '''[+++++Pro-Zurituutsch sàit:+++++]'''%0a%3c %0a%3c  '''[+++++GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !+++++]'''%0a---%0a> '''[+++++Pro-Zurituutsch sàit:+++++]'''%0a> %0a> '''[+++++GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !+++++]'''%0a
+host:1773691971=193.5.238.21
+author:1773691947=
+diff:1773691947:1773691896:=7,9c7%0a%3c '''[+++++Pro-Zurituutsch sàit:+++++]'''%0a%3c %0a%3c '''[+++++GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !+++++]'''%0a---%0a> '''[++++++Pro-Zurituutsch sàit: GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !++++++]'''%0a
+host:1773691947=193.5.238.21
+author:1773691896=
+diff:1773691896:1773691873:=7c7%0a%3c '''[++++++Pro-Zurituutsch sàit: GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !++++++]'''%0a---%0a> '''[++++Pro-Zurituutsch sàit: GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !++++]'''%0a
+host:1773691896=193.5.238.21
+author:1773691873=
+diff:1773691873:1773691854:=5,6d4%0a%3c \%0a%3c %0a10,11d7%0a%3c %0a%3c \%0a
+host:1773691873=193.5.238.21
+author:1773691854=
+diff:1773691854:1773691757:=3,4c3,4%0a%3c \\\%0a%3c %0a---%0a> %0a> %0a6,7d5%0a%3c %0a%3c \\\%0a
+host:1773691854=193.5.238.21
+author:1773691757=
+diff:1773691757:1773691737:=3c3,5%0a%3c %0a---%0a> \\\%0a> %0a> \\\%0a
+host:1773691757=193.5.238.21
+author:1773691737=
+diff:1773691737:1773691722:=2,3d1%0a%3c %0a%3c \\\%0a
+host:1773691737=193.5.238.21
+author:1773691722=
+diff:1773691722:1773691612:=1,3c1,3%0a%3c %25align=left%25 Attach:Lowe.jpeg%0a%3c %0a%3c \\\%0a---%0a> %25align=right%25 Attach:Lowe.jpeg%0a> %0a> \%0a
+host:1773691722=193.5.238.21
+author:1773691612=
+diff:1773691612:1773691455:=3,5c3%0a%3c \%0a%3c %0a%3c '''[++++Pro-Zurituutsch sàit: GRUEZI – SALI – TSCHAW – HALOO – WILLKOUMM !++++]'''%0a---%0a> \\\%0a
+host:1773691612=193.5.238.21
+author:1773691455=
+diff:1773691455:1773691388:=1a2,3%0a> %0a> Attach:Tschaw.jpeg%0a
+host:1773691455=193.5.238.21
+author:1773691388=
+diff:1773691388:1773691341:=1,3c1,3%0a%3c %25align=right%25 Attach:Lowe.jpeg%0a%3c %0a%3c Attach:Tschaw.jpeg%0a---%0a> %25align=left%25 Attach:Lowe.jpeg%0a> %0a> %25center%25 Attach:Tschaw.jpeg%0a
+host:1773691388=193.5.238.21
+author:1773691341=
+diff:1773691341:1773691322:=5a6,7%0a> %0a> \%0a
+host:1773691341=193.5.238.21
+author:1773691322=
+diff:1773691322:1773691315:=7c7%0a%3c \%0a---%0a> \\\%0a
+host:1773691322=193.5.238.21
+author:1773691315=
+diff:1773691315:1773691307:=7c7%0a%3c \\\%0a---%0a> \\\\\\\\\%0a
+host:1773691315=193.5.238.21
+author:1773691307=
+diff:1773691307:1773691299:=5c5%0a%3c \\\%0a---%0a> \\\\\%0a
+host:1773691307=193.5.238.21
+author:1773691299=
+diff:1773691299:1773691276:=3,5c3,4%0a%3c %25center%25 Attach:Tschaw.jpeg%0a%3c %0a%3c \\\\\%0a---%0a> %25align=right%25 Attach:Tschaw.jpeg%0a> %0a
+host:1773691299=193.5.238.21
+author:1773691276=
+diff:1773691276:1773691252:=4,6d3%0a%3c %0a%3c %0a%3c \\\\\\\\\%0a
+host:1773691276=193.5.238.21
+author:1773691252=
+diff:1773691252:1773691208:=1,3c1,3%0a%3c %25align=left%25 Attach:Lowe.jpeg%0a%3c %0a%3c %25align=right%25 Attach:Tschaw.jpeg%0a---%0a> %25align=right%25 Attach:Lowe.jpeg%0a> %0a> Attach:Tschaw.jpeg%0a
+host:1773691252=193.5.238.21
+author:1773691208=
+diff:1773691208:1773691189:=1,2d0%0a%3c %25align=right%25 Attach:Lowe.jpeg%0a%3c %0a3a2,4%0a> %0a> %25align=right%25 Attach:Lowe.jpeg%0a> %0a
+host:1773691208=193.5.238.21
+author:1773691189=
+diff:1773691189:1773691180:=4a5,7%0a> \\\\%0a> %0a> \\\\\%0a
+host:1773691189=193.5.238.21
+author:1773691180=
+diff:1773691180:1773691167:=5a6,9%0a> %0a> --> [++++GRUEZI – SALI – TSCHAW++++]%0a> %0a> ---> [++++HALOO – WILLKOUMM!++++]%0a
+host:1773691180=193.5.238.21
+author:1773691167=
+diff:1773691167:1773690522:=1,2d0%0a%3c Attach:Tschaw.jpeg%0a%3c %0a
+host:1773691167=193.5.238.21
+author:1773690522=
+diff:1773690522:1773679133:=1c1%0a%3c %25align=right%25 Attach:Lowe.jpeg%0a---%0a> %25align=left%25 Attach:Lowe.jpeg%0a
+host:1773690522=193.5.238.21
+author:1773679133=
+diff:1773679133:1773678653:=1c1%0a%3c %25align=left%25 Attach:Lowe.jpeg%0a---%0a> %25align=right%25 Attach:Lowe.jpeg%0a
+host:1773679133=193.5.238.21
+author:1773678653=
+diff:1773678653:1773678574:=39a40,49%0a> * [[Texte/Limericks]]%0a> * [[Texte/Metamorphoses]]%0a> * [[Texte/Styluebige]]%0a> * [[Texte/Ars Amatoria]]%0a> * [[Texte/RUR]]%0a> * [[Texte/CH Aaron]]%0a> * [[Texte/Miniaturen]]%0a> * [[Texte/Haltiners Predigt]]%0a> * [[Texte/Bitterbeuhsi]] %0a> * [[Texte/Rezension]]%0a
+host:1773678653=193.5.238.21
+author:1773678574=
+diff:1773678574:1773678443:=30,31c30,31%0a%3c Eine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im [[PodCast/Willkommen | PodCast]], steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a%3c %0a---%0a> Eine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im '''[[PodCast/Willkommen | PodCast]]''', steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a> %0a38c38%0a%3c Felix E. Wyss hat eine beachtliche Zahl an [[Texte/Willkommen | Texten]] verfasst: Übersetzungen aus dem Lateinischen und Französischen, eigene Romane, Kurzgeschichten, Streitgespräche, Essays und Gedichte. In dieser vielseitigen Sammlung gibt es einiges zu entdecken.%0a---%0a> Felix E. Wyss hat eine beachtliche Zahl an Texten verfasst: Übersetzungen aus dem Lateinischen und Französischen, eigene Romane, Kurzgeschichten, Streitgespräche, Essays und Gedichte. In dieser vielseitigen Sammlung gibt es einiges zu entdecken.%0a
+host:1773678574=193.5.238.21
+author:1773678443=
+diff:1773678443:1773678397:=30a31,44%0a> %0a> * [[PodCast/Gedichte]]%0a> * [[PodCast/BenJoussouf]]%0a> * [[PodCast/FrauimSchatte | Frau im Schatten]]%0a> * [[PodCast/RUR]]%0a> * [[PodCast/Übersetzungen]]%0a> * [[PodCast/Glossen]]%0a> * [[PodCast/Mundartinitiative]]%0a> * [[PodCast/Rezensionen]]%0a> * [[PodCast/Sprüche]]%0a> * [[PodCast/A | Diverses]]%0a> * [[PodCast/Anleitung | Anleitung Tonbeispiele]]%0a> * [[PodCast/IndexPage | Postcastliste]]%0a> * [[PodCast | Archiv]]%0a
+host:1773678443=193.5.238.21
+author:1773678397=
+diff:1773678397:1773677326:=30c30%0a%3c Eine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im '''[[PodCast/Willkommen | PodCast]]''', steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a---%0a> Eine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im '''[[PodCast/IndexPage | PodCast]]''', steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a
+host:1773678397=193.5.238.21
+author:1773677326=
+diff:1773677326:1773677304:=3,4c3,4%0a%3c \\\\%0a%3c %0a---%0a> \\\%0a> %0a9c9%0a%3c \\\\\%0a---%0a> \\\\%0a
+host:1773677326=193.5.238.21
+author:1773677304=
+diff:1773677304:1773677121:=3,4c3,4%0a%3c \\\%0a%3c %0a---%0a> \\%0a> %0a9c9%0a%3c \\\\%0a---%0a> \\\%0a
+host:1773677304=193.5.238.21
+author:1773677121=
+diff:1773677121:1773676994:=1,2c1,5%0a%3c %25align=right%25 Attach:Lowe.jpeg%0a%3c %0a---%0a> %25align=right%25 Attach:logo.jpg%0a> %0a> %0a> %25align=right%25 Attach:Logo1.jpeg%0a> %0a17a21,23%0a> %0a> %25align=right%25 Attach:Lowe.jpeg%0a> %0a
+host:1773677121=193.5.238.21
+author:1773676994=
+diff:1773676994:1773676922:=21,23d20%0a%3c %0a%3c %25align=right%25 Attach:Lowe.jpeg%0a%3c %0a
+host:1773676994=193.5.238.21
+author:1773676922=
+diff:1773676922:1773676891:=4c4%0a%3c %25align=right%25 Attach:Logo1.jpeg%0a---%0a> %25align=right%25 Attach:logo1.jpeg%0a
+host:1773676922=193.5.238.21
+author:1773676891=
+diff:1773676891:1773676879:=4c4%0a%3c %25align=right%25 Attach:logo1.jpeg%0a---%0a> %25align=right%25 Attach:logo1.jpg%0a
+host:1773676891=193.5.238.21
+author:1773676879=
+diff:1773676879:1773665896:=2,4d1%0a%3c %0a%3c %0a%3c %25align=right%25 Attach:logo1.jpg%0a
+host:1773676879=193.5.238.21
 author:1773665896=
 diff:1773665896:1773575049:=30c30%0a%3c Eine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im '''[[PodCast/IndexPage | PodCast]]''', steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a---%0a> Eine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im '''PodCast''', steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a
 host:1773665896=212.51.146.241

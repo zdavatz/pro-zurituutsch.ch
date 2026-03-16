@@ -1,9 +1,9 @@
 version=pmwiki-2.2.84 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
 charset=ISO-8859-1
 ctime=1773484113
-host=212.51.146.241
+host=193.5.238.21
 name=FelixE.RecentChanges
-rev=28
-text=* [[FelixE/Wyss]]  . . . 16.03.2026 14:07 Uhr von ?: [==]%0a
-time=1773666442
+rev=90
+text=* [[FelixE/Wyss]]  . . . 16.03.2026 21:55 Uhr von ?: [==]%0a
+time=1773694515

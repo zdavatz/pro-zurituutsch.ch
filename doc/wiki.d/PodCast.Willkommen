@@ -1,0 +1,24 @@
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1773678363
+host=193.5.238.21
+name=PodCast.Willkommen
+rev=4
+targets=PodCast.Gedichte,PodCast.BenJoussouf,PodCast.FrauimSchatte,PodCast.RUR,PodCast.Bersetzungen,PodCast.Glossen,PodCast.Mundartinitiative,PodCast.Rezensionen,PodCast.SprChe,PodCast.Miniature,PodCast.Abderhalde,PodCast.A,PodCast.Anleitung,PodCast.IndexPage
+text=Willkommen in der Podcastübersicht!%0a%0a* [[PodCast/Gedichte]]%0a* [[PodCast/BenJoussouf]]%0a* [[PodCast/FrauimSchatte | Frau im Schatten]]%0a* [[PodCast/RUR]]%0a* [[PodCast/Übersetzungen]]%0a* [[PodCast/Glossen]]%0a* [[PodCast/Mundartinitiative]]%0a* [[PodCast/Rezensionen]]%0a* [[PodCast/Sprüche]]%0a* [[PodCast/Miniature]]%0a* [[PodCast/Abderhalde]]%0a* [[PodCast/A | Diverses]]%0a* [[PodCast/Anleitung | Anleitung Tonbeispiele]]%0a* [[PodCast/IndexPage | Postcastliste]]%0a
+time=1773680463
+author:1773680463=
+diff:1773680463:1773680446:=16a17%0a> * [[PodCast | Archiv]]%0a\ No newline at end of file%0a
+host:1773680463=193.5.238.21
+author:1773680446=
+diff:1773680446:1773678464:=12,13d11%0a%3c * [[PodCast/Miniature]]%0a%3c * [[PodCast/Abderhalde]]%0a17c15%0a%3c * [[PodCast | Archiv]]%0a\ No newline at end of file%0a---%0a> * [[PodCast | Archiv]]%0a
+host:1773680446=193.5.238.21
+author:1773678464=
+diff:1773678464:1773678363:=1,15c1%0a%3c Willkommen in der Podcastübersicht!%0a%3c %0a%3c * [[PodCast/Gedichte]]%0a%3c * [[PodCast/BenJoussouf]]%0a%3c * [[PodCast/FrauimSchatte | Frau im Schatten]]%0a%3c * [[PodCast/RUR]]%0a%3c * [[PodCast/Übersetzungen]]%0a%3c * [[PodCast/Glossen]]%0a%3c * [[PodCast/Mundartinitiative]]%0a%3c * [[PodCast/Rezensionen]]%0a%3c * [[PodCast/Sprüche]]%0a%3c * [[PodCast/A | Diverses]]%0a%3c * [[PodCast/Anleitung | Anleitung Tonbeispiele]]%0a%3c * [[PodCast/IndexPage | Postcastliste]]%0a%3c * [[PodCast | Archiv]]%0a---%0a> Willkommen im Podcast!%0a\ No newline at end of file%0a
+host:1773678464=193.5.238.21
+author:1773678363=
+diff:1773678363:1773678363:=1d0%0a%3c Willkommen im Podcast!%0a\ No newline at end of file%0a
+host:1773678363=193.5.238.21

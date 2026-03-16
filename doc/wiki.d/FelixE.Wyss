@@ -1,15 +1,201 @@
 version=pmwiki-2.2.84 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
 author=
 charset=ISO-8859-1
 csum=
 ctime=1773484113
-host=212.51.146.241
+host=193.5.238.21
 name=FelixE.Wyss
-rev=28
+rev=90
 targets=
-text=!Felix E. Wyss und sein Werk%0a\%0a%0aFelix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a\%0a%0aDie Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. %0a%0a%0a%25align=left%25Attach:FEW%0a%0aAttach:zeno.jpeg%0a%0a%0a%0a\\%0a%0a----%0a%0a\\%0a%0a!Konstruktyvkunscht%0a%0a%0a%0aAttach:Ricercare%0a%0aAttach:Augmentation%0a%0aAttach:Spiralen%0a
-time=1773666442
+text=!Felix E. Wyss und sein Werk%0a%0a\\%0a%0a%25clear%25Attach:FEW2.jpeg%0a%0aFelix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a%0a\%0a%0aDie Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. %0a%0a%0a----%0a%0a\%0a%0a!Konstruktyvkunscht%0a%0a\\%0a%0a||border=0 %0a||!Attach:Ricercare.jpeg||Ricercare, Felix E. Wyss||%0a||!Attach:Augmentation.jpeg||Variationen: Augmentation, Felix E. Wyss||%0a||!Attach:Spiralen.jpeg||Spiralen in Terzen, Felix E. Wyss||%0a%0a
+time=1773694515
+author:1773694515=
+diff:1773694515:1773694470:=25c25,76%0a%3c ||!Attach:Spiralen.jpeg||Spiralen in Terzen, Felix E. Wyss||%0a---%0a> %0a> %0a> Variationen: Augmentation, Felix E. Wyss%0a> %0a> %25align=left%25Attach:Augmentation.jpeg%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> Spiralen in Terzen, Felix E. Wyss%0a> %0a> %25align=left%25Attach:Spiralen.jpeg%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\%0a> %0a> \\%0a> %0a
+host:1773694515=193.5.238.21
+author:1773694470=
+diff:1773694470:1773694429:=24,30c24,47%0a%3c ||!Attach:Augmentation.jpeg||Variationen: Augmentation, Felix E. Wyss||%0a%3c %0a%3c %0a%3c Variationen: Augmentation, Felix E. Wyss%0a%3c %0a%3c %25align=left%25Attach:Augmentation.jpeg%0a%3c %0a---%0a> %0a> Ricercare, Felix E. Wyss%0a> %0a> %25align=left%25Attach:Ricercare.jpeg%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\%0a
+host:1773694470=193.5.238.21
+author:1773694429=
+diff:1773694429:1773694405:=23c23%0a%3c ||!Attach:Ricercare.jpeg||Ricercare, Felix E. Wyss||%0a---%0a> ||!Attach:Ricercare.jpeg||!Überschrift||!Beispiel||%0a
+host:1773694429=193.5.238.21
+author:1773694405=
+diff:1773694405:1773694389:=22c22%0a%3c ||border=0 %0a---%0a> ||border=1 width=50%25%0a
+host:1773694405=193.5.238.21
+author:1773694389=
+diff:1773694389:1773694093:=21,23d20%0a%3c %0a%3c ||border=1 width=50%25%0a%3c ||!Attach:Ricercare.jpeg||!Überschrift||!Beispiel||%0a
+host:1773694389=193.5.238.21
+author:1773694093=
+diff:1773694093:1773694077:=20a21,28%0a> %0a> ||border=0%0a> %0a> || Attach:Ricercare.jpeg | %0a> %0a> Ricercare, Felix E. Wyss%0a> %0a> ||%0a
+host:1773694093=193.5.238.21
+author:1773694077=
+diff:1773694077:1773694055:=23d22%0a%3c %0a25d23%0a%3c %0a27d24%0a%3c %0a
+host:1773694077=193.5.238.21
+author:1773694055=
+diff:1773694055:1773693832:=21,25d20%0a%3c %0a%3c ||border=0%0a%3c || Attach:Ricercare.jpeg | %0a%3c Ricercare, Felix E. Wyss%0a%3c ||%0a
+host:1773694055=193.5.238.21
+author:1773693832=
+diff:1773693832:1773693477:=5c5,19%0a%3c %25clear%25Attach:FEW2.jpeg%0a---%0a> %25align=left%25Attach:FEW2.jpeg%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \%0a
+host:1773693832=193.5.238.21
+author:1773693477=
+diff:1773693477:1773693466:=18,19d17%0a%3c %0a%3c \%0a
+host:1773693477=193.5.238.21
+author:1773693466=
+diff:1773693466:1773693459:=17c17%0a%3c \\\%0a---%0a> \%0a
+host:1773693466=193.5.238.21
+author:1773693459=
+diff:1773693459:1773693434:=13,15c13%0a%3c \\\%0a%3c %0a%3c \\\%0a---%0a> \\%0a
+host:1773693459=193.5.238.21
+author:1773693434=
+diff:1773693434:1773693412:=7,14d6%0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a%3c \\%0a%3c %0a22a15,21%0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\%0a
+host:1773693434=193.5.238.21
+author:1773693412=
+diff:1773693412:1773693403:=20,21d19%0a%3c %0a%3c \\%0a
+host:1773693412=193.5.238.21
+author:1773693403=
+diff:1773693403:1773693379:=14,17d13%0a%3c %0a%3c \\\%0a%3c %0a%3c \\\%0a
+host:1773693403=193.5.238.21
+author:1773693379=
+diff:1773693379:1773690726:=9,13c9,22%0a%3c Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a%3c %0a%3c \%0a%3c %0a%3c Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. %0a---%0a> Felix Emanuel Wyss (1935 - 2023), %0a> %0a> der Gründer der Stiftung PRO ZURITUUTSCH, %0a> %0a> war Arzt und Psychotherapeut, Kunstmaler %0a> %0a> und Verfasser zahlreicher Zürichdeutscher Texte.%0a> %0a> \\%0a> %0a> %0a> Die Audioaufnahmen auf dieser Webseite %0a> %0a> sind von Felix E. Wyss gesprochen. %0a
+host:1773693379=193.5.238.21
+author:1773690726=
+diff:1773690726:1773690686:=56c56%0a%3c \\%0a---%0a> \\\%0a
+host:1773690726=193.5.238.21
+author:1773690686=
+diff:1773690686:1773690631:=58,59d57%0a%3c Variationen: Augmentation, Felix E. Wyss%0a%3c %0a71a70,71%0a> \\%0a> %0a78,85c78,80%0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a%3c Spiralen in Terzen, Felix E. Wyss%0a%3c %0a%3c %25align=left%25Attach:Spiralen.jpeg%0a%3c %0a---%0a> %0a> Variationen: Augmentation, Felix E. Wyss%0a> %0a87a83,84%0a> %25align=left%25Attach:Spiralen.jpeg%0a> %0a97a95,96%0a> \\%0a> %0a104c103%0a%3c \\%0a---%0a> Spiralen in Terzen, Felix E. Wyss%0a
+host:1773690686=193.5.238.21
+author:1773690631=
+diff:1773690631:1773690613:=52,54c52,54%0a%3c \\\%0a%3c %0a%3c \\\%0a---%0a> \\%0a> %0a> \\%0a
+host:1773690631=193.5.238.21
+author:1773690613=
+diff:1773690613:1773690592:=56c56,59%0a%3c \\\%0a---%0a> %0a> %0a> %0a> \\%0a
+host:1773690613=193.5.238.21
+author:1773690592=
+diff:1773690592:1773679105:=9,16c9,16%0a%3c Felix Emanuel Wyss (1935 - 2023), %0a%3c %0a%3c der Gründer der Stiftung PRO ZURITUUTSCH, %0a%3c %0a%3c war Arzt und Psychotherapeut, Kunstmaler %0a%3c %0a%3c und Verfasser zahlreicher Zürichdeutscher Texte.%0a%3c %0a---%0a> %25center%25Felix Emanuel Wyss (1935 - 2023), %0a> %0a> %25center%25der Gründer der Stiftung PRO ZURITUUTSCH, %0a> %0a> %25center%25war Arzt und Psychotherapeut, Kunstmaler %0a> %0a> %25center%25und Verfasser zahlreicher Zürichdeutscher Texte.%0a> %0a20,23c20,23%0a%3c Die Audioaufnahmen auf dieser Webseite %0a%3c %0a%3c sind von Felix E. Wyss gesprochen. %0a%3c %0a---%0a> %25center%25Die Audioaufnahmen auf dieser Webseite %0a> %0a> %25center%25sind von Felix E. Wyss gesprochen. %0a> %0a34,35d33%0a%3c Ricercare, Felix E. Wyss%0a%3c %0a57c55%0a%3c %0a---%0a> Ricercare, Felix E. Wyss%0a
+host:1773690592=193.5.238.21
+author:1773679105=
+diff:1773679105:1773679091:=102a103%0a> %0a
+host:1773679105=193.5.238.21
+author:1773679091=
+diff:1773679091:1773679051:=55,56c55,56%0a%3c Ricercare, Felix E. Wyss%0a%3c %0a---%0a> %25center%25Ricercare, Felix E. Wyss%0a> %0a80,81c80,81%0a%3c Variationen: Augmentation, Felix E. Wyss%0a%3c %0a---%0a> %25center%25Variationen: Augmentation, Felix E. Wyss%0a> %0a105c105%0a%3c Spiralen in Terzen, Felix E. Wyss%0a---%0a> %25center%25Spiralen in Terzen, Felix E. Wyss%0a
+host:1773679091=193.5.238.21
+author:1773679051=
+diff:1773679051:1773679033:=54,56c54,55%0a%3c %0a%3c %25center%25Ricercare, Felix E. Wyss%0a%3c %0a---%0a> %25center%25 Ricercare, Felix E. Wyss%0a> %0a79d77%0a%3c %0a103d100%0a%3c %0a
+host:1773679051=193.5.238.21
+author:1773679033=
+diff:1773679033:1773679016:=19,20c19%0a%3c %0a%3c %25center%25Die Audioaufnahmen auf dieser Webseite %0a---%0a> %25center%25 Die Audioaufnahmen auf dieser Webseite %0a
+host:1773679033=193.5.238.21
+author:1773679016=
+diff:1773679016:1773678990:=19,20c19,20%0a%3c %25center%25 Die Audioaufnahmen auf dieser Webseite %0a%3c %0a---%0a> %25center%25Die Audioaufnahmen auf dieser Webseite %0a> %0a53c53%0a%3c %25center%25 Ricercare, Felix E. Wyss%0a---%0a> %25center%25Ricercare, Felix E. Wyss%0a
+host:1773679016=193.5.238.21
+author:1773678990=
+diff:1773678990:1773678978:=
+host:1773678990=193.5.238.21
+author:1773678978=
+diff:1773678978:1773678927:=19,22c19,22%0a%3c %25center%25Die Audioaufnahmen auf dieser Webseite %0a%3c %0a%3c %25center%25sind von Felix E. Wyss gesprochen. %0a%3c %0a---%0a> Die Audioaufnahmen auf dieser Webseite %0a> %0a> sind von Felix E. Wyss gesprochen. %0a> %0a53,54c53,54%0a%3c %25center%25Ricercare, Felix E. Wyss%0a%3c %0a---%0a> Ricercare, Felix E. Wyss%0a> %0a77,78c77,78%0a%3c %25center%25Variationen: Augmentation, Felix E. Wyss%0a%3c %0a---%0a> Variationen: Augmentation, Felix E. Wyss%0a> %0a101c101%0a%3c %25center%25Spiralen in Terzen, Felix E. Wyss%0a---%0a> Spiralen in Terzen, Felix E. Wyss%0a
+host:1773678978=193.5.238.21
+author:1773678927=
+diff:1773678927:1773678847:=2a3,4%0a> -> Felix Emanuel Wyss (1935 - 2023), %0a> %0a9,15c11,17%0a%3c %25center%25Felix Emanuel Wyss (1935 - 2023), %0a%3c %0a%3c %25center%25der Gründer der Stiftung PRO ZURITUUTSCH, %0a%3c %0a%3c %25center%25war Arzt und Psychotherapeut, Kunstmaler %0a%3c %0a%3c %25center%25und Verfasser zahlreicher Zürichdeutscher Texte.%0a---%0a> -> Felix Emanuel Wyss (1935 - 2023), %0a> %0a> -> der Gründer der Stiftung PRO ZURITUUTSCH, %0a> %0a> -> war Arzt und Psychotherapeut, Kunstmaler %0a> %0a> -> und Verfasser zahlreicher Zürichdeutscher Texte.%0a
+host:1773678927=193.5.238.21
+author:1773678847=
+diff:1773678847:1773678825:=2,3d1%0a%3c %0a%3c -> Felix Emanuel Wyss (1935 - 2023), %0a
+host:1773678847=193.5.238.21
+author:1773678825=
+diff:1773678825:1773678812:=9,15c9,15%0a%3c -> Felix Emanuel Wyss (1935 - 2023), %0a%3c %0a%3c -> der Gründer der Stiftung PRO ZURITUUTSCH, %0a%3c %0a%3c -> war Arzt und Psychotherapeut, Kunstmaler %0a%3c %0a%3c -> und Verfasser zahlreicher Zürichdeutscher Texte.%0a---%0a> ->Felix Emanuel Wyss (1935 - 2023), %0a> %0a> ->der Gründer der Stiftung PRO ZURITUUTSCH, %0a> %0a> ->war Arzt und Psychotherapeut, Kunstmaler %0a> %0a> ->und Verfasser zahlreicher Zürichdeutscher Texte.%0a
+host:1773678825=193.5.238.21
+author:1773678812=
+diff:1773678812:1773678113:=9,15c9,15%0a%3c ->Felix Emanuel Wyss (1935 - 2023), %0a%3c %0a%3c ->der Gründer der Stiftung PRO ZURITUUTSCH, %0a%3c %0a%3c ->war Arzt und Psychotherapeut, Kunstmaler %0a%3c %0a%3c ->und Verfasser zahlreicher Zürichdeutscher Texte.%0a---%0a> Felix Emanuel Wyss (1935 - 2023), %0a> %0a> der Gründer der Stiftung PRO ZURITUUTSCH, %0a> %0a> war Arzt und Psychotherapeut, Kunstmaler %0a> %0a> und Verfasser zahlreicher Zürichdeutscher Texte.%0a
+host:1773678812=193.5.238.21
+author:1773678113=
+diff:1773678113:1773677986:=80,104d79%0a%3c %0a%3c %25align=left%25Attach:Spiralen.jpeg%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a%3c Spiralen in Terzen, Felix E. Wyss%0a%3c %0a%3c \\%0a%3c %0a
+host:1773678113=193.5.238.21
+author:1773677986=
+diff:1773677986:1773677925:=23,24c23,24%0a%3c \\\%0a%3c %0a---%0a> \\\\%0a> %0a31,32c31,32%0a%3c \\%0a%3c %0a---%0a> \%0a> %0a71,75c71,75%0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a%3c \\\%0a---%0a> \\%0a> %0a> \\%0a> %0a> \\%0a
+host:1773677986=193.5.238.21
+author:1773677925=
+diff:1773677925:1773677896:=35,40d34%0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a53,54c47,55%0a%3c Ricercare, Felix E. Wyss%0a%3c %0a---%0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> Ricercare, Felix E. Wyss%0a> %0a> %0a
+host:1773677925=193.5.238.21
+author:1773677896=
+diff:1773677896:1773677882:=7,8c7,8%0a%3c \%0a%3c %0a---%0a> \\%0a> %0a23c23%0a%3c \\\\%0a---%0a> \\\%0a
+host:1773677896=193.5.238.21
+author:1773677882=
+diff:1773677882:1773677823:=46a47,51%0a> %0a> Ricercare %0a> %0a> von Felix E. Wyss%0a> %0a53,56d57%0a%3c Ricercare, Felix E. Wyss%0a%3c %0a%3c %0a%3c %0a61,82c62%0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c Variationen: Augmentation, Felix E. Wyss%0a%3c %0a%3c \\%0a%3c %0a---%0a> Attach:Spiralen%0a
+host:1773677882=193.5.238.21
+author:1773677823=
+diff:1773677823:1773677796:=2a3,6%0a> \%0a> %0a> %25align=left%25Attach:FEW2.jpeg%0a> %0a5,8d8%0a%3c %25align=left%25Attach:FEW2.jpeg%0a%3c %0a%3c \\%0a%3c %0a51,54d50%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a
+host:1773677823=193.5.238.21
+author:1773677796=
+diff:1773677796:1773677763:=24a25,26%0a> \\%0a> %0a27,28c29,30%0a%3c \%0a%3c %0a---%0a> \\%0a> %0a31,34d32%0a%3c \%0a%3c %0a%3c %25align=left%25Attach:Ricercare.jpeg%0a%3c %0a36a35,36%0a> %25align=left%25Attach:Ricercare.jpeg%0a> %0a47c47,49%0a%3c %0a---%0a> \\%0a> %0a> %0a52,54c54%0a%3c \\%0a%3c %0a%3c \\%0a---%0a> \\\%0a
+host:1773677796=193.5.238.21
+author:1773677763=
+diff:1773677763:1773677744:=42,48d41%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a
+host:1773677763=193.5.238.21
+author:1773677744=
+diff:1773677744:1773677689:=33,34d32%0a%3c \\%0a%3c %0a39,45c37,39%0a%3c \\%0a%3c %0a%3c \\%0a%3c %0a%3c Ricercare %0a%3c %0a%3c von Felix E. Wyss%0a---%0a> Ricercare, %0a> %0a> Felix E. Wyss%0a
+host:1773677744=193.5.238.21
+author:1773677689=
+diff:1773677689:1773677636:=
+host:1773677689=193.5.238.21
+author:1773677636=
+diff:1773677636:1773676753:=42,43c42,44%0a%3c %0a%3c %25align=left%25Attach:Augmentation.jpeg%0a---%0a> Attach:Ricercare%0a> %0a> Attach:Augmentation%0a
+host:1773677636=193.5.238.21
+author:1773676753=
+diff:1773676753:1773674501:=17c17%0a%3c \\%0a---%0a> \%0a
+host:1773676753=193.5.238.21
+author:1773674501=
+diff:1773674501:1773674443:=2d1%0a%3c %0a16d14%0a%3c %0a22d19%0a%3c %0a32a30%0a> %25align=left%25Attach:zeno.jpeg%0a35,41d32%0a%3c \\%0a%3c %0a%3c Ricercare, %0a%3c %0a%3c Felix E. Wyss%0a%3c %0a%3c \\\%0a
+host:1773674501=193.5.238.21
+author:1773674443=
+diff:1773674443:1773674265:=31c31%0a%3c %25align=left%25Attach:Ricercare.jpeg%0a---%0a> %0a
+host:1773674443=193.5.238.21
+author:1773674265=
+diff:1773674265:1773674250:=4c4%0a%3c %25align=left%25Attach:FEW2.jpeg%0a---%0a> %25align=right%25Attach:FEW2.jpeg%0a
+host:1773674265=193.5.238.21
+author:1773674250=
+diff:1773674250:1773674229:=4c4%0a%3c %25align=right%25Attach:FEW2.jpeg%0a---%0a> %25align=left%25Attach:FEW2.jpeg%0a
+host:1773674250=193.5.238.21
+author:1773674229=
+diff:1773674229:1773674220:=21,22d20%0a%3c %0a%3c \\%0a
+host:1773674229=193.5.238.21
+author:1773674220=
+diff:1773674220:1773674204:=20a21,25%0a> %0a> \\\%0a> %0a> \\\%0a> %0a
+host:1773674220=193.5.238.21
+author:1773674204=
+diff:1773674204:1773674181:=25a26,28%0a> \\\%0a> %0a> \\\%0a
+host:1773674204=193.5.238.21
+author:1773674181=
+diff:1773674181:1773674166:=5,6d4%0a%3c %0a%3c \\%0a
+host:1773674181=193.5.238.21
+author:1773674166=
+diff:1773674166:1773674157:=7d6%0a%3c %0a9d7%0a%3c %0a11d8%0a%3c %0a16d12%0a%3c %0a
+host:1773674166=193.5.238.21
+author:1773674157=
+diff:1773674157:1773674104:=6,9c6%0a%3c Felix Emanuel Wyss (1935 - 2023), %0a%3c der Gründer der Stiftung PRO ZURITUUTSCH, %0a%3c war Arzt und Psychotherapeut, Kunstmaler %0a%3c und Verfasser zahlreicher Zürichdeutscher Texte.%0a---%0a> Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a12,13c9%0a%3c Die Audioaufnahmen auf dieser Webseite %0a%3c sind von Felix E. Wyss gesprochen. %0a---%0a> Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. %0a
+host:1773674157=193.5.238.21
+author:1773674104=
+diff:1773674104:1773674090:=16,18c16%0a%3c \\\%0a%3c %0a%3c \\\%0a---%0a> \\%0a
+host:1773674104=193.5.238.21
+author:1773674090=
+diff:1773674090:1773673961:=4c4%0a%3c %25align=left%25Attach:FEW2.jpeg%0a---%0a> %25align=left%25Attach:FEW1.jpeg%0a
+host:1773674090=193.5.238.21
+author:1773673961=
+diff:1773673961:1773673916:=4c4%0a%3c %25align=left%25Attach:FEW1.jpeg%0a---%0a> %25align=left%25Attach:FEW.jpeg%0a
+host:1773673961=193.5.238.21
+author:1773673916=
+diff:1773673916:1773673866:=10,15c10,18%0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a%3c \\\%0a%3c %0a---%0a> \\\\%0a> %0a> %0a> %0a> %0a> %25align=left%25Attach:zeno.jpeg%0a> %0a> %0a> %0a24d26%0a%3c %25align=left%25Attach:zeno.jpeg%0a
+host:1773673916=193.5.238.21
+author:1773673866=
+diff:1773673866:1773673834:=10,15c10,17%0a%3c \\\\%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %25align=left%25Attach:zeno.jpeg%0a---%0a> *%0a> *%0a> *%0a> %0a> %0a> %0a> %0a> Attach:zeno.jpeg%0a
+host:1773673866=193.5.238.21
+author:1773673834=
+diff:1773673834:1773673797:=10,12d9%0a%3c *%0a%3c *%0a%3c *%0a
+host:1773673834=193.5.238.21
+author:1773673797=
+diff:1773673797:1773673469:=4,5d3%0a%3c %25align=left%25Attach:FEW.jpeg%0a%3c %0a12c10%0a%3c %0a---%0a> %25align=left%25Attach:FEW.jpeg%0a
+host:1773673797=193.5.238.21
+author:1773673469=
+diff:1773673469:1773666442:=10c10%0a%3c %25align=left%25Attach:FEW.jpeg%0a---%0a> %25align=left%25Attach:FEW%0a
+host:1773673469=193.5.238.21
 author:1773666442=
 diff:1773666442:1773666430:=11,12d10%0a%3c %0a%3c Attach:zeno.jpeg%0a
 host:1773666442=212.51.146.241

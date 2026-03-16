@@ -6,10 +6,19 @@ csum=
 ctime=1773506855
 host=193.5.238.21
 name=Site.Kontakt
-rev=4
+rev=7
 targets=
-text=!Kontakt%0a\%0a%0aStiftung Pro Zurituutsch %0a%0aC/O Barbara Wyss %0a%0aWinzerstrasse 92%0a%0aCH-8408 Winterthur%0a%0a\\%0a%0aEmail: barbarawyss(@)gmx.net
-time=1773521159
+text=!Kontakt%0a\%0a%0aStiftung Pro Zurituutsch %0a%0aC/O Barbara Wyss %0a%0aWinzerstrasse 92%0a%0aCH-8408 Winterthur%0a%0a\\%0a%0aEmail: barbarawyss(@)gmx.net%0a%0a
+time=1773694375
+author:1773694375=
+diff:1773694375:1773694294:=15a16,17%0a> ||border=1 width=50%25%0a> ||!Attach:Ricercare.jpeg||!Überschrift||!Beispiel||%0a\ No newline at end of file%0a
+host:1773694375=193.5.238.21
+author:1773694294=
+diff:1773694294:1773694268:=17c17%0a%3c ||!Attach:Ricercare.jpeg||!Überschrift||!Beispiel||%0a\ No newline at end of file%0a---%0a> ||!Tabelle||!Überschrift||!Beispiel||%0a\ No newline at end of file%0a
+host:1773694294=193.5.238.21
+author:1773694268=
+diff:1773694268:1773521159:=14,17c14%0a%3c Email: barbarawyss(@)gmx.net%0a%3c %0a%3c ||border=1 width=50%25%0a%3c ||!Tabelle||!Überschrift||!Beispiel||%0a\ No newline at end of file%0a---%0a> Email: barbarawyss(@)gmx.net%0a\ No newline at end of file%0a
+host:1773694268=193.5.238.21
 author:1773521159=
 diff:1773521159:1773521145:=4,6c4,5%0a%3c Stiftung Pro Zurituutsch %0a%3c %0a%3c C/O Barbara Wyss %0a---%0a> Stiftung Pro Zurituutsch \%0a> C/O Barbara Wyss \%0a
 host:1773521159=193.5.238.21

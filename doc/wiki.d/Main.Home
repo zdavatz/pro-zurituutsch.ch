@@ -4,12 +4,39 @@ author=
 charset=ISO-8859-1
 csum=
 ctime=1163036267
-host=193.5.238.21
+host=217.162.110.54
 name=Main.Home
-rev=357
+rev=366
 targets=FelixE.Wyss,Stiftung.Projekte,PodCast.Willkommen,Texte.Willkommen,Texte.Schrybwys
 text=%25clear%25 Attach:Tschaw.jpeg%0a%0a[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] %0a%0a[++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]%0a%0a[++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]%0a%0a\\%0a%0a----%0a%0a\%0a%0a!Das Werk von Felix E. Wyss%0a\%0a%0a!!Zürichdeutsch hören%0a%0a\%0a%0aEine grosse Sammlung an Tonaufnahmen von Texten von Felix E. Wyss, gesprochen von ihm selbst im [[PodCast/Willkommen | PodCast]], steht hier zur Verfügung. Sie eignet sich gut dazu die Aussprache von Zürichdeutsch zu lernen. %0a%0a\%0a%0a!!Zürichdeutsch lesen%0a%0a\%0a%0aFelix E. Wyss hat eine beachtliche Zahl an [[Texte/Willkommen | Texten]] verfasst: Übersetzungen aus dem Lateinischen und Französischen, eigene Romane, Kurzgeschichten, Streitgespräche, Essays und Gedichte. In dieser vielseitigen Sammlung gibt es einiges zu entdecken.%0a%0a\%0a%0a!!Lautnahe Schreibweise%0a%0a\%0a%0aFelix E. Wyss entwickelte eine eigene lautnahe [[Texte/Schrybwys | Schreibweise]], um dem Klang des Zürichdeutschen besser gerecht zu werden. Nach einer kleinen, aber lohnenden Anfangsangstrengung eröffnet sich eine eigene Welt.%0aAls kleine Anleitung für die interessierten Leser*innen: Die Vokale werden wie im Französischen gelesen.%0a%0a-> ou als Hochdeutsch u%0a-> u als ü%0a-> eu als ö%0a-> à als ä%0a%0aEigentlich ganz einfach, oder? %0aFalls Sie es gerne noch etwas bequemer haben, können Sie viele der Texte auf unserer Webseite auch akustisch geniessen.%0aViel Vergnügen beim Lesen und Hören! %0a%0a\%0a%0a----%0a%0a\%0a%0a!!Adresse%0aPRO–ZURITUUTSCH/c/o Barbara Wyss, Winzerstrasse 92, 8408 Winterthur%0a%0a!!Zweck%0aSTIFTUNG ZUR FÖRDERUNG ZÜRICHDEUTSCHER LITERATUR, ZÜRICHDEUTSCH, SCHWEIZER MUNDART%0a%0a!!Keywords%0aSchweizerdeutsch, Schweizer–Deutsch, Schwyzertuutsch, Schwiizerdutsch, schweizerdeutsch, Mundart, Dialekt, Zürichdeutsch, Zürich–Deutsch, Zurituutsch, Züri–tuutsch, Züridütsch, Zürcher Dialekt, Literatur, lesen, Audio, hören%0a%0a!!Beschreibung %0aStiftung zur Förderung Zürichdeutscher Literatur, Informationen zur Zielsetzung und Tätigkeit der Stiftung. Hinweise auf Zürichdeutsche Gedichte, Kurzgeschichten, Glossen, Romane, etc. mit Audio–Beispielen, Information zu einer lautnahen Mundartschreibweise.
-time=1773694746
+time=1773739026
+author:1773739026=
+diff:1773739026:1773738973:=7a8,14%0a> %0a> ||border=1%0a> ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] ||||                         ||%0a> %0a> ||[++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]|||| ||%0a> %0a> ||[++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]  |||| ||%0a
+host:1773739026=217.162.110.54
+author:1773738973=
+diff:1773738973:1773738950:=10c10%0a%3c ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] ||||                         ||%0a---%0a> ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] ||||->-> ||%0a
+host:1773738973=217.162.110.54
+author:1773738950=
+diff:1773738950:1773738902:=10c10%0a%3c ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] ||||->-> ||%0a---%0a> ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] ||||  Mundarten ||%0a
+host:1773738950=217.162.110.54
+author:1773738902=
+diff:1773738902:1773738871:=9c9%0a%3c ||border=1%0a---%0a> ||border=0 %0a
+host:1773738902=217.162.110.54
+author:1773738871=
+diff:1773738871:1773738852:=10c10%0a%3c ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] ||||  Mundarten ||%0a---%0a> ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] |||| ||%0a
+host:1773738871=217.162.110.54
+author:1773738852=
+diff:1773738852:1773738831:=10,14c10,14%0a%3c ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] |||| ||%0a%3c %0a%3c ||[++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]|||| ||%0a%3c %0a%3c ||[++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]  |||| ||%0a---%0a> ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] ||%0a> %0a> ||[++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]||%0a> %0a> ||[++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]  ||%0a
+host:1773738852=217.162.110.54
+author:1773738831=
+diff:1773738831:1773738812:=12,14c12,14%0a%3c ||[++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]||%0a%3c %0a%3c ||[++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]  ||%0a---%0a> [++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]%0a> %0a> [++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]  ||%0a
+host:1773738831=217.162.110.54
+author:1773738812=
+diff:1773738812:1773738791:=10c10%0a%3c ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] ||%0a---%0a> ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] %0a
+host:1773738812=217.162.110.54
+author:1773738791=
+diff:1773738791:1773694746:=8,14d7%0a%3c %0a%3c ||border=0 %0a%3c ||[++Die Stiftung PRO ZURITUUTSCH setzt sich ein für die Förderung des Zürichdeutschen Dialekts und anderer Mundarten.++] %0a%3c %0a%3c [++Sie wurde von [[Felix E. Wyss | Felix E. Wyss]] im Jahr 1998 gegründet. Sein umfassendes Werk zahlreicher Zürichdeutscher Texte, in geschriebener und gesprochener Form, wird auf dieser Webseite für die Öffentlichkeit zugänglich gemacht.++]%0a%3c %0a%3c [++Heute unterstützt die Stiftung verschiedene kleinere [[Stiftung/Projekte | Projekte]] zur Förderung der Mundart.++]  ||%0a
+host:1773738791=217.162.110.54
 author:1773694746=
 diff:1773694746:1773693924:=1c1,10%0a%3c %25clear%25 Attach:Tschaw.jpeg%0a---%0a> %25align=left%25 Attach:Tschaw.jpeg%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> %0a> \\\%0a> %0a> \%0a
 host:1773694746=193.5.238.21

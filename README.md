@@ -10,7 +10,7 @@ This repository contains the full website installation including:
 
 - **PmWiki 2.2.84** — the wiki engine (`pmwiki-2.2.84/`)
 - **Live site** — configuration, wiki pages, uploads, and custom skin (`doc/`)
-- **Custom skin** — "pro-zurituutsch" theme based on Beeblebrox Gila (`doc/pub/skins/pro-zurituutsch/`), header in Roboto Condensed 48pt (via Google Fonts), body in Arial
+- **Custom skin** — "pro-zurituutsch" theme based on Beeblebrox Gila (`doc/pub/skins/pro-zurituutsch/`), header in Roboto Condensed 42pt normal weight (via Google Fonts), body in Arial
 - **Podcast audio** — 239 episodes in RSS feed (224 with MP3 enclosures), stored in `doc/uploads/`
 
 ## Requirements

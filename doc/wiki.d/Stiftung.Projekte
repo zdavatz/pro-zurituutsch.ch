@@ -4,12 +4,84 @@ author=
 charset=ISO-8859-1
 csum=
 ctime=1773522441
-host=193.5.238.21
+host=193.5.239.53
 name=Stiftung.Projekte
-rev=7
-targets=Texte.RUR
-text=!Aktuelle und frühere Projekte der Stiftung PRO ZURITUUTSCH%0a\\%0a%0a06.01.2025%0a%0aDie '''Band Fräulein Luise''' arbeitet mit unserer Unterstützung an einem weiteren Lied ("Schnee").%0a%0aDie '''Schülerzeitung Talhof-Erlen''' aus Winterthur wird seit 2023 von uns unterstützt und widmet jeweils eine Doppelseite ihrer Ausgabe dem Zürichdeutschen.%0a%0aDas von uns unterstützte Projekt '''Viecher''' von Theaterwerk kam im Mai 2025 in Basel und im Figurentheater Winterthur zur Aufführung.%0a%0a\\%0a%0a---- %0a%0a\\%0a%0a27.05.2022%0a%0aDie junge Zürcher '''Band Fräulein Luise''' hat mit Unterstützung von PRO ZURITUUTSCH das Zürichdeutsche Lied "High" herausgebracht.%0a%0a\\%0a%0a----%0a%0a\\%0a%0a26.02.2016 %0a%0a!!! Freude herrscht: %0a%0aLiebe Landschreiberinnen und Landschreiber,%0a %0adie Jury hat entschieden.%0aIch freue mich, Ihnen mitteilen zu dürfen, dass Sie unter den Platzierten sind!%0a %0aIn der Anlage finden Sie das Programm der Preisverleihung im Historischen Rathaus zu Münster, zu der ich Sie herzlich einlade.%0aZur Organisation der Veranstaltung bekommen Sie beizeiten noch eine gesonderte E-Mail.%0a %0aIch wünsche Ihnen allen ein besonders schönes Wochenende,%0aKlaus Siewert%0a%0aGründer des "Landschreiber-Wettbewerbs"%0aVorsitzender der Jury%0a%0a\\%0a%0a----%0a%0a\\%0a%0aJanuar 2016%0a%0aAb sofort sind im '''Archiv für Mundartbücher''', Elgg allerhand gedruckte Werke von Felix Wyss in Schachtel #80 gelagert.%0a%0a\\%0a%0a----%0a%0a\\%0a%0aMärz 2013%0a%0a!!!Neu im Podcast:  [[Texte/RUR  | R.U.R.]]%0a%0a
-time=1773574972
+rev=31
+targets=PodCast.RUR
+text=!Aktuelle und frühere Projekte%0a%0a!!der Stiftung PRO ZURITUUTSCH%0a\\%0a%0a06.01.2025%0a%0aDie [[https://fraeulein-luise.ch/ |  Band Fräulein Luise]] arbeitet mit unserer Unterstützung an einem weiteren Lied ("Schnee").%0a%0aDie '''Schülerzeitung Talhof-Erlen''' aus Winterthur wird seit 2023 von uns unterstützt und widmet jeweils eine Doppelseite ihrer Ausgabe dem Zürichdeutschen.%0a%0aDas von uns unterstützte Projekt [[https://theater-werk.ch/projekte-und-co-produktionen | Viecher]] von Theater-Werk kam im Frühling 2025 in Bern, Basel und im Figurentheater Winterthur zur Aufführung.%0a%0a\\%0a%0a---- %0a%0a\\%0a%0a27.05.2022%0a%0aDie junge Zürcher '''Band Fräulein Luise''' hat mit Unterstützung von PRO ZURITUUTSCH das Zürichdeutsche Lied "High" herausgebracht.%0a%0a\\%0a%0a----%0a%0a\\%0a%0a26.02.2016 %0a%0a!!! Freude herrscht: %0a%0aLiebe Landschreiberinnen und Landschreiber,%0a %0adie Jury hat entschieden.%0aIch freue mich, Ihnen mitteilen zu dürfen, dass Sie unter den Platzierten sind!%0a %0aIn der Anlage finden Sie das Programm der Preisverleihung im Historischen Rathaus zu Münster, zu der ich Sie herzlich einlade.%0aZur Organisation der Veranstaltung bekommen Sie beizeiten noch eine gesonderte E-Mail.%0a %0aIch wünsche Ihnen allen ein besonders schönes Wochenende,%0aKlaus Siewert%0a%0aGründer des "Landschreiber-Wettbewerbs"%0aVorsitzender der Jury%0a%0a\\%0a%0a----%0a%0a\\%0a%0aJanuar 2016%0a%0aAb sofort sind im '''Archiv für Mundartbücher''', Elgg allerhand gedruckte Werke von Felix Wyss in Schachtel #80 gelagert.%0a%0a\\%0a%0a----%0a%0a\\%0a%0aMärz 2013%0a%0a!!!Neu im Podcast:  [[PodCast/RUR  | R.U.R.]]%0a%0a
+time=1773866882
+author:1773866882=
+diff:1773866882:1773866819:=8c8%0a%3c Die [[https://fraeulein-luise.ch/ |  Band Fräulein Luise]] arbeitet mit unserer Unterstützung an einem weiteren Lied ("Schnee").%0a---%0a> Die '''Band Fräulein Luise''' arbeitet mit unserer Unterstützung an einem weiteren Lied ("Schnee").%0a
+host:1773866882=193.5.239.53
+author:1773866819=
+diff:1773866819:1773866742:=12c12%0a%3c Das von uns unterstützte Projekt [[https://theater-werk.ch/projekte-und-co-produktionen | Viecher]] von Theater-Werk kam im Frühling 2025 in Bern, Basel und im Figurentheater Winterthur zur Aufführung.%0a---%0a> Das von uns unterstützte Projekt [[https://theater-werk.ch/projekte-und-co-produktionen | Viecher]] von Theater-Werk kam im Mai 2025 in Basel und im Figurentheater Winterthur zur Aufführung.%0a
+host:1773866819=193.5.239.53
+author:1773866742=
+diff:1773866742:1773866720:=12c12%0a%3c Das von uns unterstützte Projekt [[https://theater-werk.ch/projekte-und-co-produktionen | Viecher]] von Theater-Werk kam im Mai 2025 in Basel und im Figurentheater Winterthur zur Aufführung.%0a---%0a> Das von uns unterstützte Projekt [[https://theater-werk.ch/projekte-und-co-produktionen | Viecher]] von Theaterwerk kam im Mai 2025 in Basel und im Figurentheater Winterthur zur Aufführung.%0a
+host:1773866742=193.5.239.53
+author:1773866720=
+diff:1773866720:1773866699:=12c12%0a%3c Das von uns unterstützte Projekt [[https://theater-werk.ch/projekte-und-co-produktionen | Viecher]] von Theaterwerk kam im Mai 2025 in Basel und im Figurentheater Winterthur zur Aufführung.%0a---%0a> Das von uns unterstützte Projekt [https://theater-werk.ch/projekte-und-co-produktionen | Viecher] von Theaterwerk kam im Mai 2025 in Basel und im Figurentheater Winterthur zur Aufführung.%0a
+host:1773866720=193.5.239.53
+author:1773866699=
+diff:1773866699:1773849557:=12c12%0a%3c Das von uns unterstützte Projekt [https://theater-werk.ch/projekte-und-co-produktionen | Viecher] von Theaterwerk kam im Mai 2025 in Basel und im Figurentheater Winterthur zur Aufführung.%0a---%0a> Das von uns unterstützte Projekt '''Viecher''' von Theaterwerk kam im Mai 2025 in Basel und im Figurentheater Winterthur zur Aufführung.%0a
+host:1773866699=193.5.239.53
+author:1773849557=
+diff:1773849557:1773849546:=3c3%0a%3c !!der Stiftung PRO ZURITUUTSCH%0a---%0a> !der Stiftung PRO ZURITUUTSCH%0a
+host:1773849557=193.5.239.53
+author:1773849546=
+diff:1773849546:1773846756:=0a1%0a> %25align left%25 %25width=100px%25 Attach:Logo.jpeg %0a
+host:1773849546=193.5.239.53
+author:1773846756=
+diff:1773846756:1773846742:=2c2%0a%3c !Aktuelle und frühere Projekte%0a---%0a> !Aktuelle und frühere Projekte\\%0a
+host:1773846756=193.5.239.53
+author:1773846742=
+diff:1773846742:1773845010:=2,4c2%0a%3c !Aktuelle und frühere Projekte\\%0a%3c %0a%3c !der Stiftung PRO ZURITUUTSCH%0a---%0a> !Aktuelle und frühere Projekte der Stiftung PRO ZURITUUTSCH%0a
+host:1773846742=193.5.239.53
+author:1773845010=
+diff:1773845010:1773844998:=1c1%0a%3c %25align left%25 %25width=100px%25 Attach:Logo.jpeg %0a---%0a> %25align left %25width=100px%25 Attach:Logo.jpeg %0a
+host:1773845010=193.5.239.53
+author:1773844998=
+diff:1773844998:1773844966:=1c1%0a%3c %25align left %25width=100px%25 Attach:Logo.jpeg %0a---%0a> %25align left margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg %0a
+host:1773844998=193.5.239.53
+author:1773844966=
+diff:1773844966:1773844918:=1c1,4%0a%3c %25align left margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg %0a---%0a> ||border=0 %0a> ||!Aktuelle und frühere Projekte der Stiftung PRO ZURITUUTSCH|| ||%25align right%25 %25width=100px%25 Attach:Logo.jpeg ||%0a> %0a> %25align right margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg %0a
+host:1773844966=193.5.239.53
+author:1773844918=
+diff:1773844918:1773844783:=1,3d0%0a%3c ||border=0 %0a%3c ||!Aktuelle und frühere Projekte der Stiftung PRO ZURITUUTSCH|| ||%25align right%25 %25width=100px%25 Attach:Logo.jpeg ||%0a%3c %0a
+host:1773844918=193.5.239.53
+author:1773844783=
+diff:1773844783:1773844770:=2c2%0a%3c !Aktuelle und frühere Projekte der Stiftung PRO ZURITUUTSCH%0a---%0a> Aktuelle und frühere Projekte der Stiftung PRO ZURITUUTSCH%0a
+host:1773844783=193.5.239.53
+author:1773844770=
+diff:1773844770:1773844752:=1,2c1,2%0a%3c %25align right margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg %0a%3c Aktuelle und frühere Projekte der Stiftung PRO ZURITUUTSCH%0a---%0a> %25align right margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg Test test%0a> !Aktuelle und frühere Projekte der Stiftung PRO ZURITUUTSCH%0a
+host:1773844770=193.5.239.53
+author:1773844752=
+diff:1773844752:1773844735:=1c1,2%0a%3c %25align right margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg Test test%0a---%0a> %25align right margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg%0a> Test test%0a
+host:1773844752=193.5.239.53
+author:1773844735=
+diff:1773844735:1773844645:=2d1%0a%3c Test test%0a
+host:1773844735=193.5.239.53
+author:1773844645=
+diff:1773844645:1773844628:=1a2%0a> %0a
+host:1773844645=193.5.239.53
+author:1773844628=
+diff:1773844628:1773844612:=1c1%0a%3c %25align right margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg%0a---%0a> %25right margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg%0a
+host:1773844628=193.5.239.53
+author:1773844612=
+diff:1773844612:1773844593:=1c1%0a%3c %25right margin-left=10px%25 %25width=100px%25 Attach:Logo.jpeg%0a---%0a> %25right margin-left=10px width=100px%25 Attach:Logo.jpeg%0a
+host:1773844612=193.5.239.53
+author:1773844593=
+diff:1773844593:1773844485:=1c1%0a%3c %25right margin-left=10px width=100px%25 Attach:Logo.jpeg%0a---%0a> %25align right%25 %25width=100px%25 Attach:Logo.jpeg%0a
+host:1773844593=193.5.239.53
+author:1773844485=
+diff:1773844485:1773844368:=1c1%0a%3c %25align right%25 %25width=100px%25 Attach:Logo.jpeg%0a---%0a> %25width=100px%25 Attach:Logo.jpeg%0a
+host:1773844485=193.5.239.53
+author:1773844368=
+diff:1773844368:1773782328:=1,2d0%0a%3c %25width=100px%25 Attach:Logo.jpeg%0a%3c %0a
+host:1773844368=193.5.239.53
+author:1773782328=
+diff:1773782328:1773574972:=64c64%0a%3c !!!Neu im Podcast:  [[PodCast/RUR  | R.U.R.]]%0a---%0a> !!!Neu im Podcast:  [[Texte/RUR  | R.U.R.]]%0a
+host:1773782328=193.5.238.21
 author:1773574972=
 diff:1773574972:1773574949:=54c54%0a%3c Ab sofort sind im '''Archiv für Mundartbücher''', Elgg allerhand gedruckte Werke von Felix Wyss in Schachtel #80 gelagert.%0a---%0a> Ab sofort sind im '''Archiv für Mundartbücher", Elgg allerhand gedruckte Werke von Felix Wyss in Schachtel #80 gelagert.%0a
 host:1773574972=193.5.238.21

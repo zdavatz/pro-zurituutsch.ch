@@ -1,14 +1,18 @@
-version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
-author=fwyss
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
 csum=
 ctime=1163064689
-host=83.77.203.71
+host=193.5.238.21
 name=PodCast.Amor
-rev=8
+rev=9
 targets=
-text=[--Page Title: Übersetzung von Ars Amatoria (Abhulf gàg der Amor) auf Zürichdeutsch zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\ %0a[--URL http//www.pro–zurituutsch.ch/PodCast/Amor + http//www.pro–zurituutsch.ch/uploads/PodCast/Amor.mp3--], \\ %0a[--Bread Crumb Line: der integrale Text kann als Buch bestellt werden http://www.pro–zurituutsch.ch/pschtéllformoular--], \\ %0a[--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--], \\ %0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Amor.mp3%0a%0a%25center%25zouëfélig triff i-ch en Pourscht, i-re Sàmfte drin hàt er sys Gschpouhsi,\\%0a%25center%25's hànd syni sàmtliche Wort – nou so vo Drooïge gstrotzt\\%0a%25center%25Chourz vor em Richter béfillt er: "Sy cheumi zour Sàmfte jétz ouse !\\%0a%25center%25Ousechoo isch sy, ound èr – gséét si - da wirt er grad still.\\%0a%25center%25Ound iri Hànd leund 's siméétrisch jétz sinke-n, ound ous de Hànd t'Akte\\%0a%25center%25ound er oumaarmt si, ound soo – rédt er: "Dou hàsch mi bésygt".\\%0a%25center%25Sicherer isch es ound gschickter, me tuëgi sich tràne-n im Fride,\\%0a%25center%25statt i me Stryt ous em Bétt – sych vor de Richter bégèè.\\%0a%0a
-time=1177684468
+text=!Übersetzung von Ars Amatoria (Abhulf gàg der Amor) auf Zürichdeutsch %0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Amor.mp3%0a%0a%25center%25zouëfélig triff i-ch en Pourscht, i-re Sàmfte drin hàt er sys Gschpouhsi,\\%0a%25center%25's hànd syni sàmtliche Wort – nou so vo Drooïge gstrotzt\\%0a%25center%25Chourz vor em Richter béfillt er: "Sy cheumi zour Sàmfte jétz ouse !\\%0a%25center%25Ousechoo isch sy, ound èr – gséét si - da wirt er grad still.\\%0a%25center%25Ound iri Hànd leund 's siméétrisch jétz sinke-n, ound ous de Hànd t'Akte\\%0a%25center%25ound er oumaarmt si, ound soo – rédt er: "Dou hàsch mi bésygt".\\%0a%25center%25Sicherer isch es ound gschickter, me tuëgi sich tràne-n im Fride,\\%0a%25center%25statt i me Stryt ous em Bétt – sych vor de Richter bégèè.\\%0a%0a
+time=1773781709
+author:1773781709=
+diff:1773781709:1177684468:=1c1,4%0a%3c !Übersetzung von Ars Amatoria (Abhulf gàg der Amor) auf Zürichdeutsch %0a---%0a> [--Page Title: Übersetzung von Ars Amatoria (Abhulf gàg der Amor) auf Zürichdeutsch zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\ %0a> [--URL http//www.pro–zurituutsch.ch/PodCast/Amor + http//www.pro–zurituutsch.ch/uploads/PodCast/Amor.mp3--], \\ %0a> [--Bread Crumb Line: der integrale Text kann als Buch bestellt werden http://www.pro–zurituutsch.ch/pschtéllformoular--], \\ %0a> [--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--], \\ %0a
+host:1773781709=193.5.238.21
 author:1177684468=fwyss
 diff:1177684468:1177679618:=8,16d7%0a%3c %25center%25zouëfélig triff i-ch en Pourscht, i-re Sàmfte drin hàt er sys Gschpouhsi,\\%0a%3c %25center%25's hànd syni sàmtliche Wort – nou so vo Drooïge gstrotzt\\%0a%3c %25center%25Chourz vor em Richter béfillt er: "Sy cheumi zour Sàmfte jétz ouse !\\%0a%3c %25center%25Ousechoo isch sy, ound èr – gséét si - da wirt er grad still.\\%0a%3c %25center%25Ound iri Hànd leund 's siméétrisch jétz sinke-n, ound ous de Hànd t'Akte\\%0a%3c %25center%25ound er oumaarmt si, ound soo – rédt er: "Dou hàsch mi bésygt".\\%0a%3c %25center%25Sicherer isch es ound gschickter, me tuëgi sich tràne-n im Fride,\\%0a%3c %25center%25statt i me Stryt ous em Bétt – sych vor de Richter bégèè.\\%0a%3c %0a
 host:1177684468=83.77.203.71

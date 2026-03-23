@@ -1,14 +1,18 @@
-version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
-author=fwyss
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
 csum=
 ctime=1163064478
-host=83.77.203.71
+host=193.5.238.21
 name=PodCast.Maitli
-rev=7
+rev=8
 targets=
-text=[--Page Title: Übersetzung von Ars Amatoria (Léérbouëch fur Màitli) auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch. Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a[--URL http//www.pro–zurituutsch.ch/PodCast/Maitli + http//www.pro–zurituutsch.ch/uploads/PodCast/Maitli--],\\%0a[--Bread Crumb Line: der integrale Text kann als Buch bestellt werden http://www.pro–zurituutsch.ch/pschtéllformoular--],\\%0a[--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],%0a%0a%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Maitli.mp3%0a%0a%25center%25Schiër hétt i ggwarnt, 's séll neud ouhfdringlich beuckele-n ounder de-n Achsle,\\%0a%25center%25ound dass es neud a de Bài – stachlig séig wàge de Haar.\\%0a%25center%25Aber ych bild ja kài Màitli ouhs ab de Kaukasische Félse.\\%0a%25center%25na dèrig. wo-n ire Tourscht – leusched am Musische Flouss.\\%0a%25center%25Waas, wann ych euï na wuur léére, dass t'Zàà wàg de Fouhlhàit sych bruuned,\\%0a%25center%25dass me-n am Morge sys Gsicht – wàscht ound aw's Wasser vertràit?\\%0a%0a
-time=1177684284
+text=!Übersetzung von Ars Amatoria (Léérbouëch fur Màitli) auf Zürichdeutsch%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Maitli.mp3%0a%0a%25center%25Schiër hétt i ggwarnt, 's séll neud ouhfdringlich beuckele-n ounder de-n Achsle,\\%0a%25center%25ound dass es neud a de Bài – stachlig séig wàge de Haar.\\%0a%25center%25Aber ych bild ja kài Màitli ouhs ab de Kaukasische Félse.\\%0a%25center%25na dèrig. wo-n ire Tourscht – leusched am Musische Flouss.\\%0a%25center%25Waas, wann ych euï na wuur léére, dass t'Zàà wàg de Fouhlhàit sych bruuned,\\%0a%25center%25dass me-n am Morge sys Gsicht – wàscht ound aw's Wasser vertràit?\\%0a%0a
+time=1773781654
+author:1773781654=
+diff:1773781654:1177684284:=1c1,6%0a%3c !Übersetzung von Ars Amatoria (Léérbouëch fur Màitli) auf Zürichdeutsch%0a---%0a> [--Page Title: Übersetzung von Ars Amatoria (Léérbouëch fur Màitli) auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch. Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a> [--URL http//www.pro–zurituutsch.ch/PodCast/Maitli + http//www.pro–zurituutsch.ch/uploads/PodCast/Maitli--],\\%0a> [--Bread Crumb Line: der integrale Text kann als Buch bestellt werden http://www.pro–zurituutsch.ch/pschtéllformoular--],\\%0a> [--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen (Süddeutschen) Sprachraum.--],%0a> %0a> %0a
+host:1773781654=193.5.238.21
 author:1177684284=fwyss
 diff:1177684284:1177682994:=8,16c8%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Maitli.mp3%0a%3c %0a%3c %25center%25Schiër hétt i ggwarnt, 's séll neud ouhfdringlich beuckele-n ounder de-n Achsle,\\%0a%3c %25center%25ound dass es neud a de Bài – stachlig séig wàge de Haar.\\%0a%3c %25center%25Aber ych bild ja kài Màitli ouhs ab de Kaukasische Félse.\\%0a%3c %25center%25na dèrig. wo-n ire Tourscht – leusched am Musische Flouss.\\%0a%3c %25center%25Waas, wann ych euï na wuur léére, dass t'Zàà wàg de Fouhlhàit sych bruuned,\\%0a%3c %25center%25dass me-n am Morge sys Gsicht – wàscht ound aw's Wasser vertràit?\\%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Maitli.mp3%0a\ No newline at end of file%0a
 host:1177684284=83.77.203.71

@@ -1,14 +1,18 @@
-version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
-author=fwyss
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
 csum=
 ctime=1163064860
-host=83.77.203.71
+host=193.5.238.21
 name=PodCast.Liebhaber2
-rev=7
+rev=8
 targets=
-text=[--Page Title: Übersetzung von Ars Amatoria (Léérbouëch zwài fur Liëbhaber) auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a[--URL http//www.pro–zurituutsch.ch/PodCast/Liebhaber2 + http//www.pro–zurituutsch.ch/uploads/PodCast/Liebhaber2.mp3--],\\%0a[--Bread Crumb Line: Der integrale Text kann als Buch bestellt werden: http://www.pro…zurituutsch.ch/Bestellung/Pschtellformoular--]\\%0a[--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche und Übersetzungen auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--],%0a%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Liebhaber2.mp3%0a%0a%25center%25Bisch aber àine vo déne mit Sorge-n eub s' 's Màitli cheund hébe,\\%0a%25center%25louëg, dass sy aanimmt, dou séigsch – vo-n irem Ouhssèè entzuckt.\\%0a%25center%25Séig's, dass sy 's Pourpouhrggwand aahàt, so ruëm dou der Oumwourf ous Pourpouhr\\%0a%25center%25séig's sy tràit Sidefloor, find – Sidefloor cheumm ere gouët.\\%0a%25center%25Tanzt sy, béwoundere dou iri Èrm, iri Stimm, touët sy singe,\\%0a%25center%25ound, laat sy's blybe, so find – Ouhsdruck, wië schaad daas doch séig.\\%0a%0a%0a%0a
-time=1177684181
+text=!Übersetzung von Ars Amatoria (Léérbouëch zwài fur Liëbhaber) auf Zürichdeutsch%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Liebhaber2.mp3%0a%0a%25center%25Bisch aber àine vo déne mit Sorge-n eub s' 's Màitli cheund hébe,\\%0a%25center%25louëg, dass sy aanimmt, dou séigsch – vo-n irem Ouhssèè entzuckt.\\%0a%25center%25Séig's, dass sy 's Pourpouhrggwand aahàt, so ruëm dou der Oumwourf ous Pourpouhr\\%0a%25center%25séig's sy tràit Sidefloor, find – Sidefloor cheumm ere gouët.\\%0a%25center%25Tanzt sy, béwoundere dou iri Èrm, iri Stimm, touët sy singe,\\%0a%25center%25ound, laat sy's blybe, so find – Ouhsdruck, wië schaad daas doch séig.\\%0a%0a%0a%0a
+time=1773781626
+author:1773781626=
+diff:1773781626:1177684181:=1c1,5%0a%3c !Übersetzung von Ars Amatoria (Léérbouëch zwài fur Liëbhaber) auf Zürichdeutsch%0a---%0a> [--Page Title: Übersetzung von Ars Amatoria (Léérbouëch zwài fur Liëbhaber) auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a> [--URL http//www.pro–zurituutsch.ch/PodCast/Liebhaber2 + http//www.pro–zurituutsch.ch/uploads/PodCast/Liebhaber2.mp3--],\\%0a> [--Bread Crumb Line: Der integrale Text kann als Buch bestellt werden: http://www.pro…zurituutsch.ch/Bestellung/Pschtellformoular--]\\%0a> [--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche und Übersetzungen auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--],%0a> %0a
+host:1773781626=193.5.238.21
 author:1177684181=fwyss
 diff:1177684181:1177680078:=9,17c9%0a%3c %25center%25Bisch aber àine vo déne mit Sorge-n eub s' 's Màitli cheund hébe,\\%0a%3c %25center%25louëg, dass sy aanimmt, dou séigsch – vo-n irem Ouhssèè entzuckt.\\%0a%3c %25center%25Séig's, dass sy 's Pourpouhrggwand aahàt, so ruëm dou der Oumwourf ous Pourpouhr\\%0a%3c %25center%25séig's sy tràit Sidefloor, find – Sidefloor cheumm ere gouët.\\%0a%3c %25center%25Tanzt sy, béwoundere dou iri Èrm, iri Stimm, touët sy singe,\\%0a%3c %25center%25ound, laat sy's blybe, so find – Ouhsdruck, wië schaad daas doch séig.\\%0a%3c %0a%3c %0a%3c %0a---%0a> %0a
 host:1177684181=83.77.203.71

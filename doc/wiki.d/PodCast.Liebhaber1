@@ -1,14 +1,18 @@
-version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
-author=fwyss
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
 csum=
 ctime=1163064809
-host=83.77.203.71
+host=193.5.238.21
 name=PodCast.Liebhaber1
-rev=8
+rev=9
 targets=
-text=[--Page Title: Übersetzung von Ars Amatoria (Léérbouëch àis fur Liëbaber) auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a[--URL http//www.pro–zurituutsch.ch/PodCast/Liebhaber1 + http//www.pro–zurituutsch.ch/uploads/PodCast/Liebhaber1.mp3--],\\%0a[--Bread Crumb Line: Der integrale Text kann als Buch bestellt werden: http://www.pro…zurituutsch.ch/Bestellung/Pschtellformoular--]\\%0a[--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche und Übersetzungen auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--],%0a%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Liebhaber1.mp3%0a%0a%25center%25Myr gànd em Schuëler es ountruuglichs Maass aa, wiëviel èr teurf trinke:\\%0a%25center%25s' sélled de Gàischt ound de Fouëss – ihmm ire Diënscht na versèè.\\%0a%25center%25Ganz psounders huëti me sych vor me Wortwàchsel. ouhfpoutscht vom Wy, ound\\%0a%25center%25maasslos lockerer Hand, – zwààg fur en rouppige Kampf.\\%0a%25center%25Oumchoo vom Souhffe vom ouhftischte Wy isch de Kentaur bim Brouthrawb.\\%0a%25center%25bésser zoum Fàschttisch mit Wy – passt doch en gféllige Flirt.\\%0a
-time=1177684092
+text=!Übersetzung von Ars Amatoria (Léérbouëch àis fur Liëbaber) auf Zürichdeutsch%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Liebhaber1.mp3%0a%0a%25center%25Myr gànd em Schuëler es ountruuglichs Maass aa, wiëviel èr teurf trinke:\\%0a%25center%25s' sélled de Gàischt ound de Fouëss – ihmm ire Diënscht na versèè.\\%0a%25center%25Ganz psounders huëti me sych vor me Wortwàchsel. ouhfpoutscht vom Wy, ound\\%0a%25center%25maasslos lockerer Hand, – zwààg fur en rouppige Kampf.\\%0a%25center%25Oumchoo vom Souhffe vom ouhftischte Wy isch de Kentaur bim Brouthrawb.\\%0a%25center%25bésser zoum Fàschttisch mit Wy – passt doch en gféllige Flirt.\\%0a
+time=1773781541
+author:1773781541=
+diff:1773781541:1177684092:=1c1,5%0a%3c !Übersetzung von Ars Amatoria (Léérbouëch àis fur Liëbaber) auf Zürichdeutsch%0a---%0a> [--Page Title: Übersetzung von Ars Amatoria (Léérbouëch àis fur Liëbaber) auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a> [--URL http//www.pro–zurituutsch.ch/PodCast/Liebhaber1 + http//www.pro–zurituutsch.ch/uploads/PodCast/Liebhaber1.mp3--],\\%0a> [--Bread Crumb Line: Der integrale Text kann als Buch bestellt werden: http://www.pro…zurituutsch.ch/Bestellung/Pschtellformoular--]\\%0a> [--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche und Übersetzungen auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--],%0a> %0a
+host:1773781541=193.5.238.21
 author:1177684092=fwyss
 diff:1177684092:1177679904:=7,14c7%0a%3c http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Liebhaber1.mp3%0a%3c %0a%3c %25center%25Myr gànd em Schuëler es ountruuglichs Maass aa, wiëviel èr teurf trinke:\\%0a%3c %25center%25s' sélled de Gàischt ound de Fouëss – ihmm ire Diënscht na versèè.\\%0a%3c %25center%25Ganz psounders huëti me sych vor me Wortwàchsel. ouhfpoutscht vom Wy, ound\\%0a%3c %25center%25maasslos lockerer Hand, – zwààg fur en rouppige Kampf.\\%0a%3c %25center%25Oumchoo vom Souhffe vom ouhftischte Wy isch de Kentaur bim Brouthrawb.\\%0a%3c %25center%25bésser zoum Fàschttisch mit Wy – passt doch en gféllige Flirt.\\%0a---%0a> http://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Liebhaber1.mp3%0a\ No newline at end of file%0a
 host:1177684092=83.77.203.71

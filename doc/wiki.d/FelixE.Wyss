@@ -4,12 +4,111 @@ author=
 charset=ISO-8859-1
 csum=
 ctime=1773484113
-host=193.5.238.21
+host=193.5.239.53
 name=FelixE.Wyss
-rev=90
+rev=123
 targets=
-text=!Felix E. Wyss und sein Werk%0a%0a\\%0a%0a%25clear%25Attach:FEW2.jpeg%0a%0aFelix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a%0a\%0a%0aDie Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. %0a%0a%0a----%0a%0a\%0a%0a!Konstruktyvkunscht%0a%0a\\%0a%0a||border=0 %0a||!Attach:Ricercare.jpeg||Ricercare, Felix E. Wyss||%0a||!Attach:Augmentation.jpeg||Variationen: Augmentation, Felix E. Wyss||%0a||!Attach:Spiralen.jpeg||Spiralen in Terzen, Felix E. Wyss||%0a%0a
-time=1773694515
+text=!Felix E. Wyss und sein Werk%0a%0a\\%0a%0a||border=0 %0a||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.[[%3c%3c]][[%3c%3c]]Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a%0a----%0a%0a\%0a%0a!Konstruktyvkunscht%0a%0a\\%0a%0a||border=0 %0a||Attach:Ricercare.jpeg|| ||[++Ricercare++][[%3c%3c]][[%3c%3c]][++Felix E. Wyss++]||%0a||!Attach:Augmentation.jpeg|| ||[++Variationen: Augmentation++][[%3c%3c]][[%3c%3c]][++Felix E. Wyss++]||%0a||!Attach:Spiralen.jpeg|| ||[++Spiralen in Terzen++][[%3c%3c]][[%3c%3c]][++Felix E. Wyss++]||%0a%0a
+time=1773866386
+author:1773866386=
+diff:1773866386:1773845437:=17,19c17,19%0a%3c ||Attach:Ricercare.jpeg|| ||[++Ricercare++][[%3c%3c]][[%3c%3c]][++Felix E. Wyss++]||%0a%3c ||!Attach:Augmentation.jpeg|| ||[++Variationen: Augmentation++][[%3c%3c]][[%3c%3c]][++Felix E. Wyss++]||%0a%3c ||!Attach:Spiralen.jpeg|| ||[++Spiralen in Terzen++][[%3c%3c]][[%3c%3c]][++Felix E. Wyss++]||%0a---%0a> ||Attach:Ricercare.jpeg|| ||[++Ricercare, Felix E. Wyss++]||%0a> ||!Attach:Augmentation.jpeg|| ||[++Variationen: Augmentation, Felix E. Wyss++]||%0a> ||!Attach:Spiralen.jpeg|| ||[++Spiralen in Terzen, Felix E. Wyss++]||%0a
+host:1773866386=193.5.239.53
+author:1773845437=
+diff:1773845437:1773845417:=1c1%0a%3c !Felix E. Wyss und sein Werk%0a---%0a> %25style="line-height:1.4; margin-bottom:0.5em;"%25 !Felix E. Wyss und sein Werk%0a
+host:1773845437=193.5.239.53
+author:1773845417=
+diff:1773845417:1773837946:=1c1%0a%3c %25style="line-height:1.4; margin-bottom:0.5em;"%25 !Felix E. Wyss und sein Werk%0a---%0a> !Felix E. Wyss und sein Werk%0a
+host:1773845417=193.5.239.53
+author:1773837946=
+diff:1773837946:1773837928:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.[[%3c%3c]][[%3c%3c]]Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.[[%3c%3c]]Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837946=193.5.239.53
+author:1773837928=
+diff:1773837928:1773837797:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.[[%3c%3c]]Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837928=193.5.239.53
+author:1773837797=
+diff:1773837797:1773837788:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.\\Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837797=193.5.239.53
+author:1773837788=
+diff:1773837788:1773837653:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.\\Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. %3cbr> Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837788=193.5.239.53
+author:1773837653=
+diff:1773837653:1773837637:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. %3cbr> Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.\\ Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837653=193.5.239.53
+author:1773837637=
+diff:1773837637:1773837614:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.\\ Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837637=193.5.239.53
+author:1773837614=
+diff:1773837614:1773837597:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=200px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837614=193.5.239.53
+author:1773837597=
+diff:1773837597:1773837580:=6c6%0a%3c ||%25width=200px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=30%25%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837597=193.5.239.53
+author:1773837580=
+diff:1773837580:1773837550:=6c6%0a%3c ||%25width=30%25%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25style="width:400px;"%25 [++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837580=193.5.239.53
+author:1773837550=
+diff:1773837550:1773837518:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25style="width:400px;"%25 [++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25style="width:150px [++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837550=193.5.239.53
+author:1773837518=
+diff:1773837518:1773837405:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25style="width:150px [++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25width=100px%25 [++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837518=193.5.239.53
+author:1773837405=
+diff:1773837405:1773837396:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25width=100px%25 [++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25width=300px%25 [++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837405=193.5.239.53
+author:1773837396=
+diff:1773837396:1773837381:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25width=300px%25 [++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25width=300px%25[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837396=193.5.239.53
+author:1773837381=
+diff:1773837381:1773837285:=6c6%0a%3c ||%25width=250px%25 Attach:FEW2.jpeg|| ||%25width=300px%25[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=300px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837381=193.5.239.53
+author:1773837285=
+diff:1773837285:1773837267:=6c6%0a%3c ||%25width=300px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||%25width=200px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837285=193.5.239.53
+author:1773837267=
+diff:1773837267:1773780442:=6c6%0a%3c ||%25width=200px%25 Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773837267=193.5.239.53
+author:1773780442=
+diff:1773780442:1773780389:=6c6%0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a
+host:1773780442=193.5.238.21
+author:1773780389=
+diff:1773780389:1773780337:=6c6%0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. Untenstehend findet sich eine kleine Auswahl seiner Bilder.++]||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||%0a
+host:1773780389=193.5.238.21
+author:1773780337=
+diff:1773780337:1773780319:=3a4,11%0a> %0a> %25clear%25Attach:FEW2.jpeg%0a> %0a> Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a> %0a> \%0a> %0a> Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. %0a
+host:1773780337=193.5.238.21
+author:1773780319=
+diff:1773780319:1773780280:=14c14,15%0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||%0a> %0a
+host:1773780319=193.5.238.21
+author:1773780280=
+diff:1773780280:1773780255:=14c14%0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||Platzhalter||%0a
+host:1773780280=193.5.238.21
+author:1773780255=
+diff:1773780255:1773780238:=14c14%0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||Platzhalter||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||[Platzhalter]||%0a
+host:1773780255=193.5.238.21
+author:1773780238=
+diff:1773780238:1773780212:=14c14%0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||[Platzhalter]||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||[     ]||%0a
+host:1773780238=193.5.238.21
+author:1773780212=
+diff:1773780212:1773780145:=14c14%0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||[     ]||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||%0a
+host:1773780212=193.5.238.21
+author:1773780145=
+diff:1773780145:1773780097:=26,28c26,28%0a%3c ||Attach:Ricercare.jpeg|| ||[++Ricercare, Felix E. Wyss++]||%0a%3c ||!Attach:Augmentation.jpeg|| ||[++Variationen: Augmentation, Felix E. Wyss++]||%0a%3c ||!Attach:Spiralen.jpeg|| ||[++Spiralen in Terzen, Felix E. Wyss++]||%0a---%0a> ||!Attach:Ricercare.jpeg||[++Ricercare, Felix E. Wyss++]||%0a> ||!Attach:Augmentation.jpeg||[++Variationen: Augmentation, Felix E. Wyss++]||%0a> ||!Attach:Spiralen.jpeg||[++Spiralen in Terzen, Felix E. Wyss++]||%0a
+host:1773780145=193.5.238.21
+author:1773780097=
+diff:1773780097:1773780066:=14c14,18%0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte. Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||%0a---%0a> ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a> %0a> \%0a> %0a> Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||%0a
+host:1773780097=193.5.238.21
+author:1773780066=
+diff:1773780066:1773779914:=12,18d11%0a%3c %0a%3c ||border=0 %0a%3c ||Attach:FEW2.jpeg|| ||[++Felix Emanuel Wyss (1935 - 2023), der Gründer der Stiftung PRO ZURITUUTSCH, war Arzt und Psychotherapeut, Kunstmaler und Verfasser zahlreicher Zürichdeutscher Texte.%0a%3c %0a%3c \%0a%3c %0a%3c Die Audioaufnahmen auf dieser Webseite sind von Felix E. Wyss gesprochen. ++]||%0a
+host:1773780066=193.5.238.21
+author:1773779914=
+diff:1773779914:1773779893:=22c22%0a%3c ||border=0 %0a---%0a> ||border=1 %0a
+host:1773779914=193.5.238.21
+author:1773779893=
+diff:1773779893:1773779851:=22c22%0a%3c ||border=1 %0a---%0a> ||border=0 %0a24,25c24,25%0a%3c ||!Attach:Augmentation.jpeg||[++Variationen: Augmentation, Felix E. Wyss++]||%0a%3c ||!Attach:Spiralen.jpeg||[++Spiralen in Terzen, Felix E. Wyss++]||%0a---%0a> ||!Attach:Augmentation.jpeg||Variationen: Augmentation, Felix E. Wyss||%0a> ||!Attach:Spiralen.jpeg||Spiralen in Terzen, Felix E. Wyss||%0a
+host:1773779893=193.5.238.21
+author:1773779851=
+diff:1773779851:1773694515:=23c23%0a%3c ||!Attach:Ricercare.jpeg||[++Ricercare, Felix E. Wyss++]||%0a---%0a> ||!Attach:Ricercare.jpeg||Ricercare, Felix E. Wyss||%0a
+host:1773779851=193.5.238.21
 author:1773694515=
 diff:1773694515:1773694470:=25c25,76%0a%3c ||!Attach:Spiralen.jpeg||Spiralen in Terzen, Felix E. Wyss||%0a---%0a> %0a> %0a> Variationen: Augmentation, Felix E. Wyss%0a> %0a> %25align=left%25Attach:Augmentation.jpeg%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> Spiralen in Terzen, Felix E. Wyss%0a> %0a> %25align=left%25Attach:Spiralen.jpeg%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\\%0a> %0a> \\%0a> %0a> \\%0a> %0a
 host:1773694515=193.5.238.21

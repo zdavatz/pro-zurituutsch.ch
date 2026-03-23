@@ -4,12 +4,57 @@ author=
 charset=ISO-8859-1
 csum=
 ctime=1773506855
-host=193.5.238.21
+host=193.5.239.53
 name=Site.Kontakt
-rev=7
+rev=22
 targets=
-text=!Kontakt%0a\%0a%0aStiftung Pro Zurituutsch %0a%0aC/O Barbara Wyss %0a%0aWinzerstrasse 92%0a%0aCH-8408 Winterthur%0a%0a\\%0a%0aEmail: barbarawyss(@)gmx.net%0a%0a
-time=1773694375
+text=!Kontakt%0a\%0a%0aStiftung Pro Zurituutsch\\%0aC/O Barbara Wyss\\%0aWinzerstrasse 92\\%0aCH-8408 Winterthur\\%0a%0a\\%0a%0aEmail: barbarawyss(@)gmx.net%0a%0a
+time=1773851070
+author:1773851070=
+diff:1773851070:1773851005:=0a1,2%0a> Attach:Tschaw2.jpeg%0a> %0a
+host:1773851070=193.5.239.53
+author:1773851005=
+diff:1773851005:1773849636:=1,2d0%0a%3c Attach:Tschaw2.jpeg%0a%3c %0a
+host:1773851005=193.5.239.53
+author:1773849636=
+diff:1773849636:1773848964:=0a1,2%0a> %25width=100px%25 Attach:Logo.jpeg%0a> %0a
+host:1773849636=193.5.239.53
+author:1773848964=
+diff:1773848964:1773848927:=1,2d0%0a%3c %25width=100px%25 Attach:Logo.jpeg%0a%3c %0a
+host:1773848964=193.5.239.53
+author:1773848927=
+diff:1773848927:1773848910:=0a1,11%0a> !Kontakt%0a> %0a> \\%0a> %0a> ||border=0 %0a> ||Stiftung Pro Zurituutsch[[%3c%3c]]C/O Barbara Wyss[[%3c%3c]]Winzerstrasse 92[[%3c%3c]]CH-8408 Winterthur[[%3c%3c]]Email: barbarawyss(@)gmx.net|| ||%25width=100px%25 Attach:Logo.jpeg||%0a> %0a> %0a> %0a> %25width=100px%25 Attach:Logo.jpeg%0a> %0a
+host:1773848927=193.5.239.53
+author:1773848910=
+diff:1773848910:1773848876:=6c6%0a%3c ||Stiftung Pro Zurituutsch[[%3c%3c]]C/O Barbara Wyss[[%3c%3c]]Winzerstrasse 92[[%3c%3c]]CH-8408 Winterthur[[%3c%3c]]Email: barbarawyss(@)gmx.net|| ||%25width=100px%25 Attach:Logo.jpeg||%0a---%0a> ||C/O Barbara Wyss[[%3c%3c]]Winzerstrasse 92[[%3c%3c]]CH-8408 Winterthur[[%3c%3c]]Email: barbarawyss(@)gmx.net|| ||%25width=100px%25 Attach:Logo.jpegStiftung Pro Zurituutsch||%0a
+host:1773848910=193.5.239.53
+author:1773848876=
+diff:1773848876:1773848758:=6c6%0a%3c ||C/O Barbara Wyss[[%3c%3c]]Winzerstrasse 92[[%3c%3c]]CH-8408 Winterthur[[%3c%3c]]Email: barbarawyss(@)gmx.net|| ||%25width=100px%25 Attach:Logo.jpegStiftung Pro Zurituutsch||%0a---%0a> ||%25width=100px%25 Attach:Logo.jpeg|| ||Stiftung Pro Zurituutsch[[%3c%3c]]C/O Barbara Wyss[[%3c%3c]]Winzerstrasse 92[[%3c%3c]]CH-8408 Winterthur[[%3c%3c]]Email: barbarawyss(@)gmx.net||%0a
+host:1773848876=193.5.239.53
+author:1773848758=
+diff:1773848758:1773848744:=6c6%0a%3c ||%25width=100px%25 Attach:Logo.jpeg|| ||Stiftung Pro Zurituutsch[[%3c%3c]]C/O Barbara Wyss[[%3c%3c]]Winzerstrasse 92[[%3c%3c]]CH-8408 Winterthur[[%3c%3c]]Email: barbarawyss(@)gmx.net||%0a---%0a> ||%25width=100px%25 Attach:Logo.jpeg|| ||Stiftung Pro Zurituutsch[[%3c%3c]]C/O Barbara Wyss[[%3c%3c]]Winzerstrasse 92[[%3c%3c]]CH-8408 Winterthur[[%3c%3c]][[%3c%3c]]Email: barbarawyss(@)gmx.net||%0a
+host:1773848758=193.5.239.53
+author:1773848744=
+diff:1773848744:1773845255:=0a1,2%0a> %25width=100px%25 Attach:Logo.jpeg%0a> %0a2c4,10%0a%3c %0a---%0a> \%0a> %0a> Stiftung Pro Zurituutsch\\%0a> C/O Barbara Wyss\\%0a> Winzerstrasse 92\\%0a> CH-8408 Winterthur\\%0a> %0a5,21d12%0a%3c ||border=0 %0a%3c ||%25width=100px%25 Attach:Logo.jpeg|| ||Stiftung Pro Zurituutsch[[%3c%3c]]C/O Barbara Wyss[[%3c%3c]]Winzerstrasse 92[[%3c%3c]]CH-8408 Winterthur[[%3c%3c]][[%3c%3c]]Email: barbarawyss(@)gmx.net||%0a%3c %0a%3c %0a%3c %0a%3c %25width=100px%25 Attach:Logo.jpeg%0a%3c %0a%3c !Kontakt%0a%3c \%0a%3c %0a%3c Stiftung Pro Zurituutsch\\%0a%3c C/O Barbara Wyss\\%0a%3c Winzerstrasse 92\\%0a%3c CH-8408 Winterthur\\%0a%3c %0a%3c \\%0a%3c %0a23d13%0a%3c %0a
+host:1773848744=193.5.239.53
+author:1773845255=
+diff:1773845255:1773845229:=1,2d0%0a%3c %25width=100px%25 Attach:Logo.jpeg%0a%3c %0a13a12,13%0a> %0a> %25width=100px%25 Attach:Logo.jpeg%0a\ No newline at end of file%0a
+host:1773845255=193.5.239.53
+author:1773845229=
+diff:1773845229:1773845213:=3a4,7%0a> %25width=100px%25 Attach:Logo.jpeg%0a> %0a> %0a> %0a13d16%0a%3c %25width=100px%25 Attach:Logo.jpeg%0a\ No newline at end of file%0a
+host:1773845229=193.5.239.53
+author:1773845213=
+diff:1773845213:1773845180:=0a1,2%0a> %25width=100px%25 Attach:Logo.jpeg%0a> %0a3,6d4%0a%3c %0a%3c %25width=100px%25 Attach:Logo.jpeg%0a%3c %0a%3c %0a
+host:1773845213=193.5.239.53
+author:1773845180=
+diff:1773845180:1773782257:=1,2d0%0a%3c %25width=100px%25 Attach:Logo.jpeg%0a%3c %0a
+host:1773845180=193.5.239.53
+author:1773782257=
+diff:1773782257:1773782239:=6,7c6,9%0a%3c Winzerstrasse 92\\%0a%3c CH-8408 Winterthur\\%0a---%0a> %0a> Winzerstrasse 92%0a> %0a> CH-8408 Winterthur%0a
+host:1773782257=193.5.238.21
+author:1773782239=
+diff:1773782239:1773694375:=4,5c4,6%0a%3c Stiftung Pro Zurituutsch\\%0a%3c C/O Barbara Wyss\\%0a---%0a> Stiftung Pro Zurituutsch %0a> %0a> C/O Barbara Wyss %0a
+host:1773782239=193.5.238.21
 author:1773694375=
 diff:1773694375:1773694294:=15a16,17%0a> ||border=1 width=50%25%0a> ||!Attach:Ricercare.jpeg||!Überschrift||!Beispiel||%0a\ No newline at end of file%0a
 host:1773694375=193.5.238.21

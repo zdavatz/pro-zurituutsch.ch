@@ -1,14 +1,18 @@
-version=pmwiki-2.2.0-beta35 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/312.8.1 (KHTML, like Gecko) Safari/312.6
-author=fwyss
+version=pmwiki-2.2.84 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
+author=
+charset=ISO-8859-1
 csum=
 ctime=1163064938
-host=83.77.203.71
+host=193.5.238.21
 name=PodCast.Metamorfoose
-rev=9
+rev=10
 targets=
-text=[--Page Title: Übersetzung von Ovid's Metamorphosen auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a[--URL http//www.pro–zurituutsch.ch/PodCast/Metamorfoose + http//www.pro–zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3--],\\%0a[--Bread Crumb Line: Der integrale Text ist zur Zeit vergriffen.--]\\%0a[--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche und Übersetzungen auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--],%0a%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Metamorfoose.mp3%0a%0a%0a%25center%25"T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji\\%0a%25center%25Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe\\%0a%25center%25ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang\\%0a%25center%25hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a%0a%0a
-time=1177682871
+text=!Übersetzung von Ovid's Metamorphosen auf Zürichdeutsch%0a%0a\\%0a%0ahttp://www.pro-zurituutsch.ch/uploads/Texte/Speaker.jpg Attach:Metamorfoose.mp3%0a%0a%0a%25center%25"T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji\\%0a%25center%25Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe\\%0a%25center%25ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang\\%0a%25center%25hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a%0a%0a
+time=1773781192
+author:1773781192=
+diff:1773781192:1177682871:=1,3c1,5%0a%3c !Übersetzung von Ovid's Metamorphosen auf Zürichdeutsch%0a%3c %0a%3c \\%0a---%0a> [--Page Title: Übersetzung von Ovid's Metamorphosen auf Zürichdeutsch, Muster zum Herunterladen für MP3 Player, IPod. Zurituutsch, Züritüütsch, Züridütsch, Zürich–Deutsch ist ein Schweizer Dialekt im Alemannischen Sprachraum. --],\\%0a> [--URL http//www.pro–zurituutsch.ch/PodCast/Metamorfoose + http//www.pro–zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3--],\\%0a> [--Bread Crumb Line: Der integrale Text ist zur Zeit vergriffen.--]\\%0a> [--DESCRIPTION Geschichten, Gedichte, Essays, Glossen, Streitgespräche und Übersetzungen auf Zürich–Deutsch. Zürichdeutsch, Zurituutsch, Züritüütsch, Züridütsch ist ein Schweizer Dialekt im Alemannischen Sprachraum.--],%0a> %0a
+host:1773781192=193.5.238.21
 author:1177682871=fwyss
 diff:1177682871:1177682703:=15a16,22%0a> %0a> %25center%25Myr gànd em Schuëler es ountruuglichs Maass aa, wiëviel èr teurf trinke:\\%0a> %25center%25s' sélled de Gàischt ound de Fouëss – ihmm ire Diënscht na versèè.\\%0a> %25center%25Ganz psounders huëti me sych vor me Wortwàchsel. ouhfpoutscht vom Wy, ound\\%0a> %25center%25maasslos lockerer Hand, – zwààg fur en rouppige Kampf.\\%0a> %25center%25Oumchoo vom Souhffe vom ouhftischte Wy isch de Kentaur bim Brouthrawb.\\%0a> %25center%25bésser zoum Fàschttisch mit Wy – passt doch en gféllige Flirt.%0a
 host:1177682871=83.77.203.71

@@ -4,12 +4,42 @@ author=
 charset=ISO-8859-1
 csum=
 ctime=1773507180
-host=193.5.238.21
+host=193.5.239.53
 name=Stiftung.Statuten
-rev=9
+rev=19
 targets=
-text=Attach:Logo1%0a%0a!Stiftung PRO ZURITUUTSCH%0a%0a\%0a %0a!!Statuten%0a%0aDie Stiftung bezweckt die Unterstützung und Förderung literarischer Produktion (eigenständige Werke und Übersetzungen) im Züricher Dialekt. Insbesondere wird die vom Stifter bevorzugte Schreibweise "Zurituutsch" gefördert. Die Förderung kann in verschiedenster Art erfolgen.%0a%0aDurch die Publikation von Dialekttexten soll das "Zurituutsch" der Öffentlichkeit bekannt gemacht werden.%0a%0aSofern keine Texte in der Form des vom Stifter bevorzugten "Zurituutsch" vorliegen, kann die Stiftung auch Autoren und Übersetzer unterstützen und fördern, die Texte in einer anderen Schreibweise und/oder in einem anderen Deutschschweizer Dialekt vorlegen.%0a%0aViele Texte sind im PodCast zu hören, lesen und herunterzuladen. Der PodCast ist open source.%0a%0aAllerhand Texte von Felix Wyss sind in Druckformat im Archiv für Mundartbücher, Elgg gelagert. Kontaktadressen: Dr.Jürg Bleiker, Wannenfeldstr.9, 8005 Frauenfeld oder Thomas Ziegler, Bergstr. 17, 8353 Elgg, Tel.: 052 364 12 51. %0a%0a\\%0a%0a----%0a%0a\%0a %0a!!Stiftungsrat%0a%0aBarbara Wyss Wagnière, Präsidentin%0a%0aHannes Wyss, Stiftungsrat%0a%0aSebastian Wyss, Stiftungsrat%0a%0a
-time=1773519557
+text=!Stiftung PRO ZURITUUTSCH%0a%0a\%0a %0a!!Statuten%0a%0aDie Stiftung bezweckt die Unterstützung und Förderung literarischer Produktion (eigenständige Werke und Übersetzungen) im Züricher Dialekt. Insbesondere wird die vom Stifter bevorzugte Schreibweise "Zurituutsch" gefördert. Die Förderung kann in verschiedenster Art erfolgen.%0a%0aDurch die Publikation von Dialekttexten soll das "Zurituutsch" der Öffentlichkeit bekannt gemacht werden.%0a%0aSofern keine Texte in der Form des vom Stifter bevorzugten "Zurituutsch" vorliegen, kann die Stiftung auch Autoren und Übersetzer unterstützen und fördern, die Texte in einer anderen Schreibweise und/oder in einem anderen Deutschschweizer Dialekt vorlegen.%0a%0aViele Texte sind im PodCast zu hören, lesen und herunterzuladen. Der PodCast ist open source.%0a%0aAllerhand Texte von Felix Wyss sind in Druckformat im Archiv für Mundartbücher, Elgg gelagert. Kontaktadressen: Dr.Jürg Bleiker, Wannenfeldstr.9, 8005 Frauenfeld oder Thomas Ziegler, Bergstr. 17, 8353 Elgg, Tel.: 052 364 12 51. %0a%0a\\%0a%0a----%0a%0a\%0a %0a!!Stiftungsrat%0a%0aBarbara Wyss Wagnière, Präsidentin\\%0aHannes Wyss, Stiftungsrat\\%0aSebastian Wyss, Stiftungsrat\\%0a%0a
+time=1773849508
+author:1773849508=
+diff:1773849508:1773844189:=0a1,2%0a> %25width=100px%25 Attach:Logo.jpeg%0a> %0a
+host:1773849508=193.5.239.53
+author:1773844189=
+diff:1773844189:1773844111:=1c1%0a%3c %25width=100px%25 Attach:Logo.jpeg%0a---%0a> %25align right%25 %25width=100px%25 Attach:Logo.jpeg%0a
+host:1773844189=193.5.239.53
+author:1773844111=
+diff:1773844111:1773844026:=1c1%0a%3c %25align right%25 %25width=100px%25 Attach:Logo.jpeg%0a---%0a> %25width=100px%25 Attach:Logo.jpeg%0a
+host:1773844111=193.5.239.53
+author:1773844026=
+diff:1773844026:1773829704:=1,2d0%0a%3c %25width=100px%25 Attach:Logo.jpeg%0a%3c %0a
+host:1773844026=193.5.239.53
+author:1773829704=
+diff:1773829704:1773829668:=25,27c25,27%0a%3c Barbara Wyss Wagnière, Präsidentin\\%0a%3c Hannes Wyss, Stiftungsrat\\%0a%3c Sebastian Wyss, Stiftungsrat\\%0a---%0a> Barbara Wyss Wagnière, Präsidentin\%0a> Hannes Wyss, Stiftungsrat\%0a> Sebastian Wyss, Stiftungsrat\%0a
+host:1773829704=193.5.239.53
+author:1773829668=
+diff:1773829668:1773829650:=27c27%0a%3c Sebastian Wyss, Stiftungsrat\%0a---%0a> Sebastian Wyss, Stiftungsrat%0a
+host:1773829668=193.5.239.53
+author:1773829650=
+diff:1773829650:1773782152:=0a1%0a> %0a25,26c26,29%0a%3c Barbara Wyss Wagnière, Präsidentin\%0a%3c Hannes Wyss, Stiftungsrat\%0a---%0a> Barbara Wyss Wagnière, Präsidentin%0a> %0a> Hannes Wyss, Stiftungsrat%0a> %0a
+host:1773829650=193.5.239.53
+author:1773782152=
+diff:1773782152:1773782139:=0a1%0a> Attach:Lowe.jpeg%0a
+host:1773782152=193.5.238.21
+author:1773782139=
+diff:1773782139:1773782128:=1c1%0a%3c Attach:Lowe.jpeg%0a---%0a> Attach:Logo.jpeg%0a
+host:1773782139=193.5.238.21
+author:1773782128=
+diff:1773782128:1773519557:=1c1%0a%3c Attach:Logo.jpeg%0a---%0a> Attach:Logo1%0a
+host:1773782128=193.5.238.21
 author:1773519557=
 diff:1773519557:1773519545:=1a2,5%0a> %0a> %25align=right%25 Attach:logo%0a> %0a> %0a
 host:1773519557=193.5.238.21

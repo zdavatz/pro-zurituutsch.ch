@@ -4,12 +4,45 @@ author=
 charset=ISO-8859-1
 csum=
 ctime=1163052941
-host=193.5.238.21
+host=193.5.239.53
 name=Texte.Metamorphoses
-rev=15
-targets=PodCast.Anleitung
-text=! Metamorphoses%0a%0aAttach:Speaker.jpg '''[[http://www.pro-zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3 | Metamorfoose]]''' ''[[PodCast/Anleitung]]''%0a%0aAttach:arcimboldo.jpg%0a%0a%25center%25"T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji\\%0a%25center%25Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe\\%0a%25center%25ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang\\%0a%25center%25hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a%0a%0a%0a
-time=1773680624
+rev=26
+targets=PodCast.Metamorfoose,PodCast.Anleitung
+text=! Metamorphoses%0a%0aAttach:Speaker.jpg '''[[PodCast/Metamorfoose | Metamorfoose]]'''\\%0a''[[PodCast/Anleitung  | Anleitung Tonbeispiele]]''%0a%0a||border=0 %0a||%25width=200px%25 Attach:arcimboldo.jpg|| ||T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji[[%3c%3c]]Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe[[%3c%3c]]ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang[[%3c%3c]]hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb.||%0a%0a
+time=1773838170
+author:1773838170=
+diff:1773838170:1773838158:=3,4c3%0a%3c Attach:Speaker.jpg '''[[PodCast/Metamorfoose | Metamorfoose]]'''\\%0a%3c ''[[PodCast/Anleitung  | Anleitung Tonbeispiele]]''%0a---%0a> Attach:Speaker.jpg '''[[PodCast/Metamorfoose | Metamorfoose]]'''\\''[[PodCast/Anleitung  | Anleitung Tonbeispiele]]''%0a
+host:1773838170=193.5.239.53
+author:1773838158=
+diff:1773838158:1773838129:=3c3%0a%3c Attach:Speaker.jpg '''[[PodCast/Metamorfoose | Metamorfoose]]'''\\''[[PodCast/Anleitung  | Anleitung Tonbeispiele]]''%0a---%0a> Attach:Speaker.jpg '''[[PodCast/Metamorfoose | Metamorfoose]]''' ''[[PodCast/Anleitung  | Anleitung Tonbeispiele]]''%0a
+host:1773838158=193.5.239.53
+author:1773838129=
+diff:1773838129:1773838103:=6,7c6,13%0a%3c ||%25width=200px%25 Attach:arcimboldo.jpg|| ||T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji[[%3c%3c]]Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe[[%3c%3c]]ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang[[%3c%3c]]hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb.||%0a%3c %0a---%0a> ||%25width=200px%25 Attach:arcimboldo.jpg|| ||"T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji[[%3c%3c]]Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe[[%3c%3c]]ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang[[%3c%3c]]hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."||%0a> %0a> %25width=200px%25 Attach:arcimboldo.jpg %0a> %0a> "T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji\\%0a> Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe\\%0a> ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang\\%0a> hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a\ No newline at end of file%0a
+host:1773838129=193.5.239.53
+author:1773838103=
+diff:1773838103:1773837228:=4,6d3%0a%3c %0a%3c ||border=0 %0a%3c ||%25width=200px%25 Attach:arcimboldo.jpg|| ||"T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji[[%3c%3c]]Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe[[%3c%3c]]ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang[[%3c%3c]]hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."||%0a
+host:1773838103=193.5.239.53
+author:1773837228=
+diff:1773837228:1773837057:=5c5%0a%3c %25width=200px%25 Attach:arcimboldo.jpg %0a---%0a> Attach:arcimboldo.jpg width=200Px%0a
+host:1773837228=193.5.239.53
+author:1773837057=
+diff:1773837057:1773829520:=5c5%0a%3c Attach:arcimboldo.jpg width=200Px%0a---%0a> Attach:arcimboldo.jpg%0a
+host:1773837057=193.5.239.53
+author:1773829520=
+diff:1773829520:1773781233:=3c3%0a%3c Attach:Speaker.jpg '''[[PodCast/Metamorfoose | Metamorfoose]]''' ''[[PodCast/Anleitung  | Anleitung Tonbeispiele]]''%0a---%0a> Attach:Speaker.jpg '''[[PodCast/Metamorfoose | Metamorfoose]]''' ''[[PodCast/Anleitung]]''%0a
+host:1773829520=193.5.239.53
+author:1773781233=
+diff:1773781233:1773780954:=3c3%0a%3c Attach:Speaker.jpg '''[[PodCast/Metamorfoose | Metamorfoose]]''' ''[[PodCast/Anleitung]]''%0a---%0a> Attach:Speaker.jpg '''[[http://www.pro-zurituutsch.ch/uploads/PodCast/Metamorfoose.mp3 | Metamorfoose]]''' ''[[PodCast/Anleitung]]''%0a
+host:1773781233=193.5.238.21
+author:1773780954=
+diff:1773780954:1773780918:=10c10,15%0a%3c hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a\ No newline at end of file%0a---%0a> hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a> %0a> %0a> %0a> ||border=0 %0a> ||Attach:arcimboldo.jpg|| ||[++T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji \ Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe++]||%0a\ No newline at end of file%0a
+host:1773780954=193.5.238.21
+author:1773780918=
+diff:1773780918:1773780882:=7,10c7,10%0a%3c "T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji\\%0a%3c Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe\\%0a%3c ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang\\%0a%3c hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a---%0a> %25center%25"T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji\\%0a> %25center%25Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe\\%0a> %25center%25ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang\\%0a> %25center%25hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."\\%0a
+host:1773780918=193.5.238.21
+author:1773780882=
+diff:1773780882:1773680624:=14,15d13%0a%3c ||border=0 %0a%3c ||Attach:arcimboldo.jpg|| ||[++T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji \ Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe++]||%0a\ No newline at end of file%0a
+host:1773780882=193.5.238.21
 author:1773680624=
 diff:1773680624:1773571178:=
 host:1773680624=193.5.238.21
@@ -40,18 +73,3 @@ host:1163119092=203.112.11.83
 author:1163056683=fwyss
 diff:1163056683:1163056267:=3,4c3,4%0a%3c Attach:Speaker.jpg '''[[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]]''' ''[[Hilfe/AnleitungTonbeispiele]]''%0a%3c %0a---%0a> '''[[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]]''' ''[[Hilfe/AnleitungTonbeispiele]]''%0a> %0a
 host:1163056683=203.112.11.83
-author:1163056267=fwyss
-diff:1163056267:1163053049:=3,4c3,4%0a%3c '''[[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]]''' ''[[Hilfe/AnleitungTonbeispiele]]''%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/resources/speaker.jpg '''[[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]]''' ''[[Hilfe/AnleitungTonbeispiele]]''%0a> %0a
-host:1163056267=203.112.11.83
-author:1163053049=fwyss
-diff:1163053049:1163052973:=3,4c3,4%0a%3c http://www.pro-zurituutsch.ch/resources/speaker.jpg '''[[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]]''' ''[[Hilfe/AnleitungTonbeispiele]]''%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/resources/speaker.jpg '''[[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]]''' ''[[Hifle/AnleitungTonbeispiele]]''%0a> %0a
-host:1163053049=203.112.11.83
-author:1163052973=fwyss
-diff:1163052973:1163052961:=1,2c1,2%0a%3c ! Metamorphoses%0a%3c %0a---%0a> Metamorphoses%0a> %0a
-host:1163052973=203.112.11.83
-author:1163052961=fwyss
-diff:1163052961:1163052941:=3,4c3,4%0a%3c http://www.pro-zurituutsch.ch/resources/speaker.jpg '''[[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]]''' ''[[Hifle/AnleitungTonbeispiele]]''%0a%3c %0a---%0a> http://www.pro-zurituutsch.ch/resources/speaker.jpg '''[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]''' ''[[Hifle/AnleitungTonbeispiele]]''%0a> %0a
-host:1163052961=203.112.11.83
-author:1163052941=fwyss
-diff:1163052941:1163052941:=1,12d0%0a%3c Metamorphoses%0a%3c %0a%3c http://www.pro-zurituutsch.ch/resources/speaker.jpg '''[http://www.pro-zurituutsch.ch/resources/metamorfoose.m3u | Metamorfoose]''' ''[[Hifle/AnleitungTonbeispiele]]''%0a%3c %0a%3c Attach:arcimboldo.jpg%0a%3c %0a%3c  "T'Séél touët mi drànge z' verzèle vo Gstalte verwandlet i neuji%0a%3c  Wàse. Yr Geutter, bim Wèrch steund mer by - nàmli-ch Yr hànd dië sàbe%0a%3c  ggwandlet - ound làited mys ounounderbrochnige Liëd ganz vom Aafang%0a%3c  hèèr, vo de Wàlt irem Ouhrsproung bis jétz, bis ouf t' Zyte wo-n ych làb."%0a%3c %0a%3c  Zur Zeit vergriffen%0a\ No newline at end of file%0a
-host:1163052941=203.112.11.83

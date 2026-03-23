@@ -210,7 +210,7 @@ fieldset {
 
 .headerTitle {
   margin: 0;
-  padding: 0.8em 4mm 1.0em 4mm;
+  padding: 0.8em 4mm 0.75em 4mm;
   font-family: "Roboto Condensed", "Arial Nova Cond", "Arial Narrow", Arial, sans-serif;
   font-size: 42pt;
 }
